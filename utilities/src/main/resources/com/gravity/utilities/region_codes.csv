@@ -1,0 +1,4429 @@
+COUNTRY,REGION,REGION-DESC,REGION-CODE
+***,***,reserved/private,5383
+***,?,reserved/private/anon,23878
+?,?,unknown,0
+abw,?,aruba,572
+abw,no region,aruba,5385
+afg,?,afghanistan,786
+afg,bal,balkh,25136
+afg,bam,bamyan,28561
+afg,bdg,badghis,28559
+afg,bds,badakhshan,25137
+afg,bgl,baghlan,28560
+afg,day,daykundi,28562
+afg,fra,farah,28563
+afg,fyb,faryab,28564
+afg,gha,ghazni,28565
+afg,gho,ghor,28566
+afg,hel,helmand,28567
+afg,her,herat,25138
+afg,jow,jowzjan,28568
+afg,kab,kabul,25139
+afg,kan,kandahar,25140
+afg,kap,kapisa,28569
+afg,kdz,kunduz,28572
+afg,kho,khost,28570
+afg,knr,kunar,28571
+afg,lag,laghman,28573
+afg,log,logar,28574
+afg,nan,nangarhar,28575
+afg,nim,nimroz,28576
+afg,nur,nuristan,28577
+afg,pan,panjshayr,28580
+afg,par,parwan,28581
+afg,pia,paktiya,28579
+afg,pka,paktika,28578
+afg,sam,samangan,28582
+afg,sar,sar-e pul,28583
+afg,tak,takhar,28584
+afg,uru,uruzgan,28124
+afg,war,wardak,28585
+afg,zab,zabul,28586
+ago,?,angola,13703
+ago,bgo,bengo,28587
+ago,bgu,benguela,25142
+ago,bie,bie,28588
+ago,cab,cabinda,28589
+ago,ccu,cuando-cubango,28590
+ago,cnn,cunene,28592
+ago,cno,cuanza norte,28591
+ago,cus,cuanza sul,25143
+ago,hua,huambo,28593
+ago,hui,huila,28594
+ago,lno,lunda norte,28595
+ago,lsu,lunda sul,28596
+ago,lua,luanda,25144
+ago,mal,malange,28597
+ago,mox,moxico,28598
+ago,nam,namibe,28599
+ago,uig,uige,28600
+ago,zai,zaire,28601
+aia,?,anguilla,371
+aia,no region,anguilla,5387
+ala,?,aland islands,24307
+ala,no region,aland islands,24310
+alb,01,berat,28602
+alb,02,durres,25145
+alb,03,elbasan,25146
+alb,04,fier,28603
+alb,05,gjirokaster,28604
+alb,06,korce,28605
+alb,07,kukes,28606
+alb,08,lezhe,28607
+alb,09,diber,28608
+alb,10,shkoder,25147
+alb,11,tirane,25148
+alb,12,vlore,25149
+alb,?,albania,378
+and,02,canillo,28609
+and,03,encamp,28610
+and,04,la massana,28611
+and,05,ordino,28612
+and,06,sant julia de loria,28613
+and,07,andorra la vella,25150
+and,08,escaldes-engordany,28614
+and,?,andorra,521
+ant,?,netherlands antilles,362
+ant,no region,netherlands antilles,5390
+are,?,united arab emirates,356
+are,aj,ajman,25151
+are,az,abu zaby,25152
+are,du,dubayy,25153
+are,fu,al fujayrah,25154
+are,rk,ras al khaymah,25155
+are,sh,ash shariqah,25156
+are,uq,umm al qaywayn,25157
+arg,?,argentina,179
+arg,a,salta,9787
+arg,aol,aol,23817
+arg,b,buenos aires,9788
+arg,c,capital federal,12283
+arg,d,san luis,23873
+arg,e,entre rios,9812
+arg,f,la rioja,12284
+arg,g,santiago del estero,23871
+arg,h,chaco,9815
+arg,j,san juan,9817
+arg,k,catamarca,9818
+arg,l,la pampa,12663
+arg,m,mendoza,9819
+arg,n,misiones,15823
+arg,p,formosa,23872
+arg,q,neuquen,9820
+arg,r,rio negro,9822
+arg,s,santa fe,9826
+arg,t,tucuman,9832
+arg,u,chubut,9834
+arg,v,tierra del fuego,9836
+arg,w,corrientes,9838
+arg,x,cordoba,9839
+arg,y,jujuy,9844
+arg,z,santa cruz,15899
+arm,?,armenia,237
+arm,ag,aragacotn,28615
+arm,ar,ararat,28616
+arm,av,armavir,28617
+arm,er,yerevan,25158
+arm,gr,gegark unik,28618
+arm,kt,kotayk,28619
+arm,lo,lori,25159
+arm,sh,shirak,25160
+arm,su,syunik,25161
+arm,tv,tavus,28620
+arm,vd,vayoc jor,28621
+asi,?,asia (unknown country),4242
+asm,?,american samoa,230
+asm,no region,american samoa,11571
+ata,?,antarctica,15824
+ata,no region,antarctica,5415
+atf,?,french southern territories,5040
+atf,no region,french southern territories,30304
+atg,03,saint george,28622
+atg,04,saint john,25162
+atg,05,saint mary,28623
+atg,06,saint paul,28624
+atg,07,saint peter,28625
+atg,08,saint philip,28626
+atg,10,barbuda,28627
+atg,11,redonda,28628
+atg,?,antigua and barbuda,566
+aus,?,australia,203
+aus,act,australian capital territory,28385
+aus,aol,aol,5417
+aus,nsw,new south wales,28386
+aus,nt,northern territory,714
+aus,qld,queensland,28387
+aus,sa,south australia,689
+aus,tas,tasmania,28388
+aus,vic,victoria,28389
+aus,wa,western australia,703
+aut,1,burgenland,11578
+aut,2,karnten,11582
+aut,3,niederosterreich,11585
+aut,4,oberosterreich,11573
+aut,5,salzburg,11574
+aut,6,steiermark,11576
+aut,7,tirol,11581
+aut,8,vorarlberg,11577
+aut,9,wien,11587
+aut,?,austria,73
+aze,?,azerbaijan,215
+aze,abs,abseron,30318
+aze,aga,agstafa,30322
+aze,agc,agcabedi,30319
+aze,agm,agdam,30320
+aze,ags,agdas,30321
+aze,agu,agsu,30323
+aze,ast,astara,30324
+aze,ba,baki,25163
+aze,bab,babek,30325
+aze,bal,balaken,30326
+aze,bar,berde,30327
+aze,bey,beyleqan,30328
+aze,bil,bilesuvar,30329
+aze,cab,cebrayil,30330
+aze,cal,celilabab,30332
+aze,cul,culfa,30333
+aze,das,daskesen,30334
+aze,fuz,fuzuli,30335
+aze,ga,gence,25164
+aze,gad,gedebey,30336
+aze,gor,goranboy,30337
+aze,goy,goycay,30338
+aze,gyg,goygol,30339
+aze,hac,haciqabul,30340
+aze,imi,imisli,30341
+aze,ism,ismayilli,30342
+aze,kal,kelbecer,30343
+aze,kan,kengerli,30344
+aze,kur,kurdemir,30345
+aze,la,lankaran,28630
+aze,lac,lacin,30346
+aze,lan,lenkeran,30347
+aze,ler,lerik,30348
+aze,mas,masalli,30349
+aze,mi,mingacevir,28631
+aze,na,naftalan,28632
+aze,nef,neftcala,30350
+aze,nv,naxcivan,28629
+aze,ogu,oguz,30351
+aze,ord,ordubad,30352
+aze,qab,qebele,30353
+aze,qax,qax,30354
+aze,qaz,qazax,30355
+aze,qba,quba,30357
+aze,qbi,qubadli,30358
+aze,qob,qobustan,30356
+aze,qus,qusar,30359
+aze,sa,saki,28633
+aze,sab,sabirabad,30361
+aze,sad,sederek,30363
+aze,sah,sahbuz,30364
+aze,sak,seki,30365
+aze,sal,salyan,30366
+aze,sar,serur,30370
+aze,sat,saatli,30360
+aze,sbn,sabran,30362
+aze,siy,siyezen,30371
+aze,skr,semkir,30368
+aze,sm,sumqayit,25165
+aze,smi,samaxi,30367
+aze,smx,samux,30369
+aze,sr,sirvan,28634
+aze,sus,susa,30372
+aze,tar,terter,30373
+aze,tov,tovuz,30374
+aze,uca,ucar,30375
+aze,xa,xankendi,25166
+aze,xac,xacmaz,30376
+aze,xci,xocali,30378
+aze,xiz,xizi,30377
+aze,xvd,xocavend,30379
+aze,yar,yardimli,30380
+aze,ye,yevlax,28635
+aze,yev,yevlax,30381
+aze,zan,zengilan,30382
+aze,zaq,zaqatala,30383
+aze,zar,zardab,30331
+bdi,?,burundi,23766
+bdi,bb,bubanza,28636
+bdi,bl,bujumbura rural,28637
+bdi,bm,bujumbura mairie,25167
+bdi,br,bururi,28638
+bdi,ca,cankuzo,28639
+bdi,ci,cibitoke,28640
+bdi,gi,gitega,28641
+bdi,ki,kirundo,28644
+bdi,kr,karuzi,28642
+bdi,ky,kayanza,28643
+bdi,ma,makamba,28645
+bdi,mu,muramvya,28646
+bdi,mw,mwaro,28648
+bdi,my,muyinga,28647
+bdi,ng,ngozi,28649
+bdi,rt,rutana,28650
+bdi,ry,ruyigi,28651
+bel,?,belgium,219
+bel,bru,bruxelles-capitale,28295
+bel,van,antwerpen,11057
+bel,vbr,vlaams brabant,14480
+bel,vli,limburg,11071
+bel,vov,oost-vlaanderen,11054
+bel,vwv,west-vlaanderen,11058
+bel,wbr,brabant wallon,11081
+bel,wht,hainaut,11062
+bel,wlg,liege,11056
+bel,wlx,luxembourg,11060
+bel,wna,namur,11073
+ben,?,benin,2424
+ben,ak,atakora,28653
+ben,al,alibori,28652
+ben,aq,atlantique,28654
+ben,bo,borgou,25168
+ben,co,collines,28655
+ben,do,donga,28656
+ben,ko,kouffo,28657
+ben,li,littoral,25169
+ben,mo,mono,25170
+ben,ou,oueme,28658
+ben,pl,plateau,28659
+ben,zo,zou,28660
+bes,?,bonaire/sint eustatius/saba,25130
+bes,bo,bonaire,25171
+bes,sa,saba,28125
+bes,se,sint eustaius,28126
+bfa,01,boucle du mouhoun,28661
+bfa,02,cascades,28662
+bfa,03,centre,25172
+bfa,04,centre-est,28663
+bfa,05,centre-nord,28664
+bfa,06,centre-ouest,28665
+bfa,07,centre-sud,28666
+bfa,08,est,28667
+bfa,09,hauts-bassins,25173
+bfa,10,nord,28668
+bfa,11,plateau-central,28669
+bfa,12,sahel,28670
+bfa,13,sud-ouest,28671
+bfa,?,burkina faso,577
+bgd,?,bangladesh,2704
+bgd,a,barisal,28672
+bgd,b,chittagong,25174
+bgd,c,dhaka,25175
+bgd,d,khulna,25176
+bgd,e,rajshahi,25177
+bgd,f,rangpur,25178
+bgd,g,sylhet,25179
+bgr,01,blagoevgrad,28283
+bgr,02,burgas,15826
+bgr,03,varna,11595
+bgr,04,veliko tarnovo,28284
+bgr,05,vidin,28285
+bgr,06,vratsa,28286
+bgr,07,gabrovo,28287
+bgr,08,dobrich,28288
+bgr,09,kardzhali,28289
+bgr,10,kyustendil,28189
+bgr,11,lovech,28190
+bgr,12,montana,28191
+bgr,13,pazardzhik,28192
+bgr,14,pernik,28193
+bgr,15,pleven,28194
+bgr,16,plovdiv,28195
+bgr,17,razgrad,28196
+bgr,18,ruse,28197
+bgr,19,silistra,28199
+bgr,20,sliven,28200
+bgr,21,smolyan,28201
+bgr,22,sofia-grad,28203
+bgr,23,sofia,28202
+bgr,24,stara zagora,28204
+bgr,25,targovishte,28205
+bgr,26,haskovo,28188
+bgr,27,shumen,28198
+bgr,28,yambol,28206
+bgr,?,bulgaria,216
+bhr,13,al manamah,25180
+bhr,14,al janubiyah,28673
+bhr,15,al muharraq,28674
+bhr,16,al wusta,28675
+bhr,17,ash shamaliyah,28676
+bhr,?,bahrain,504
+bhs,?,bahamas,14319
+bhs,ak,acklins,30385
+bhs,bi,bimini,24925
+bhs,bp,black point,30387
+bhs,by,berry islands,30386
+bhs,ce,central eleuthera,28391
+bhs,ci,cat island,30388
+bhs,ck,crooked island and long cay,30390
+bhs,co,central abaco,28390
+bhs,cs,central andros,30389
+bhs,eg,east grand bahama,30391
+bhs,ex,exuma,30392
+bhs,fp,freeport,11606
+bhs,gc,grand cay,30393
+bhs,hi,harbour island,24924
+bhs,ht,hope town,30394
+bhs,in,inagua,30395
+bhs,li,long island,30396
+bhs,mc,mangrove cay,30397
+bhs,mg,mayaguana,30398
+bhs,mi,moores island,30399
+bhs,ne,north eleuthera,30402
+bhs,no,north abaco,30400
+bhs,np,new providence,11607
+bhs,ns,north andros,30401
+bhs,rc,rum cay,30404
+bhs,ri,ragged island,30403
+bhs,sa,south andros,30407
+bhs,se,south eleuthera,30408
+bhs,so,south abaco,30406
+bhs,ss,san salvador,30405
+bhs,sw,spanish wells,30409
+bhs,wg,west grand bahama,30410
+bih,?,bosnia and herzegowina,355
+bih,bih,federacija bosna i hercegovina,6108
+bih,brc,brcko distrikt,28311
+bih,srp,republika srpska,11608
+blm,?,saint barthelemy,25126
+blm,no region,saint barthelemy,25125
+blr,?,belarus,290
+blr,br,brestskaja oblast',25181
+blr,hm,horad minsk,25182
+blr,ho,gomel'skaja oblast',25183
+blr,hr,grodnenskaja oblast',25184
+blr,ma,mogilevskaja oblast',25185
+blr,mi,minskaja oblast',25186
+blr,vi,vitebskaja oblast',25187
+blz,?,belize,801
+blz,bz,belize,25188
+blz,cy,cayo,28864
+blz,czl,corozal,25189
+blz,ow,orange walk,28865
+blz,sc,stann creek,28866
+blz,tol,toledo,28867
+bmu,?,bermuda,357
+bmu,no region,bermuda,6116
+bol,?,bolivia,177
+bol,b,el beni,24927
+bol,c,cochabamba,11610
+bol,h,chuquisaca,24928
+bol,l,la paz,11611
+bol,n,pando,24931
+bol,o,oruro,24930
+bol,p,potosi,24929
+bol,s,santa cruz,11612
+bol,t,tarija,23960
+bra,?,brazil,465
+bra,ac,acre,23779
+bra,al,alagoas,10118
+bra,am,amazonas,10119
+bra,aol,aol,23774
+bra,ap,amapa,23778
+bra,ba,bahia,10120
+bra,ce,ceara,10121
+bra,df,distrito federal,10122
+bra,es,espirito santo,10123
+bra,go,goias,10124
+bra,ma,maranhao,10125
+bra,mg,minas gerais,3985
+bra,ms,mato grosso do sul,23756
+bra,mt,mato grosso,10129
+bra,pa,para,10130
+bra,pb,paraiba,4980
+bra,pe,pernambuco,10131
+bra,pi,piaui,12888
+bra,pr,parana,2970
+bra,rj,rio de janeiro,3971
+bra,rn,rio grande do norte,10136
+bra,ro,rondonia,23780
+bra,rr,roraima,23782
+bra,rs,rio grande do sul,10137
+bra,sc,santa catarina,15904
+bra,se,sergipe,23777
+bra,sp,sao paulo,726
+bra,to,tocantins,23781
+brb,01,christ church,25190
+brb,02,saint andrew,28868
+brb,03,saint george,28869
+brb,04,saint james,25191
+brb,05,saint john,28870
+brb,06,saint joseph,28871
+brb,07,saint lucy,25192
+brb,08,saint michael,25193
+brb,09,saint peter,28872
+brb,10,saint philip,28873
+brb,11,saint thomas,28874
+brb,?,barbados,567
+brn,?,brunei darussalam,485
+brn,be,belait,25194
+brn,bm,brunei muara,25195
+brn,te,temburong,28875
+brn,tu,tutong,28876
+btn,11,paro,28877
+btn,12,chhukha,28878
+btn,13,haa,28879
+btn,14,samtse,28880
+btn,15,thimphu,25196
+btn,21,tsirang,28881
+btn,22,dagana,28882
+btn,23,punakha,28883
+btn,24,wangdue phodrang,28884
+btn,31,sarpang,28885
+btn,32,trongsa,28886
+btn,33,bumthang,28887
+btn,34,zhemgang,28888
+btn,41,trashigang,28889
+btn,42,monggar,28890
+btn,43,pemagatshel,28891
+btn,44,lhuentse,28892
+btn,45,samdrup jongkha,28893
+btn,?,bhutan,491
+btn,ga,gasa,28894
+btn,ty,trashi yangtse,28895
+bvt,?,bouvet island,23752
+bvt,no region,bouvet island,6151
+bwa,?,botswana,495
+bwa,ce,central,25197
+bwa,gh,ghanzi,28896
+bwa,kg,kgalagadi,28897
+bwa,kl,kgatleng,28898
+bwa,kw,kweneng,28899
+bwa,ne,north-east,25198
+bwa,nw,north-west,25199
+bwa,se,south-east,25200
+bwa,so,southern,28900
+caf,?,central african republic,2621
+caf,ac,ouham,28912
+caf,bb,bamingui-bangoran,28901
+caf,bgf,bangui,25201
+caf,bk,basse-kotto,28902
+caf,hk,haute-kotto,28903
+caf,hm,haut-mbomou,28904
+caf,hs,haute-sangha,28905
+caf,kb,gribingui,28915
+caf,kg,kemo-gribingui,28906
+caf,lb,lobaye,28907
+caf,mb,mbomou,28908
+caf,mp,ombella-mpoko,28910
+caf,nm,nana-mambere,28909
+caf,op,ouham-pende,28913
+caf,se,sangha,28916
+caf,uk,ouaka,28911
+caf,vk,vakaga,28914
+can,?,canada,74
+can,ab,alberta,55
+can,aol,aol,23773
+can,bc,british columbia,56
+can,mb,manitoba,57
+can,nb,new brunswick,58
+can,nl,newfoundland and labrador,59
+can,ns,nova scotia,62
+can,nt,northwest territories,61
+can,nu,nunavut,60
+can,on,ontario,63
+can,pe,prince edward island,64
+can,qc,quebec,65
+can,sk,saskatchewan,66
+can,yt,yukon territory,67
+cck,?,cocos (keeling) islands,186
+che,?,switzerland,81
+che,ag,aargau,10151
+che,ai,appenzell inner-rhoden,10157
+che,ar,appenzell ausser-rhoden,10158
+che,be,bern,10159
+che,bl,basel-landschaft,10162
+che,bs,basel-stadt,10163
+che,fr,fribourg,10164
+che,ge,geneve,10165
+che,gl,glarus,10168
+che,gr,graubunden,10169
+che,ju,jura,19579
+che,lu,luzern,10170
+che,ne,neuchatel,10173
+che,nw,nidwalden,14642
+che,ow,obwalden,15933
+che,sg,sankt gallen,3761
+che,sh,schaffhausen,10176
+che,so,solothurn,10177
+che,sz,schwyz,19667
+che,tg,thurgau,10178
+che,ti,ticino,10180
+che,ur,uri,15948
+che,vd,vaud,10181
+che,vs,valais,15836
+che,zg,zug,10187
+che,zh,zurich,10188
+chl,?,chile,373
+chl,ai,aisen del gen ibanez del camp,24959
+chl,an,antofagasta,14343
+chl,ap,arica y parinacota,28127
+chl,ar,araucania,11632
+chl,at,atacama,24816
+chl,bi,bio-bio,11619
+chl,co,coquimbo,11622
+chl,li,libertador gen b o'higgins,12353
+chl,ll,los lagos,11625
+chl,lr,los rios,28128
+chl,ma,magallanes,11627
+chl,ml,maule,11620
+chl,rm,region metro de santiago,2998
+chl,ta,tarapaca,11621
+chl,vs,valparaiso,11623
+chn,11,beijing,10664
+chn,12,tianjin,10666
+chn,13,hebei,10667
+chn,14,shanxi,10673
+chn,15,nei mongol,15967
+chn,21,liaoning,10680
+chn,22,jilin,10687
+chn,23,heilongjiang,10692
+chn,31,shanghai,10698
+chn,32,jiangsu,10699
+chn,33,zhejiang,10705
+chn,34,anhui,10712
+chn,35,fujian,10717
+chn,36,jiangxi,10724
+chn,37,shandong,10729
+chn,41,henan,10741
+chn,42,hubei,10753
+chn,43,hunan,10762
+chn,44,guangdong,10770
+chn,45,guangxi,10784
+chn,46,hainan,10788
+chn,50,chongqing,10789
+chn,51,sichuan,10790
+chn,52,guizhou,12391
+chn,53,yunnan,10794
+chn,54,xizang,10796
+chn,61,shaanxi,10797
+chn,62,gansu,10801
+chn,63,qinghai,10804
+chn,64,ningxia,10805
+chn,65,xinjiang,10806
+chn,?,china,388
+chn,aol,aol,23818
+civ,01,lagunes,25202
+civ,02,haut-sassandra,25203
+civ,03,savanes,28917
+civ,04,vallee du bandama,28918
+civ,05,moyen-comoe,28919
+civ,06,dix-huit montagnes,28920
+civ,07,lacs,28921
+civ,08,zanzan,28922
+civ,09,bas-sassandra,28923
+civ,10,denguele,28924
+civ,11,nzi-comoe,28925
+civ,12,marahoue,28926
+civ,13,sud-comoe,28927
+civ,14,worodougou,28928
+civ,15,sud-bandama,28929
+civ,16,agnebi,28930
+civ,17,bafing,28931
+civ,18,fromager,28932
+civ,19,moyen-cavally,25204
+civ,?,cote d ivoire,506
+cmr,?,cameroon,2365
+cmr,ad,adamaoua,25205
+cmr,ce,centre,25206
+cmr,en,extreme-nord,25207
+cmr,es,est,25208
+cmr,lt,littoral,25209
+cmr,no,nord,25210
+cmr,nw,nord-ouest,25211
+cmr,ou,ouest,25212
+cmr,su,sud,25213
+cmr,sw,sud-ouest,25214
+cod,?,congo - the democratic rep of,5074
+cod,bc,bas-congo,25215
+cod,bn,bandundu,28933
+cod,eq,equateur,28934
+cod,ka,katanga,28935
+cod,ke,kasai-oriental,25216
+cod,kn,kinshasa,25217
+cod,kw,kasai-occidental,28936
+cod,ma,maniema,28937
+cod,nk,nord-kivu,25218
+cod,or,orientale,28938
+cod,sk,sud-kivu,25219
+cog,02,lekoumou,28939
+cog,05,kouilou,25220
+cog,07,likouala,28940
+cog,08,cuvette,28941
+cog,09,niari,28942
+cog,11,bouenza,28943
+cog,12,pool,28944
+cog,13,sangha,28945
+cog,14,plateaux,28946
+cog,15,cuvette-ouest,28947
+cog,?,congo,14323
+cog,bzv,brazzaville,25221
+cok,?,cook islands,562
+cok,no region,cook islands,24791
+col,?,colombia,178
+col,ama,amazonea,24918
+col,ant,antioquia,11641
+col,ara,arauca,24917
+col,atl,atlantico,11637
+col,bol,bolivar,11640
+col,boy,boyaca,24910
+col,cal,caldas,6435
+col,caq,caqueta,24914
+col,cas,casanare,24316
+col,cau,cauca,24911
+col,ces,cesar,24912
+col,cho,choco,24916
+col,cor,cordoba,23889
+col,cun,cundimarca,19762
+col,dc,distrito capital,11638
+col,gua,guainia,24960
+col,guv,guaviare,24961
+col,hui,huila,11644
+col,lag,la guajira,24913
+col,mag,magdalena,23861
+col,met,meta,23765
+col,nar,narino,11645
+col,nsa,norte de santander,23959
+col,put,putumayo,19764
+col,qui,quindio,24627
+col,ris,risaralda,11646
+col,san,santander,11639
+col,sap,san andres,24915
+col,suc,sucre,23908
+col,tol,tolima,14647
+col,vac,valle del cauca,11647
+col,vau,vaupes,24962
+col,vid,vichada,24963
+com,?,comoros,181
+com,a,anjouan,29850
+com,g,grande comore ngazidja,23829
+cpv,?,cape verde,2664
+cpv,b,ilhas de barlavento,28948
+cpv,s,ilhas de sotavento,25223
+cri,?,costa rica,529
+cri,a,alajuela,25224
+cri,c,cartago,25225
+cri,g,guanacaste,25226
+cri,h,heredia,25227
+cri,l,limon,25228
+cri,p,puntarenas,25229
+cri,sj,san jose,25230
+cub,01,pinar del rio,25232
+cub,02,la habana,28949
+cub,03,ciudad de la habana,25233
+cub,04,matanzas,25234
+cub,05,villa clara,28950
+cub,06,cienfuegos,28951
+cub,07,sancti spiritus,28952
+cub,08,ciego de avila,25235
+cub,09,camaguey,25236
+cub,10,las tunas,28953
+cub,11,holguin,25237
+cub,12,granma,25238
+cub,13,santiago de cuba,25239
+cub,14,guantanamo,25240
+cub,99,isla de la juventud,28954
+cub,?,cuba,575
+cuw,?,curacao,25128
+cuw,no region,curacao,25127
+cxr,?,christmas island,182
+cxr,no region,christmas island,30302
+cym,?,cayman islands,358
+cym,no region,cayman islands,6459
+cyp,01,lefkosia,24964
+cyp,02,lemesos,12397
+cyp,03,larnaca,15840
+cyp,04,ammochostos magusa,23820
+cyp,05,paphos,15841
+cyp,06,keryneia,24317
+cyp,?,cyprus,229
+cze,?,czech republic,221
+cze,jc,jihocesky kraj,25006
+cze,jm,jihomoravsky kraj,25007
+cze,ka,karlovarsky kraj,25008
+cze,kr,kralovehradecky kraj,25009
+cze,li,liberecky kraj,25010
+cze,mo,moravskoslezsky kraj,25011
+cze,ol,olomoucky kraj,25012
+cze,pa,pardubicky kraj,25013
+cze,pl,plzensky kraj,25014
+cze,pr,praha,25015
+cze,st,stredocesky kraj,25016
+cze,us,ustecky kraj,25017
+cze,vy,vysocina,25018
+cze,zl,zlinsky kraj,25019
+deu,?,germany,70
+deu,aol,aol,20332
+deu,be,berlin,10383
+deu,br,brandenburg,10385
+deu,bw,baden-wurttemberg,719
+deu,by,bayern,10436
+deu,hb,bremen,10477
+deu,he,hessen,10478
+deu,hh,hamburg,10502
+deu,mv,mecklenburg-vorpommern,10503
+deu,ni,niedersachsen,10508
+deu,nw,nordrhein-westfalen,10528
+deu,rp,rheinland-pfalz,10591
+deu,sh,schleswig-holstein,10608
+deu,sl,saarland,10618
+deu,sn,sachsen,10621
+deu,st,sachsen-anhalt,10631
+deu,th,thuringen,10633
+dji,?,djibouti,507
+dji,ar,arta,28955
+dji,as,ali sabieh,28956
+dji,di,dikhil,28957
+dji,dj,djibouti,25242
+dji,ob,obock,28958
+dji,ta,tadjourah,28959
+dma,02,saint andrew,28960
+dma,03,saint david,28961
+dma,04,saint george,25243
+dma,05,saint john,28962
+dma,06,saint joseph,28963
+dma,07,saint luke,28964
+dma,08,saint mark,28965
+dma,09,saint patrick,28966
+dma,10,saint paul,28967
+dma,11,saint peter,28968
+dma,?,dominica,574
+dnk,81,nordjylland,25020
+dnk,82,midtjylland,25021
+dnk,83,syddanmark,25022
+dnk,84,hovedstaden,25023
+dnk,85,sjaelland,25024
+dnk,?,denmark,82
+dom,01,distrito nacional,30280
+dom,02,saint andrew,29857
+dom,03,bahoruco,30272
+dom,04,barahona,30281
+dom,05,dajabon,29862
+dom,06,duarte,29869
+dom,07,la estrelleta,29874
+dom,08,el seybo,29885
+dom,09,espaillat,25244
+dom,10,independencia,30282
+dom,11,la altagracia,29871
+dom,12,la romana,25245
+dom,13,la vega,25246
+dom,14,maria trinidad sanchez,25247
+dom,15,monte cristi,30283
+dom,16,pedernales,30284
+dom,17,peravia,30285
+dom,18,puerto plata,25248
+dom,19,salcedo,29875
+dom,20,samana,30286
+dom,21,san cristobal,29913
+dom,22,san juan,30288
+dom,23,san pedro de macoris,29878
+dom,24,sanchez ramirez,29877
+dom,25,santiago,25249
+dom,26,santiago rodriguez,30289
+dom,27,valverde,29881
+dom,28,monsenor nouel,25250
+dom,29,monte plata,29912
+dom,30,hato mayor,29911
+dom,31,san jose de ocoa,30287
+dom,32,santo domingo,25251
+dom,?,dominican republic,569
+dza,01,adrar,25252
+dza,02,chlef,25253
+dza,03,laghouat,25254
+dza,04,oum el bouaghi,28969
+dza,05,batna,25255
+dza,06,bejaia,25256
+dza,07,biskra,25257
+dza,08,bechar,25258
+dza,09,blida,25259
+dza,10,bouira,25260
+dza,11,tamanghasset,28970
+dza,12,tebessa,25261
+dza,13,tlemcen,25262
+dza,14,tiaret,25263
+dza,15,tizi-ouzou,25264
+dza,16,alger,25265
+dza,17,djelfa,25266
+dza,18,jijel,25267
+dza,19,setif,25268
+dza,20,saida,25269
+dza,21,skikda,25270
+dza,22,sidi-bel-abbes,25271
+dza,23,annaba,25272
+dza,24,guelma,25273
+dza,25,constantine,25274
+dza,26,medea,25275
+dza,27,mostaganem,25276
+dza,28,msila,28971
+dza,29,mascara,25277
+dza,30,ouargla,25278
+dza,31,oran,25279
+dza,32,el-bayadh,25280
+dza,33,illizi,28972
+dza,34,bordj-bou-arreridj,25281
+dza,35,boumerdes,28973
+dza,36,el tarf,28974
+dza,37,tindouf,25282
+dza,38,tissemsilt,28975
+dza,39,el oued,28976
+dza,40,khenchela,28977
+dza,41,souk-ahras,25283
+dza,42,tipaza,28978
+dza,43,mila,25284
+dza,44,ain defla,28979
+dza,45,naama,25285
+dza,46,ain-temouchent,25286
+dza,47,ghardaia,25287
+dza,48,relizane,25288
+dza,?,algeria,505
+ecu,?,ecuador,528
+ecu,a,azuay,11725
+ecu,b,bolivar,24763
+ecu,c,carchi,24941
+ecu,d,orellana,28129
+ecu,e,esmeraldas,24765
+ecu,f,canar,24936
+ecu,g,guayas,11726
+ecu,h,chimborazo,24934
+ecu,i,imbabura,24943
+ecu,l,loja,11727
+ecu,m,manabi,11728
+ecu,n,napo,24942
+ecu,o,el oro,23841
+ecu,p,pichincha,11730
+ecu,r,los rios,24935
+ecu,s,morona-santiago,24939
+ecu,sd,santo domingo de los tsachila,28130
+ecu,se,santa elena,28131
+ecu,t,tungurahua,11724
+ecu,u,sucumbios,24938
+ecu,w,galapagos,24311
+ecu,x,cotopaxi,24937
+ecu,y,pastaza,24764
+ecu,z,zamora-chinchipe,24940
+egy,?,egypt,185
+egy,alx,al iskandariyah,25300
+egy,asn,aswan,25301
+egy,ast,asyut,25302
+egy,ba,al bahr al ahmar,25290
+egy,bh,al buhayrah,25291
+egy,bns,bani suwayf,28980
+egy,c,al qahirah,25289
+egy,dk,ad daqahliyah,25292
+egy,dt,dumyat,25293
+egy,fym,al fayyum,25303
+egy,gh,al gharbiyah,25294
+egy,gz,al jizah,25295
+egy,hu,hulwan,28981
+egy,is,al ismailiyah,25296
+egy,js,janub sina,28982
+egy,kb,al qalyubiyah,25297
+egy,kfs,kafr ash shaykh,25304
+egy,kn,qina,25298
+egy,lx,al-uqsur,25299
+egy,mn,al minya,28983
+egy,mnf,al minufiyah,28984
+egy,mt,matruh,28985
+egy,pts,bur said,25305
+egy,shg,suhaj,25306
+egy,shr,ash sharqiyah,25307
+egy,sin,shamal sina,25308
+egy,su,as sadis min uktubar,28986
+egy,suz,as suways,25309
+egy,wad,al wadi al jadid,28987
+eri,?,eritrea,21105
+eri,an,ansaba,28993
+eri,as,asmara,23816
+eri,dk,janubi al bahri al ahmar,28994
+eri,du,al janubi,28995
+eri,gb,qash-barkah,28996
+eri,ma,al awsat,25310
+eri,sk,shimali al bahri al ahmar,28997
+esh,?,western sahara,24612
+esh,no region,western sahara,24613
+esp,?,spain,205
+esp,a,alicante,11416
+esp,ab,albacete,24001
+esp,al,almeria,11452
+esp,av,avila,24002
+esp,b,barcelona,11419
+esp,ba,badajoz,24016
+esp,bi,vizcaya,11421
+esp,bu,burgos,24000
+esp,c,la coruna,19859
+esp,ca,cadiz,11415
+esp,cc,caceres,24015
+esp,ce,ceuta,23757
+esp,co,cordoba,23994
+esp,cr,ciudad real,24013
+esp,cs,castellon,24014
+esp,cu,cuenca,24012
+esp,gc,las palmas,24010
+esp,gi,girona,28397
+esp,gr,granada,23997
+esp,gu,guadalajara,24011
+esp,h,huelva,23999
+esp,hu,huesca,23883
+esp,j,jaen,23995
+esp,l,lerida,24008
+esp,le,leon,24009
+esp,lo,la rioja,11443
+esp,lu,lugo,24007
+esp,m,madrid,11413
+esp,ma,malaga,23996
+esp,ml,melilla,19871
+esp,mu,murcia,11425
+esp,na,navarra,11451
+esp,o,asturias,11432
+esp,or,orense,24006
+esp,p,palencia,24005
+esp,pm,islas baleares,12418
+esp,po,pontevedra,11467
+esp,s,cantabria,11460
+esp,sa,salamanca,11456
+esp,se,sevilla,23998
+esp,sg,segovia,14838
+esp,so,soria,24004
+esp,ss,guipuzcoa,11458
+esp,t,tarragona,11463
+esp,te,teruel,23904
+esp,tf,santa cruz de tenerife,11457
+esp,to,toledo,11464
+esp,v,valencia,11426
+esp,va,valladolid,11466
+esp,vi,alava,11468
+esp,z,zaragoza,11469
+esp,za,zamora,24003
+est,37,harjumaa,25311
+est,39,hiiumaa,25312
+est,44,ida-virumaa,25313
+est,49,jogevamaa,25314
+est,51,jarvamaa,25315
+est,57,laanemaa,25316
+est,59,laane-virumaa,25317
+est,65,polvamaa,25318
+est,67,parnumaa,25319
+est,70,raplamaa,25320
+est,74,saaremaa,25321
+est,78,tartumaa,25322
+est,82,valgamaa,25323
+est,84,viljandimaa,25324
+est,86,vorumaa,25325
+est,?,estonia,218
+eth,?,ethiopia,601
+eth,aa,addis ababa,25327
+eth,af,afar,28999
+eth,am,amara,29000
+eth,be,benshangul-gumaz,29001
+eth,dd,dire dawa,28998
+eth,ga,gambela peoples,29002
+eth,ha,harari people,29003
+eth,or,oromia,25328
+eth,sn,southern nations,29006
+eth,so,somali,29004
+eth,ti,tigrai,29005
+eur,?,europe (unknown country),4241
+eur,aol,aol,9245
+fin,02,south karelia,28313
+fin,03,southern ostrobothnia,28322
+fin,04,southern savonia,28318
+fin,05,kainuu,28330
+fin,06,tavastia proper,28314
+fin,07,central ostrobothnia,28323
+fin,08,central finland,28324
+fin,09,kymenlaakso,28316
+fin,10,lapland,28321
+fin,11,pirkanmaa,28325
+fin,12,ostrobothnia,28326
+fin,13,north karelia,28319
+fin,14,northern ostrobothnia,28327
+fin,15,northern savonia,28320
+fin,16,paijanne tavastia,28317
+fin,17,satakunta,28328
+fin,18,uusimaa,28312
+fin,19,finland proper,28329
+fin,?,finland,235
+fji,?,fiji,544
+fji,c,central,25329
+fji,e,eastern,29007
+fji,n,northern,29008
+fji,r,rotuma,29009
+fji,w,western,25330
+flk,?,falkland islands (malvinas),2761
+flk,no region,falkland islands (malvinas),30303
+fra,?,france,72
+fra,a,alsace,9846
+fra,aol,aol,20331
+fra,b,aquitaine,9848
+fra,c,auvergne,9855
+fra,d,bourgogne,9857
+fra,e,bretagne,9862
+fra,f,centre,9866
+fra,g,champagne-ardenne,9870
+fra,h,corse,9874
+fra,i,franche-comte,9876
+fra,j,ile-de-france,9878
+fra,k,languedoc-roussillon,9945
+fra,l,limousin,12436
+fra,m,lorraine,9948
+fra,n,midi-pyrenees,9951
+fra,o,nord-pas-de-calais,9955
+fra,p,basse-normandie,9961
+fra,q,haute-normandie,9964
+fra,r,pays de la loire,9967
+fra,s,picardie,9970
+fra,t,poitou-charentes,9974
+fra,u,provence-alpes-cote-d'azur,9976
+fra,v,rhone-alpes,9983
+fro,?,faroe islands,239
+fro,no region,faroe islands,15855
+fsm,?,micronesia - federated states o,340
+fsm,ksa,kosrae,29011
+fsm,pni,pohnpei,25331
+fsm,trk,chuuk,29010
+fsm,yap,yap,29012
+gab,01,estuaire,25332
+gab,02,haut-ogooue,29013
+gab,03,moyen-ogooue,25333
+gab,04,ngounie,29014
+gab,05,nyanga,29015
+gab,06,ogooue-ivindo,29016
+gab,07,ogooue-lolo,29017
+gab,08,ogooue-maritime,25334
+gab,09,woleu-ntem,29018
+gab,?,gabon,591
+gbr,?,united kingdom,69
+gbr,abd,aberdeenshire,25335
+gbr,abe,aberdeen city,25336
+gbr,agb,argyll and bute,25337
+gbr,agy,isle of anglesey,25338
+gbr,ans,angus,25339
+gbr,ant,antrim,25340
+gbr,aol,aol,23759
+gbr,ard,ards,25341
+gbr,arm,armagh,25342
+gbr,bas,bath and north east somerset,25343
+gbr,bbd,blackburn with darwen,25344
+gbr,bdf,bedfordshire,25345
+gbr,bdg,barking and dagenham,25346
+gbr,ben,brent,25347
+gbr,bex,bexley,25348
+gbr,bfs,belfast,25349
+gbr,bge,bridgend,25350
+gbr,bgw,blaenau gwent,25351
+gbr,bir,birmingham,25352
+gbr,bkm,buckinghamshire,25353
+gbr,bla,ballymena,25354
+gbr,bly,ballymoney,28406
+gbr,bmh,bournemouth,25355
+gbr,bnb,banbridge,25356
+gbr,bne,barnet,28402
+gbr,bnh,brighton and hove,25357
+gbr,bns,barnsley,25358
+gbr,bol,bolton,25359
+gbr,bpl,blackpool,25360
+gbr,brc,bracknell forest,25361
+gbr,brd,bradford,25362
+gbr,bry,bromley,25363
+gbr,bst,bristol,25364
+gbr,bur,bury,25365
+gbr,cam,cambridgeshire,25366
+gbr,cay,caerphilly,25367
+gbr,cbf,central bedfordshire,25368
+gbr,cgn,ceredigion,25369
+gbr,cgv,craigavon,25370
+gbr,che,cheshire east,25371
+gbr,chw,cheshire west and chester,25372
+gbr,ckf,carrickfergus,25373
+gbr,ckt,cookstown,25374
+gbr,cld,calderdale,25375
+gbr,clk,clackmannanshire,25376
+gbr,clr,coleraine,25377
+gbr,cma,cumbria,25378
+gbr,cmd,camden,25379
+gbr,cmn,carmarthenshire,25380
+gbr,con,cornwall,25381
+gbr,cov,coventry,25382
+gbr,crf,cardiff,25383
+gbr,cry,croydon,25384
+gbr,csr,castlereagh,28407
+gbr,cwy,conwy,25385
+gbr,dal,darlington,25386
+gbr,dby,derbyshire,25387
+gbr,den,denbighshire,25388
+gbr,der,derby,25389
+gbr,dev,devon,28399
+gbr,dgn,dungannon and south tyrone,25390
+gbr,dgy,dumfries and galloway,25391
+gbr,dnc,doncaster,25392
+gbr,dnd,dundee city,25393
+gbr,dor,dorset,25394
+gbr,dow,down,25395
+gbr,dry,derry,25396
+gbr,dud,dudley,25397
+gbr,dur,durham,25398
+gbr,eal,ealing,25399
+gbr,eay,east ayrshire,25400
+gbr,edh,edinburgh,25401
+gbr,edu,east dunbartonshire,25402
+gbr,eln,east lothian,25403
+gbr,els,eilean siar,25404
+gbr,enf,enfield,25405
+gbr,erw,east renfrewshire,25406
+gbr,ery,east riding of yorkshire,25407
+gbr,ess,essex,25408
+gbr,esx,east sussex,25409
+gbr,fal,falkirk,25410
+gbr,fer,fermanagh,25411
+gbr,fif,fife,25412
+gbr,fln,flintshire,25413
+gbr,gat,gateshead,25414
+gbr,glg,glasgow city,25415
+gbr,gls,gloucestershire,25416
+gbr,gre,greenwich,25417
+gbr,gwn,gwynedd,25418
+gbr,hal,halton,25419
+gbr,ham,hampshire,25420
+gbr,hav,havering,25421
+gbr,hck,hackney,28403
+gbr,hef,herefordshire,25422
+gbr,hil,hillingdon,25423
+gbr,hld,highland,25424
+gbr,hmf,hammersmith and fulham,25425
+gbr,hns,hounslow,25426
+gbr,hpl,hartlepool,25427
+gbr,hrt,hertfordshire,25428
+gbr,hrw,harrow,25429
+gbr,hry,haringey,25430
+gbr,iow,isle of wight,25431
+gbr,isl,islington,25432
+gbr,ivc,inverclyde,25433
+gbr,kec,kensington and chelsea,25434
+gbr,ken,kent,25435
+gbr,khl,kingston upon hull,25436
+gbr,kir,kirklees,25437
+gbr,ktt,kingston upon thames,25438
+gbr,kwl,knowsley,25439
+gbr,lan,lancashire,28400
+gbr,lbh,lambeth,25440
+gbr,lce,leicester,25441
+gbr,lds,leeds,25442
+gbr,lec,leicestershire,25443
+gbr,lew,lewisham,25444
+gbr,lin,lincolnshire,25445
+gbr,liv,liverpool,25446
+gbr,lmv,limavady,28409
+gbr,lnd,london,25447
+gbr,lrn,larne,28408
+gbr,lsb,lisburn,25448
+gbr,lut,luton,28404
+gbr,man,manchester,25449
+gbr,mdb,middlesbrough,25450
+gbr,mdw,medway,25451
+gbr,mft,magherafelt,25452
+gbr,mik,milton keynes,25453
+gbr,mln,midlothian,25454
+gbr,mon,monmouthshire,25455
+gbr,mrt,merton,25456
+gbr,mry,moray,25457
+gbr,mty,merthyr tydfil,25458
+gbr,myl,moyle,25459
+gbr,nay,north ayrshire,25460
+gbr,nbl,northumberland,25461
+gbr,ndn,north down,25462
+gbr,nel,north east lincolnshire,25463
+gbr,net,newcastle upon tyne,25464
+gbr,nfk,norfolk,25465
+gbr,ngm,nottingham,25466
+gbr,nlk,north lanarkshire,25467
+gbr,nln,north lincolnshire,25468
+gbr,nsm,north somerset,25470
+gbr,nta,newtownabbey,25471
+gbr,nth,northamptonshire,25472
+gbr,ntl,neath port talbot,25473
+gbr,ntt,nottinghamshire,25474
+gbr,nty,north tyneside,25475
+gbr,nwm,newham,25476
+gbr,nwp,newport,25477
+gbr,nyk,north yorkshire,25478
+gbr,nym,newry and mourne,25479
+gbr,old,oldham,25480
+gbr,omh,omagh,25481
+gbr,ork,orkney islands,25482
+gbr,oxf,oxfordshire,25483
+gbr,pem,pembrokeshire,25484
+gbr,pkn,perth and kinross,25485
+gbr,ply,plymouth,25486
+gbr,pol,poole,25487
+gbr,por,portsmouth,25488
+gbr,pow,powys,25489
+gbr,pte,peterborough,25490
+gbr,rcc,redcar and cleveland,25491
+gbr,rch,rochdale,25492
+gbr,rct,rhondda,25493
+gbr,rdb,redbridge,25494
+gbr,rdg,reading,25495
+gbr,rfw,renfrewshire,25496
+gbr,ric,richmond upon thames,25497
+gbr,rot,rotherham,25498
+gbr,rut,rutland,25499
+gbr,saw,sandwell,25500
+gbr,say,south ayrshire,25501
+gbr,scb,scottish borders,25502
+gbr,sfk,suffolk,25503
+gbr,sft,sefton,25504
+gbr,sgc,south gloucestershire,25505
+gbr,shf,sheffield,25506
+gbr,shn,st. helens,25507
+gbr,shr,shropshire,25508
+gbr,skp,stockport,25509
+gbr,slf,salford,25510
+gbr,slg,slough,25511
+gbr,slk,south lanarkshire,25512
+gbr,snd,sunderland,25513
+gbr,sol,solihull,25514
+gbr,som,somerset,28401
+gbr,sos,southend-on-sea,25515
+gbr,sry,surrey,25516
+gbr,stb,strabane,25517
+gbr,ste,stoke-on-trent,25518
+gbr,stg,stirling,25519
+gbr,sth,southampton,25520
+gbr,stn,sutton,25521
+gbr,sts,staffordshire,25522
+gbr,stt,stockton-on-tees,25523
+gbr,sty,south tyneside,25524
+gbr,swa,swansea,25525
+gbr,swd,swindon,25526
+gbr,swk,southwark,25527
+gbr,tam,tameside,25528
+gbr,tfw,telford and wrekin,25529
+gbr,thr,thurrock,25530
+gbr,tob,torbay,25531
+gbr,tof,torfaen,25532
+gbr,trf,trafford,25533
+gbr,twh,tower hamlets,25534
+gbr,vgl,vale of glamorgan,25535
+gbr,war,warwickshire,25536
+gbr,wbk,west berkshire,25537
+gbr,wdu,west dunbartonshire,25538
+gbr,wft,waltham forest,25539
+gbr,wgn,wigan,25540
+gbr,wil,wiltshire,28405
+gbr,wkf,wakefield,25541
+gbr,wll,walsall,25542
+gbr,wln,west lothian,25543
+gbr,wlv,wolverhampton,25544
+gbr,wnd,wandsworth,25545
+gbr,wnm,windsor and maidenhead,25546
+gbr,wok,wokingham,25547
+gbr,wor,worcestershire,25548
+gbr,wrl,wirral,25549
+gbr,wrt,warrington,25550
+gbr,wrx,wrexham,25551
+gbr,wsm,westminster,25552
+gbr,wsx,west sussex,25553
+gbr,yor,york,25554
+gbr,zet,shetland islands,25555
+geo,?,georgia,241
+geo,ab,abkhazia,25565
+geo,aj,ajaria,25566
+geo,gu,guria,28988
+geo,im,imereti,25567
+geo,ka,kakheti,28989
+geo,kk,kvemo kartli,25568
+geo,mm,mtskheta-mtianeti,28990
+geo,rl,racha-lechkhumi-kvemo svaneti,28991
+geo,sj,samtskhe-javakheti,28992
+geo,sk,shida kartli,25569
+geo,sz,samegrelo-zemo svaneti,25570
+geo,tb,tbilisi,25571
+ggy,?,guernsey,24305
+ggy,no region,guernsey,24306
+gha,?,ghana,364
+gha,aa,greater accra,25573
+gha,ah,ashanti,25574
+gha,ba,brong-ahafo,25575
+gha,cp,central,25576
+gha,ep,eastern,25577
+gha,np,northern,25578
+gha,tv,volta,29020
+gha,ue,upper east,29019
+gha,uw,upper west,25579
+gha,wp,western,25580
+gib,?,gibraltar,347
+gib,no region,gibraltar,7287
+gin,?,guinea,781
+gin,b,boke,29021
+gin,c,conakry,25581
+gin,d,kindia,29022
+gin,f,faranah,25582
+gin,k,kankan,25583
+gin,l,labe,25584
+gin,m,mamou,29023
+gin,n,nzerekore,25585
+glp,?,guadeloupe,592
+glp,no region,guadeloupe,12776
+gmb,?,gambia,4031
+gmb,b,banjul,25586
+gmb,l,lower river,29024
+gmb,m,central river,29025
+gmb,n,north bank,29026
+gmb,u,upper river,29027
+gmb,w,western,29028
+gnb,?,guinea-bissau,2437
+gnb,ba,bafata,29029
+gnb,bl,bolama,29031
+gnb,bm,biombo,29030
+gnb,bs,bissau,25587
+gnb,ca,cacheu,29032
+gnb,ga,gabu,29033
+gnb,oi,oio,29034
+gnb,qu,quinara,29035
+gnb,to,tombali,29036
+gnq,?,equatorial guinea,2364
+gnq,c,region continental,25588
+gnq,i,region insular,25589
+grc,01,aitolia-akarnania,14844
+grc,03,voiotia,24958
+grc,04,evvoia,15856
+grc,05,evrytania,24957
+grc,06,fthiotis,14845
+grc,07,fokis,15857
+grc,11,argolis,19894
+grc,12,arkadia,14846
+grc,13,achaia,14847
+grc,14,ileia,19897
+grc,15,korinthia,14848
+grc,16,lakonia,19899
+grc,17,messinia,14851
+grc,21,zakynthos,14854
+grc,22,kerkyra,19900
+grc,23,kefallinia,14855
+grc,24,lefkas,15858
+grc,31,arta,19901
+grc,32,thesprotia,14856
+grc,33,ioannina,14857
+grc,34,preveza,23763
+grc,41,karditsa,19902
+grc,42,larisa,11754
+grc,43,magnisia,11757
+grc,44,trikala,14861
+grc,51,grevena,23762
+grc,52,drama,14862
+grc,53,imathia,14864
+grc,54,thessaloniki,11756
+grc,55,kavalla,14867
+grc,56,kastoria,14868
+grc,57,kilkis,14869
+grc,58,kozani,14870
+grc,59,pella,14871
+grc,61,pieria,25057
+grc,62,serrai,19907
+grc,63,florina,23764
+grc,64,chalkidiki,19908
+grc,69,agio oros,24956
+grc,71,evros,19909
+grc,72,xanthi,14872
+grc,73,rodopi,14873
+grc,81,dodekanisos,12521
+grc,82,kyklades,14874
+grc,83,lesvos,19913
+grc,84,samos,14878
+grc,85,chios,11752
+grc,91,irakleion,11753
+grc,92,lasithion,19915
+grc,93,rethymnon,19916
+grc,94,chania,14881
+grc,?,greece,209
+grc,a1,attiki,12522
+grd,01,saint andrew,29037
+grd,02,saint david,29038
+grd,03,saint george,25590
+grd,04,saint john,29039
+grd,05,saint mark,29040
+grd,06,saint patrick,29041
+grd,10,southern grenadine islands,29042
+grd,?,grenada,23768
+grl,?,greenland,523
+grl,ku,kommune kujalleq,25591
+grl,qa,qaasuitsup kommunia,25592
+grl,qe,qeqqata kommunia,25593
+grl,sm,kommuneqarfik sermersooq,25594
+gtm,?,guatemala,496
+gtm,av,alta verapaz,25595
+gtm,bv,baja verapaz,29043
+gtm,cm,chimaltenango,29044
+gtm,cq,chiquimula,29045
+gtm,es,escuintla,25596
+gtm,gu,guatemala,25597
+gtm,hu,huehuetenango,25598
+gtm,iz,izabal,25599
+gtm,ja,jalapa,29046
+gtm,ju,jutiapa,25600
+gtm,pe,peten,25601
+gtm,pr,el progreso,29047
+gtm,qc,quiche,29048
+gtm,qz,quetzaltenango,25602
+gtm,re,retalhuleu,29049
+gtm,sa,sacatepequez,29050
+gtm,sm,san marcos,29051
+gtm,so,solola,29052
+gtm,sr,santa rosa,29053
+gtm,su,suchitepequez,25603
+gtm,to,totonicapan,29054
+gtm,za,zacapa,29055
+guf,?,french guiana,582
+guf,no region,french guiana,12772
+gum,?,guam,568
+gum,no region,guam,7305
+guy,?,guyana,590
+guy,ba,barima-waini,29056
+guy,cu,cuyuni-mazaruni,29057
+guy,de,demerara-mahaica,25604
+guy,eb,east berbice-corentyne,29058
+guy,es,essequibo islands-west demera,29059
+guy,ma,mahaica-berbice,29060
+guy,pm,pomeroon-supenaam,29061
+guy,pt,potaro-siparuni,29062
+guy,ud,upper demerara-berbice,25605
+guy,ut,upper takutu-upper essequib,29063
+hkg,?,hong kong,389
+hkg,no region,hong kong,7310
+hmd,?,heard and mc donald islands,5020
+hnd,?,honduras,381
+hnd,at,atlantida,25606
+hnd,ch,choluteca,29064
+hnd,cl,colon,29065
+hnd,cm,comayagua,25607
+hnd,cp,copan,29066
+hnd,cr,cortes,25608
+hnd,ep,el paraiso,25609
+hnd,fm,francisco morazan,25610
+hnd,gd,gracias a dios,29067
+hnd,ib,islas de la bahia,29069
+hnd,in,intibuca,29068
+hnd,le,lempira,29071
+hnd,lp,la paz,29070
+hnd,oc,ocotepeque,29072
+hnd,ol,olancho,29073
+hnd,sb,santa barbara,29074
+hnd,va,valle,29075
+hnd,yo,yoro,25611
+hrv,01,zagrebacka,11769
+hrv,02,krapinako-zagorska,24703
+hrv,03,sisasko-moelavacka,24707
+hrv,04,karlovacka,24702
+hrv,05,varaidinska,24420
+hrv,06,koprivoickco-krizevaka,23828
+hrv,07,bjelovarsko-bilogorska,24701
+hrv,08,primorsko-goranska,11767
+hrv,09,licko-senjska,24704
+hrv,10,virovitieko-podravska,24708
+hrv,11,pozesko-slavonska,24706
+hrv,12,brodsko-posavska,24965
+hrv,13,zadaraka,14885
+hrv,14,osjecko-baranjska,11766
+hrv,15,sibenako-kninska,24700
+hrv,16,vurovarako-srijemska,19935
+hrv,17,splitako-dalmatinska,11768
+hrv,18,istarska,24315
+hrv,19,dubrovacko-neretvanska,14887
+hrv,20,medjimuraka,24705
+hrv,21,grad zagreb,28132
+hrv,?,croatia (local name - hrvatska),248
+hti,?,haiti,802
+hti,ar,artibonite,29076
+hti,ce,centre,29077
+hti,ga,grande-anse,29078
+hti,nd,nord,29080
+hti,ne,nord-est,29081
+hti,ni,nippes,29079
+hti,no,nord-ouest,29082
+hti,ou,ouest,25612
+hti,sd,sud,29083
+hti,se,sud-est,29084
+hun,?,hungary,212
+hun,ba,baranya,11784
+hun,bc,bekescsaba,28331
+hun,be,bekes,19938
+hun,bk,bacs-kiskun,11771
+hun,bu,budapest,11773
+hun,bz,borsod-abauj-zemplen,11781
+hun,cs,csongrad,11785
+hun,de,debrecen,28332
+hun,du,dunaujvaros,28333
+hun,eg,eger,28334
+hun,er,erd,29085
+hun,fe,fejer,19947
+hun,gs,gyor-moson-sopron,19948
+hun,gy,gyor,28335
+hun,hb,hajdu-bihar,11774
+hun,he,heves,11775
+hun,hv,hodmezovasarhely,28336
+hun,jn,jasz-nagykun-szolnok,11788
+hun,ke,komarom-esztergom,11776
+hun,km,kecskemet,28338
+hun,kv,kaposvar,28337
+hun,mi,miskolc,28339
+hun,nk,nagykanizsa,28340
+hun,no,nograd,11772
+hun,ny,nyiregyhaza,28341
+hun,pe,pest,11777
+hun,ps,pecs,28342
+hun,sd,szeged,28344
+hun,sf,szekesfehervar,28345
+hun,sh,szombathely,28348
+hun,sk,szolnok,28347
+hun,sn,sopron,28410
+hun,so,somogy,15865
+hun,ss,szekszard,28346
+hun,st,salgotarjan,28343
+hun,sz,szabolcs-szatmar-bereg,11783
+hun,tb,tatabanya,28349
+hun,to,tolna,19961
+hun,va,vas,11789
+hun,ve,veszprem county,11790
+hun,vm,veszprem city,28350
+hun,za,zala,11791
+hun,ze,zalaegerszeg,28351
+idn,?,indonesia,539
+idn,ac,aceh sm,23863
+idn,ba,bali,11798
+idn,bb,bangka belitung,28133
+idn,be,bengkulu,23911
+idn,bt,banten,28134
+idn,go,gorontalo,28135
+idn,ja,jambi,11801
+idn,jb,jawa barat,11793
+idn,ji,jawa timur,11802
+idn,jk,jakarta raya,11800
+idn,jt,jawa tengah,11808
+idn,kb,kalimantan barat,23912
+idn,ki,kalimantan timur,11792
+idn,kr,kepulauan riau,28136
+idn,ks,kalimantan selatan,11794
+idn,kt,kalimantan tengah,23913
+idn,la,lampung,19970
+idn,ma,maluku,23914
+idn,mu,maluku utara,28137
+idn,nb,nusa tenggara barat,11804
+idn,nt,nusa tenggara timur,23915
+idn,pa,papua,28138
+idn,pb,papua barat,29086
+idn,ri,risu,19971
+idn,sa,sulawesi utara,11795
+idn,sb,sumatera barat,23962
+idn,sg,sulawesi tenogara,23916
+idn,sn,sulawesi selatan,11806
+idn,sr,sulawesi barat,28139
+idn,ss,sumatera selatan,11807
+idn,st,sulawesi tengah,23917
+idn,su,sumatera utara,11805
+idn,yo,yogyakarta jw,11815
+imn,?,isle of man,24303
+imn,no region,isle of man,24308
+ind,?,india,297
+ind,an,andaman and nicobar islands,9992
+ind,ap,andhra pradesh,9994
+ind,ar,arunachal pradesh,23842
+ind,as,assam,9997
+ind,br,bihar,9998
+ind,ch,chandigarh,24520
+ind,ct,chhattisgarh,28058
+ind,dd,daman and diu,24799
+ind,dl,delhi,9999
+ind,dn,dadra and nagar haveli,24802
+ind,ga,goa,23819
+ind,gj,gujarat,10002
+ind,hp,himachal pradesh,24787
+ind,hr,haryana,10008
+ind,jh,jharkhand,28057
+ind,jk,jammu and kashmir,18194
+ind,ka,karnataka,10011
+ind,kl,kerala,10018
+ind,ld,lakshadweep,24801
+ind,mh,maharashtra,1320
+ind,ml,meghalaya,10026
+ind,mn,manipur,24803
+ind,mp,madhya pradesh,10027
+ind,mz,mizoram,24800
+ind,nl,nagaland,24792
+ind,or,odisha,10030
+ind,pb,punjab,10031
+ind,py,puducherry,10034
+ind,rj,rajasthan,10035
+ind,sk,sikkim,24804
+ind,tg,telangana,33962
+ind,tn,tamil nadu,10036
+ind,tr,tripura,10043
+ind,up,uttar pradesh,10044
+ind,ut,uttarakhand,28102
+ind,wb,west bengal,1309
+iot,?,british indian ocean territory,5075
+iot,no region,british indian ocean territory,10378
+irl,?,ireland,210
+irl,ce,clare,19974
+irl,cn,cavan,11843
+irl,co,cork,28393
+irl,cw,carlow,11820
+irl,d,dublin,19982
+irl,dl,donegal,11825
+irl,g,galway,11821
+irl,ke,kildare,11837
+irl,kk,kilkenny,11832
+irl,ky,kerry,11842
+irl,ld,longford,24109
+irl,lh,louth,11826
+irl,lk,limerick,11834
+irl,lm,leitrim,24110
+irl,ls,laois,19996
+irl,mh,meath,11831
+irl,mn,monaghan,19997
+irl,mo,mayo,11822
+irl,oy,offaly,11819
+irl,rn,roscommon,19999
+irl,so,sligo,11841
+irl,ta,tipperary,11823
+irl,wd,waterford,11828
+irl,wh,westmeath,11817
+irl,ww,wicklow,11816
+irl,wx,wexford,11829
+irn,01,azarbaijan-e sharqi,11857
+irn,02,azarbayjan-e-gharbi,23787
+irn,03,ardabll,24908
+irn,04,esfahan,11848
+irn,05,ilam,23790
+irn,06,buahahr,23804
+irn,07,tehran,11854
+irn,08,chahar mahall va bakhtlari,23788
+irn,09,khorasan,11852
+irn,10,khuzestan,11846
+irn,11,zanjan,11853
+irn,12,semnan,23791
+irn,13,sistan va baluchestan,11860
+irn,14,fars,11856
+irn,15,kerman,11850
+irn,16,kordeatan,23805
+irn,17,kermanshahan,11851
+irn,18,kohkiluyeh va buyer ahmadi,23910
+irn,19,gilan,23792
+irn,20,lorestan,23789
+irn,21,mazandaran,11847
+irn,22,markazi,23793
+irn,23,hormozgan,14890
+irn,24,hamadan,11849
+irn,25,yazd,11859
+irn,26,qom,24932
+irn,27,golestan,28300
+irn,28,qazvin,28301
+irn,29,khorasan-e janubi,28302
+irn,30,khorasan-e razavi,28303
+irn,31,khorasan-e shemali,28304
+irn,?,iran (islamic republic of),522
+irq,?,iraq,23767
+irq,an,al anbar,25616
+irq,ar,arbil,25617
+irq,ba,al basrah,25618
+irq,bb,babil,25619
+irq,bg,baghdad,25620
+irq,da,dahouk,25621
+irq,di,deyala,25622
+irq,dq,thi qar,25623
+irq,ka,karbala,25624
+irq,ma,maysan,25625
+irq,mu,al muthanna,29087
+irq,na,al najaf,25626
+irq,ni,mousl (nainawa),25627
+irq,qa,al quadisiya,25628
+irq,sd,salah al deen,25629
+irq,su,al sulaymaniah,25630
+irq,ts,al ta'amim,25631
+irq,wa,wasit,25632
+isl,00,reykjavik,25633
+isl,01,hofudborgarsvaedi,25634
+isl,02,sudurnes,25635
+isl,03,vesturland,25636
+isl,04,vestfirdir,25637
+isl,05,nordurland vestra,25638
+isl,06,nordurland eystra,25639
+isl,07,austurland,25640
+isl,08,sudurland,25641
+isl,?,iceland,228
+isr,?,israel,213
+isr,d,hadarom,11864
+isr,ha,hefa,3687
+isr,jm,yerushalayim al quds,11874
+isr,m,hamerkaz,11881
+isr,ta,tel-aviv,11867
+isr,z,hazafon,11872
+ita,?,italy,214
+ita,ag,agrigento,10809
+ita,al,alessandria,10811
+ita,an,ancona,10813
+ita,ao,aosta,10814
+ita,ap,ascoli piceno,10816
+ita,aq,l'aquila,10819
+ita,ar,arezzo,10815
+ita,at,asti,10817
+ita,av,avellino,10818
+ita,ba,bari,10820
+ita,bg,bergamo,10824
+ita,bi,biella,10825
+ita,bl,belluno,10822
+ita,bn,benevento,10823
+ita,bo,bologna,1316
+ita,br,brindisi,10829
+ita,bs,brescia,10828
+ita,bt,barletta-andria-trani,25115
+ita,bz,bolzano,10826
+ita,ca,cagliari,10830
+ita,cb,campobasso,10832
+ita,ce,caserta,10833
+ita,ch,chieti,10839
+ita,ci,carbonia-iglesias,25107
+ita,cl,caltanissetta,10831
+ita,cn,cuneo,10810
+ita,co,como,10842
+ita,cr,cremona,10844
+ita,cs,cosenza,10843
+ita,ct,catania,10834
+ita,cz,catanzaro,10835
+ita,en,enna,10847
+ita,fc,forli-cesena,25109
+ita,fe,ferrara,10836
+ita,fg,foggia,10850
+ita,fi,firenze,10849
+ita,fm,fermo,25108
+ita,fr,frosinone,10812
+ita,ge,genova,10853
+ita,go,gorizia,10854
+ita,gr,grosseto,10856
+ita,im,imperia,10857
+ita,is,isernia,10858
+ita,kr,crotone,10845
+ita,lc,lecco,10866
+ita,le,lecce,10865
+ita,li,livorno,10867
+ita,lo,lodi,10868
+ita,lt,latina,10864
+ita,lu,lucca,10869
+ita,mb,monza and brianza,25111
+ita,mc,macerata,10871
+ita,me,messina,10875
+ita,mi,milano,3996
+ita,mn,mantova,10872
+ita,mo,modena,10877
+ita,ms,massa,15019
+ita,mt,matera,10874
+ita,na,napoli,10881
+ita,no,novara,10884
+ita,nu,nuoro,10885
+ita,og,ogliastra,25112
+ita,or,oristano,10886
+ita,ot,olbia-tempio,25113
+ita,pa,palermo,10888
+ita,pc,piacenza,10894
+ita,pd,padova,10841
+ita,pe,pescara,10893
+ita,pg,perugia,10891
+ita,pi,pisa,10896
+ita,pn,pordenone,10898
+ita,po,prato,10901
+ita,pr,parma,10889
+ita,pt,pistoia,10897
+ita,pu,pesaro and urbino,25114
+ita,pv,pavia,10890
+ita,pz,potenza,10899
+ita,ra,ravenna,10903
+ita,rc,reggio calabria,10904
+ita,re,reggio emilia,10905
+ita,rg,ragusa,10902
+ita,ri,rieti,10907
+ita,rm,roma,10837
+ita,rn,rimini,3962
+ita,ro,rovigo,10911
+ita,sa,salerno,10912
+ita,si,siena,10919
+ita,so,sondrio,10921
+ita,sp,la spezia,10860
+ita,sr,siracusa,10920
+ita,ss,sassari,10915
+ita,sv,savona,10917
+ita,ta,taranto,10922
+ita,te,teramo,10923
+ita,tn,trento,10873
+ita,to,torino,10840
+ita,tp,trapani,10928
+ita,tr,terni,10924
+ita,ts,trieste,10932
+ita,tv,treviso,10878
+ita,ud,udine,10934
+ita,va,varese,10935
+ita,vb,verbano-cusio-ossola,10937
+ita,vc,vercelli,10827
+ita,ve,venezia,10936
+ita,vi,vicenza,10821
+ita,vr,verona,10939
+ita,vs,medio campidano,25110
+ita,vt,viterbo,10942
+ita,vv,viba valentia,23783
+jam,01,kingston,25642
+jam,02,saint andrew,29088
+jam,03,saint thomas,29089
+jam,04,portland,29090
+jam,05,saint mary,29091
+jam,06,saint ann,25643
+jam,07,trelawny,29092
+jam,08,saint james,25644
+jam,09,hanover,29093
+jam,10,westmoreland,29094
+jam,11,saint elizabeth,29095
+jam,12,manchester,25645
+jam,13,clarendon,29096
+jam,14,saint catherine,25646
+jam,?,jamaica,662
+jey,?,jersey,24304
+jey,no region,jersey,24309
+jor,?,jordan,231
+jor,aj,ajlun,29097
+jor,am,amman,25649
+jor,aq,al aqabah,29098
+jor,at,at tafilah,29099
+jor,az,az zarqa,29100
+jor,ba,al balqa,29101
+jor,ir,irbid,25650
+jor,ja,jarash,29102
+jor,ka,al karak,29103
+jor,ma,al mafraq,29104
+jor,md,madaba,29105
+jor,mn,maan,29106
+jpn,01,hokkaido,9414
+jpn,02,aomori,9425
+jpn,03,iwate,9429
+jpn,04,miyagi,9431
+jpn,05,akita,9433
+jpn,06,yamagata,9434
+jpn,07,fukushima,9437
+jpn,08,ibaraki,9440
+jpn,09,tochigi,9449
+jpn,10,gunma,9454
+jpn,11,saitama,9459
+jpn,12,chiba,9476
+jpn,13,tokyo,9492
+jpn,14,kanagawa,9515
+jpn,15,niigata,9528
+jpn,16,toyama,9533
+jpn,17,ishikawa,9536
+jpn,18,fukui,9538
+jpn,19,yamanashi,9540
+jpn,20,nagano,9542
+jpn,21,gifu,9546
+jpn,22,shizuoka,9550
+jpn,23,aichi,9562
+jpn,24,mie,9572
+jpn,25,shiga,9577
+jpn,26,kyoto,9580
+jpn,27,osaka,9584
+jpn,28,hyogo,9598
+jpn,29,nara,9605
+jpn,30,wakayama,9609
+jpn,31,tottori,9610
+jpn,32,shimane,9612
+jpn,33,okayama,9615
+jpn,34,hiroshima,9620
+jpn,35,yamaguchi,9625
+jpn,36,tokushima,9630
+jpn,37,kagawa,9631
+jpn,38,ehime,9633
+jpn,39,kochi,12578
+jpn,40,fukuoka,9636
+jpn,41,saga,12580
+jpn,42,nagasaki,9641
+jpn,43,kumamoto,9643
+jpn,44,oita,9646
+jpn,45,miyazaki,9648
+jpn,46,kagoshima,9650
+jpn,47,okinawa,9652
+jpn,?,japan,75
+jpn,aol,aol,9246
+kaz,?,kazakhstan,223
+kaz,akm,aqmola oblysy,25651
+kaz,akt,aqtobe oblysy,25652
+kaz,ala,almaty,28140
+kaz,alm,almaty oblysy,25653
+kaz,ast,astana,28141
+kaz,aty,atyrau oblysy,25654
+kaz,kar,qaraghandy oblysy,25655
+kaz,kus,qostanay oblysy,25656
+kaz,kzy,qyzylorda oblysy,25657
+kaz,man,mangghystau oblysy,25658
+kaz,pav,pavlodar oblysy,25659
+kaz,sev,soltustik qazaqstan oblysy,25660
+kaz,vos,shyghys qazaqstan oblysy,25661
+kaz,yuz,ongtustik qazaqstan oblysy,25662
+kaz,zap,batys qazaqstan oblysy,25663
+kaz,zha,zhambyl oblysy,25664
+ken,110,nairobi,25665
+ken,200,central,25666
+ken,300,coast,25667
+ken,400,eastern,25668
+ken,500,north-eastern,29107
+ken,600,nyanza,25669
+ken,700,rift valley,25670
+ken,800,western,28142
+ken,?,kenya,363
+kgz,?,kyrgyzstan,236
+kgz,b,batken,29108
+kgz,c,chuy province,25671
+kgz,gb,bishkek,28143
+kgz,j,jalal-abad province,25672
+kgz,n,naryn,29121
+kgz,o,osh city,25673
+kgz,t,talas,29122
+kgz,y,issyk kul province,25674
+khm,1,banteay mean chey,28144
+khm,10,kracheh,28153
+khm,11,mondol kiri,28154
+khm,12,phnom penh,25675
+khm,13,preah vihear,28155
+khm,14,prey veaeng,28156
+khm,15,pousaat,28157
+khm,16,rotanak kiri,28158
+khm,17,siem reab,28159
+khm,18,krong preah sihanouk,29123
+khm,19,stueng traeng,28160
+khm,2,baat dambang,28145
+khm,20,svaay rieng,28161
+khm,21,taakaev,28162
+khm,22,otdar mean chey,28163
+khm,23,krong kaeb,29124
+khm,24,krong pailin,29125
+khm,3,kampong chaam,28146
+khm,4,kampong chhnang,28147
+khm,5,kampong spueu,28148
+khm,6,kampong thum,28149
+khm,7,kampot,28150
+khm,8,kandaal,28151
+khm,9,kaoh kong,28152
+khm,?,cambodia,557
+kir,?,kiribati,560
+kir,g,gilbert islands,30435
+kir,l,line islands,30436
+kir,p,phoenix islands,30437
+kna,?,saint kitts and nevis,593
+kna,k,saint kitts,25676
+kna,n,nevis,25677
+kor,11,seoul teugbyeol-si,25025
+kor,26,busan gwangyeog-si,25026
+kor,27,daegu gwangyeog-si,25027
+kor,28,incheon gwangyeog-si,25028
+kor,29,gwangju gwangyeog-si,25029
+kor,30,daejeon gwangyeog-si,25030
+kor,31,ulsan gwangyeog-si,25031
+kor,41,gyeonggi-do,25032
+kor,42,gangweon-do,25033
+kor,43,chungcheongbug-do,25034
+kor,44,chungcheongnam-do,25035
+kor,45,jeonrabug-do,25036
+kor,46,jeonranam-do,25037
+kor,47,gyeongsangbug-do,25038
+kor,48,gyeongsangnam-do,25039
+kor,49,jeju-do,25040
+kor,?,korea - south,385
+kwt,?,kuwait,468
+kwt,ah,al ahmadi,25678
+kwt,fa,al farwaniyah,29195
+kwt,ha,hawalli,29196
+kwt,ja,al jahrah,25679
+kwt,ku,al kuwayt,25680
+kwt,mu,mubarak al kabir,29197
+lao,?,lao peoples democratic republi,481
+lao,at,attapu,29201
+lao,bk,bokeo,29202
+lao,bl,bolikhamxai,29204
+lao,ch,champasak,29205
+lao,ho,houaphan,29206
+lao,kh,khammouan,29211
+lao,lm,louang namtha,29212
+lao,lp,louangphabang,29213
+lao,ou,oudomxai,29214
+lao,ph,phongsali,29215
+lao,sl,salavan,29216
+lao,sv,savannakhet,29218
+lao,vi,vientiane province,29220
+lao,vt,vientiane prefecture,25682
+lao,xa,xaignabouli,29225
+lao,xe,xekong,29227
+lao,xi,xiangkhoang,29228
+lao,xn,xaisomboun,29229
+lbn,?,lebanon,234
+lbn,ak,aakkar,29233
+lbn,as,liban-nord,25683
+lbn,ba,beirut,25684
+lbn,bh,baalbek-hermel,29237
+lbn,bi,beqaa,29239
+lbn,ja,liban-sud,25685
+lbn,jl,mont-liban,25686
+lbn,na,nabatiye,29240
+lbr,?,liberia,23769
+lbr,bg,bong,29244
+lbr,bm,bomi,29242
+lbr,cm,grand cape mount,29248
+lbr,gb,grand bassa,29247
+lbr,gg,grand gedeh,29250
+lbr,gk,grand kru,29251
+lbr,gp,gbarpolu,29246
+lbr,lo,lofa,29252
+lbr,mg,margibi,29255
+lbr,mo,montserrado,25687
+lbr,my,maryland,29256
+lbr,ni,nimba,29257
+lbr,rg,river gee,29260
+lbr,ri,rivercess,29258
+lbr,si,sinoe,29261
+lby,?,libyan arab jamahiriya,990
+lby,ba,banghazi,25688
+lby,bu,al butnan,29269
+lby,dr,darnah,29311
+lby,gt,ghat,29313
+lby,ja,al jabal al akhdar,29296
+lby,jg,al jabal al gharbi,29298
+lby,ji,al jifarah,29299
+lby,ju,al jufrah,29300
+lby,kf,al kufrah,29301
+lby,mb,al marqab,25689
+lby,mi,misratah,29315
+lby,mj,al marj,29302
+lby,mq,murzuq,29317
+lby,nl,nalut,29318
+lby,nq,an nuqat al khams,29305
+lby,sb,sabha,25690
+lby,sr,surt,29322
+lby,tb,tarabulus,25691
+lby,wa,al wahat,29304
+lby,wd,wadi al hayat,29324
+lby,ws,wadi ash shati,29325
+lby,za,az zawiyah,29307
+lca,01,anse la raye,29329
+lca,02,icastries,25692
+lca,03,choiseul,29331
+lca,04,dauphin,29333
+lca,05,dennery,29334
+lca,06,gros islet,29336
+lca,07,laborie,29343
+lca,08,micoud,29345
+lca,09,praslin,29347
+lca,10,soufriere,29349
+lca,11,vieux fort,29351
+lca,?,saint lucia,23771
+lie,01,balzers,25693
+lie,02,eschen,25694
+lie,03,gamprin,25695
+lie,04,mauren,25696
+lie,05,planken,29355
+lie,06,ruggell,25697
+lie,07,schaan,25698
+lie,08,schellenberg,29357
+lie,09,triesen,25699
+lie,10,triesenberg,29359
+lie,11,vaduz,25700
+lie,?,liechtenstein,489
+lka,01,basnahira palata,25701
+lka,02,madhyama palata,25702
+lka,03,dakunu palata,25703
+lka,04,uturu palata,25704
+lka,05,naegenahira palata,29361
+lka,06,vayamba palata,25705
+lka,07,uturumaeda palata,29362
+lka,08,uva palata,29363
+lka,09,sabaragamuva palata,29365
+lka,?,sri lanka,440
+lso,?,lesotho,637
+lso,a,maseru,25706
+lso,b,butha-buthe,29366
+lso,c,leribe,29367
+lso,d,berea,29370
+lso,e,mafeteng,29373
+lso,f,mohale's hoek,29375
+lso,g,quthing,29376
+lso,h,qacha's nek,29378
+lso,j,mokhotlong,29380
+lso,k,thaba-tseka,29381
+ltu,?,lithuania,238
+ltu,al,alytaus,25707
+ltu,kl,klaipedos,25708
+ltu,ku,kauno,25709
+ltu,mr,marijampoles,25710
+ltu,pn,panevezio,25711
+ltu,sa,siauliu,25712
+ltu,ta,taurages,25713
+ltu,te,telsiu,25714
+ltu,ut,utenos,25715
+ltu,vl,vilniaus,25716
+lux,?,luxembourg,225
+lux,d,diekirch,25719
+lux,g,grevenmacher,25720
+lux,l,luxembourg,25721
+lva,001,aglonas novads,29153
+lva,002,aizkraukles novads,29154
+lva,003,aizputes novads,29155
+lva,004,aknistes novads,29157
+lva,005,alojas novads,29158
+lva,006,alsungas novads,29160
+lva,07,aluksnes novads,25723
+lva,08,amatas novads,29162
+lva,09,apes novads,29164
+lva,10,auces novads,29167
+lva,100,vainodes novads,29407
+lva,101,valkas novads,25735
+lva,102,varaklanu novads,29411
+lva,103,varkavas novads,29414
+lva,104,vecpiebalgas novads,29416
+lva,105,vecumnieku novads,29418
+lva,106,ventspils novads,29420
+lva,107,vies&#299;tes novads,29423
+lva,108,vilakas novads,29424
+lva,109,vilanu novads,29427
+lva,11,adazu novads,29168
+lva,110,zilupes novads,29430
+lva,12,babites novads,29169
+lva,13,baldones novads,29172
+lva,14,baltinavas novads,29175
+lva,15,balvu novads,25724
+lva,16,bauskas novads,29178
+lva,17,beverinas novads,29189
+lva,18,brocenu novads,29194
+lva,19,burtnieku novads,29198
+lva,20,carnikavas novads,29199
+lva,21,cesvaines novads,29200
+lva,22,cesu novads,25725
+lva,23,ciblas novads,29203
+lva,24,dagdas novads,29207
+lva,25,daugavpils novads,29209
+lva,26,dobeles novads,25726
+lva,27,dundagas novads,29210
+lva,28,durbes novads,29219
+lva,29,engures novads,29222
+lva,30,erglu novads,29272
+lva,31,garkalnes novads,29273
+lva,32,grobinas novads,29276
+lva,33,gulbenes novads,25727
+lva,34,iecavas novads,29277
+lva,35,ikskiles novads,29278
+lva,36,ilukstes novads,29281
+lva,37,incukalna novads,29282
+lva,38,jaunjelgavas novads,29291
+lva,39,jaunpiebalgas novads,29292
+lva,40,jaunpils novads,29293
+lva,41,jelgavas novads,25728
+lva,42,jekabpils novads,25729
+lva,43,kandavas novads,29294
+lva,44,karsavas novads,29306
+lva,45,kocenu novads,29308
+lva,46,kokneses novads,29309
+lva,47,kraslavas novads,29312
+lva,48,krimuldas novads,29314
+lva,49,krustpils novads,29316
+lva,50,kuldigas novads,25730
+lva,51,keguma novads,29319
+lva,52,kekavas novads,29320
+lva,53,lielvardes novads,29321
+lva,54,limbazu novads,29323
+lva,55,ligatnes novads,29326
+lva,56,livanu novads,29327
+lva,57,lubanas novads,29328
+lva,58,ludzas novads,29330
+lva,59,madonas novads,25731
+lva,60,mazsalacas novads,29332
+lva,61,malpils novads,29335
+lva,62,marupes novads,29337
+lva,63,mersraga novads,29338
+lva,64,nauksenu novads,29339
+lva,65,neretas novads,29341
+lva,66,nicas novads,29342
+lva,67,ogres novads,25732
+lva,68,olaines novads,29344
+lva,69,ozolnieku novads,29346
+lva,70,pargaujas novads,29348
+lva,71,pavilostas novads,29350
+lva,72,plavinu novads,29352
+lva,73,preilu novads,25733
+lva,74,priekules novads,29353
+lva,75,priekulu novads,29356
+lva,76,raunas novads,29358
+lva,77,rezeknes novads,29360
+lva,78,riebinu novads,29368
+lva,79,rojas novads,29371
+lva,80,ropazu novads,29372
+lva,81,rucavas novads,29374
+lva,82,rugaju novads,29377
+lva,83,rundales novads,29379
+lva,84,rujienas novads,29382
+lva,85,salas novads,29383
+lva,86,salacgrivas novads,29385
+lva,87,salaspils novads,29386
+lva,88,saldus novads,29387
+lva,89,saulkrastu novads,29388
+lva,90,sejas novads,29390
+lva,91,siguldas novads,29391
+lva,92,skriveru novads,29393
+lva,93,skrundas novads,29394
+lva,94,smiltenes novads,29397
+lva,95,stopi&#326;u novads,29399
+lva,96,strencu novads,29400
+lva,97,talsu novads,25734
+lva,98,tervetes novads,29402
+lva,99,tukuma novads,29405
+lva,?,latvia,244
+lva,dgv,daugavpils,25736
+lva,jel,jelgava,30290
+lva,jkb,jekabpils,30291
+lva,jur,jurmala,25737
+lva,lpx,liepaja,25738
+lva,rez,rezekne,25739
+lva,rix,riga,25740
+lva,ven,ventspils,25741
+lva,vmr,valmiera,25742
+mac,?,macau,1949
+mac,no region,macau,8057
+maf,?,saint martin,25124
+maf,no region,saint martin,25123
+mar,01,tanger-tetouan,25744
+mar,02,gharb-chrarda-beni hssen,25745
+mar,03,taza-al hoceima-taounate,25746
+mar,04,l'oriental,25747
+mar,05,fes-boulemane,29409
+mar,06,meknes-tafilalet,25748
+mar,07,rabat-sale-zemmour-zaer,25749
+mar,08,grand casablanca,25750
+mar,09,chaouia-ouardigh,25751
+mar,10,doukkala-abda,25752
+mar,11,marrakech-tensift-al haouz,25753
+mar,12,tadla-azilal,29426
+mar,13,souss-massa-draa,25754
+mar,14,guelmim-es smara,29428
+mar,15,laayoune-boujdour-sakia el ha,29431
+mar,16,oued ed dahab-lagouira,29432
+mar,?,morocco,276
+mco,?,monaco,292
+mco,cl,la colle,29433
+mco,co,la condamine,29434
+mco,fo,fontvieille,29436
+mco,ga,la gare,30308
+mco,je,jardin exotique,30305
+mco,la,larvotto,30306
+mco,ma,malbousquet,30307
+mco,mc,monte-carlo,30309
+mco,mg,moneghetti,30310
+mco,mo,monaco-ville,25755
+mco,mu,moulins,30311
+mco,ph,port-hercule,30312
+mco,sd,sainte-devote,30313
+mco,so,la source,30314
+mco,sp,spelugues,30315
+mco,sr,saint-roman,30316
+mco,vr,vallon de la rousse,30317
+mda,?,moldova - republic of,2324
+mda,an,anenii noi,29217
+mda,ba,balti,25757
+mda,bd,transnistria,25758
+mda,br,briceni,29221
+mda,bs,basarabeasca,29223
+mda,ca,cahul,25759
+mda,cl,calarasi,25760
+mda,cm,cimislia,29224
+mda,cr,criuleni,29226
+mda,cs,causeni,29230
+mda,ct,cantemir,29231
+mda,cu,chisinau,25761
+mda,do,donduseni,29232
+mda,dr,drochia,25762
+mda,du,dubasari,29234
+mda,ed,edinet,29235
+mda,fa,falesti,29238
+mda,fl,floresti,29241
+mda,ga,gagauzia,28164
+mda,gl,glodeni,29254
+mda,hi,hincesti,29259
+mda,ia,ialoveni,29263
+mda,le,leova,25763
+mda,ni,nisporeni,25764
+mda,oc,ocnita,29264
+mda,or,orhei,29266
+mda,re,rezina,25765
+mda,ri,riscani,29267
+mda,sd,soldanesti,29268
+mda,si,singerei,29274
+mda,sn,stinga nistrului,29279
+mda,so,soroca,29284
+mda,st,straseni,29285
+mda,sv,stefan voda,29286
+mda,ta,taraclia,29288
+mda,te,telenesti,29289
+mda,un,ungheni,25766
+mdg,?,madagascar,281
+mdg,a,toamasina,25767
+mdg,d,antsiranana,25768
+mdg,f,fianarantsoa,29208
+mdg,m,mahajanga,25769
+mdg,t,antananarivo,25770
+mdg,u,toliara,25771
+mdv,?,maldives,536
+mdv,ce,central,29593
+mdv,mle,male,25772
+mdv,nc,north central,29595
+mdv,no,north,29594
+mdv,sc,south central,29597
+mdv,su,south,29596
+mdv,un,upper north,29598
+mdv,us,upper south,29599
+mex,?,mexico,180
+mex,agu,aguascalientes,12590
+mex,aol,aol,23761
+mex,bcn,baja california,9703
+mex,bcs,baja california sur,12681
+mex,cam,campeche,9710
+mex,chh,chihuahua,9712
+mex,chp,chiapas,9717
+mex,coa,coahuila,9719
+mex,col,colima,12594
+mex,dif,distrito federal,28394
+mex,dur,durango,9724
+mex,gro,guerrero,9726
+mex,gua,guanajuato,9728
+mex,hid,hidalgo,9735
+mex,jal,jalisco,9738
+mex,mex,mexico,8075
+mex,mic,michoacan,9748
+mex,mor,morelos,9750
+mex,nay,nayarit,9751
+mex,nle,nuevo leon,9752
+mex,oax,oaxaca,9756
+mex,pue,puebla,9759
+mex,que,queretaro,9763
+mex,roo,quintana roo,9764
+mex,sin,sinaloa,9766
+mex,slp,san luis potosi,9771
+mex,son,sonora,9772
+mex,tab,tabasco,9775
+mex,tam,tamaulipas,9776
+mex,tla,tlaxcala,9780
+mex,ver,veracruz,9781
+mex,yuc,yucatan,9785
+mex,zac,zacatecas,9786
+mhl,?,marshall islands,23748
+mhl,alk,ailuk,30015
+mhl,all,ailinglaplap,29600
+mhl,arn,arno,30017
+mhl,aur,aur,30018
+mhl,ebo,ebon,30020
+mhl,eni,enewetak,30021
+mhl,jab,jabat,30022
+mhl,jal,jaluit,30023
+mhl,kil,kili,30024
+mhl,kwa,kwajalein,30025
+mhl,lae,lae,30027
+mhl,lib,lib,30028
+mhl,lik,likiep,30029
+mhl,maj,majuro,23884
+mhl,mal,maloelap,30030
+mhl,mej,mejit,30031
+mhl,mil,mili,30033
+mhl,nmk,namdrik,30034
+mhl,nmu,namu,30035
+mhl,ron,rongelap,30037
+mhl,uja,ujae,30038
+mhl,ujl,ujelang,28165
+mhl,uti,utirik,30039
+mhl,wth,wotho,30041
+mhl,wtj,wotje,30042
+mkd,01,aerodrom,29109
+mkd,02,aracinovo,29110
+mkd,03,berovo,29111
+mkd,04,bitola,25774
+mkd,05,bogdanci,29132
+mkd,06,bogovinje,29176
+mkd,07,bosilovo,29236
+mkd,08,brvenica,29243
+mkd,09,butel,29245
+mkd,10,valandovo,29128
+mkd,11,vasilevo,29249
+mkd,12,vevcani,29253
+mkd,13,veles,29118
+mkd,14,vinica,29119
+mkd,15,vranestica,29262
+mkd,16,vrapciste,29193
+mkd,17,gazi baba,29265
+mkd,18,gevgelija,25775
+mkd,19,gostivar,29112
+mkd,20,gradsko,29191
+mkd,21,debar,29126
+mkd,22,debarca,29270
+mkd,23,delcevo,25776
+mkd,24,demir kapija,29271
+mkd,25,demir hisar,29143
+mkd,26,dojran,29275
+mkd,27,dolneni,29280
+mkd,28,drugovo,29283
+mkd,29,gjorce petrov,29287
+mkd,30,zelino,29180
+mkd,31,zajas,29192
+mkd,32,zelenikovo,29187
+mkd,33,zrnovci,29290
+mkd,34,ilinden,29295
+mkd,35,jegunovce,29297
+mkd,36,kavadarci,25777
+mkd,37,karbinci,29166
+mkd,38,karpos,29303
+mkd,39,kisela voda,29310
+mkd,40,kicevo,29113
+mkd,41,konce,29340
+mkd,42,kocani,29117
+mkd,43,kratovo,29148
+mkd,44,kriva palanka,29127
+mkd,45,krivogastani,29354
+mkd,46,krusevo,29145
+mkd,47,kumanovo,25778
+mkd,48,lipkovo,29364
+mkd,49,lozovo,29159
+mkd,50,mavrovo and rostusa,29369
+mkd,51,makedonska kamenica,29384
+mkd,52,makedonski brod,29142
+mkd,53,mogila,29389
+mkd,54,negotino,29120
+mkd,55,novaci,29392
+mkd,56,novo selo,29156
+mkd,57,oslomej,29396
+mkd,58,ohrid,25779
+mkd,59,petrovec,29163
+mkd,60,pehcevo,29190
+mkd,61,plasnica,29152
+mkd,62,prilep,25780
+mkd,63,probistip,29115
+mkd,64,radovis,29116
+mkd,65,rankovce,29412
+mkd,66,resen,25781
+mkd,67,rosoman,29421
+mkd,68,saraj,29442
+mkd,69,sveti nikole,29136
+mkd,70,sopiste,25782
+mkd,71,staro nagoricane,29443
+mkd,72,struga,29114
+mkd,73,strumica,25783
+mkd,74,studenicani,29444
+mkd,75,tearce,29179
+mkd,76,tetovo,25784
+mkd,77,centar,29445
+mkd,78,centar zupa,29446
+mkd,79,cair,29447
+mkd,80,caska,29448
+mkd,81,cesinovo-oblesevo,29449
+mkd,82,cucer-sandevo,29450
+mkd,83,stip,25785
+mkd,84,suto orizari,29601
+mkd,?,macedonia - the frm yugoslav re,222
+mli,01,kayes,25786
+mli,02,koulikoro,29602
+mli,03,sikasso,29603
+mli,04,segou,29604
+mli,05,mopti,29605
+mli,06,tombouctou,29606
+mli,07,gao,29607
+mli,08,kidal,29608
+mli,?,mali,595
+mli,bko,bamako,25787
+mlt,01,attard,29395
+mlt,02,balzan,29398
+mlt,03,birgu,29401
+mlt,04,birkirkara,29403
+mlt,05,birzebbuga,29406
+mlt,06,bormla,29408
+mlt,07,dingli,29410
+mlt,08,fgura,29413
+mlt,09,floriana,29415
+mlt,10,fontana,29417
+mlt,11,gudja,29419
+mlt,12,gzira,29422
+mlt,13,ghajnsielem,29425
+mlt,14,gharb,29429
+mlt,15,gharghur,29435
+mlt,16,ghasri,29437
+mlt,17,ghaxaq,29438
+mlt,18,hamrun,29439
+mlt,19,iklin,29440
+mlt,20,isla,29441
+mlt,21,kalkara,29451
+mlt,22,kercem,29452
+mlt,23,kirkop,29453
+mlt,24,lija,29454
+mlt,25,luqa,29455
+mlt,26,marsa,29456
+mlt,27,marsaskala,29457
+mlt,28,marsaxlokk,29458
+mlt,29,mdina,29459
+mlt,30,mellieha,29460
+mlt,31,mgarr,29461
+mlt,32,mosta,29462
+mlt,33,mqabba,29463
+mlt,34,msida,25788
+mlt,35,mtarfa,29464
+mlt,36,munxar,29465
+mlt,37,nadur,29466
+mlt,38,naxxar,29467
+mlt,39,paola,29468
+mlt,40,pembroke,29469
+mlt,41,pieta,29470
+mlt,42,qala,29471
+mlt,43,qormi,29472
+mlt,44,qrendi,29473
+mlt,45,rabat gozo,29474
+mlt,46,rabat malta,29475
+mlt,47,safi,29476
+mlt,48,san giljan,29477
+mlt,49,san gwann,25789
+mlt,50,san lawrenz,29478
+mlt,51,san pawl il bahar,29576
+mlt,52,sannat,29577
+mlt,53,santa lucija,29578
+mlt,54,santa venera,29579
+mlt,55,siggiewi,29580
+mlt,56,sliema,29581
+mlt,57,swieqi,29582
+mlt,58,ta xbiex,29583
+mlt,59,tarxien,29584
+mlt,60,valletta,25790
+mlt,61,xaghra,29585
+mlt,62,xewkija,29586
+mlt,63,xghajra,29587
+mlt,64,zabbar,29588
+mlt,65,zebbug ghawdex,29589
+mlt,66,zebbug malta,29590
+mlt,67,zejtun,29591
+mlt,68,zurrieq,29592
+mlt,?,malta,240
+mmr,01,sagaing,25791
+mmr,02,bago,25792
+mmr,03,magway,29609
+mmr,04,mandalay,25793
+mmr,05,tanintharyi,25794
+mmr,06,yangon,25795
+mmr,07,ayeyarwady,25796
+mmr,11,kachin,29610
+mmr,12,kayah,29611
+mmr,13,kayin,29612
+mmr,15,mon,25797
+mmr,16,rakhine,25798
+mmr,17,shan,25799
+mmr,?,myanmar,3535
+mne,01,andrijevica,29613
+mne,02,bar,25800
+mne,03,berane,29614
+mne,04,bijelo polje,25801
+mne,05,budva,25802
+mne,06,cetinje,29615
+mne,07,danilovgrad,29616
+mne,073,arhangay,29644
+mne,08,herceg novi,25803
+mne,09,kolasin,29617
+mne,10,kotor,25804
+mne,11,mojkovac,29618
+mne,12,niksic,25805
+mne,13,plav,29619
+mne,14,pljevlja,25806
+mne,15,pluzine,29620
+mne,16,podgorica,25807
+mne,17,rozaje,29621
+mne,18,savnik,29622
+mne,19,tivat,29623
+mne,20,ulcinj,25808
+mne,21,zabljak,25809
+mne,?,montenegro,24301
+mng,01,ulaanbaatar,25810
+mng,035,orhon,29624
+mng,037,darhan uul,29625
+mng,039,hentiy,29626
+mng,041,hovsgol,29627
+mng,043,hovd,29628
+mng,046,uvs,29629
+mng,047,tov,29630
+mng,049,selenge,29631
+mng,051,suhbaatar,29632
+mng,053,omnogovi,29633
+mng,055,ovorhangay,29634
+mng,057,dzavhan,29635
+mng,059,dundgovi,29636
+mng,061,dornod,29637
+mng,063,dornogovi,29638
+mng,064,govi-sumber,29639
+mng,065,govi-altay,29640
+mng,067,bulgan,29641
+mng,069,bayanhongor,29642
+mng,071,bayan-olgiy,29643
+mng,073,arhangay,29645
+mng,?,mongolia,546
+mnp,?,northern mariana islands,3382
+mnp,no region,northern mariana islands,8200
+moz,?,mozambique,571
+moz,a,niassa,29564
+moz,b,manica,29562
+moz,g,gaza,29560
+moz,i,inhambane,29561
+moz,l,maputo,25811
+moz,mpm,maputo city,29646
+moz,n,nampula,29563
+moz,p,cabo delgado,29559
+moz,q,zambezia,25812
+moz,s,sofala,25813
+moz,t,tete,25814
+mrt,01,hodh ech chargui,29647
+mrt,02,hodh el gharbi,29648
+mrt,03,assaba,29649
+mrt,04,gorgol,29650
+mrt,05,brakna,25815
+mrt,06,trarza,29651
+mrt,07,adrar,29652
+mrt,08,dakhlet nouadhibou,29653
+mrt,09,tagant,29654
+mrt,10,guidimaka,29655
+mrt,11,tiris zemmour,29656
+mrt,12,inchiri,29657
+mrt,?,mauritania,508
+mrt,nkc,nouakchott,25816
+msr,?,montserrat,5001
+msr,no region,no region,30279
+mtq,?,martinique,573
+mtq,no region,martinique,12779
+mus,?,mauritius,278
+mus,ag,agalega islands,29658
+mus,bl,black river,29659
+mus,br,beau bassin-rose hill,29660
+mus,cc,cargados carajos shoals,29661
+mus,cu,curepipe,29662
+mus,fl,flacq,29663
+mus,gp,grand port,29664
+mus,mo,moka,29665
+mus,pa,pamplemousses,29666
+mus,pl,port louis city,25817
+mus,pu,port louis city,29667
+mus,pw,plaines wilhems,29668
+mus,qb,quatre bornes,29669
+mus,ro,rodrigues island,29672
+mus,rr,riviere du rempart,29670
+mus,sa,savanne,29671
+mus,vp,vacoas-phoenix,29673
+mwi,?,malawi,4220
+mwi,c,central region,25818
+mwi,n,northern region,29674
+mwi,s,southern region,25819
+mys,01,johor,28172
+mys,02,kedah,28173
+mys,03,kelantan,28174
+mys,04,melaka,28175
+mys,05,negeri sembilan,28176
+mys,06,pahang,28177
+mys,07,pulau pinang,28178
+mys,08,perak,28179
+mys,09,perlis,28180
+mys,10,selangor,28181
+mys,11,terengganu,28182
+mys,12,sabah,28183
+mys,13,sarawak,28184
+mys,14,wilayah persekutuan kuala lump,28185
+mys,15,wilayah persekutuan labuan,28186
+mys,16,wilayah persekutuan putrajaya,30384
+mys,?,malaysia,538
+myt,?,mayotte,23772
+myt,no region,mayotte,23760
+nam,?,namibia,370
+nam,ca,caprivi,29675
+nam,er,erongo,25820
+nam,ha,hardap,29676
+nam,ka,karas,25821
+nam,kh,khomas,25822
+nam,ku,kunene,29677
+nam,od,otjozondjupa,25823
+nam,oh,omaheke,29679
+nam,ok,okavango,25824
+nam,on,oshana,25825
+nam,os,omusati,29680
+nam,ot,oshikoto,25826
+nam,ow,ohangwena,29678
+ncl,?,new caledonia,354
+ncl,no region,new caledonia,8250
+ner,01,agadez,29681
+ner,02,diffa,29682
+ner,03,dosso,29683
+ner,04,maradi,25827
+ner,05,tahoua,29684
+ner,06,tillaberi,29685
+ner,07,zinder,29686
+ner,08,niamey,25828
+ner,?,niger,298
+nfk,?,norfolk island,558
+nga,?,nigeria,365
+nga,ab,abia,25829
+nga,ad,adamawa,25830
+nga,ak,akwa ibom,25831
+nga,an,anambra,25832
+nga,ba,bauchi,25833
+nga,be,benue,25834
+nga,bo,borno,25835
+nga,by,bayelsa,25836
+nga,cr,cross river,25837
+nga,de,delta,25838
+nga,eb,ebonyi,25839
+nga,ed,edo,25840
+nga,ek,ekiti,25841
+nga,en,enugu,25842
+nga,fc,abuja (fct),25843
+nga,go,gombe,25844
+nga,im,imo,25845
+nga,ji,jigawa,25846
+nga,kd,kaduna,25847
+nga,ke,kebbi,25848
+nga,kn,kano,25849
+nga,ko,kogi,25850
+nga,kt,katsina,25851
+nga,kw,kwara,25852
+nga,la,lagos,25853
+nga,na,nasarawa,25854
+nga,ni,niger,25855
+nga,og,ogun,25856
+nga,on,ondo,25857
+nga,os,osun,25858
+nga,oy,oyo,25859
+nga,pl,plateau,25860
+nga,ri,rivers,25861
+nga,so,sokoto,25862
+nga,ta,taraba,25863
+nga,yo,yobe,25864
+nga,za,zamfara,25865
+nic,?,nicaragua,379
+nic,an,atlantico norte,29687
+nic,as,atlantico sur,29688
+nic,bo,boaco,29689
+nic,ca,carazo,29690
+nic,ci,chinandega,29691
+nic,co,chontales,25867
+nic,es,esteli,29692
+nic,gr,granada,25868
+nic,ji,jinotega,29693
+nic,le,leon,29694
+nic,md,madriz,29695
+nic,mn,managua,25869
+nic,ms,masaya,29696
+nic,mt,matagalpa,29697
+nic,ns,nueva segovia,29698
+nic,ri,rivas,29699
+nic,sj,rio san juan,29700
+niu,?,niue,202
+niu,no region,niue,15160
+nld,?,netherlands,79
+nld,aol,aol,23961
+nld,dr,drenthe,10949
+nld,fl,flevoland,10944
+nld,fr,friesland,10981
+nld,ge,gelderland,10947
+nld,gr,groningen,10950
+nld,li,limburg,10973
+nld,nb,noord-brabant,10951
+nld,nh,noord-holland,3966
+nld,ov,overijssel,10959
+nld,ut,utrecht,10945
+nld,ze,zeeland,12619
+nld,zh,zuid-holland,3906
+nor,01,ostfold,11336
+nor,02,akershus,11329
+nor,03,oslo,11348
+nor,04,hedmark,11337
+nor,05,oppland,11340
+nor,06,buskerud,18631
+nor,07,vestfold,11351
+nor,08,telemark,11349
+nor,09,aust-agder,11328
+nor,10,vest-agder,11339
+nor,11,rogaland,11334
+nor,12,hordaland,11330
+nor,14,sogn og fjordane,11353
+nor,15,more og romsdal,11327
+nor,16,sor-trondelag,11357
+nor,17,nord-trondelag,11346
+nor,18,nordland,11332
+nor,19,troms,11356
+nor,20,finnmark,18824
+nor,21,svalbard,28166
+nor,22,jan mayen,28167
+nor,?,norway,83
+npl,?,nepal,542
+npl,ba,bagmati,25870
+npl,bh,bheri,29565
+npl,dh,dhawalagiri,29566
+npl,ga,gandaki,25871
+npl,ja,janakpur,29567
+npl,ka,karnali,29568
+npl,ko,kosi,25872
+npl,lu,lumbini,29569
+npl,ma,mahakali,29570
+npl,me,mechi,29571
+npl,na,narayani,29572
+npl,ra,rapti,29573
+npl,sa,sagarmatha,29574
+npl,se,seti,29575
+nru,01,aiwo,29701
+nru,02,anabar,29702
+nru,03,anetan,29703
+nru,04,anibare,29704
+nru,05,baiti,29705
+nru,06,boe,29706
+nru,07,buada,29707
+nru,08,denigomodu,29708
+nru,09,ewa,29709
+nru,10,ijuw,29710
+nru,11,meneng,29711
+nru,12,nibok,29712
+nru,13,uaboe,29713
+nru,14,yaren,25873
+nru,?,nauru,3537
+nzl,?,new zealand,369
+nzl,auk,auckland,25041
+nzl,bop,bay of plenty,25042
+nzl,can,canterbury,25043
+nzl,cit,chatham islands territory,25096
+nzl,gis,gisborne,25044
+nzl,hkb,hawkes bay,25045
+nzl,mbh,marlborough,25046
+nzl,mwt,manawatu-wanganui,25047
+nzl,nsn,nelson,25048
+nzl,ntl,northland,25049
+nzl,ota,otago,25050
+nzl,stl,southland,25051
+nzl,tas,tasman,25052
+nzl,tki,taranaki,25053
+nzl,wgn,wellington,25054
+nzl,wko,waikato,25055
+nzl,wtc,west coast,25056
+omn,?,oman,576
+omn,ba,al batinah,29714
+omn,bu,al buraymi,29715
+omn,da,ad dakhiliyah,29716
+omn,ma,masqat,25874
+omn,mu,musandam,29717
+omn,sh,ash sharqiyah,29718
+omn,wu,al wusta,29719
+omn,za,az zahirah,29720
+omn,zu,zufar,29721
+pak,?,pakistan,366
+pak,ba,balochisan,25875
+pak,gb,gilgit-baltistan,29744
+pak,is,islamabad,25876
+pak,jk,azad kashmir,29746
+pak,kp,khyber pakhtunkhwa,25877
+pak,pb,punjab,25878
+pak,sd,sindh - south,25879
+pak,ta,fed administered tribal areas,29747
+pan,01,bocas del toro,25888
+pan,02,cocle,25880
+pan,03,colon,25881
+pan,04,chiriqui,25882
+pan,05,darien,25883
+pan,06,herrera,25884
+pan,07,los santos,25885
+pan,08,panama,25886
+pan,09,veraguas,25887
+pan,?,panama,492
+pan,em,embera,29987
+pan,ky,kuna yala,29988
+pan,nb,ngabe-bugle,29990
+pcn,?,pitcairn,24614
+pcn,no region,pitcairn,24615
+per,?,peru,360
+per,ama,amazonas,24920
+per,anc,ancash,11993
+per,apu,apurimac,24921
+per,are,arequipa,11988
+per,aya,ayacucho,11989
+per,caj,cajamarca,11990
+per,cal,el callao,11991
+per,cus,cuzco,11995
+per,huc,huanuco,12000
+per,huv,huancavelica,11998
+per,ica,ica,3129
+per,jun,junin,11999
+per,lal,la libertad,12016
+per,lam,lambayeque,11992
+per,lim,lima,11994
+per,lma,metropolitana de lima,28352
+per,lor,loreto,12005
+per,mdd,madre de dios,24922
+per,moq,moquegua,12004
+per,pas,pasco,20078
+per,piu,piura,12012
+per,pun,puno,12007
+per,sam,san martin,12020
+per,tac,tacna,12018
+per,tum,tumbes,24919
+per,uca,ucayali,12014
+phl,?,philippines,386
+phl,abr,abra,24854
+phl,agn,agusan del norte,12026
+phl,ags,agusan del sur,24843
+phl,akl,aklan,23957
+phl,alb,albay,12625
+phl,ant,antique,24840
+phl,apa,apayao,29992
+phl,aur,aurora,24855
+phl,ban,bataan,24289
+phl,bas,basilan,24846
+phl,ben,benguet,12024
+phl,bil,biliran,29993
+phl,boh,bohol,24826
+phl,btg,batangas,12025
+phl,btn,batanes,20080
+phl,buk,bukidnon,24834
+phl,bul,bulacan,12048
+phl,cag,cagayan,15457
+phl,cam,camiguin,24851
+phl,can,camarines norte,24836
+phl,cap,capiz,24824
+phl,cas,camarines sur,20081
+phl,cat,catanduanes,15458
+phl,cav,cavite,12023
+phl,ceb,cebu,12029
+phl,com,compostela valley,28306
+phl,dao,davao oriental,24830
+phl,das,davao del sur,20084
+phl,dav,davao,12032
+phl,din,dinagat islands,29994
+phl,eas,eastern samar,24839
+phl,gui,guimaras,29995
+phl,ifu,ifugao,24966
+phl,ili,iloilo,12035
+phl,iln,ilocos norte,23840
+phl,ils,ilocos sur,24829
+phl,isa,isabela,24837
+phl,kal,kalinga-apayso,24850
+phl,lag,laguna,20086
+phl,lan,lanao del norte,12034
+phl,las,lanao del sur,24967
+phl,ley,leyte,12047
+phl,lun,la union,24828
+phl,mad,marinduque,24848
+phl,mag,maguindanao,12030
+phl,man,manila,12039
+phl,mas,masbate,24856
+phl,mdc,mindoro occidental,20090
+phl,mdr,mindoro oriental,24841
+phl,mou,mountain province,24853
+phl,msc,misamis occidental,24833
+phl,msr,misamis oriental,12027
+phl,nco,north cotabato,24832
+phl,nec,negroe occidental,24823
+phl,ner,negros oriental,12033
+phl,nsa,northern samar,24844
+phl,nue,nueva ecija,24821
+phl,nuv,nueva vizcaya,20093
+phl,pam,pampanga,12022
+phl,pan,pangasinan,12031
+phl,plw,palawan,23966
+phl,que,quezon,12627
+phl,qui,quirino,24849
+phl,riz,rizal,12037
+phl,rom,romblon,24842
+phl,sar,sarangani,28307
+phl,sco,south cotabato,24825
+phl,sig,siquijor,24852
+phl,sle,southern leyte,24845
+phl,slu,sulu,24838
+phl,sor,sorsogon,24847
+phl,suk,sultan kudarat,24968
+phl,sun,surigao del norte,24827
+phl,sur,surigao del sur,24831
+phl,tar,tarlac,24822
+phl,taw,tawi-tawi,28305
+phl,wsa,western samar,24835
+phl,zan,zamboanga del norte,24288
+phl,zas,zamboanga del sur,24287
+phl,zmb,zambales,12042
+phl,zsi,zamboanga sibugay,28308
+plw,002,aimeliik,29996
+plw,004,airai,29997
+plw,010,angaur,29998
+plw,050,hatohobei,29999
+plw,100,kayangel,30001
+plw,150,koror,25889
+plw,212,melekeok,30002
+plw,214,ngaraard,30004
+plw,218,ngarchelong,30005
+plw,222,ngardmau,30006
+plw,224,ngatpang,30007
+plw,226,ngchesar,30008
+plw,227,ngeremlengui,30009
+plw,228,ngiwal,30010
+plw,350,peleliu,30011
+plw,370,sonsorol,30013
+plw,?,palau,23770
+png,?,papua new guinea,534
+png,cpk,chimbu,29129
+png,cpm,central,29130
+png,ebr,east new britain,29133
+png,ehg,eastern highlands,29131
+png,epw,enga,29135
+png,esw,east sepik,29134
+png,gpk,gulf,29137
+png,mba,milne bay,29140
+png,mpl,morobe,25890
+png,mpm,madang,29138
+png,mrl,manus,29139
+png,ncd,national capital district,25891
+png,nik,new ireland,29141
+png,npp,northern,29144
+png,nsb,north solomons,25892
+png,san,sandaun,29146
+png,shm,southern highlands,29147
+png,wbk,west new britain,29151
+png,whm,western highlands,29150
+png,wpd,western,29149
+pol,?,poland,208
+pol,ds,dolnoslaskie,14360
+pol,kp,kujawsko-pomorskie,14347
+pol,lb,lubuskie,14351
+pol,ld,lodzkie,14350
+pol,lu,lubelskie,14349
+pol,ma,malopolskie,14373
+pol,mz,mazowieckie,14344
+pol,op,opolskie,14375
+pol,pd,podlaskie,14358
+pol,pk,podkarpackie,14362
+pol,pm,pomorskie,14353
+pol,sk,swietokrzyskie,14359
+pol,sl,slaskie,14345
+pol,wn,warminsko-mazurskie,14354
+pol,wp,wielkopolskie,14357
+pol,zp,zachodniopomorskie,14348
+pri,?,puerto rico,607
+pri,no region,puerto rico,5321
+prk,01,pyongyang,25893
+prk,02,pyongan-namdo,25894
+prk,03,pyongan-bukto,25895
+prk,04,chagang-do,25896
+prk,05,hwanghae-namdo,25897
+prk,06,hwanghae-bukto,25898
+prk,07,kangwon-do,25899
+prk,08,hamgyong-namdo,25900
+prk,09,hamgyong-bukto,25901
+prk,10,yanggang-do,30046
+prk,13,nason,30047
+prk,?,korea - north,723
+prt,01,aveiro,12054
+prt,02,beja,23808
+prt,03,braga,15518
+prt,04,braganca,15521
+prt,05,castelo branco,15522
+prt,06,colmbra,12056
+prt,07,evora,15524
+prt,08,faro,12057
+prt,09,guarda,15527
+prt,10,leiria,15528
+prt,11,lisboa,12053
+prt,12,portalegre,15538
+prt,13,porto,12060
+prt,14,santarem,15545
+prt,15,setubal,12063
+prt,16,viana do castelo,15554
+prt,17,vila real,23965
+prt,18,viseu,15555
+prt,20,regiao autonoma dos acores,12631
+prt,30,regiao autonoma da madeira,20106
+prt,?,portugal,206
+pry,01,concepcion,29161
+pry,02,san pedro,29165
+pry,03,cordillera,29170
+pry,04,guaira,29171
+pry,05,caaguazu,29173
+pry,06,caazapa,29174
+pry,07,itapua,25902
+pry,08,misiones,29177
+pry,09,paraguari,29181
+pry,10,alto parana,25903
+pry,11,central,25904
+pry,12,neembucu,29182
+pry,13,amambay,29183
+pry,14,canindeyu,25905
+pry,15,presidente hayes,29184
+pry,16,alto paraguay,29185
+pry,19,boqueron,29186
+pry,?,paraguay,183
+pry,asu,asuncion,29188
+pse,?,palestinian territories,12689
+pse,bth,bethlehem,25906
+pse,deb,deir el balah,30049
+pse,gza,gaza,25907
+pse,hbn,hebron,25908
+pse,jem,jerusalem,30050
+pse,jen,jenin,30051
+pse,jrh,jericho,30052
+pse,kys,khan yunis,30053
+pse,nbs,nablus,25909
+pse,ngz,north gaza,30054
+pse,qqa,qalqilya,30055
+pse,rbh,ramallah,25910
+pse,rfh,rafah,30056
+pse,slt,salfit,30057
+pse,tbs,tubas,30058
+pse,tkm,tulkarm,30059
+pyf,?,french polynesia,525
+pyf,no region,french polynesia,8583
+qat,?,qatar,519
+qat,da,ad dawhah,25911
+qat,kh,al khawr wa adh dhakhirah,30060
+qat,ms,ash shamal,30061
+qat,ra,ar rayyan,30062
+qat,us,umm salai,30063
+qat,wa,al wakrah,30064
+qat,za,az zaayin,30065
+reu,?,reunion,2510
+reu,no region,reunion,12777
+rou,?,romania,233
+rou,ab,alba,23799
+rou,ag,arges,12083
+rou,ar,arad,12066
+rou,b,bucaresti,12072
+rou,bc,bacau,12067
+rou,bh,bihor,12081
+rou,bn,bistrita-nasaud,15558
+rou,br,braila,12070
+rou,bt,botosani,12069
+rou,bv,brasov,12071
+rou,bz,buzau,12074
+rou,cj,cluj,12075
+rou,cl,calarasi,15561
+rou,cs,cara'-severin,23811
+rou,ct,conatarta,12076
+rou,cv,covasna,23800
+rou,db,dambovita,23797
+rou,dj,dolj,12077
+rou,gj,gorj,23813
+rou,gl,galati,12079
+rou,gr,giurqiu,15563
+rou,hd,hunedoara,23810
+rou,hr,harghita,23814
+rou,if,ilfov,28168
+rou,il,ialomita,23812
+rou,is,iasi,12080
+rou,mh,mehedinti,23798
+rou,mm,maramures,12068
+rou,ms,mures,15564
+rou,nt,neamt,12082
+rou,ot,olt,23824
+rou,ph,prahova,12084
+rou,sb,sibiu,12085
+rou,sj,salaj,23875
+rou,sm,satu mare,15565
+rou,sv,suceava,12086
+rou,tl,tulcea,15567
+rou,tm,timis,12087
+rou,tr,teleorman,23825
+rou,vl,valcea,23809
+rou,vn,vrancea,12078
+rou,vs,vaslui,23815
+rus,?,russian federation,204
+rus,ad,adygeya respublika,23803
+rus,al,altay respublika,24683
+rus,alt,altayskiy kray,12095
+rus,amu,amurskaya oblast,12632
+rus,arr,arkhangel'skaya oblast,12091
+rus,ast,astrakhanskaya oblast,12092
+rus,ba,bashkortostan respublika,12142
+rus,bel,belgorodskaya oblast,12096
+rus,bry,bryanskaya oblast,12099
+rus,bu,buryatiya respublika,12190
+rus,ce,chechenskaya respublika,23909
+rus,che,chelyabinskaya oblast,12100
+rus,chu,chukotskiy avtonomnyy okrug,15570
+rus,cu,chuvashskaya respublika,23880
+rus,da,dagestan respublika,12133
+rus,in,ingushetiya respublika,23802
+rus,irr,irkutskaya oblast,12090
+rus,iva,ivanovskaya oblast,12635
+rus,kam,kamchatskiy kray,12636
+rus,kb,kabardino-balkarskaya respublika,12141
+rus,kc,karachayevo-cherkesskaya respublika,12102
+rus,kda,krasnodarskiy kray,12108
+rus,kem,kemerovskaya oblast,12117
+rus,kgd,kaliningradskaya oblast,12637
+rus,kgn,kurganskaya oblast,12127
+rus,kha,khabarovskiy kray,12118
+rus,khm,khanty-mansiyskiy avtonomnyy okrug-yugra,12143
+rus,kir,kirovskaya oblast,15572
+rus,kk,khakasiya respublika,12088
+rus,kl,kalmykiya respublika,23794
+rus,klu,kaluzhskaya oblast,12113
+rus,ko,komi respublika,12181
+rus,kos,kostromskaya oblast,12122
+rus,kr,kareliya respublika,12158
+rus,krs,kurskaya oblast,15573
+rus,kya,krasnoyarskiy kray,12089
+rus,len,leningradskaya oblast,15574
+rus,lip,lipetskaya oblast,12130
+rus,mag,magadanskaya oblast,12131
+rus,me,mariy el respublika,23784
+rus,mo,mordoviya respublika,12169
+rus,mos,moskovskaya oblast,12094
+rus,mow,moskva,12137
+rus,mur,murmanskaya oblast,12139
+rus,nen,nenetskiy avtonomnyy okrug,24788
+rus,ngr,novgorodskaya oblast,12145
+rus,niz,nizhegorodskaya oblast,12640
+rus,nvs,novosibirskaya oblast,12149
+rus,oms,omskaya oblast,12151
+rus,ore,orenburgskaya oblast,12153
+rus,orl,orlovskaya oblast,23807
+rus,per,permskiy kray,12097
+rus,pnz,penzenskaya oblast,12128
+rus,pri,primorskiy kray,12193
+rus,psk,pskovskaya oblast,12161
+rus,ros,rostovskaya oblast,12146
+rus,rya,ryazanskaya oblast,12165
+rus,sa,sakha respublika,12200
+rus,sak,sakhalinskaya oblast,12125
+rus,sam,samarskaya oblast,12168
+rus,sar,saratovskaya oblast,12093
+rus,se,severnaya osetiya-alaniya respublika,23801
+rus,smo,smolenskaya oblast,12174
+rus,spe,sankt-peterburg,12129
+rus,sta,stavropol'skiy kray,12162
+rus,sve,sverdlovskaya oblast,12105
+rus,ta,tatarstan respublika,12116
+rus,tam,tambovskaya oblast,12136
+rus,tom,tomskaya oblast,12185
+rus,tul,tul'skaya oblast,12186
+rus,tve,tverskaya oblast,12187
+rus,ty,tyva respublika,24672
+rus,tyu,tyumenskaya oblast,12188
+rus,ud,udmurtskaya respublika,12109
+rus,uly,ul'yanovskaya oblast,12104
+rus,vgg,volgogradskaya oblast,12195
+rus,vla,vladimirskaya oblast,12123
+rus,vlg,vologodskaya oblast,12101
+rus,vor,voronezhskaya oblast,12198
+rus,yan,yamalo-nenetskiy avtonomnyy okrug,12167
+rus,yar,yaroslavskaya oblast,12163
+rus,yev,yevreyskaya avtonomnaya oblast,23826
+rus,zab,zabaykal'skiy kray,28310
+rwa,01,ville de kigali,25912
+rwa,02,est,30066
+rwa,03,nord,30067
+rwa,04,ouest,30068
+rwa,05,sud,25913
+rwa,?,rwanda,596
+sau,01,ar riyad,12208
+sau,02,makkah,12207
+sau,03,al-madinah,23905
+sau,04,ash sharqlyah,12205
+sau,05,al qasim,24818
+sau,06,ha'il,24820
+sau,07,tabuk,24313
+sau,08,al hudud ash shamallyah,24819
+sau,09,jlzan,24817
+sau,10,najran,24972
+sau,11,al batah,24969
+sau,12,al jawf,24970
+sau,14,asir,24971
+sau,?,saudi arabia,226
+sdn,?,sudan,4221
+sdn,dc,zalingei,30069
+sdn,de,sharq darfur,30070
+sdn,dn,shamal darfur,30071
+sdn,ds,janub darfur,30072
+sdn,dw,gharb darfur,30073
+sdn,gd,al qadarif,30074
+sdn,gz,al jazirah,30075
+sdn,ka,kassala,30076
+sdn,kh,al khartum,25915
+sdn,kn,shamal kurdufan,30077
+sdn,ks,janub kurdufan,30078
+sdn,nb,an nil al azraq,30079
+sdn,no,ash shamaliyah,30080
+sdn,nr,an nil,30081
+sdn,nw,an nil al abyad,30082
+sdn,rs,al bahr al ahmar,30083
+sdn,si,sinnar,30084
+sen,?,senegal,661
+sen,db,diourbel,25917
+sen,dk,dakar,25918
+sen,fk,fatick,30085
+sen,ka,kaffrine,30086
+sen,kd,kolda,25919
+sen,ke,kedougou,30087
+sen,kl,kaolack,25920
+sen,lg,louga,25921
+sen,mt,matam,30088
+sen,se,sedhiou,30089
+sen,sl,saint-louis,25922
+sen,tc,tambacounda,30090
+sen,th,thies,25923
+sen,zg,ziguinchor,25924
+sgp,01,central,25925
+sgp,02,north east,30091
+sgp,03,north,25926
+sgp,04,south east,30092
+sgp,05,south west,30093
+sgp,?,singapore,283
+sgs,?,south georgia / south sandwich,5000
+sgs,no region,no region,30278
+shn,?,st. helena,510
+shn,ac,ascension,30094
+shn,hl,saint helena,25927
+shn,ta,tristan da cunha,30095
+sjm,?,svalbard and jan mayen islands,24018
+sjm,no region,svalbard and jan mayen islands,24017
+slb,?,solomon islands,535
+slb,ce,central,30096
+slb,ch,choiseul,30097
+slb,ct,capital territory (honiara),30098
+slb,gu,guadalcanal,25928
+slb,is,isabel,30099
+slb,mk,makira,30100
+slb,ml,malaita,30101
+slb,rb,rennell and bellona,30102
+slb,te,temotu,30103
+slb,we,western,30104
+sle,?,sierra leone,520
+sle,e,eastern,30105
+sle,n,northern,30106
+sle,s,southern,30107
+sle,w,western area,25929
+slv,?,el salvador,497
+slv,ah,ahuachapan,29745
+slv,ca,cabanas,29748
+slv,ch,chalatenango,30109
+slv,cu,cuscatlan,30108
+slv,li,la libertad,25930
+slv,mo,morazan,30112
+slv,pa,la paz,30110
+slv,sa,santa ana,25931
+slv,sm,san miguel,25932
+slv,so,sonsonate,30114
+slv,ss,san salvador,25933
+slv,sv,san vicente,30113
+slv,un,la union,30111
+slv,us,usulutan,30115
+smr,01,acquaviva,29735
+smr,02,chiesanuova,29736
+smr,03,domagnano,29737
+smr,04,faetano,29739
+smr,05,fiorentino,29740
+smr,06,borgo maggiore,29742
+smr,07,san marino,25934
+smr,08,montegiardino,29741
+smr,09,serravalle,29743
+smr,?,san marino,524
+som,04,faetano,29738
+som,?,somalia,20348
+som,aw,awdal,29722
+som,bk,bakool,29723
+som,bn,banaadir,25935
+som,br,bari,25936
+som,by,bay,29724
+som,ga,galguduud,29725
+som,ge,gedo,29726
+som,hi,hiran,29727
+som,jd,jubbada dhexe,29728
+som,jh,jubbada hoose,29729
+som,mu,mudug,25937
+som,nu,nugaal,29730
+som,sa,sanaag,25938
+som,sd,shabeellaha dhexe,29731
+som,sh,shabeellaha hoose,29732
+som,so,sool,29733
+som,to,togdheer,29734
+som,wo,woqooyi galbeed,25939
+spm,?,st. pierre and miquelon,24616
+spm,no region,st. pierre and miquelon,24617
+srb,00,belgrade,25940
+srb,01,severnobacki okrug,25941
+srb,02,srednjebanatski okrug,25942
+srb,03,severnobanatski okrug,25943
+srb,04,juznobanatski okrug,25944
+srb,05,zapadnobacki okrug,25945
+srb,06,juznobanatcki okrug,25946
+srb,07,sremski okrug,25947
+srb,08,macvanski okrug,25948
+srb,09,kolubarski okrug,25949
+srb,10,podunavski okrug,29558
+srb,11,branicevski okrug,25950
+srb,12,sumadijski okrug,25951
+srb,13,pomoravski okrug,25952
+srb,14,borski okrug,25953
+srb,15,zajecarski okrug,29552
+srb,16,zlatiborski okrug,29553
+srb,17,moravicki okrug,25954
+srb,18,raska okrug,25955
+srb,19,rasinski okrug,25956
+srb,20,nisavski okrug,25957
+srb,21,toplicki okrug,25958
+srb,22,pirotski okrug,25959
+srb,23,jablanicki okrug,25960
+srb,24,pcinjski okrug,25961
+srb,25,kosovski okrug,25962
+srb,26,pecki okrug,29554
+srb,27,prizrenski okrug,29555
+srb,28,kosovsko-mitrovacki okrug,29556
+srb,29,kosovsko-pomoravski okrug,29557
+srb,?,serbia,272
+ssd,?,south sudan,25122
+ssd,bn,northern bahr el-ghazal,30119
+ssd,bw,western bahr el-ghazal,30122
+ssd,ec,central equatoria,25914
+ssd,ee,eastern equatoria,30116
+ssd,ew,western equatoria,30123
+ssd,jg,jonglei,30117
+ssd,lk,lakes,30118
+ssd,nu,upper nile,25916
+ssd,uy,unity,30120
+ssd,wr,warrap,30121
+stp,?,sao tome and principe,526
+stp,p,principe,30124
+stp,s,sao tome,25966
+sur,?,suriname,797
+sur,br,brokopondo,30125
+sur,cm,commewijne,30126
+sur,cr,coronie,30127
+sur,ma,marowijne,30128
+sur,ni,nickerie,30129
+sur,pm,paramaribo,25967
+sur,pr,para,30130
+sur,sa,saramacca,30131
+sur,si,sipaliwini,30132
+sur,wa,wanica,30133
+svk,?,slovakia (slovak republic),217
+svk,bc,banskobystricky kraj,25968
+svk,bl,bratislavsky kraj,25969
+svk,ki,kosicky kraj,25970
+svk,ni,nitriansky kraj,25971
+svk,pv,presovsky kraj,25972
+svk,ta,trnavsky kraj,25973
+svk,tc,trenciansky kraj,25974
+svk,zi,zilinsky kraj,25975
+svn,01,ajdovscina,25979
+svn,02,beltinci,29753
+svn,03,bled,29756
+svn,04,bohinj,25980
+svn,05,borovnica,29758
+svn,06,bovec,29759
+svn,07,brda,29760
+svn,08,brezovica,29761
+svn,09,brezice,25981
+svn,10,tisina,29762
+svn,100,radenci,29861
+svn,101,radlje ob dravi,26013
+svn,102,radovljica,29863
+svn,103,ravne na koroskem,29864
+svn,104,ribnica,29865
+svn,105,rogasovci,29866
+svn,106,rogaska slatina,29867
+svn,107,rogatec,29870
+svn,108,ruse,26014
+svn,109,semic,29872
+svn,11,celje,25982
+svn,110,sevnica,29873
+svn,111,sezana,26015
+svn,112,slovenj gradec,26016
+svn,113,slovenska bistrica,26017
+svn,114,slovenske konjice,26018
+svn,115,starse,29876
+svn,116,sveti jurij,29880
+svn,117,sencur,29882
+svn,118,sentilj,26019
+svn,119,sentjernej,29884
+svn,12,cerklje na gorenjskem,29763
+svn,120,sentjur pri celju,29886
+svn,121,skocjan,29887
+svn,122,skofja loka,29890
+svn,123,skofljica,29891
+svn,124,smarje pri jelsah,26020
+svn,125,smartno ob paki,29893
+svn,126,sostanj,26021
+svn,127,store,29894
+svn,128,tolmin,26022
+svn,129,trbovlje,26023
+svn,13,cerknica,29764
+svn,130,trebnje,26024
+svn,131,trzic,26025
+svn,132,turnisce,29896
+svn,133,velenje,29897
+svn,134,velike lasce,29900
+svn,135,videm,29902
+svn,136,vipava,29904
+svn,137,vitanje,29906
+svn,138,vodice,29907
+svn,139,vojnik,29908
+svn,14,cerkno,29765
+svn,140,vrhnika,26026
+svn,141,vuzenica,29909
+svn,142,zagorje ob savi,26027
+svn,143,zavrc,29910
+svn,144,zrece,29915
+svn,146,zelezniki,26028
+svn,147,ziri,29916
+svn,148,benedikt,29917
+svn,149,bistrica ob sotli,29918
+svn,15,crensovci,29768
+svn,150,bloke,29919
+svn,151,braslovce,29920
+svn,152,cankova,29921
+svn,153,cerkvenjak,29922
+svn,154,dobje,29923
+svn,155,dobrna,29924
+svn,156,dobrovnik/dobronak,29925
+svn,157,dolenjske toplice,29926
+svn,158,grad,29927
+svn,159,hajdina,29928
+svn,16,crna na koroskem,25983
+svn,160,hoce-slivnica,29929
+svn,161,hodos,29930
+svn,162,horjul,29931
+svn,163,jezersko,29932
+svn,164,komenda,29933
+svn,165,kostel,29934
+svn,166,krizevci,29935
+svn,167,lovrenc na pohorju,29936
+svn,168,markovci,29937
+svn,169,miklavzna dravskem polju,29938
+svn,17,crnomelj,25984
+svn,170,mirna pec,29939
+svn,171,oplotnica,29940
+svn,172,podlehnik,29941
+svn,173,polzela,29942
+svn,174,prebold,29943
+svn,175,prevalje,29944
+svn,176,razkrizje,29945
+svn,177,ribnica na pohorju,29946
+svn,178,selnica ob dravi,29947
+svn,179,sodrazica,29948
+svn,18,destrnik,29771
+svn,180,solcava,29949
+svn,181,sveta ana,29950
+svn,182,sveti andraz v slovenskih gor,29951
+svn,183,sempeter-vrtojba,29952
+svn,184,tabor,29953
+svn,185,trnovska vas,29954
+svn,186,trzin,29955
+svn,187,velika polana,29956
+svn,188,verzej,29957
+svn,189,vransko,29958
+svn,19,divaca,29773
+svn,190,zalec,26029
+svn,191,zetale,29959
+svn,192,zirovnica,29961
+svn,193,zuzemberk,29963
+svn,194,smartno pri litiji,29964
+svn,195,apace,29965
+svn,196,cirkulane,29966
+svn,197,kostanjevica na krki,29968
+svn,198,makole,29969
+svn,199,mokronog-trebelno,29971
+svn,20,dobrepolje,29777
+svn,200,poljcane,29972
+svn,201,rence-vogrsko,29974
+svn,202,sredisce ob dravi,29975
+svn,203,straza,29976
+svn,204,sveta trojica v slovenskih go,29977
+svn,205,sveti tomaz,29978
+svn,206,smarjeske toplice,29979
+svn,207,gorje,29980
+svn,208,log-dragomer,29981
+svn,209,recica ob savinji,29982
+svn,21,dobrova-polhov gradec,29778
+svn,210,sveti jurij v slovenskih gori,29983
+svn,211,sentrupert,29984
+svn,22,dol pri ljubljani,29780
+svn,23,domzale,25985
+svn,24,dornava,29789
+svn,25,dravograd,25986
+svn,26,duplek,29797
+svn,27,gorenja vas-poljane,27297
+svn,28,gorisnica,29799
+svn,29,gornja radgona,25987
+svn,30,gornji grad,29801
+svn,31,gornji petrovci,29808
+svn,32,grosuplje,29809
+svn,33,salovci,29810
+svn,34,hrastnik,29811
+svn,35,hrpelje-kozina,29813
+svn,36,idrija,25988
+svn,37,ig,29814
+svn,38,ilirska bistrica,25989
+svn,39,ivancna gorica,25990
+svn,40,izola/isola,25991
+svn,41,jesenice,29815
+svn,42,jursinci,29817
+svn,43,kamnik,25992
+svn,44,kanal,29818
+svn,45,kidricevo,29820
+svn,46,kobarid,29822
+svn,47,kobilje,29823
+svn,48,kocevje,25993
+svn,49,komen,29824
+svn,50,koper/capodistria,25994
+svn,51,kozje,29825
+svn,52,kranj,25995
+svn,53,kranjska gora,25996
+svn,54,krsko,25997
+svn,55,kungota,29826
+svn,56,kuzma,29827
+svn,57,lasko,25998
+svn,58,lenart,29828
+svn,59,lendava/lendva,25999
+svn,60,litija,26000
+svn,61,ljubljana,26001
+svn,62,ljubno,29829
+svn,63,ljutomer,26002
+svn,64,logatec,26003
+svn,65,loska dolina,26004
+svn,66,loski potok,29830
+svn,67,luce,29832
+svn,68,lukovica,29835
+svn,69,majsperk,26005
+svn,70,maribor,26006
+svn,71,medvode,29836
+svn,72,menges,29837
+svn,73,metlika,29838
+svn,74,mezica,29839
+svn,75,miren-kostanjevica,29840
+svn,76,mislinja,29841
+svn,77,moravce,29842
+svn,78,moravske toplice,26007
+svn,79,mozirje,29843
+svn,80,murska sobota,29844
+svn,81,muta,29845
+svn,82,naklo,29846
+svn,83,nazarje,29847
+svn,84,nova gorica,26008
+svn,85,novo mesto,26009
+svn,86,odranci,29848
+svn,87,ormoz,26010
+svn,88,osilnica,29849
+svn,89,pesnica,29851
+svn,90,piran/pirano,26011
+svn,91,pivka,29852
+svn,92,podcetrtek,29853
+svn,93,podvelka,29854
+svn,94,postojna,26012
+svn,95,preddvor,29855
+svn,96,ptuj,29856
+svn,97,puconci,29858
+svn,98,race-fram,29859
+svn,99,radece,29860
+svn,?,slovenia,224
+swe,?,sweden,71
+swe,ab,stockholms lan,11358
+swe,ac,vasterbottens lan,11396
+swe,bd,norrbottens lan,11359
+swe,c,uppsala lan,11408
+swe,d,sodermanlands lan,11364
+swe,e,ostergotlands lan,11380
+swe,f,jonkopings lan,18912
+swe,g,kronobergs lan,11411
+swe,h,kalmar lan,11376
+swe,i,gotlands lan,12690
+swe,k,blekinge lan,11386
+swe,m,skane lan,11365
+swe,n,hallands lan,18969
+swe,o,vastra gotalands lan,11362
+swe,s,varmlands lan,11369
+swe,t,orebro lan,11392
+swe,u,vastmanlands lan,11410
+swe,w,dalarnas lan,19044
+swe,x,gavleborgs lan,11367
+swe,y,vasternorrlands lan,11361
+swe,z,jamtlands lan,19075
+swz,?,swaziland,638
+swz,hh,hhohho,26031
+swz,lu,lubombo,26032
+swz,ma,manzini,26033
+swz,sh,shiselweni,26034
+sxm,?,sint maarten,25120
+sxm,no region,sint maarten,25119
+syc,01,anse aux pins,30134
+syc,02,anse boileau,30135
+syc,03,anse etoile,30136
+syc,04,au cap,30137
+syc,05,anse royale,30138
+syc,06,baie lazare,30139
+syc,07,baie sainte anne,30140
+syc,08,beau vallon,30141
+syc,09,bel air,30142
+syc,10,bel ombre,30143
+syc,11,cascade,30144
+syc,12,glacis,30145
+syc,13,grand anse mahe,30146
+syc,14,grand anse praslin,30147
+syc,15,la digue,30148
+syc,16,english river,26036
+syc,17,mont buxton,30149
+syc,18,mont fleuri,30150
+syc,19,plaisance,30151
+syc,20,pointe larue,30152
+syc,21,port glaud,30153
+syc,22,saint louis,30154
+syc,23,takamaka,30155
+syc,24,les mamelles,30156
+syc,25,roche caiman,30157
+syc,?,seychelles,598
+syr,?,syrian arab republic,2361
+syr,di,dimashq,26039
+syr,dr,dara,30158
+syr,dy,dayr az zawr,26040
+syr,ha,al hasakah,29766
+syr,hi,hims,26041
+syr,hl,halab,26042
+syr,hm,hamah,26043
+syr,id,idlib,26044
+syr,la,al ladhiqiyah,26045
+syr,qu,al qunaytirah,30159
+syr,ra,ar raqqah,26046
+syr,rd,rif dimashq,29769
+syr,su,as suwayda,29772
+syr,ta,tartus,29774
+tca,?,turks and caicos islands,361
+tca,no region,turks and caicos islands,8838
+tcd,?,chad,509
+tcd,ba,batha,30160
+tcd,bg,bahr el gazel,30161
+tcd,bo,borkou,30162
+tcd,cb,chari-baguirmi,30163
+tcd,en,ennedi,30164
+tcd,gr,guera,29781
+tcd,hl,hadjer lamis,29779
+tcd,ka,kanem,30165
+tcd,lc,lac,30166
+tcd,lo,logone occidental,26049
+tcd,lr,logone-oriental,30167
+tcd,ma,mandoul,30168
+tcd,mc,moyen-chari,29783
+tcd,me,mayo-kebbi-est,30169
+tcd,mo,mayo-kebbi-ouest,30170
+tcd,nd,ndjamena,26050
+tcd,od,ouaddai,26048
+tcd,sa,salamat,30171
+tcd,si,sila,30172
+tcd,ta,tandjile,30173
+tcd,ti,tibesti,30174
+tcd,wf,wadi fira,30175
+tgo,?,togo,374
+tgo,c,centre,30176
+tgo,k,kara,30177
+tgo,m,maritime,26051
+tgo,p,plateaux,29784
+tgo,s,savannes,30178
+tha,10,krung thep maha nakhon bangkok,12224
+tha,11,samut prakan,24590
+tha,12,nonthaburi,12230
+tha,13,pathum thani,20238
+tha,14,phra nakhon si ayutthaya,23758
+tha,15,ang thong,24900
+tha,16,lop buri,24865
+tha,17,sing buri,24902
+tha,18,chai nat,24891
+tha,19,saraburi,12232
+tha,20,chon buri,12226
+tha,21,rayong,24857
+tha,22,chanthaburi,24904
+tha,23,trat,24893
+tha,24,chachoengsao,15586
+tha,25,prachin buri,23882
+tha,26,nakhon nayok,24897
+tha,27,sa kaeo,24882
+tha,30,nakhon ratchasima,12228
+tha,31,buri ram,24867
+tha,32,surin,24903
+tha,33,si sa ket,24880
+tha,34,ubon ratchathani,12234
+tha,35,yasothon,12235
+tha,36,chaiyaphum,24885
+tha,37,amnat charoen,24894
+tha,38,bueng kan,33767
+tha,39,nong bua lam phu,24896
+tha,40,khon kaen,12227
+tha,41,udon thani,24864
+tha,42,loei,24889
+tha,43,nong khai,24887
+tha,44,maha sarakham,24874
+tha,45,roi et,24868
+tha,46,kalasin,24862
+tha,47,sakon nakhon,24876
+tha,48,nakhon phanom,24906
+tha,49,mukdahan,24890
+tha,50,chiang mai,12225
+tha,51,lamphun,24873
+tha,52,lampang,15587
+tha,53,uttaradit,24879
+tha,54,phrae,15588
+tha,55,nan,24892
+tha,56,phayao,24875
+tha,57,chiang rai,15589
+tha,58,mae hong son,24901
+tha,60,nakhon sawan,23881
+tha,61,uthai thani,24933
+tha,62,kamphasng phet,24884
+tha,63,tak,24883
+tha,64,sukhothai,24881
+tha,65,phitsanulok,12231
+tha,66,phichit,24872
+tha,67,phetchabun,24878
+tha,70,ratchaburi,24860
+tha,71,kanchanaburi,24905
+tha,72,suphan buri,24869
+tha,73,nakhon pathom,24858
+tha,74,samut sakhon,24859
+tha,75,samut songkhram,24888
+tha,76,phetchaburi,24877
+tha,77,prachuap khiri khan,24866
+tha,80,nakhon si thammarat,12229
+tha,81,krabi,24870
+tha,82,phangnga,24895
+tha,83,phaket,15590
+tha,84,surat thani,24861
+tha,85,ranong,15591
+tha,86,chumphon,24886
+tha,90,songkhla,12233
+tha,91,satun,24899
+tha,92,trang,15592
+tha,93,phatthalung,24898
+tha,94,pattani,15593
+tha,95,yala,15594
+tha,96,narathiwat,24907
+tha,?,thailand,484
+tha,s,pattaya,28353
+tjk,?,tajikistan,581
+tjk,gb,gorno-badakhshan,30179
+tjk,kr,karategin,26052
+tjk,kt,khatlon,30180
+tjk,su,sughd,26053
+tkl,?,tokelau,24618
+tkl,no region,tokelau,24619
+tkm,?,turkmenistan,2465
+tkm,a,ahal,30181
+tkm,b,balkan,26054
+tkm,d,dasoguz,26055
+tkm,l,lebap,26056
+tkm,m,mary,30182
+tkm,s,asgabat,26057
+tls,?,timor-leste,24620
+tls,al,aileu,30183
+tls,an,ainaro,30184
+tls,ba,baucau,30185
+tls,bo,bobonaro,30186
+tls,co,cova lima,30187
+tls,di,dili,26058
+tls,er,ermera,30188
+tls,la,lautem,30189
+tls,li,liquica,30190
+tls,mf,manufahi,30192
+tls,mt,manatuto,30191
+tls,oe,oecussi,30193
+tls,vi,viqueque,30194
+ton,01,eua,30195
+ton,02,haapai,30196
+ton,03,niuas,30197
+ton,04,tongatapu,26059
+ton,05,vavau,30198
+ton,?,tonga,201
+tto,?,trinidad and tobago,375
+tto,ari,arima,29786
+tto,cha,chaguanas,29788
+tto,ctt,couva-tabaquite-talparo,29790
+tto,dmn,diego martin,29800
+tto,eto,eastern tobago,30199
+tto,ped,penal-debe,29802
+tto,pos,port of spain,26060
+tto,prt,princes town,29792
+tto,ptf,point fortin,30200
+tto,rcm,rio claro-mayaro,30201
+tto,sfo,san fernando,29804
+tto,sge,sangre grande,29794
+tto,sip,siparia,29805
+tto,sjl,san juan-laventille,29798
+tto,tup,tunapuna-piarco,29795
+tto,wto,western tobago,29807
+tun,11,tunis,26061
+tun,12,ariana,29767
+tun,13,ben arous,29770
+tun,14,la manouba,29775
+tun,21,nabeul,26062
+tun,22,zaghouan,29776
+tun,23,bizerte,29752
+tun,31,beja,29751
+tun,32,jendouba,29782
+tun,33,le kef,29785
+tun,34,siliana,29787
+tun,41,kairouan,29791
+tun,42,kasserine,29793
+tun,43,sidi bouzid,29796
+tun,51,sousse,26063
+tun,52,monastir,29749
+tun,53,mahdia,29750
+tun,61,sfax,26064
+tun,71,gafsa,29755
+tun,72,tozeur,29803
+tun,73,kebili,29757
+tun,81,gabes,26065
+tun,82,medenine,29754
+tun,83,tataouine,29806
+tun,?,tunisia,2128
+tur,01,adana,11024
+tur,02,adiyaman,24179
+tur,03,afyon,11026
+tur,04,agrri,19077
+tur,05,amasya,24181
+tur,06,ankara,11027
+tur,07,antalya,11029
+tur,08,artvin,24183
+tur,09,aydin,11030
+tur,10,balikesir,11031
+tur,11,bilecik,24186
+tur,12,bingol,24187
+tur,13,bitlis,24188
+tur,14,bolu,19079
+tur,15,burdur,24189
+tur,16,bursa,11032
+tur,17,canakkale,19084
+tur,18,cankiri,24190
+tur,19,corum,24191
+tur,20,denizli,24192
+tur,21,diyarbakir,11033
+tur,22,edirne,23964
+tur,23,elazig,11034
+tur,24,erzincan,23839
+tur,25,erzurum,11035
+tur,26,eskisehir,11036
+tur,27,gaziantep,11037
+tur,28,giresun,24193
+tur,29,gumushane,24194
+tur,30,hakkari,24195
+tur,31,hatay,11028
+tur,32,isparta,23796
+tur,33,icel,19086
+tur,34,istanbul,11040
+tur,35,izmir,11041
+tur,36,kars,19119
+tur,37,kastamonu,19120
+tur,38,kayseri,11042
+tur,39,kirklareli,24199
+tur,40,kirsehir,24198
+tur,41,kocaeli,11038
+tur,42,konya,11044
+tur,43,kutahya,11045
+tur,44,malatya,11046
+tur,45,manisa,11047
+tur,46,kahraman maras,12647
+tur,47,mardin,23876
+tur,48,mugla,19126
+tur,49,mus,19128
+tur,50,nevsehir,19129
+tur,51,nigde,19130
+tur,52,ordu,24200
+tur,53,rize,24178
+tur,54,sakarya,11025
+tur,55,samsun,11049
+tur,56,siirt,24201
+tur,57,sinop,24202
+tur,58,sivas,11050
+tur,59,tekirdag,19131
+tur,60,tokat,23795
+tur,61,trabzon,11051
+tur,62,tunceli,24204
+tur,63,sanliurfa,19132
+tur,64,usak,24205
+tur,65,van,11052
+tur,66,yozgat,23806
+tur,67,zonguldak,11053
+tur,68,aksaray,24180
+tur,69,bayburt,24185
+tur,70,karaman,23753
+tur,71,kirikkale,11043
+tur,72,batman,24184
+tur,73,sirnak,24203
+tur,74,bartin,24177
+tur,75,ardahan,24182
+tur,76,igdir,24206
+tur,77,yalova,19134
+tur,78,karabuk,24196
+tur,79,kilis,24197
+tur,80,osmaniye,28169
+tur,81,duzce,28170
+tur,?,turkey,211
+tuv,?,tuvalu,3150
+tuv,fun,funafuti,26066
+tuv,nit,niutao,30214
+tuv,nkf,nukufetau,30216
+tuv,nkl,nukulaelae,30217
+tuv,nma,nanumea,30213
+tuv,nmg,nanumanga,30212
+tuv,nui,nui,30215
+tuv,vai,vaitupu,30218
+twn,?,taiwan province of china,387
+twn,cha,changhua county,24444
+twn,cyi,chiayi city,15596
+twn,cyq,chiayi county,33303
+twn,hsq,hsinchu county,33304
+twn,hsz,hsinchu city,12239
+twn,hua,hualien county,15597
+twn,ila,yilan county,15598
+twn,kee,keelung city,24462
+twn,khh,kaohsiung city,12240
+twn,khq,kaohsiung county,33305
+twn,kin,kinmen county,33313
+twn,lie,lienkiang county,33314
+twn,mia,miaoli county,23874
+twn,nan,nantou county,24445
+twn,pen,penghu county,15599
+twn,pif,pingtung county,24447
+twn,tao,taoyuan county,20241
+twn,tnn,tainan city,15600
+twn,tnq,tainan county,33307
+twn,tpe,taipei city,12241
+twn,tpq,new taipei city,33308
+twn,ttt,taitung county,15603
+twn,txg,taichung city,15604
+twn,txq,taichung county,33306
+twn,yun,yunlin county,24446
+tza,01,arusha,26067
+tza,02,dar-es-salaam,26068
+tza,03,dodoma,26069
+tza,04,iringa,26070
+tza,05,kagera,29812
+tza,06,pemba north,29816
+tza,07,zanzibar north,29819
+tza,08,kigoma,29821
+tza,09,kilimanjaro,26071
+tza,10,pemba south,29831
+tza,11,zanzibar south,29833
+tza,12,lindi,29834
+tza,13,mara,29868
+tza,14,mbeya,29879
+tza,15,zanzibar west,26072
+tza,16,morogoro,29883
+tza,17,mtwara,26073
+tza,18,mwanza,26074
+tza,19,coast,29888
+tza,20,rukwa,29889
+tza,21,ruvuma,29892
+tza,22,shinyanga,26075
+tza,23,singida,29895
+tza,24,tabora,29898
+tza,25,tanga,26076
+tza,26,manyara,29899
+tza,?,tanzania - united republic of,383
+uga,?,uganda,299
+uga,c,central,26077
+uga,e,eastern,29901
+uga,n,northern,29903
+uga,w,western,29905
+ukr,05,vinnyts'ka oblast',12256
+ukr,07,volyos'ka oblast',12648
+ukr,09,luhans'ka oblast',12249
+ukr,12,dnipropetrovs'ka oblast',12649
+ukr,14,donets'ka oblast',12245
+ukr,18,zhytomyrs'ka oblast',12258
+ukr,21,zakarpats'ka oblast',12255
+ukr,23,zaporiz'ka oblast',12257
+ukr,26,ivano-frankivs'ka oblast',12244
+ukr,30,kyiv,12650
+ukr,32,kyivs'ka oblast',25086
+ukr,35,kirovohrads'ka oblast',12247
+ukr,40,sevastopol,24998
+ukr,43,respublika krym,12651
+ukr,46,l'vivs'ka oblast',12248
+ukr,48,mykolaivs'ka oblast',24625
+ukr,51,odes 'ka oblast',12253
+ukr,53,poltavs'ka oblast',12254
+ukr,56,rivnens'ka oblast',23907
+ukr,59,sums 'ka oblast',12653
+ukr,61,ternopil's'ka oblast',23862
+ukr,63,kharkivs'ka oblast',15610
+ukr,65,khersons'ka oblast',15611
+ukr,68,khmel'nyts'ka oblast',12246
+ukr,71,cherkas'ka oblast',12654
+ukr,74,chernihivs'ka oblast',12655
+ukr,77,chernivets'ka oblast',23754
+ukr,?,ukraine,207
+umi,67,johnston atoll,30295
+umi,71,midway islands,30297
+umi,76,navassa island,30298
+umi,79,wake island,30300
+umi,81,baker island,30292
+umi,84,howland island,30293
+umi,86,jarvis island,30294
+umi,89,kingman reef,30296
+umi,95,palmyra atoll,30299
+umi,?,us minor outlying islands,23749
+ury,?,uruguay,487
+ury,ar,artigas,29914
+ury,ca,canelones,29960
+ury,cl,cerro largo,29962
+ury,co,colonia,29967
+ury,du,durazno,29970
+ury,fd,florida,29985
+ury,fs,flores,29973
+ury,la,lavalleja,29986
+ury,ma,maldonado,26078
+ury,mo,montevideo,26079
+ury,pa,paysandu,29989
+ury,rn,rio negro,29991
+ury,ro,rocha,30003
+ury,rv,rivera,30000
+ury,sa,salto,26080
+ury,sj,san jose,30012
+ury,so,soriano,30014
+ury,ta,tacuarembo,30016
+ury,tt,treinta y tres,30019
+usa,?,united states,52
+usa,ak,alaska,2
+usa,al,alabama,1
+usa,aol,aol,8931
+usa,ar,arkansas,4
+usa,az,arizona,3
+usa,ca,california,5
+usa,co,colorado,6
+usa,ct,connecticut,7
+usa,dc,district of columbia,9
+usa,de,delaware,8
+usa,fl,florida,10
+usa,ga,georgia,11
+usa,hi,hawaii,12
+usa,ia,iowa,16
+usa,id,idaho,13
+usa,il,illinois,14
+usa,in,indiana,15
+usa,ks,kansas,17
+usa,ky,kentucky,18
+usa,la,louisiana,19
+usa,ma,massachusetts,22
+usa,md,maryland,21
+usa,me,maine,20
+usa,mi,michigan,23
+usa,mn,minnesota,24
+usa,mo,missouri,26
+usa,ms,mississippi,25
+usa,mt,montana,27
+usa,nc,north carolina,34
+usa,nd,north dakota,35
+usa,ne,nebraska,28
+usa,nh,new hampshire,30
+usa,nj,new jersey,31
+usa,nm,new mexico,32
+usa,nv,nevada,29
+usa,ny,new york,33
+usa,oh,ohio,36
+usa,ok,oklahoma,37
+usa,or,oregon,38
+usa,pa,pennsylvania,39
+usa,ri,rhode island,40
+usa,sc,south carolina,41
+usa,sd,south dakota,42
+usa,tn,tennessee,43
+usa,tx,texas,44
+usa,ut,utah,45
+usa,va,virginia,47
+usa,vt,vermont,46
+usa,wa,washington,48
+usa,webtv,webtv,9203
+usa,wi,wisconsin,50
+usa,wv,west virginia,49
+usa,wy,wyoming,51
+uzb,?,uzbekistan,282
+uzb,an,andijon,26081
+uzb,bu,buxoro,26082
+uzb,fa,fargona,26083
+uzb,ji,jizzax,26084
+uzb,ng,namangan,26085
+uzb,nw,navoiy,26086
+uzb,qa,qashqadaryo,26087
+uzb,qr,qoraqalpogiston,26088
+uzb,sa,samarqand,26089
+uzb,si,sirdaryo,26090
+uzb,su,surxondaryo,26091
+uzb,tk,tashkent city,26092
+uzb,to,toshkent,26093
+uzb,xo,xorazm,26094
+vat,?,holy see (vatican city state),246
+vat,no region,holy see (vatican city state),8935
+vct,01,charlotte,30026
+vct,02,saint andrew,30032
+vct,03,saint david,30036
+vct,04,saint george,26096
+vct,05,saint patrick,30040
+vct,06,grenadines,30043
+vct,?,saint vincent and the grenadin,793
+ven,?,venezuela,377
+ven,a,distrito federal,11473
+ven,b,anzoategui,11477
+ven,c,apure,11488
+ven,d,aragua,11472
+ven,e,barinas,11470
+ven,f,bolivar,20242
+ven,g,carabobo,11486
+ven,h,cojedes,24815
+ven,i,falcon,11475
+ven,j,guarico,11481
+ven,k,lara,11471
+ven,l,merida,11485
+ven,m,miranda,11474
+ven,n,monagas,11484
+ven,o,nueva esparta,11478
+ven,p,portuguesa,20249
+ven,r,sucre,11476
+ven,s,tachira,11479
+ven,t,trujillo,11491
+ven,u,yaracuy,23864
+ven,v,zulia,11482
+ven,w,dependencias federales,24973
+ven,x,vargas,24999
+ven,y,delta amacuro,24814
+ven,z,amazonas,24813
+vgb,?,british virgin islands,792
+vgb,no region,british virgin islands,8960
+vir,?,us virgin islands,176
+vir,no region,us virgin islands,8962
+vnm,01,lai chau,30044
+vnm,02,lao cai,26097
+vnm,03,ha giang,30045
+vnm,04,cao bang,30048
+vnm,05,son la,30208
+vnm,06,yen bai,30209
+vnm,07,tuyen quang,26098
+vnm,09,lang son,26099
+vnm,13,quang ninh,26100
+vnm,14,hoa binh,26101
+vnm,18,ninh binh,26102
+vnm,20,thai binh,26103
+vnm,21,thanh hoa,26104
+vnm,22,nghe an,26105
+vnm,23,ha tinh,26106
+vnm,24,quang binh,26107
+vnm,25,quang tri,30210
+vnm,26,thua thien-hue,26108
+vnm,27,quang nam,26109
+vnm,28,kon tum,26110
+vnm,29,quang ngai,26111
+vnm,30,gia lai,30211
+vnm,31,binh dinh,26112
+vnm,32,phu yen,26113
+vnm,33,dac lac,26114
+vnm,34,khanh hoa,26115
+vnm,35,lam dong,26116
+vnm,36,ninh thuan,30219
+vnm,37,tay ninh,26117
+vnm,39,dong nai,26118
+vnm,40,binh thuan,26119
+vnm,41,long an,30220
+vnm,43,ba ria-vung tau,26120
+vnm,44,an giang,26121
+vnm,45,dong thap,26122
+vnm,46,tien giang,26123
+vnm,47,kien giang,30224
+vnm,49,vinh long,26124
+vnm,50,ben tre,26125
+vnm,51,tra vinh,26126
+vnm,52,soc trang,26127
+vnm,53,bac kan,30228
+vnm,54,bac giang,26128
+vnm,55,bac lieu,26129
+vnm,56,bac ninh,26130
+vnm,57,binh duong,26131
+vnm,58,binh phuoc,30232
+vnm,59,ca mau,26132
+vnm,61,hai duong,26133
+vnm,63,ha nam,30237
+vnm,66,hung yen,30238
+vnm,67,nam dinh,26134
+vnm,68,phu tho,26135
+vnm,69,thai nguyen,26136
+vnm,70,vinh phuc,26137
+vnm,71,dien bien,26138
+vnm,72,dak nong,30241
+vnm,73,hau giang,30242
+vnm,?,viet nam,564
+vnm,ct,can tho,26139
+vnm,dn,da nang,26140
+vnm,hn,ha noi,26141
+vnm,hp,hai phong,26142
+vnm,sg,ho chi minh,26143
+vut,?,vanuatu,548
+vut,map,malampa,30221
+vut,pam,penama,30222
+vut,sam,sanma,30223
+vut,see,shefa,26145
+vut,tae,tafea,30225
+vut,tob,torba,30226
+wlf,?,wallis and futuna islands,24595
+wlf,no region,wallis and futuna islands,24596
+wsm,?,samoa,537
+wsm,aa,aana,30227
+wsm,al,aiga-i-le-tai,30229
+wsm,at,atua,30230
+wsm,fa,faasaleleaga,30231
+wsm,ge,gagaemauga,30233
+wsm,gi,gagaifomauga,30234
+wsm,pa,palauli,30235
+wsm,sa,satupaitea,30236
+wsm,tu,tuamasaga,26146
+wsm,vf,vaa-o-fonoti,30239
+wsm,vs,vaisigano,30240
+yem,?,yemen,295
+yem,ab,abyan,30243
+yem,ad,adan,26147
+yem,am,amran,30260
+yem,ba,al bayda,30246
+yem,da,ad dali,30244
+yem,dh,dhamar,30261
+yem,hd,hadramawt,30262
+yem,hj,hajjah,30263
+yem,hu,al hudaydah,30251
+yem,ib,ibb,30264
+yem,ja,al jawf,30257
+yem,la,lahij,30265
+yem,ma,ma rib,30266
+yem,mr,al mahrah,30258
+yem,mw,al mahwit,30259
+yem,ra,raymah,30267
+yem,sa,sana,26148
+yem,sd,sa dah,30268
+yem,sh,shabwah,30270
+yem,sn,san'a,30269
+yem,ta,ta'izz,30271
+zaf,?,south africa,384
+zaf,ec,eastern cape,11503
+zaf,fs,free state,11497
+zaf,gp,gauteng,28354
+zaf,lp,limpopo,28171
+zaf,mp,mpumalanga,11506
+zaf,nc,northern cape,11515
+zaf,nw,north-west,11516
+zaf,wc,western cape,4103
+zaf,zn,kwazulu-natal,28355
+zmb,01,western,30245
+zmb,02,central,26149
+zmb,03,eastern,30247
+zmb,04,luapula,30248
+zmb,05,northern,30249
+zmb,06,north-western,30250
+zmb,07,southern,26150
+zmb,08,copperbelt,26151
+zmb,09,lusaka,26152
+zmb,?,zambia,518
+zwe,?,zimbabwe,372
+zwe,bu,bulawayo,26153
+zwe,ha,harare,26154
+zwe,ma,manicaland,30252
+zwe,mc,mashonaland central,30253
+zwe,me,mashonaland east,30254
+zwe,mi,midlands,26155
+zwe,mn,matabeleland north,26156
+zwe,ms,matabeleland south,30255
+zwe,mv,masvingo,26157
+zwe,mw,mashonaland west,30256

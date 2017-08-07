@@ -1,0 +1,274 @@
+  61         "group_id": "4",	// AOL and non-HuffPost OnO's such as AutoBlog, Engadget, StyleMePrettry, etc.
+  13         "group_id": "14",	// HuffPost United States
+   5         "group_id": "15",	// HuffPost United States - {Business, Small Business, Science, Technology, TED Weekends}
+   9         "group_id": "16",
+   5         "group_id": "17",
+   5         "group_id": "18",
+   8         "group_id": "19",
+   3         "group_id": "20",
+   6         "group_id": "21",
+  23         "group_id": "171",	// HuffPost Misc and on-aol.com
+   1         "group_id": "172",
+  18         "group_id": "173",	// HuffPost Canada
+   2         "group_id": "174",
+   1         "group_id": "175",
+   1         "group_id": "176",
+   1         "group_id": "177",
+   1         "group_id": "178",
+   3         "group_id": "179",
+   1         "group_id": "180",
+  15         "group_id": "181",	// HuffPost UK
+  10         "group_id": "182",	// HuffPost US Cities
+   1         "group_id": "184",
+   1         "group_id": "190",
+   2         "group_id": "192",
+   1         "group_id": "193",
+
+group_id 4
+  AOL Autos
+  AOL Cars UK
+  AOL Features
+  AOL Hot Search - UK
+  AOL Jobs
+  AOL Money UK
+  AOL News JP
+  AOL Real Estate
+  AOL Shopping UK
+  AOL Travel UK
+  AOL UK
+  AOL Weather
+  AOL.COM Articles
+  Autoblog
+  Autoblog - old
+  Autoblog Canada
+  Autoblog Chinese
+  Autoblog France
+  Autoblog Germany
+  Autoblog Japan
+  Autoblog Latino
+  Autoblog Quebec
+  Autoblog Simplified Chinese
+  Autoblog Spanish
+  Cambio
+  Daily Finance
+  Daily Finance UK
+  Engadget
+  Engadget Chinese
+  Engadget Chinese (CN)
+  Engadget Germany
+  Engadget Japanese
+  Engadget Main
+  Engadget Mobile
+  Engadget Simplified Chinese
+  Engadget Spanish
+  Joystiq
+  Kitchen Daily
+  Kitchen Daily Canada
+  Makers
+  Mandatory
+  Mapquest Travel Articles
+  Moviefone
+  Moviefone Blog
+  Moviefone Blog Canada
+  Moviefone Canada
+  MyDaily UK
+  ParentDish
+  Parentdish - UK
+  Parentdish Canada
+  Pawnation
+  Style Me Pretty
+  Style Me Pretty - Living
+  Stylelist
+  Stylelist (Main)
+  Stylelist Canada
+  Stylelist Quebec
+  TUAW.com
+  TechCrunch
+  TechCrunch Japan
+  Translogic
+
+group_id 14
+  Huff. Post: United States - College
+  Huff. Post: United States - Crime
+  Huff. Post: United States - Education
+  Huff. Post: United States - Eyes & Ears
+  Huff. Post: United States - Green
+  Huff. Post: United States - High School
+  Huff. Post: United States - Money
+  Huff. Post: United States - Politics
+  Huff. Post: United States - Religion
+  Huff. Post: United States - Travel
+  Huff. Post: United States - Weird News
+  Huff. Post: United States - World
+  Huff. Post: United States - WorldPost
+
+group_id 15
+  Huff. Post: United States - Business
+  Huff. Post: United States - Science
+  Huff. Post: United States - Small Business
+  Huff. Post: United States - TED Weekends
+  Huff. Post: United States - Technology
+
+group_id 16
+  Huff. Post: United States - Arts
+  Huff. Post: United States - Books
+  Huff. Post: United States - Celebrity
+  Huff. Post: United States - Comedy
+  Huff. Post: United States - Comics
+  Huff. Post: United States - Culture
+  Huff. Post: United States - Entertainment
+  Huff. Post: United States - Media
+  Huff. Post: United States - TV
+
+group_id 17
+  Huff. Post: United States - Health News
+  Huff. Post: United States - Health and Fitness
+  Huff. Post: United States - Healthy Living
+  Huff. Post: United States - Mindful Living
+  Huff. Post: United States - Sports
+
+group_id 18
+  Huff. Post: United States - Food
+  Huff. Post: United States - GPS for the Soul2
+  Huff. Post: United States - Style
+  Huff. Post: United States - Taste
+  Huff. Post: United States - Weddings
+
+group_id 19
+  Huff. Post: United States - Divorce
+  Huff. Post: United States - Fifty
+  Huff. Post: United States - Kids
+  Huff. Post: United States - OWN
+  Huff. Post: United States - Parents
+  Huff. Post: United States - Teen
+  Huff. Post: United States - Women
+  HuffPo : Dr. Phil
+
+group_id 20
+  Huff. Post: United States - GPS for the Soul
+  Huff. Post: United States - Good News
+  Huff. Post: United States - Impact
+
+group_id 21
+  Huff. Post: United States - Black Voices
+  Huff. Post: United States - Gay Voices
+  Huff. Post: United States - Latino Voices
+  Huff. Post: United States - Voces
+  Huff. Post: Voces - Voces
+  Queer Voices
+
+group_id 171
+  Huff. Post: AOL
+  Huff. Post: Live Better America
+  Huff. Post: None - AOL
+  Huff. Post: None - AOL Engadget
+  Huff. Post: None - Developer@HuffPost
+  Huff. Post: None - Live Better America
+  Huff. Post: None - MapQuest
+  Huff. Post: None - Moviefone
+  Huff. Post: None - Moviefone Canada
+  Huff. Post: None - Mydaily
+  Huff. Post: United States - HPSN
+  Huff. Post: United States - Homepage
+  Huff. Post: United States - HuffPost Home
+  Huff. Post: United States - HuffPost Live 321
+  Huff. Post: United States - Huffington
+  Huff. Post: United States - Huffpost Code
+  Huff. Post: United States - KitchenDaily
+  Huff. Post: United States - Marlo Thomas
+  Huff. Post: United States - None
+  Huff. Post: United States - Training
+  Huff. Post: United States - null
+  Huff. Post: United States - temp
+  HuffPost Horoscopes
+
+group_id 172
+  Huff. Post: Brazil - Brazil
+
+group_id 173
+  Canada Parents
+  Huff. Post: Canada - Canada
+  Huff. Post: Canada - Canada Alberta
+  Huff. Post: Canada - Canada British Columbia
+  Huff. Post: Canada - Canada Business
+  Huff. Post: Canada - Canada Impact
+  Huff. Post: Canada - Canada Lifestyle
+  Huff. Post: Canada - Canada Living
+  Huff. Post: Canada - Canada Music
+  Huff. Post: Canada - Canada Politics
+  Huff. Post: Canada - Canada Sports
+  Huff. Post: Canada - Canada Style
+  Huff. Post: Canada - Canada TV
+  Huff. Post: Canada - Canada Travel
+  Huff. Post: Moviefone Canada
+  Huff. Post: Quebec - Canada Quebec
+  Huff. Post: Quebec - Quebec Art De Vivre
+  Quebec Style
+
+group_id 174
+  Huff. Post: France - France
+  Huff. Post: France - France C'est La Vie
+
+group_id 175
+  Huff. Post: Germany - Germany
+
+group_id 176
+  Huff. Post: Italy - Italy
+
+group_id 177
+  Huff. Post: Japan - Japan
+
+group_id 178
+  Huff. Post: Korea - Korea
+
+group_id 179
+  Huff. Post: Maghreb - Algeria
+  Huff. Post: Maghreb - Maghreb
+  Maroc
+
+group_id 180
+  Huff. Post: Spain - Spain
+
+group_id 181
+  Huff. Post: Mydaily
+  Huff. Post: United Kingdom - UK
+  Huff. Post: United Kingdom - UK Celebrity
+  Huff. Post: United Kingdom - UK Comedy
+  Huff. Post: United Kingdom - UK Culture
+  Huff. Post: United Kingdom - UK Entertainment
+  Huff. Post: United Kingdom - UK Fashion
+  Huff. Post: United Kingdom - UK Lifestyle
+  Huff. Post: United Kingdom - UK Parents
+  Huff. Post: United Kingdom - UK Politics
+  Huff. Post: United Kingdom - UK Sport
+  Huff. Post: United Kingdom - UK Style
+  Huff. Post: United Kingdom - UK Tech
+  Huff. Post: United Kingdom - UK Universities & Education
+  Huff. Post: United Kingdom - UK World
+
+group_id 182
+  Huff. Post: United States - Chicago
+  Huff. Post: United States - DC
+  Huff. Post: United States - Denver
+  Huff. Post: United States - Detroit
+  Huff. Post: United States - Hawaii
+  Huff. Post: United States - Local
+  Huff. Post: United States - Los Angeles
+  Huff. Post: United States - Miami
+  Huff. Post: United States - New York
+  Huff. Post: United States - San Francisco
+
+group_id 184
+  India
+
+group_id 190
+  Huff. Post - Greece
+
+group_id 192
+  AMP: HP AUS
+  Huff. Post: Australia - Australia
+
+group_id 193
+  Arabi
+
+197 Sources

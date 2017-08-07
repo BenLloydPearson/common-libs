@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://maven.apache.org/POM/4.0.0">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>gravity</groupId>
+    <artifactId>domain</artifactId>
+    <packaging>jar</packaging>
+    <description>domain</description>
+    <version>0.9-SNAPSHOT</version>
+    <name>domain</name>
+    <organization>
+        <name>gravity-domain</name>
+    </organization>
+    <parent>
+        <groupId>parent</groupId>
+        <artifactId>interest-service</artifactId>
+        <version>1.0</version>
+        <relativePath>../pom.xml</relativePath>
+    </parent>
+
+
+    <dependencies>
+        <dependency>
+            <groupId>gravity</groupId>
+            <artifactId>ontology</artifactId>
+            <version>0.9-SNAPSHOT</version>
+        </dependency>
+        <dependency>
+            <groupId>gravity</groupId>
+            <artifactId>ontology</artifactId>
+            <version>0.9-SNAPSHOT</version>
+            <type>test-jar</type>
+            <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>gravity</groupId>
+            <artifactId>utilities</artifactId>
+            <version>0.9-SNAPSHOT</version>
+            <type>test-jar</type>
+            <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>gravity</groupId>
+            <artifactId>service</artifactId>
+            <version>0.9-SNAPSHOT</version>
+            <type>test-jar</type>
+            <scope>test</scope>
+        </dependency>
+
+    </dependencies>
+</project>

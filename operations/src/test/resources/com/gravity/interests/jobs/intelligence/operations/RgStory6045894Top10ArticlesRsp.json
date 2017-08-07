@@ -1,0 +1,42 @@
+{
+  "id": 6045894,
+  "creationTime": 1464801286070,
+  "lastUpdate": 1464961766674,
+  "avgAccessTime": 1464914935808,
+  "title": "UCLA shooter Mainak was brilliant, reserved in school",
+  "magScore": 1441.7,
+  "numTotalDocs": 3587,
+  "numOriginalDocs": 860,
+  "facebookShares": 21496,
+  "facebookLikes": 100641,
+  "facebookComments": 34029,
+  "twitterRetweets": 0,
+  "socialDistPercentage": 0.69512194,
+  "relatedTags": [
+    {
+      "id": 981465,
+      "score": 0.9034885,
+      "name": "U.S. News",
+      "type": "SUBJECT"
+    },
+    {
+      "id": 981523,
+      "score": 0.9069773,
+      "name": "News",
+      "type": "SUBJECT"
+    },
+    {
+      "id": 981525,
+      "score": 0.90790194,
+      "name": "News and Politics",
+      "type": "SUBJECT"
+    },
+    {
+      "id": 3696181,
+      "score": 0.858299,
+      "name": "University of California, Los Angeles",
+      "type": "ENTITY"
+    }
+  ],
+  "articles": null
+}

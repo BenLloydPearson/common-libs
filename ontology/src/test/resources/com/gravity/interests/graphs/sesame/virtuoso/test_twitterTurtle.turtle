@@ -1,0 +1,936 @@
+@prefix gs: <http://insights.gravity.com/2010/04/universe#> .
+@prefix gr: <http://insights.gravity.com/resources/> .
+@prefix twt: <http://twitter.com/> .
+@prefix dbt: <http://dbpedia.org/resource/> .
+@prefix dbc: <http://dbpedia.org/resource/Category:> .
+
+<http://insights.gravity.com/resources/12670647161> gs:tweetText "Join this Convo: Go shorty, it&#039;s your Earth Day! http://gravity.com/05ycq9" ;
+	gs:tweetDate "2010-04-23T00:24:30.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:amitk ;
+	gs:tweetInterest dbt:Earth_Day .
+
+<http://insights.gravity.com/resources/11912047791> gs:tweetText "Join my Convo: Hot Tub Time Machine http://gravity.com/05yceq" ;
+	gs:tweetDate "2010-04-10T01:17:54.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:amitk ;
+	gs:tweetInterest dbt:Time_machine .
+
+<http://insights.gravity.com/resources/11048568835> gs:tweetText "New Convo: Great Rift Valley, Kenya http://gravity.com/051dq" ;
+	gs:tweetDate "2010-03-25T19:05:04.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:amitk ;
+	gs:tweetInterest dbt:Great_Rift_Valley .
+
+<http://insights.gravity.com/resources/8949385208> gs:tweetText "Awesome dinner at the Bazaar with @twang. Highly recommended - lawyer and restaurant :)" ;
+	gs:tweetDate "2010-02-11T05:55:12.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:amitk ;
+	gs:tweetInterest dbt:Highly_Recommended .
+
+<http://insights.gravity.com/resources/8642530559> gs:tweetText "Driving behind a guy in an old school red dodge viper with a bright blue parrot riding shotgun. Only in LA!" ;
+	gs:tweetDate "2010-02-04T18:30:00.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:amitk ;
+	gs:tweetInterest dbt:Riding_shotgun .
+
+<http://insights.gravity.com/resources/8341244793> gs:tweetText "After 6 months, I'm caving and getting cable. Feel like I'm losing touch with society. Need to watch Jersey Shore to reconnect." ;
+	gs:tweetDate "2010-01-28T22:32:06.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:amitk ;
+	gs:tweetInterest dbt:Jersey_Shore .
+
+<http://insights.gravity.com/resources/7966235499> gs:tweetText "listening to the new Vampire Weekend album http://bit.ly/4KBw0J" ;
+	gs:tweetDate "2010-01-20T00:29:24.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:amitk ;
+	gs:tweetInterest dbt:Vampire_Weekend .
+
+<http://insights.gravity.com/resources/7885909000> gs:tweetText "thanks, guy. RT @guyadams: If you want to help, organizations most visible on the ground in Haiti are Oxfam, Christian Aid, and MSF" ;
+	gs:tweetDate "2010-01-18T01:46:52.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:amitk ;
+	gs:tweetInterest dbt:Christian_Aid .
+
+<http://insights.gravity.com/resources/7621674688> gs:tweetText "Started reading World War Z. Very cool book so far." ;
+	gs:tweetDate "2010-01-11T06:51:09.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:amitk ;
+	gs:tweetInterest dbt:World_war .
+
+<http://insights.gravity.com/resources/7575401620> gs:tweetText "I think the best time and place to clear your head (and your inbox) is on the weekend in the office." ;
+	gs:tweetDate "2010-01-10T00:52:17.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:amitk ;
+	gs:tweetInterest dbt:Time_Place .
+
+<http://insights.gravity.com/resources/7287132506> gs:tweetText "Somehow we've ended up at a random karaoke bar in san francisco. Surprisingly, we're the only ones here :)" ;
+	gs:tweetDate "2010-01-02T02:47:46.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:amitk ;
+	gs:tweetInterest dbt:San_Francisco .
+
+<http://insights.gravity.com/resources/6489012662> gs:tweetText "So cold in LA right now. But hard to complain when it's -10 degrees in my hometown in South Dakota..." ;
+	gs:tweetDate "2009-12-09T05:50:17.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:amitk ;
+	gs:tweetInterest dbt:South_Dakota .
+
+<http://insights.gravity.com/resources/5688267727> gs:tweetText "Excited for today's bbq. We have a chef (@darkgoyle's wife!) cooking grilled pizza for us. A big step from burgers and string cheese." ;
+	gs:tweetDate "2009-11-13T19:22:18.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:amitk ;
+	gs:tweetInterest dbt:Grilled_pizza .
+
+<http://insights.gravity.com/resources/4611760511> gs:tweetText "@hunterwalk, you're on! i'm always game for a good wine train, especially if it involves super natural ingredients." ;
+	gs:tweetDate "2009-10-04T21:14:29.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:amitk ;
+	gs:tweetInterest dbt:Natural_Ingredients .
+
+<http://insights.gravity.com/resources/4375627917> gs:tweetText "Just tried \"Insanity\" hot sauce - apparently the hottest sauce in the universe. My tongue is burning a little but my sanity is intact." ;
+	gs:tweetDate "2009-09-25T19:08:04.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:amitk ;
+	gs:tweetInterest dbt:Hot_sauce .
+
+<http://insights.gravity.com/resources/3260708709> gs:tweetText "Wish it wasn't so foggy in LA. Missing the perseid meteor shower!" ;
+	gs:tweetDate "2009-08-12T05:58:35.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:amitk ;
+	gs:tweetInterest dbt:Meteor_shower .
+
+<http://insights.gravity.com/resources/2603398762> gs:tweetText "love this song: Phoenix - Lisztomania at http://hypem.com/track/847978 #hypem" ;
+	gs:tweetDate "2009-07-12T20:52:09.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:amitk ;
+	gs:tweetInterest dbt:Love_song .
+
+<http://insights.gravity.com/resources/2383780632> gs:tweetText "Just finished Man's Search for Meaning by Viktor Frankl.  Incredible life story and philosophy." ;
+	gs:tweetDate "2009-06-29T05:30:47.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:amitk ;
+	gs:tweetInterest dbt:Life_Story .
+
+<http://insights.gravity.com/resources/2246124500> gs:tweetText "2nd Virgin America flight in a row with a broken power plug :(" ;
+	gs:tweetDate "2009-06-20T00:07:44.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:amitk ;
+	gs:tweetInterest dbt:Virgin_America .
+
+<http://insights.gravity.com/resources/2223207981> gs:tweetText "Cab driver patterns are pretty scattered. I prefer the really fast ones - turns a boring drive into a roller coaster ride :)" ;
+	gs:tweetDate "2009-06-18T14:59:22.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:amitk ;
+	gs:tweetInterest dbt:Roller_coaster .
+
+<http://insights.gravity.com/resources/2172281458> gs:tweetText "I really hate snail mail and dream of a day when it no longer exists :)" ;
+	gs:tweetDate "2009-06-15T02:05:26.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:amitk ;
+	gs:tweetInterest dbt:Snail_mail .
+
+<http://insights.gravity.com/resources/2127793135> gs:tweetText "Awesome crew on the August Capital patio tonight.  Thanks @davidhornik" ;
+	gs:tweetDate "2009-06-12T05:25:50.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:amitk ;
+	gs:tweetInterest dbt:August_Capital .
+
+<http://insights.gravity.com/resources/2098786599> gs:tweetText "I always find out the lakers are playing via twitter updates - not the sign of a good sports fan..." ;
+	gs:tweetDate "2009-06-10T03:27:03.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:amitk ;
+	gs:tweetInterest dbt:Good_Sports .
+
+<http://insights.gravity.com/resources/2050301516> gs:tweetText "sad to hear about rajeev motwani - my thoughts are with him and his family" ;
+	gs:tweetDate "2009-06-06T01:25:37.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:amitk ;
+	gs:tweetInterest dbt:Rajeev_Motwani .
+
+<http://insights.gravity.com/resources/2025830432> gs:tweetText "Just saw Jerry Seinfeld - the guy's ridiculously funny!" ;
+	gs:tweetDate "2009-06-04T04:38:20.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:amitk ;
+	gs:tweetInterest dbt:Jerry_Seinfeld .
+
+<http://insights.gravity.com/resources/2024524193> gs:tweetText "Heading to the palm pre launch event. Hope they have gifts :)" ;
+	gs:tweetDate "2009-06-04T02:23:54.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:amitk ;
+	gs:tweetInterest dbt:Palm_Pre .
+
+<http://insights.gravity.com/resources/1864662030> gs:tweetText "Spending way too much time at kinko's nowadays - they used to be so nice, now they're so sad..." ;
+	gs:tweetDate "2009-05-20T23:01:54.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:amitk ;
+	gs:tweetInterest dbt:Spending_Time .
+
+<http://insights.gravity.com/resources/1852722300> gs:tweetText "@danidudeck I almost went under my desk until I realized it's a steel frame / glass top :)" ;
+	gs:tweetDate "2009-05-19T22:58:21.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:amitk ;
+	gs:tweetInterest dbt:Steel_frame .
+
+<http://insights.gravity.com/resources/1808621247> gs:tweetText "Just read an article on quantum entanglement (http://bit.ly/Gewy) - so cool.  Unfort the magazine has it blocked online behind subscription." ;
+	gs:tweetDate "2009-05-15T18:15:22.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:amitk ;
+	gs:tweetInterest dbt:Quantum_entanglement .
+
+<http://insights.gravity.com/resources/1760296290> gs:tweetText "Great Mother's Day dinner w/ mom and dad in tampa - I introduced them to sangria at a cool spanish restaurant" ;
+	gs:tweetDate "2009-05-11T04:09:21.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:amitk ;
+	gs:tweetInterest dbt:Great_Mother .
+
+<http://insights.gravity.com/resources/1731848350> gs:tweetText "The Dyson AirBlade is an amazing invention - I never thought vacuum cleaners and hand dryers could be cool" ;
+	gs:tweetDate "2009-05-07T22:47:35.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:amitk ;
+	gs:tweetInterest dbt:Dyson_Airblade .
+
+<http://insights.gravity.com/resources/1698192847> gs:tweetText "Cool story on the underdog strategy by Malcolm Gladwell: http://bit.ly/pcaPN" ;
+	gs:tweetDate "2009-05-04T18:40:54.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:amitk ;
+	gs:tweetInterest dbt:Malcolm_Gladwell .
+
+<http://insights.gravity.com/resources/1652278972> gs:tweetText "Back to the valley! Can't imagine life before southwest airlines and wireless data cards - aka the dark ages..." ;
+	gs:tweetDate "2009-04-29T20:22:28.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:amitk ;
+	gs:tweetInterest dbt:Southwest_Airlines .
+
+<http://insights.gravity.com/resources/1554250157> gs:tweetText "working & downloading 80s music (the latest: skid row, i remember you - my older bro loved this stuff! so did i...)" ;
+	gs:tweetDate "2009-04-18T23:28:47.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:amitk ;
+	gs:tweetInterest dbt:Skid_row .
+
+<http://insights.gravity.com/resources/1517145906> gs:tweetText "Most annoying bird in world tweeting all night outside my place. Think I may capture and sell to car alarm industry for research." ;
+	gs:tweetDate "2009-04-14T14:57:13.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:amitk ;
+	gs:tweetInterest dbt:Car_alarm .
+
+<http://insights.gravity.com/resources/1472445685> gs:tweetText "Looking for office space in Santa Monica" ;
+	gs:tweetDate "2009-04-07T22:10:27.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:amitk ;
+	gs:tweetInterest dbt:Office_Space .
+
+<http://insights.gravity.com/resources/1452640517> gs:tweetText "Every now and then I check the weather back in South Dakota. Right now: 30 deg (snow, windy, 'feels like 18 deg').  LA: 72 deg and sunny :)" ;
+	gs:tweetDate "2009-04-04T18:08:28.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:amitk ;
+	gs:tweetInterest dbt:South_Dakota .
+
+<http://insights.gravity.com/resources/1420858030> gs:tweetText "herbie hancock \"manhattan\" ? http://twt.fm/19481 #musicmonday" ;
+	gs:tweetDate "2009-03-30T23:01:52.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:amitk ;
+	gs:tweetInterest dbt:Herbie_Hancock .
+
+<http://insights.gravity.com/resources/1379193955> gs:tweetText "back to back meetings in the bay. off to dinner in a bit, then maybe grab a drink with friends." ;
+	gs:tweetDate "2009-03-24T01:30:18.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:amitk ;
+	gs:tweetInterest dbt:Back_Back .
+
+<http://insights.gravity.com/resources/1367585738> gs:tweetText "missing a bachelor party for one of my best friends from college...@krinderknecht, tell chris i wish i was there to celebrate!" ;
+	gs:tweetDate "2009-03-21T21:28:44.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:amitk ;
+	gs:tweetInterest dbt:Bachelor_party .
+
+<http://insights.gravity.com/resources/1298412748> gs:tweetText "Have had 2 strangers ask about my surf scar today - great conversation starter!" ;
+	gs:tweetDate "2009-03-09T01:11:02.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:amitk ;
+	gs:tweetInterest dbt:Great_Conversation .
+
+<http://insights.gravity.com/resources/1287293945> gs:tweetText "Long day...going out for late night chinese" ;
+	gs:tweetDate "2009-03-06T06:53:08.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:amitk ;
+	gs:tweetInterest dbt:Long_Day .
+
+<http://insights.gravity.com/resources/1286841988> gs:tweetText "Ergonomic chairs are pointless for me - I always lean in to the screen.  Someone should make a good lean-in office chair." ;
+	gs:tweetDate "2009-03-06T04:05:36.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:amitk ;
+	gs:tweetInterest dbt:Office_chair .
+
+twt:amitk gs:twitterFollows twt:arniesingh .
+
+<http://insights.gravity.com/resources/14017671854> gs:tweetText "@SMARTcutGeek thanks Michael. Good to know there's good support." ;
+	gs:tweetDate "2010-05-15T04:13:59.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:arniesingh ;
+	gs:tweetInterest dbt:Good_Good .
+
+<http://insights.gravity.com/resources/13583648301> gs:tweetText "Terrific book. @josephmenn's FATAL SYSTEM ERROR http://bit.ly/cSun4x" ;
+	gs:tweetDate "2010-05-08T02:15:28.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:arniesingh ;
+	gs:tweetInterest dbt:System_Error .
+
+<http://insights.gravity.com/resources/13526171955> gs:tweetText "Just saw The Joneses. Kind of funny if you're into marketing. Landmark theater in West LA is great...has leather sofas instead of seats." ;
+	gs:tweetDate "2010-05-07T03:23:33.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:arniesingh ;
+	gs:tweetInterest dbt:Landmark_Theater .
+
+<http://insights.gravity.com/resources/13370552872> gs:tweetText "So true. @copyblogger The Myth of Beautiful Website Design http://ow.ly/1GOou" ;
+	gs:tweetDate "2010-05-04T15:42:44.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:arniesingh ;
+	gs:tweetInterest dbt:True_Myth .
+
+<http://insights.gravity.com/resources/11460334489> gs:tweetText "looking forward to the long weekend :)" ;
+	gs:tweetDate "2010-04-02T03:20:12.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:arniesingh ;
+	gs:tweetInterest dbt:Long_weekend .
+
+twt:amitk gs:twitterFollows twt:scheney .
+
+<http://insights.gravity.com/resources/13972822778> gs:tweetText "@bjdragons I really enjoyed global achieve gap! Education needs to pay attention to the 7 survival skills" ;
+	gs:tweetDate "2010-05-14T12:10:30.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:scheney ;
+	gs:tweetInterest dbt:Survival_skills .
+
+<http://insights.gravity.com/resources/13490664665> gs:tweetText "Is my Org Ready for Social Media: http://www.nonlinearcreations.com/pages/news_2088.html" ;
+	gs:tweetDate "2010-05-06T14:36:06.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:scheney ;
+	gs:tweetInterest dbt:Social_media .
+
+<http://insights.gravity.com/resources/13448545489> gs:tweetText "@gregdenon saw that in the globe this morning. Good stuff!" ;
+	gs:tweetDate "2010-05-05T21:33:42.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:scheney ;
+	gs:tweetInterest dbt:Good_Stuff .
+
+<http://insights.gravity.com/resources/13385680731> gs:tweetText "I dont think these numbers are reflected on my campus. RT @chronicle Most Professors Use Social Media http://bit.ly/acsdFe" ;
+	gs:tweetDate "2010-05-04T21:36:12.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:scheney ;
+	gs:tweetInterest dbt:Social_media .
+
+<http://insights.gravity.com/resources/13385463210> gs:tweetText "@baldy7 may have one. RT @sherrymn Higher Ed folks: Are you aware of institutions that have developed social media guidelines...?" ;
+	gs:tweetDate "2010-05-04T21:31:07.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:scheney ;
+	gs:tweetInterest dbt:Social_media .
+
+<http://insights.gravity.com/resources/13360587076> gs:tweetText "RT @Yendi Woohoo! RT @ringel: Boston area water boil order is lifted.  Press release and \"what to do now\" at http://bit.ly/bSyA6w  #boston" ;
+	gs:tweetDate "2010-05-04T11:50:48.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:scheney ;
+	gs:tweetInterest dbt:Press_release .
+
+<http://insights.gravity.com/resources/13320994326> gs:tweetText "@karmon did you see this? RT @dancohen DePaul University has the most plainspoken, general social media use policy: http://bit.ly/cu5e3i" ;
+	gs:tweetDate "2010-05-03T19:08:45.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:scheney ;
+	gs:tweetInterest dbt:DePaul_University .
+
+<http://insights.gravity.com/resources/13320764353> gs:tweetText "Thinking of taking a grant writing workshop from: http://granttrainingcenter.com/ Any recommendations?" ;
+	gs:tweetDate "2010-05-03T19:03:18.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:scheney ;
+	gs:tweetInterest dbt:Writing_Workshop .
+
+<http://insights.gravity.com/resources/12954877945> gs:tweetText "World Lecture Hall: http://wlh.webhost.utexas.edu/index.cfm Free online course materials." ;
+	gs:tweetDate "2010-04-27T17:03:21.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:scheney ;
+	gs:tweetInterest dbt:Lecture_hall .
+
+<http://insights.gravity.com/resources/12945438595> gs:tweetText "RT @reyjunco @kempedmonds: New research from Pew Internet \"Social Media and Young Adults\" #Highered #socialmedia http://bit.ly/bLfLms" ;
+	gs:tweetDate "2010-04-27T13:36:32.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:scheney ;
+	gs:tweetInterest dbt:Social_media .
+
+<http://insights.gravity.com/resources/12845734542> gs:tweetText "Had not ever seen this vid: Social Network Story. Not sure how I feel about it. http://www.youtube.com/watch?v=oYAdSZ4dnSU" ;
+	gs:tweetDate "2010-04-25T22:15:00.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:scheney ;
+	gs:tweetInterest dbt:Social_network .
+
+<http://insights.gravity.com/resources/12725632446> gs:tweetText "@courosa my eee arrived w dead battery. Was told it would be 6wks before I'd get a new one. Sent it back in a hurry." ;
+	gs:tweetDate "2010-04-23T21:34:10.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:scheney ;
+	gs:tweetInterest dbt:Dead_Battery .
+
+<http://insights.gravity.com/resources/12641476771> gs:tweetText "Yea early adopters! RT @sharon_elin  99-yo woman uses iPad to write poetry. Who says there's a digital generation gap? http://is.gd/bDvXD" ;
+	gs:tweetDate "2010-04-22T14:20:13.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:scheney ;
+	gs:tweetInterest dbt:Generation_gap .
+
+<http://insights.gravity.com/resources/12292713569> gs:tweetText "@baldy7 Blast from the past! Hope there was an LCD projector somewhere in the building for you to use." ;
+	gs:tweetDate "2010-04-16T16:42:16.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:scheney ;
+	gs:tweetInterest dbt:LCD_projector .
+
+<http://insights.gravity.com/resources/12186688167> gs:tweetText "RT @williamjturkel Temple Univ looking for head of digital library initiatives http://tinyurl.com/y2mx3zy Great public history collaboration" ;
+	gs:tweetDate "2010-04-14T22:07:32.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:scheney ;
+	gs:tweetInterest dbt:Public_history .
+
+<http://insights.gravity.com/resources/12158994813> gs:tweetText "Me too! Anyone else up for a tweetup? RT @Yendi Will be at Northeastern University's Teaching with Technology Day today." ;
+	gs:tweetDate "2010-04-14T11:55:35.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:scheney ;
+	gs:tweetInterest dbt:Northeastern_University .
+
+<http://insights.gravity.com/resources/12048930074> gs:tweetText "Trying to get stu to take a survey is a good study in human behavior." ;
+	gs:tweetDate "2010-04-12T14:29:20.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:scheney ;
+	gs:tweetInterest dbt:Human_behavior .
+
+<http://insights.gravity.com/resources/12010484615> gs:tweetText "@UVaSeasAD I enjoyed new mind-dan pink reads like Malcolm gladwell whose books I get a lot from. Tipping point, blink, etc" ;
+	gs:tweetDate "2010-04-11T21:22:43.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:scheney ;
+	gs:tweetInterest dbt:Malcolm_Gladwell .
+
+<http://insights.gravity.com/resources/11453534434> gs:tweetText "@amandafrench no worries, I've been in touch w great lakes crew too." ;
+	gs:tweetDate "2010-04-02T00:50:58.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:scheney ;
+	gs:tweetInterest dbt:Great_Lakes .
+
+<http://insights.gravity.com/resources/11447193468> gs:tweetText "@captain_primate Thanks! Will you DM ur email? I'm working w a group 2 put togthr #thatcamp in new England and have a ton of questions!" ;
+	gs:tweetDate "2010-04-01T22:12:10.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:scheney ;
+	gs:tweetInterest dbt:Working_group .
+
+<http://insights.gravity.com/resources/11329555860> gs:tweetText "RT @wbauer Seton Hill University to give an iPad to every full-time student - http://www.setonhill.edu/ipad/" ;
+	gs:tweetDate "2010-03-30T21:29:48.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:scheney ;
+	gs:tweetInterest dbt:Seton_Hill_University .
+
+<http://insights.gravity.com/resources/11255857264> gs:tweetText "@lincolnmullen 7 so far. Need to pull together skype call for end of this week. Good stuff!" ;
+	gs:tweetDate "2010-03-29T15:54:28.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:scheney ;
+	gs:tweetInterest dbt:Good_Stuff .
+
+<http://insights.gravity.com/resources/11104254097> gs:tweetText "Great conversation w/ @fratturar and @maldonaoc prepping ASC session: http://www.asc2010.org/Workshops.html#IT" ;
+	gs:tweetDate "2010-03-26T18:48:41.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:scheney ;
+	gs:tweetInterest dbt:Great_Conversation .
+
+<http://insights.gravity.com/resources/11084930651> gs:tweetText "@rmbyrne good morning from Boston! The number of links and resources shared via twitter is huge!" ;
+	gs:tweetDate "2010-03-26T11:39:12.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:scheney ;
+	gs:tweetInterest dbt:Good_morning .
+
+<http://insights.gravity.com/resources/10993743830> gs:tweetText "@amandafrench any plans for a new england #thatcamp in the works? fingers crossed." ;
+	gs:tweetDate "2010-03-24T19:15:09.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:scheney ;
+	gs:tweetInterest dbt:Fingers_Crossed .
+
+<http://insights.gravity.com/resources/10898373076> gs:tweetText "Colleges using social media for teaching-Boston area: http://wbztv.com/local/college.twitter.facebook.2.1581001.html" ;
+	gs:tweetDate "2010-03-23T00:15:42.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:scheney ;
+	gs:tweetInterest dbt:Social_media .
+
+<http://insights.gravity.com/resources/10672638245> gs:tweetText "Yea Maine!! RT @reyjunco $25,000 Grants from ME Family Literacy Initiative for prog to support family literacy in ME : http://bit.ly/9kiMwf" ;
+	gs:tweetDate "2010-03-18T14:10:24.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:scheney ;
+	gs:tweetInterest dbt:Family_literacy .
+
+<http://insights.gravity.com/resources/10622254866> gs:tweetText "Hosting a 2010 Horizon Report Brown Bag tomorrow on campus. 12 noon in Beatty Dining Room, bring your lunch. http://wp.nmc.org/horizon2010/" ;
+	gs:tweetDate "2010-03-17T13:52:42.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:scheney ;
+	gs:tweetInterest dbt:Dining_room .
+
+twt:amitk gs:twitterFollows twt:feliciaday .
+
+<http://insights.gravity.com/resources/14000202112> gs:tweetText "I just got a residual check for .39 cents.  World record low for me.  I guess I'll go out to dinner to celebrate." ;
+	gs:tweetDate "2010-05-14T22:08:19.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:feliciaday ;
+	gs:tweetInterest dbt:World_record .
+
+<http://insights.gravity.com/resources/13561856526> gs:tweetText "Dear SAG & AFTRA: Please merge. W/unions splitting jobs more and more, so many people are risking not making health insurance min in either." ;
+	gs:tweetDate "2010-05-07T18:05:57.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:feliciaday ;
+	gs:tweetInterest dbt:Health_insurance .
+
+<http://insights.gravity.com/resources/13502810004> gs:tweetText "One Book, One Twitter Book Club just launched, they're reading American Gods by @neilhimself. @1b1t2010 for details! http://twt.tl/Lc8UCTf" ;
+	gs:tweetDate "2010-05-06T19:00:56.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:feliciaday ;
+	gs:tweetInterest dbt:American_Gods .
+
+<http://insights.gravity.com/resources/13443587044> gs:tweetText "HA! RT: @majornelson What could possibly be the BEST baby announcement EVER http://bit.ly/bmnL4x" ;
+	gs:tweetDate "2010-05-05T19:38:25.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:feliciaday ;
+	gs:tweetInterest dbt:Baby_announcement .
+
+<http://insights.gravity.com/resources/13313444444> gs:tweetText "@ozmar We made brown sugar and cinnamon, nuttella and strawberries with REAL strawberry compote.  OH SO GOOD!" ;
+	gs:tweetDate "2010-05-03T16:17:28.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:feliciaday ;
+	gs:tweetInterest dbt:Brown_sugar .
+
+<http://insights.gravity.com/resources/13155698728> gs:tweetText "U.S. Soldiers Remake Lady Gaga's 'Telephone' Music Video http://youtu.be/haHXgFU7qNI" ;
+	gs:tweetDate "2010-04-30T23:11:30.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:feliciaday ;
+	gs:tweetInterest dbt:Music_video .
+
+<http://insights.gravity.com/resources/13135936392> gs:tweetText "A few #ff: @dwtsmakeup Dancing with the Stars Makeup Mel, because she put individual false eyelashes on me faster than Jet Li can punch." ;
+	gs:tweetDate "2010-04-30T15:47:14.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:feliciaday ;
+	gs:tweetInterest dbt:Jet_Li .
+
+<http://insights.gravity.com/resources/13111000617> gs:tweetText "@kiala I was getting freaked out, like Facebook was following me.  Like the feeling you get going to your car alone in a dark parking lot." ;
+	gs:tweetDate "2010-04-30T04:39:42.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:feliciaday ;
+	gs:tweetInterest dbt:Parking_lot .
+
+<http://insights.gravity.com/resources/13094392842> gs:tweetText "Aaah so excited to hear it! RT: @SyfyMovies Just finished RED rough cut. Is it too early to say I love it? @FeliciaDay is an action hero!" ;
+	gs:tweetDate "2010-04-29T22:50:35.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:feliciaday ;
+	gs:tweetInterest dbt:Rough_cut .
+
+<http://insights.gravity.com/resources/12901367244> gs:tweetText "Working with the beautiful (and pregnant) @danicamckellar! We are guesting on Cartoon Network show Generator Rex!" ;
+	gs:tweetDate "2010-04-26T19:55:00.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:feliciaday ;
+	gs:tweetInterest dbt:Generator_Rex .
+
+<http://insights.gravity.com/resources/12786734656> gs:tweetText "RT: @jaybol Good advice on overcoming creative blocks from Nic Felton, Tom Muller, Khoi Vinh, and more: http://cot.ag/bVq55w" ;
+	gs:tweetDate "2010-04-24T22:27:11.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:feliciaday ;
+	gs:tweetInterest dbt:Khoi_Vinh .
+
+<http://insights.gravity.com/resources/12749149067> gs:tweetText "Had a great dinner with 2 Urban Fantasy authors I love and follow! @richellemead @rachelcaine  http://richellemead.com/blogimages/FRR.jpg" ;
+	gs:tweetDate "2010-04-24T06:20:35.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:feliciaday ;
+	gs:tweetInterest dbt:Urban_fantasy .
+
+<http://insights.gravity.com/resources/12622215124> gs:tweetText "@wilw Ok, re-evaluated.  I will dump @marthastewart for you, but you must be able to grow heirloom tomatoes and make a mean marinara sauce." ;
+	gs:tweetDate "2010-04-22T05:30:16.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:feliciaday ;
+	gs:tweetInterest dbt:Marinara_sauce .
+
+<http://insights.gravity.com/resources/12621489580> gs:tweetText "Dark Horse asked me: Top 3 ppl for my apocalypse shelter. My answer: @donttrythis, @marthastewart and Jet Li. http://bit.ly/bng1at" ;
+	gs:tweetDate "2010-04-22T05:10:10.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:feliciaday ;
+	gs:tweetInterest dbt:Jet_Li .
+
+<http://insights.gravity.com/resources/12604096425> gs:tweetText "@jasedepuit Peanut Butter." ;
+	gs:tweetDate "2010-04-21T23:17:44.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:feliciaday ;
+	gs:tweetInterest dbt:Peanut_butter .
+
+<http://insights.gravity.com/resources/12358734981> gs:tweetText "Good advice: Jennifer Crusie on protecting your work: http://bit.ly/bDJpOl /via @lilithsaintcrow" ;
+	gs:tweetDate "2010-04-17T19:59:54.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:feliciaday ;
+	gs:tweetInterest dbt:Jennifer_Crusie .
+
+<http://insights.gravity.com/resources/12350172107> gs:tweetText "Took a step class with a tiny, hyperactive teacher. \"HIGHER! I LOVE YOU! PUSH IT!\" Couldn't stop thinking how annoying she would be in bed." ;
+	gs:tweetDate "2010-04-17T16:40:02.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:feliciaday ;
+	gs:tweetInterest dbt:Higher_Love .
+
+<http://insights.gravity.com/resources/12260833259> gs:tweetText "Former strikeforce middlewight champion MMA fighter Cung Le putting me in a chokehold!  http://yfrog.com/1q21shj" ;
+	gs:tweetDate "2010-04-16T03:01:43.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:feliciaday ;
+	gs:tweetInterest dbt:Cung_Le .
+
+<http://insights.gravity.com/resources/12238728947> gs:tweetText "RT: @bonniegrrl More #FreeStuff on Tax Day! http://is.gd/bukGV" ;
+	gs:tweetDate "2010-04-15T18:59:32.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:feliciaday ;
+	gs:tweetInterest dbt:Tax_Day .
+
+<http://insights.gravity.com/resources/12205526821> gs:tweetText "@superstretch haha they couldnt take a screenshot with my eyes open!?" ;
+	gs:tweetDate "2010-04-15T04:46:03.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:feliciaday ;
+	gs:tweetInterest dbt:Eyes_Open .
+
+<http://insights.gravity.com/resources/12127340721> gs:tweetText "Awesome for Joss: RT: @motancharoen Maurissa Tancharoen  Hold on to your f'in hats ;) http://shrinkalink.com/35041" ;
+	gs:tweetDate "2010-04-13T22:18:01.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:feliciaday ;
+	gs:tweetInterest dbt:Maurissa_Tancharoen .
+
+twt:amitk gs:twitterFollows twt:courosa .
+
+<http://insights.gravity.com/resources/14059852213> gs:tweetText "I'm at Saint John Airport (Saint John). http://4sq.com/aAOau7" ;
+	gs:tweetDate "2010-05-15T21:39:14.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:courosa ;
+	gs:tweetInterest dbt:Saint_John_Airport ;
+	gs:tweetText "I'm at Saint John Airport (Saint John). http://4sq.com/aAOau7" ;
+	gs:tweetDate "2010-05-15T21:39:14.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:courosa ;
+	gs:tweetInterest dbt:Saint_John .
+
+<http://insights.gravity.com/resources/14045388707> gs:tweetText "Heading east, quick stop in Toronto then Saint John, NB for #CNIE2010" ;
+	gs:tweetDate "2010-05-15T16:10:12.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:courosa ;
+	gs:tweetInterest dbt:Saint_John .
+
+<http://insights.gravity.com/resources/13994780653> gs:tweetText "Too cool for a traffic ticket http://bit.ly/augOh5" ;
+	gs:tweetDate "2010-05-14T20:04:48.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:courosa ;
+	gs:tweetInterest dbt:Traffic_ticket .
+
+<http://insights.gravity.com/resources/13957955833> gs:tweetText "@anderscj I'm not a big fan of any LMS, why I like to use many tools, all controlled by students." ;
+	gs:tweetDate "2010-05-14T05:05:19.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:courosa ;
+	gs:tweetInterest dbt:Big_Fan .
+
+<http://insights.gravity.com/resources/13957663877> gs:tweetText ".@ScottElias Checking out Hootcourse - feel free to join in. http://is.gd/c8gVn (Others also welcome)" ;
+	gs:tweetDate "2010-05-14T04:58:02.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:courosa ;
+	gs:tweetInterest dbt:Feel_Free .
+
+<http://insights.gravity.com/resources/13955922752> gs:tweetText "@gcouros It looks like it just autotags the posts, but then keeps them organized inside - not a bad idea." ;
+	gs:tweetDate "2010-05-14T04:15:47.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:courosa ;
+	gs:tweetInterest dbt:Bad_Idea .
+
+<http://insights.gravity.com/resources/13896410365> gs:tweetText "@intrepidteacher yea, saw it a couple of days ago - great idea, very weak sales pitch. I wonder if it will go anywhere." ;
+	gs:tweetDate "2010-05-13T05:22:19.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:courosa ;
+	gs:tweetInterest dbt:Sales_pitch .
+
+<http://insights.gravity.com/resources/13896297533> gs:tweetText "Makes me think back to when Dee Snider was defending his music - we've come a long way. http://is.gd/c6W0O" ;
+	gs:tweetDate "2010-05-13T05:19:27.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:courosa ;
+	gs:tweetInterest dbt:Dee_Snider .
+
+<http://insights.gravity.com/resources/13896230585> gs:tweetText "Teachers lip dub Twister Sister (We're Not Going to Take It) http://is.gd/c6VTk" ;
+	gs:tweetDate "2010-05-13T05:17:45.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:courosa ;
+	gs:tweetInterest dbt:Lip_dub .
+
+<http://insights.gravity.com/resources/13881274078> gs:tweetText "@rickweinberg not in my mind - as an academic, I feel my job is to advance education, not uphold the status quo." ;
+	gs:tweetDate "2010-05-13T00:19:55.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:courosa ;
+	gs:tweetInterest dbt:Status_Quo .
+
+<http://insights.gravity.com/resources/13867241307> gs:tweetText "http://www.vidinotes.com - upload a video, capture up to 30 images, add notes to each shot, print." ;
+	gs:tweetDate "2010-05-12T19:18:48.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:courosa ;
+	gs:tweetInterest dbt:Video_capture .
+
+<http://insights.gravity.com/resources/13866688284> gs:tweetText "\"Megyn Kelly gives a demonstration in corporate censorship: She won't let Josh Silver explain how net neutrality works\" http://bit.ly/dyFbTv" ;
+	gs:tweetDate "2010-05-12T19:05:56.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:courosa ;
+	gs:tweetInterest dbt:Josh_Silver .
+
+<http://insights.gravity.com/resources/13858845046> gs:tweetText "\"Creative and Humorous Food Photography\" http://bit.ly/a224ly" ;
+	gs:tweetDate "2010-05-12T16:09:17.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:courosa ;
+	gs:tweetInterest dbt:Food_photography .
+
+<http://insights.gravity.com/resources/13828587224> gs:tweetText "Translate Word documents using Google translate while preserving layout of Doc. http://is.gd/c583H" ;
+	gs:tweetDate "2010-05-12T03:27:03.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:courosa ;
+	gs:tweetInterest dbt:Google_Translate .
+
+<http://insights.gravity.com/resources/13827190006> gs:tweetText "keyboard cat after the dentist http://bit.ly/bzImry" ;
+	gs:tweetDate "2010-05-12T02:59:16.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:courosa ;
+	gs:tweetInterest dbt:Keyboard_Cat .
+
+<http://insights.gravity.com/resources/13826981964> gs:tweetText "Dan Fanelli political ad that obviously supports racial profiling. http://bit.ly/dhRHFo" ;
+	gs:tweetDate "2010-05-12T02:55:11.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:courosa ;
+	gs:tweetInterest dbt:Racial_profiling .
+
+<http://insights.gravity.com/resources/13825770513> gs:tweetText "Need to know your IP address? Want to hear it from a goat? Well, today is your lucky day. http://ipgoat.com (click on 'baaaa my IP')" ;
+	gs:tweetDate "2010-05-12T02:31:59.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:courosa ;
+	gs:tweetInterest dbt:IP_address .
+
+<http://insights.gravity.com/resources/13823453687> gs:tweetText "@chrisjohnston it does video editing as well? I've only done audio and image editing with it." ;
+	gs:tweetDate "2010-05-12T01:49:29.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:courosa ;
+	gs:tweetInterest dbt:Image_editing .
+
+<http://insights.gravity.com/resources/13823030093> gs:tweetText "@bbcrfc online video editing? I've never used any service, other than trying the odd one. (e.g., Jumpcut, which was discontinued I think)" ;
+	gs:tweetDate "2010-05-12T01:41:28.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:courosa ;
+	gs:tweetInterest dbt:Video_editing .
+
+<http://insights.gravity.com/resources/13822294899> gs:tweetText "Impressive Lady Gaga cover by 6th grader. http://bit.ly/asLSo3 (Although, audience of preteen girls seems rather unimpressed)" ;
+	gs:tweetDate "2010-05-12T01:27:39.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:courosa ;
+	gs:tweetInterest dbt:Lady_Gaga .
+
+<http://insights.gravity.com/resources/13808175191> gs:tweetText "The PS22 Queen Latifah visit is awesome. http://bit.ly/dtadXa" ;
+	gs:tweetDate "2010-05-11T20:39:17.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:courosa ;
+	gs:tweetInterest dbt:Queen_Latifah .
+
+<http://insights.gravity.com/resources/13807163561> gs:tweetText "@robwall but there's free shipping!" ;
+	gs:tweetDate "2010-05-11T20:15:40.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:courosa ;
+	gs:tweetInterest dbt:Free_shipping .
+
+twt:amitk gs:twitterFollows twt:erraggy .
+
+<http://insights.gravity.com/resources/14006496769> gs:tweetText "Join my Convo: Rainforest Benefit Concert - Don't Stop Believing http://gravity.com/05yd38" ;
+	gs:tweetDate "2010-05-15T00:26:12.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:erraggy ;
+	gs:tweetInterest dbt:Benefit_concert .
+
+<http://insights.gravity.com/resources/13796873448> gs:tweetText "http://ping.fm/p/eahs6 - Is that latte so important that police need to block rush hour traffic? #PublicServiceFail" ;
+	gs:tweetDate "2010-05-11T16:25:16.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:erraggy ;
+	gs:tweetInterest dbt:Rush_hour .
+
+<http://insights.gravity.com/resources/13676112291> gs:tweetText "Breakfast for da best mudder (@ East Coast Bagel) http://4sq.com/a5L9Dz" ;
+	gs:tweetDate "2010-05-09T16:27:37.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:erraggy ;
+	gs:tweetInterest dbt:East_Coast .
+
+<http://insights.gravity.com/resources/13516407535> gs:tweetText "Join this Convo: Bill SB1070 made Arizona the laughing stock of the nation. http://gravity.com/05yd0d" ;
+	gs:tweetDate "2010-05-07T00:06:20.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:erraggy ;
+	gs:tweetInterest dbt:Laughing_Stock .
+
+<http://insights.gravity.com/resources/13255606777> gs:tweetText "@rjbudke I used to hit bagel nosh almost every Sundays morn. Best corned beef hash!  Enjoy." ;
+	gs:tweetDate "2010-05-02T17:02:50.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:erraggy ;
+	gs:tweetInterest dbt:Corned_beef .
+
+<http://insights.gravity.com/resources/13090850218> gs:tweetText "BROgrammer lunch w/@ka and @jasonmoo (@ The Counter) http://4sq.com/67WRFb" ;
+	gs:tweetDate "2010-04-29T21:32:04.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:erraggy ;
+	gs:tweetInterest dbt:Lunch_counter .
+
+<http://insights.gravity.com/resources/13080919017> gs:tweetText "Join my Convo: Jon Stewart and the Gizmodo iPhone case http://gravity.com/05ycve" ;
+	gs:tweetDate "2010-04-29T17:44:05.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:erraggy ;
+	gs:tweetInterest dbt:Jon_Stewart .
+
+<http://insights.gravity.com/resources/13072951973> gs:tweetText "My 6yr old daughter just gave me a quarter for bus fare. So *this* is child support." ;
+	gs:tweetDate "2010-04-29T14:57:16.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:erraggy ;
+	gs:tweetInterest dbt:Child_support .
+
+<http://insights.gravity.com/resources/13031540361> gs:tweetText "I am BROgramming with @ka @gravity HQ. Pair programming will never be the same." ;
+	gs:tweetDate "2010-04-28T22:19:08.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:erraggy ;
+	gs:tweetInterest dbt:Pair_programming .
+
+<http://insights.gravity.com/resources/12955963979> gs:tweetText "come on @googlevoice! please fix caller id in #GoogleVoice http://bit.ly/9oFeQn 4days and no response from you. we need #help cc @google" ;
+	gs:tweetDate "2010-04-27T17:28:26.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:erraggy ;
+	gs:tweetInterest dbt:Caller_ID .
+
+<http://insights.gravity.com/resources/12953599484> gs:tweetText "Oops. I was enjoying my relaxing bus ride so much, that I ended up in Westwood.  I work in Santa Monica. LOL" ;
+	gs:tweetDate "2010-04-27T16:34:36.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:erraggy ;
+	gs:tweetInterest dbt:Bus_Ride .
+
+<http://insights.gravity.com/resources/12892453792> gs:tweetText "is enjoying my bus ride to work." ;
+	gs:tweetDate "2010-04-26T16:36:32.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:erraggy ;
+	gs:tweetInterest dbt:Bus_Ride .
+
+<http://insights.gravity.com/resources/12730656695> gs:tweetText "Best Tech Guy caller EVER with Leo Laporte http://ping.fm/aE6zc" ;
+	gs:tweetDate "2010-04-23T23:26:29.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:erraggy ;
+	gs:tweetInterest dbt:Leo_Laporte .
+
+<http://insights.gravity.com/resources/12668556334> gs:tweetText "Join this Convo: Go shorty, it's your Earth Day! http://gravity.com/05ycq7" ;
+	gs:tweetDate "2010-04-22T23:44:39.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:erraggy ;
+	gs:tweetInterest dbt:Earth_Day .
+
+<http://insights.gravity.com/resources/12664269711> gs:tweetText "RT @ka: go shorty, it's your earth day. we're gonna party like it's your earth day. we're gonna sip bacardi like it's your earth day... cute" ;
+	gs:tweetDate "2010-04-22T22:16:59.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:erraggy ;
+	gs:tweetInterest dbt:Earth_Day .
+
+<http://insights.gravity.com/resources/12638655543> gs:tweetText "Early morning grocery run (@ Pavilions) http://4sq.com/82Ysb8" ;
+	gs:tweetDate "2010-04-22T13:27:18.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:erraggy ;
+	gs:tweetInterest dbt:Early_Morning .
+
+<http://insights.gravity.com/resources/12475606893> gs:tweetText "Join this Convo: Martial arts http://gravity.com/05ycny" ;
+	gs:tweetDate "2010-04-19T20:59:39.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:erraggy ;
+	gs:tweetInterest dbt:Martial_arts .
+
+<http://insights.gravity.com/resources/12306731932> gs:tweetText "Just helped someone from San Francisco, CA with a question about *MySpace* ...on Aardvark! http://vark.com/t/211d7e" ;
+	gs:tweetDate "2010-04-16T22:00:14.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:erraggy ;
+	gs:tweetInterest dbt:San_Francisco .
+
+<http://insights.gravity.com/resources/12240042103> gs:tweetText "@arrington what do you mean? i made 3 successful calls today on my Nexus One and the Google Voice site has been rock solid for SMS." ;
+	gs:tweetDate "2010-04-15T19:31:04.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:erraggy ;
+	gs:tweetInterest dbt:Google_Voice .
+
+<http://insights.gravity.com/resources/12214081474> gs:tweetText "RT @TechCrunch: MySpace Gets Serious About Events - http://tcrn.ch/dyFnRr by @arrington -- nice work @myspace. I know how much work this was" ;
+	gs:tweetDate "2010-04-15T09:41:52.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:erraggy ;
+	gs:tweetInterest dbt:Nice_Work .
+
+<http://insights.gravity.com/resources/12144828577> gs:tweetText "Join this Convo: Everything You Need To Know About Fast Food... http://gravity.com/05ycjy" ;
+	gs:tweetDate "2010-04-14T04:18:11.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:erraggy ;
+	gs:tweetInterest dbt:Fast_food .
+
+<http://insights.gravity.com/resources/11962462873> gs:tweetText "Kicking back w/my extended family by my dad's RV. Kids are playing w/cousins. Nice." ;
+	gs:tweetDate "2010-04-11T00:02:03.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:erraggy ;
+	gs:tweetInterest dbt:Extended_family .
+
+<http://insights.gravity.com/resources/11943805358> gs:tweetText "Farmers' Market w/the girls (@ Virginia Avenue Park) http://4sq.com/cW0a9g" ;
+	gs:tweetDate "2010-04-10T16:08:25.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:erraggy ;
+	gs:tweetInterest dbt:Virginia_Avenue .
+
+<http://insights.gravity.com/resources/11841631044> gs:tweetText "New Convo: Beardyman RE-CREATING Massive Attack's Teardrop LIVE http://gravity.com/05yccy" ;
+	gs:tweetDate "2010-04-08T20:23:42.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:erraggy ;
+	gs:tweetInterest dbt:Massive_Attack .
+
+<http://insights.gravity.com/resources/11788240678> gs:tweetText "New Convo: AMAZING rendition of Whitney Houston's - I will Always Love You by a Chinese boy http://gravity.com/05ycav" ;
+	gs:tweetDate "2010-04-07T21:46:31.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:erraggy ;
+	gs:tweetInterest dbt:Whitney_Houston .
+
+<http://insights.gravity.com/resources/11709241160> gs:tweetText "what a beautiful day! I LOVE IT! How about you?" ;
+	gs:tweetDate "2010-04-06T17:29:00.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:erraggy ;
+	gs:tweetInterest dbt:Beautiful_Day .
+
+<http://insights.gravity.com/resources/11707055419> gs:tweetText "It's interesting that the Metro 704 has the TV in Spanish. Not even half the passengers appear to be Latino." ;
+	gs:tweetDate "2010-04-06T16:40:29.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:erraggy ;
+	gs:tweetInterest dbt:Metro_TV .
+
+<http://insights.gravity.com/resources/11705013942> gs:tweetText "No food for me, just the bus stop (@ Jack In The Box - Culver City) http://4sq.com/7sj6k" ;
+	gs:tweetDate "2010-04-06T15:56:38.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:erraggy ;
+	gs:tweetInterest dbt:Bus_stop .
+
+<http://insights.gravity.com/resources/11624167051> gs:tweetText "New Convo: Google Voice at home without phone service..? http://gravity.com/05yc4u" ;
+	gs:tweetDate "2010-04-05T04:09:59.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:erraggy ;
+	gs:tweetInterest dbt:Google_Voice .
+
+<http://insights.gravity.com/resources/11396213758> gs:tweetText "I'm at Islands Restaurant (6081 Center Drive, Unit 104, E/o S Sepulveda Blvd, Los Angeles). http://4sq.com/5TK0me" ;
+	gs:tweetDate "2010-04-01T00:43:47.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:erraggy ;
+	gs:tweetInterest dbt:Los_Angeles .
+
+<http://insights.gravity.com/resources/11378735221> gs:tweetText "I'm at Gravity (725 arizona, Los Angeles). http://4sq.com/7bcewY" ;
+	gs:tweetDate "2010-03-31T17:53:30.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:erraggy ;
+	gs:tweetInterest dbt:Los_Angeles .
+
+<http://insights.gravity.com/resources/11259713058> gs:tweetText "I'm at Gravity (725 arizona, Los Angeles). http://4sq.com/7bcewY" ;
+	gs:tweetDate "2010-03-29T17:12:32.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:erraggy ;
+	gs:tweetInterest dbt:Los_Angeles .
+
+<http://insights.gravity.com/resources/11227044235> gs:tweetText "I'm at Jamba Juice - Marina Del Rey (4371 Glencoe Ave, Mindanao Way, Marina Del Rey). http://4sq.com/2f64hW" ;
+	gs:tweetDate "2010-03-29T02:37:53.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:erraggy ;
+	gs:tweetInterest dbt:Jamba_Juice .
+
+<http://insights.gravity.com/resources/11224630253> gs:tweetText "I'm at California Pizza Kitchen - Marina Del Rey (13345 Fiji Way, Marina Del Rey). http://4sq.com/2ovaWE" ;
+	gs:tweetDate "2010-03-29T01:48:07.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:erraggy ;
+	gs:tweetInterest dbt:California_Pizza_Kitchen .
+
+<http://insights.gravity.com/resources/11156070472> gs:tweetText "Farmers' Market time! (@ Virginia Avenue Park) http://4sq.com/cW0a9g" ;
+	gs:tweetDate "2010-03-27T18:23:58.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:erraggy ;
+	gs:tweetInterest dbt:Virginia_Avenue .
+
+<http://insights.gravity.com/resources/11113353177> gs:tweetText "Great day @gravity (@ Gravity) http://4sq.com/7bcewY" ;
+	gs:tweetDate "2010-03-26T22:34:44.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:erraggy ;
+	gs:tweetInterest dbt:Great_Day .
+
+<http://insights.gravity.com/resources/11112703662> gs:tweetText "I'm at Apple Store Third Street Genius Bar (1248 Third Street Promenade, Arizona, Santa Monica). http://4sq.com/aKhxpv" ;
+	gs:tweetDate "2010-03-26T22:18:41.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:erraggy ;
+	gs:tweetInterest dbt:Genius_Bar .
+
+twt:amitk gs:twitterFollows twt:iHany .
+
+<http://insights.gravity.com/resources/13992272970> gs:tweetText "We have a \"It Used To  Be Cool\" TG tonight. Thinking about wearing a LeBron James jersey." ;
+	gs:tweetDate "2010-05-14T19:08:27.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:iHany ;
+	gs:tweetInterest dbt:LeBron_James .
+
+<http://insights.gravity.com/resources/13559037207> gs:tweetText "Not sure if I love or hate the Clam Shell" ;
+	gs:tweetDate "2010-05-07T17:04:45.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:iHany ;
+	gs:tweetInterest dbt:Love_Hate .
+
+<http://insights.gravity.com/resources/13261315946> gs:tweetText "Barack Obama: \"I'm Still Pretty Big On Twitter\" http://bit.ly/bw7SNV [Links]" ;
+	gs:tweetDate "2010-05-02T19:14:07.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:iHany ;
+	gs:tweetInterest dbt:Barack_Obama .
+
+<http://insights.gravity.com/resources/13109146648> gs:tweetText "@tdkyo Show me or tell me about any popular mobile device that successfully and efficiently runs Flash?" ;
+	gs:tweetDate "2010-04-30T03:54:56.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:iHany ;
+	gs:tweetInterest dbt:Mobile_device .
+
+<http://insights.gravity.com/resources/13106244554> gs:tweetText "@tdkyo changes that made the app store a better environment" ;
+	gs:tweetDate "2010-04-30T02:52:44.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:iHany ;
+	gs:tweetInterest dbt:App_Store .
+
+<http://insights.gravity.com/resources/13104377154> gs:tweetText "Caterina Fake's Advice: Want To Be An Entrepreneur? Drop Out Of College. http://bit.ly/a8RBFv [Links]" ;
+	gs:tweetDate "2010-04-30T02:15:08.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:iHany ;
+	gs:tweetInterest dbt:Caterina_Fake .
+
+<http://insights.gravity.com/resources/13081864844> gs:tweetText "Ben Horowitz: Why We Prefer Founding CEOs http://bit.ly/b9mmSQ [Links]" ;
+	gs:tweetDate "2010-04-29T18:05:20.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:iHany ;
+	gs:tweetInterest dbt:Ben_Horowitz .
+
+<http://insights.gravity.com/resources/11835162940> gs:tweetText "iPhone OS gets multitasking. Great, now people can shut the hell up." ;
+	gs:tweetDate "2010-04-08T17:44:24.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:iHany ;
+	gs:tweetInterest dbt:IPhone_OS .
+
+<http://insights.gravity.com/resources/11652394629> gs:tweetText "RT @kevinrose: Multitasking!!! RT: iPhone OS 4.0 announcement on Thursday, I'll be there! (via @ryan)" ;
+	gs:tweetDate "2010-04-05T17:49:55.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:iHany ;
+	gs:tweetInterest dbt:IPhone_OS .
+
+<http://insights.gravity.com/resources/11605042799> gs:tweetText "RT @ZachUsmani: RT @boburnham: Sitting on a Easter egg. How long will it take for my Jesus to hatch?" ;
+	gs:tweetDate "2010-04-04T20:44:42.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:iHany ;
+	gs:tweetInterest dbt:Easter_egg .
+
+<http://insights.gravity.com/resources/11548616104> gs:tweetText "Where is Steve Jobs right now and what is he doing? That's what I want to know." ;
+	gs:tweetDate "2010-04-03T19:01:59.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:iHany ;
+	gs:tweetInterest dbt:Steve_Jobs .
+
+<http://insights.gravity.com/resources/11545165647> gs:tweetText "Hmm. I'm not a big fan of the case, I'm going to try and return it." ;
+	gs:tweetDate "2010-04-03T17:36:34.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:iHany ;
+	gs:tweetInterest dbt:Big_Fan .
+
+<http://insights.gravity.com/resources/11540676721> gs:tweetText "At the Apple Store in Easton with @treblig" ;
+	gs:tweetDate "2010-04-03T15:57:08.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:iHany ;
+	gs:tweetInterest dbt:Apple_Store .
+
+<http://insights.gravity.com/resources/11491062990> gs:tweetText "@shaayak long night" ;
+	gs:tweetDate "2010-04-02T17:15:03.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:iHany ;
+	gs:tweetInterest dbt:Long_Night .
+
+<http://insights.gravity.com/resources/11049325267> gs:tweetText "Trying to figure out how to write a cover letter..." ;
+	gs:tweetDate "2010-03-25T19:24:23.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:iHany ;
+	gs:tweetInterest dbt:Cover_letter .
+
+<http://insights.gravity.com/resources/11049300583> gs:tweetText "Why does the Google logo change when I'm using Chrome?" ;
+	gs:tweetDate "2010-03-25T19:23:45.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:iHany ;
+	gs:tweetInterest dbt:Google_logo .
+
+<http://insights.gravity.com/resources/10987656270> gs:tweetText "Obama to receive an honorary Doctor of Laws degree and deliver Spring Commencement speech @UMich" ;
+	gs:tweetDate "2010-03-24T16:43:24.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:iHany ;
+	gs:tweetInterest dbt:Commencement_speech .
+
+<http://insights.gravity.com/resources/10852098410> gs:tweetText "Where were you when Health Care Reform passed? Watching, excited, with my dad. Yes, we can." ;
+	gs:tweetDate "2010-03-22T02:48:10.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:iHany ;
+	gs:tweetInterest dbt:Health_care .
+
+<http://insights.gravity.com/resources/10586474457> gs:tweetText "It's really hard to listen to Wavin' Flag, but it's such a great choice that I can't stop listening." ;
+	gs:tweetDate "2010-03-16T20:37:39.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:iHany ;
+	gs:tweetInterest dbt:Stop_Listening .
+
+<http://insights.gravity.com/resources/10577454247> gs:tweetText "Well, I feel really good now." ;
+	gs:tweetDate "2010-03-16T16:39:56.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:iHany ;
+	gs:tweetInterest dbt:Feel_Good .
+
+<http://insights.gravity.com/resources/10383689809> gs:tweetText "Doesn't this aerial shot of Sydney just look beautiful? http://bit.ly/dJAio" ;
+	gs:tweetDate "2010-03-12T18:20:17.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:iHany ;
+	gs:tweetInterest dbt:Aerial_shot .
+
+<http://insights.gravity.com/resources/10007673741> gs:tweetText "I just gave my Twitter stream a strong body cleansing solution...I predict about 1000 spam robots (or irrelevant auto-follows) left. So far." ;
+	gs:tweetDate "2010-03-05T03:58:36.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:iHany ;
+	gs:tweetInterest dbt:Body_cleansing .
+
+<http://insights.gravity.com/resources/9988321519> gs:tweetText "...and my follower count is slowly decreasing. Down 11 now. It will be interesting to see if I have no followers by the end of the day." ;
+	gs:tweetDate "2010-03-04T20:03:55.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:iHany ;
+	gs:tweetInterest dbt:End_Day .
+
+<http://insights.gravity.com/resources/9987697270> gs:tweetText "@tdkyo Yes, certainly. But, I wonder how many are a) relevant to me and b) real people and not spam" ;
+	gs:tweetDate "2010-03-04T19:47:01.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:iHany ;
+	gs:tweetInterest dbt:Real_People .
+
+<http://insights.gravity.com/resources/9987515188> gs:tweetText "Is it weird that of the 44 people Bill Gates follows, one is Ashley Tisdale?" ;
+	gs:tweetDate "2010-03-04T19:41:57.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:iHany ;
+	gs:tweetInterest dbt:Ashley_Tisdale .
+
+<http://insights.gravity.com/resources/9902560706> gs:tweetText "NYC Follows Bogota, Adds Special Bus-Only Lane http://bit.ly/9CbuoH [Links]" ;
+	gs:tweetDate "2010-03-03T01:47:32.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:iHany ;
+	gs:tweetInterest dbt:Bus_lane .
+
+<http://insights.gravity.com/resources/9887813810> gs:tweetText "The guy in front of me (bank) is telling the teller his life story. She couldn't care less but is really faking engagement..." ;
+	gs:tweetDate "2010-03-02T19:31:28.000Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+	gs:tweetedBy twt:iHany ;
+	gs:tweetInterest dbt:Life_Story .

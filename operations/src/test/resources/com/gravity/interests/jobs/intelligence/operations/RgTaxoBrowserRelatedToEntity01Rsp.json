@@ -1,0 +1,58 @@
+{
+  "message": "OK",
+  "data": [
+    {
+      "freeBaseID": "m.0bhvvf",
+      "nodeTypes": [
+        188,
+        97
+      ],
+      "id": 3877632,
+      "name": "Rex Ryan",
+      "disambig": "NFL"
+    },
+    {
+      "relationshipType": "playsForTeam",
+      "nodeTypes": [
+        200,
+        97
+      ],
+      "id": 3056126,
+      "name": "Geno Smith",
+      "disambig": "NFL Player(Current)"
+    },
+    {
+      "freeBaseID": "m.02_fs7",
+      "nodeTypes": [
+        188,
+        97
+      ],
+      "id": 3677135,
+      "name": "Bill Belichick",
+      "disambig": "NFL"
+    },
+    {
+      "relationshipType": "formerPlayerOf",
+      "freeBaseID": "m.0ctxdn",
+      "nodeTypes": [
+        205,
+        200,
+        97
+      ],
+      "id": 3036162,
+      "name": "Mark Sanchez",
+      "disambig": "NFL Player(Current)"
+    },
+    {
+      "relationshipType": "playsForTeam",
+      "freeBaseID": "m.0cx3f1",
+      "nodeTypes": [
+        200,
+        97
+      ],
+      "id": 3018731,
+      "name": "Brandon Marshall",
+      "disambig": "NFL Player(Current)"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "message": "OK",
+  "data": [
+    {
+      "freeBaseID": "m.0jnpv",
+      "nodeTypes": [
+        143
+      ],
+      "id": 3016925,
+      "name": "Dallas Stars",
+      "disambig": "NHL Team"
+    },
+    {
+      "freeBaseID": "m.0jnq8",
+      "nodeTypes": [
+        143
+      ],
+      "id": 3016926,
+      "name": "Los Angeles Kings",
+      "disambig": "NHL Team"
+    },
+    {
+      "freeBaseID": "m.0j8cb",
+      "nodeTypes": [
+        143
+      ],
+      "id": 3016927,
+      "name": "Carolina Hurricanes",
+      "disambig": "NHL Team"
+    },
+    {
+      "freeBaseID": "m.0jnmj",
+      "nodeTypes": [
+        143
+      ],
+      "id": 3016928,
+      "name": "Edmonton Oilers",
+      "disambig": "NHL Team"
+    },
+    {
+      "freeBaseID": "m.02fp3",
+      "nodeTypes": [
+        143
+      ],
+      "id": 3016929,
+      "name": "Detroit Red Wings",
+      "disambig": "NHL Team"
+    },
+    {
+      "freeBaseID": "m.0jnlm",
+      "nodeTypes": [
+        143
+      ],
+      "id": 3016930,
+      "name": "Chicago Blackhawks",
+      "disambig": "NHL Team"
+    },
+    {
+      "freeBaseID": "m.0jnng",
+      "nodeTypes": [
+        143
+      ],
+      "id": 3016931,
+      "name": "Minnesota Wild",
+      "disambig": "NHL Team"
+    },
+    {
+      "freeBaseID": "m.0jnm_",
+      "nodeTypes": [
+        143
+      ],
+      "id": 3016932,
+      "name": "Calgary Flames",
+      "disambig": "NHL Team"
+    },
+    {
+      "freeBaseID": "m.0jnm2",
+      "nodeTypes": [
+        143
+      ],
+      "id": 3016933,
+      "name": "Columbus Blue Jackets",
+      "disambig": "NHL Team"
+    },
+    {
+      "freeBaseID": "m.0jnr_",
+      "nodeTypes": [
+        143
+      ],
+      "id": 3016935,
+      "name": "Nashville Predators",
+      "disambig": "NHL Team"
+    }
+  ],
+  "paging": {
+    "next": "http://related-tags/TaxoBrowser/byNodetype/143?fetchAll=true&offset=10&size=10"
+  }
+}

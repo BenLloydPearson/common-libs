@@ -1,0 +1,221 @@
+   4         "platform": "0",
+  52         "platform": "1",
+ 128         "platform": "2",
+   1         "platform": "3",
+   1         "platform": "5",
+   1         "platform": "9",
+  10         "platform": "99",
+
+platform `0`:
+  Arabi   `Z8hC2U`
+  Autoblog   `MlKLfA`
+  Huff. Post - Greece   `mO4U6_`
+  Huff. Post: United States - GPS for the Soul2   `hYMZB5`
+
+platform `1`:
+  AOL Autos   `YPfMVe`
+  AOL Cars UK   `Z-pwTy`
+  AOL Hot Search - UK   `vSFIyo`
+  AOL Jobs   `wGwNob`
+  AOL Money UK   `lE44mi`
+  AOL News JP   `eosYRc`
+  AOL Real Estate   `c8PaKF`
+  AOL Shopping UK   `06fAFQ`
+  AOL Travel UK   `47cutA`
+  AOL Weather   `dp5wIx`
+  AOL.COM Articles   `3_PT8G`
+  Autoblog - old   `5rH9b4`
+  Autoblog Canada   `nTh_9f`
+  Autoblog Chinese   `cn4Pmw`
+  Autoblog France   `ufHmIM`
+  Autoblog Germany   `22-VyP`
+  Autoblog Japan   `OOq8Vp`
+  Autoblog Latino   `eaWemY`
+  Autoblog Quebec   `98g86n`
+  Autoblog Simplified Chinese   `bTDU9t`
+  Autoblog Spanish   `W4Cirz`
+  Cambio   `JqrnRV`
+  Daily Finance   `Jefilv`
+  Daily Finance UK   `1XvkGD`
+  Engadget   `7mdkz3`
+  Engadget Chinese   `9tf7OK`
+  Engadget Chinese (CN)   `YkctGr`
+  Engadget Germany   `Bkd4xn`
+  Engadget Japanese   `A9HdXJ`
+  Engadget Mobile   `OcMvq0`
+  Engadget Simplified Chinese   `JhH-EO`
+  Engadget Spanish   `a9PmR_`
+  HuffPost Horoscopes   `xuPsPY`
+  Joystiq   `Pkzg1q`
+  Kitchen Daily Canada   `cBIBWS`
+  Mandatory   `blEPZi`
+  Mapquest Travel Articles   `guCWHE`
+  Moviefone   `xwY8AK`
+  Moviefone Blog   `o0m566`
+  Moviefone Blog Canada   `WNkoyL`
+  Moviefone Canada   `EWdSnz`
+  MyDaily UK   `EblWv5`
+  ParentDish   `aprB_Z`
+  Parentdish - UK   `5Sz2M4`
+  Parentdish Canada   `PfQFH9`
+  Pawnation   `9RclDI`
+  Stylelist   `9RwIO0`
+  Stylelist (Main)   `vDY6yM`
+  Stylelist Canada   `RTvNpT`
+  Stylelist Quebec   `2pjcox`
+  TUAW.com   `NQdEZg`
+  Translogic   `61xYbI`
+
+platform `2`:
+  AOL Features   `DiJoC9`
+  Huff. Post: AOL   `be2olw`
+  Huff. Post: Brazil - Brazil   `TvcNsa`
+  Huff. Post: Canada - Canada   `UWnyor`
+  Huff. Post: Canada - Canada Alberta   `Z64AV0`
+  Huff. Post: Canada - Canada British Columbia   `FCIhst`
+  Huff. Post: Canada - Canada Business   `-94TXn`
+  Huff. Post: Canada - Canada Impact   `Z-b5Uz`
+  Huff. Post: Canada - Canada Lifestyle   `OdfXmf`
+  Huff. Post: Canada - Canada Living   `pOi7yO`
+  Huff. Post: Canada - Canada Music   `3GIyGy`
+  Huff. Post: Canada - Canada Politics   `UZkMuf`
+  Huff. Post: Canada - Canada Sports   `jwfsno`
+  Huff. Post: Canada - Canada Style   `8wIpEe`
+  Huff. Post: Canada - Canada TV   `1f4iSL`
+  Huff. Post: Canada - Canada Travel   `d8hI6d`
+  Huff. Post: France - France   `SOiPYC`
+  Huff. Post: France - France C'est La Vie   `q9BuKJ`
+  Huff. Post: Germany - Germany   `wsy8G4`
+  Huff. Post: Italy - Italy   `gwdhMR`
+  Huff. Post: Japan - Japan   `X8Zf2x`
+  Huff. Post: Korea - Korea   `3whNiF`
+  Huff. Post: Live Better America   `x3KAVY`
+  Huff. Post: Maghreb - Algeria   `7bBbQD`
+  Huff. Post: Maghreb - Maghreb   `H8hIF6`
+  Huff. Post: Moviefone Canada   `MQ3x1P`
+  Huff. Post: Mydaily   `InL9rl`
+  Huff. Post: None - AOL   `qQg7BK`
+  Huff. Post: None - AOL Engadget   `kcx7dX`
+  Huff. Post: None - Developer@HuffPost   `uRGWmN`
+  Huff. Post: None - Live Better America   `7_dJSV`
+  Huff. Post: None - MapQuest   `tiPN9m`
+  Huff. Post: None - Moviefone   `vFUnsA`
+  Huff. Post: None - Moviefone Canada   `4CelgV`
+  Huff. Post: None - Mydaily   `WQfSGq`
+  Huff. Post: Quebec - Canada Quebec   `wMAwoc`
+  Huff. Post: Quebec - Quebec Art De Vivre   `u0FuEr`
+  Huff. Post: Spain - Spain   `6qXjKa`
+  Huff. Post: United Kingdom - UK   `jUwyZY`
+  Huff. Post: United Kingdom - UK Celebrity   `8L7YhX`
+  Huff. Post: United Kingdom - UK Comedy   `7MuMzD`
+  Huff. Post: United Kingdom - UK Culture   `lZJwVz`
+  Huff. Post: United Kingdom - UK Entertainment   `uuO5Kx`
+  Huff. Post: United Kingdom - UK Fashion   `HGOEbn`
+  Huff. Post: United Kingdom - UK Lifestyle   `HIbe5A`
+  Huff. Post: United Kingdom - UK Parents   `nlKtow`
+  Huff. Post: United Kingdom - UK Politics   `oebZir`
+  Huff. Post: United Kingdom - UK Sport   `ku5Plk`
+  Huff. Post: United Kingdom - UK Style   `CXoV61`
+  Huff. Post: United Kingdom - UK Tech   `RZPFrS`
+  Huff. Post: United Kingdom - UK Universities & Education   `oePABE`
+  Huff. Post: United Kingdom - UK World   `epoPgS`
+  Huff. Post: United States - Arts   `BuAv0o`
+  Huff. Post: United States - Black Voices   `WQ6TjJ`
+  Huff. Post: United States - Books   `yS34u2`
+  Huff. Post: United States - Business   `-eG2M5`
+  Huff. Post: United States - Celebrity   `6UGoGM`
+  Huff. Post: United States - Chicago   `FyfdfU`
+  Huff. Post: United States - College   `cA8GEm`
+  Huff. Post: United States - Comedy   `cJKwHw`
+  Huff. Post: United States - Comics   `1xTjmD`
+  Huff. Post: United States - Crime   `M8miNA`
+  Huff. Post: United States - Culture   `fJb48z`
+  Huff. Post: United States - DC   `hiOgKu`
+  Huff. Post: United States - Denver   `D3nhxS`
+  Huff. Post: United States - Detroit   `0cPeUS`
+  Huff. Post: United States - Divorce   `KrQN63`
+  Huff. Post: United States - Education   `AOju-L`
+  Huff. Post: United States - Entertainment   `r5_4RH`
+  Huff. Post: United States - Eyes & Ears   `gl8gEA`
+  Huff. Post: United States - Fifty   `vCt6x3`
+  Huff. Post: United States - Food   `6CbO1k`
+  Huff. Post: United States - GPS for the Soul   `fY0S8b`
+  Huff. Post: United States - Gay Voices   `fTVHBF`
+  Huff. Post: United States - Good News   `foKIl4`
+  Huff. Post: United States - Green   `vap56n`
+  Huff. Post: United States - HPSN   `XO7sVA`
+  Huff. Post: United States - Hawaii   `jxiRvE`
+  Huff. Post: United States - Health News   `m7HcEl`
+  Huff. Post: United States - Health and Fitness   `SlB8d7`
+  Huff. Post: United States - Healthy Living   `TVLKpn`
+  Huff. Post: United States - High School   `9rGMyJ`
+  Huff. Post: United States - Homepage   `VHOTfb`
+  Huff. Post: United States - HuffPost Home   `fUials`
+  Huff. Post: United States - HuffPost Live 321   `AapciE`
+  Huff. Post: United States - Huffington   `7gy1u1`
+  Huff. Post: United States - Huffpost Code   `gXdC7B`
+  Huff. Post: United States - Impact   `Iew9PE`
+  Huff. Post: United States - Kids   `PUmpJF`
+  Huff. Post: United States - KitchenDaily   `GiRfmm`
+  Huff. Post: United States - Latino Voices   `Lm8uYt`
+  Huff. Post: United States - Local   `eLDOj3`
+  Huff. Post: United States - Los Angeles   `bpvPBI`
+  Huff. Post: United States - Marlo Thomas   `-QJ-Gv`
+  Huff. Post: United States - Media   `SkONrK`
+  Huff. Post: United States - Miami   `GGTYHR`
+  Huff. Post: United States - Mindful Living   `R-lbnS`
+  Huff. Post: United States - Money   `YsrKIR`
+  Huff. Post: United States - New York   `hYNCCL`
+  Huff. Post: United States - None   `_PDu-U`
+  Huff. Post: United States - OWN   `Wz-X_w`
+  Huff. Post: United States - Parents   `fJtfXX`
+  Huff. Post: United States - Politics   `n3GSrD`
+  Huff. Post: United States - Religion   `5IWjJU`
+  Huff. Post: United States - San Francisco   `wwws89`
+  Huff. Post: United States - Science   `5vzgMt`
+  Huff. Post: United States - Small Business   `nX1Xxk`
+  Huff. Post: United States - Sports   `qkjDte`
+  Huff. Post: United States - Style   `r2ahjs`
+  Huff. Post: United States - TED Weekends   `13pDDG`
+  Huff. Post: United States - TV   `JEwotr`
+  Huff. Post: United States - Taste   `gzJhX4`
+  Huff. Post: United States - Technology   `-rldSp`
+  Huff. Post: United States - Teen   `2OzppA`
+  Huff. Post: United States - Training   `HchTY0`
+  Huff. Post: United States - Travel   `-dOYaS`
+  Huff. Post: United States - Voces   `HJBqtI`
+  Huff. Post: United States - Weddings   `u-whRW`
+  Huff. Post: United States - Weird News   `utmCXq`
+  Huff. Post: United States - Women   `IXmRxF`
+  Huff. Post: United States - World   `tOIM9v`
+  Huff. Post: United States - WorldPost   `JOchf-`
+  Huff. Post: United States - null   `mx86bK`
+  Huff. Post: United States - temp   `Ufip3K`
+  Huff. Post: Voces - Voces   `H35y2O`
+  HuffPo : Dr. Phil   `3PItkj`
+  India   `oIOPK0`
+  Maroc   `PymEn0`
+
+platform `3`:
+  TechCrunch   `SGHaqu`
+
+platform `5`:
+  Kitchen Daily   `z4RHJX`
+
+platform `9`:
+  Makers   `amifpz`
+
+platform `99`:
+  AMP: HP AUS   `Q_MHy3`
+  AOL UK   `My-Lmh`
+  Canada Parents   `iG452V`
+  Engadget Main   `4HX5Lc`
+  Huff. Post: Australia - Australia   `N8KRG_`
+  Quebec Style   `8Y10Ju`
+  Queer Voices   `Xl3o67`
+  Style Me Pretty   `DwWKWG`
+  Style Me Pretty - Living   `OMMA7b`
+  TechCrunch Japan   `trSHUf`
+
+197 Sources
+

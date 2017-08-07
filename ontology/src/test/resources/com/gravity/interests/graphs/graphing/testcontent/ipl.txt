@@ -1,0 +1,73 @@
+for Information Processing Language
+
+Allen Newell, J.C. Shaw, H. Simon, RAND ca. 1954
+
+The first list-processing language, also the first language to support recursion.
+
+IPL-I was a theoretical design and never actually implemented. IPL-II written on JOHNNIAC, said by Sammet to be "one of the most significant events that has ever occurred in programming." IPL-V the first widely used non-numeric system
+People:
+
+    Alan Newell
+    Cliff Shaw
+    Herbert Simon
+
+
+Hardware:
+
+    IBM 650 IBM
+
+
+Structures:
+
+    List
+
+Related languages
+ 	 	IPL	→IPL-II	Implementation of
+ 	 	IPL	→LISP	Influence
+References:
+1958
+
+    Allen Newell, J. C. Shaw, and H. A. Simon: (1958) Allen Newell, J. C. Shaw, and H. A. Simon: "Chess-playing programs and the problem of complexity" pp320-335.
+          in [IBM] (1958) IBM Journal of Research and Development, 2(4), 1958
+
+1960
+
+    (1960) S Gore: Review of Chess-playing article Extract: Review
+          in [ACM] (1960) ACM Computing Reviews, January-December 1960
+
+1961
+
+    Sammet, Jean E (1961) Sammet, Jean E "1960 Tower of Babel" diagram on the front of CACM January 1961 Picture: Cover of ACM Communications December 1961
+          in [ACM] (1961) [ACM] CACM 4(01) (Jan 1961)
+
+1962
+
+    R. M. Shapiro (1962) R. M. Shapiro "Computers, connector systems, and data descriptions" pp72-73
+          in (1962) Artificial languages
+
+1966
+
+    Ware, Willis H. (1966) Ware, Willis H. "JOHNNIAC Eulogy" RAND July 1979 Corp. document P-3313, March 1966, pp. 1l-12 Extract: Notable uses of JOHNNIAC
+
+1968
+
+    Sammet, Jean E. (1968) Sammet, Jean E. "Revised Annotated Descriptor Based Bibliography for the Use of Computers for Non-Numerical Mathematics"
+          in Bobrow, D. G. (ed) (1968) Bobrow, D. G. (ed) "Symbol Manipulation Languages and Techniques", Proceedings of the IFIP Working Conference on Symbol Manipulation Languages. North-Holland Publishing Co., Amsterdam, 1968
+
+1969
+
+    Sammet, Jean E. (1969) Sammet, Jean E. "Computer Languages - Principles and History" Englewood Cliffs, N.J. Prentice-Hall 1969. pp.388- 400
+
+1972
+
+    Sammet, Jean E., (1972) Sammet, Jean E., "Programming languages: history and future"
+          in [ACM] (1972) [ACM] CACM 15(06) (June 1972)
+
+1986
+
+    Simon, H. A.; Newell, A. (1986) Simon, H. A.; Newell, A. "Information Processing Language V on the IBM 650" Abstract Extract: IPLs
+          in [AHOC] (1986) Annals of the History of Computing, 08(1) January 1986 (IBM 650 Issue)
+
+1996
+
+    (1996) Early LISP History (1956-1959) by Herbert Stoyan University of Erlangen-Nürnberg Lehrstuhl für Künstiche Intelligenz Am Weichselgarten 7, D-91058 Erlangen Germany html transcription

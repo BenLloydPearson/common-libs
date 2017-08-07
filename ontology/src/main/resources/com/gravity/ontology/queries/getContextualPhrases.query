@@ -1,0 +1,7 @@
+PREFIX go: <http://insights.gravity.com/2010/9/universe#>
+select ?phraseText ?indicatedNode ?phraseRequired from <http://insights.gravity.com/contextualphrases> where
+{
+?phrase go:indicatedNode ?indicatedNode.
+?phrase go:phrase ?phraseText.
+?phrase go:isRequiredInText ?phraseRequired.
+}

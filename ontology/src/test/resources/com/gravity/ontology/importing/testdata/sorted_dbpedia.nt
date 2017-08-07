@@ -1,0 +1,1195 @@
+<http://dbpedia.org/resource/ASCII> <http://www.w3.org/2000/01/rdf-schema#label> "ASCII"@en .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://www.w3.org/2000/01/rdf-schema#label> "Abraham Lincoln"@en .
+<http://dbpedia.org/resource/Academy_Award> <http://www.w3.org/2000/01/rdf-schema#label> "Academy Award"@en .
+<http://dbpedia.org/resource/Academy_Award_for_Best_Art_Direction> <http://www.w3.org/2000/01/rdf-schema#label> "Academy Award for Best Art Direction"@en .
+<http://dbpedia.org/resource/Achilles> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Thessalians_in_the_Trojan_War> .
+<http://dbpedia.org/resource/Achilles> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:People_of_the_Trojan_War> .
+<http://dbpedia.org/resource/Achilles> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Pederastic_heroes_and_deities> .
+<http://dbpedia.org/resource/Achilles> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Greek_mythology> .
+<http://dbpedia.org/resource/Achilles> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Greek_mythological_hero_cult> .
+<http://dbpedia.org/resource/Achilles> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Kings_of_the_Myrmidons> .
+<http://dbpedia.org/resource/Achilles> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Characters_in_the_Iliad> .
+<http://dbpedia.org/resource/Achilles> <http://dbpedia.org/ontology/thumbnail> <http://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Leon_Benouville_The_Wrath_of_Achilles.jpg/200px-Leon_Benouville_The_Wrath_of_Achilles.jpg> .
+<http://dbpedia.org/resource/Achilles> <http://dbpedia.org/ontology/wikiPageExternalLink> <http://ancientrome.ru/art/artworken/result.htm?alt=Achilles&pnumber=20> .
+<http://dbpedia.org/resource/Achilles> <http://dbpedia.org/ontology/wikiPageExternalLink> <http://www.pelasgians.bigpondhosting.com/website1/04_01.htm> .
+<http://dbpedia.org/resource/Achilles> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Action_Film> .
+<http://dbpedia.org/resource/Achilles> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Alien> .
+<http://dbpedia.org/resource/Achilles> <http://dbpedia.org/ontology/wikiPageExternalLink> <http://www.historyguide.org/ancient/troy.html> .
+<http://dbpedia.org/resource/Achilles> <http://dbpedia.org/ontology/thumbnail> <http://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Leon_Benouville_The_Wrath_of_Achilles.jpg/200px-Leon_Benouville_The_Wrath_of_Achilles.jpg> .
+<http://dbpedia.org/resource/Achilles> <http://xmlns.com/foaf/0.1/depiction> <http://upload.wikimedia.org/wikipedia/commons/c/cf/Leon_Benouville_The_Wrath_of_Achilles.jpg> .
+<http://dbpedia.org/resource/Achilles> <http://www.w3.org/2000/01/rdf-schema#label> "Achilles"@en .
+<http://dbpedia.org/resource/Action_Film> <http://www.w3.org/2000/01/rdf-schema#label> "Action Film"@en .
+<http://dbpedia.org/resource/Actrius> <http://www.w3.org/2000/01/rdf-schema#label> "Actrius"@en .
+<http://dbpedia.org/resource/AfricA> <http://www.w3.org/2000/01/rdf-schema#label> "AfricA"@en .
+<http://dbpedia.org/resource/Agricultural_science> <http://www.w3.org/2000/01/rdf-schema#label> "Agricultural science"@en .
+<http://dbpedia.org/resource/Air_Transport> <http://www.w3.org/2000/01/rdf-schema#label> "Air Transport"@en .
+<http://dbpedia.org/resource/Alabama> <http://www.w3.org/2000/01/rdf-schema#label> "Alabama"@en .
+<http://dbpedia.org/resource/Alain_Connes> <http://www.w3.org/2000/01/rdf-schema#label> "Alain Connes"@en .
+<http://dbpedia.org/resource/Alchemy> <http://www.w3.org/2000/01/rdf-schema#label> "Alchemy"@en .
+<http://dbpedia.org/resource/Algeria/People> <http://www.w3.org/2000/01/rdf-schema#label> "Algeria/People"@en .
+<http://dbpedia.org/resource/Algeria/Transnational_Issues> <http://www.w3.org/2000/01/rdf-schema#label> "Algeria/Transnational Issues"@en .
+<http://dbpedia.org/resource/Alien> <http://www.w3.org/2000/01/rdf-schema#label> "Alien"@en .
+<http://dbpedia.org/resource/Allan_Dwan> <http://www.w3.org/2000/01/rdf-schema#label> "Allan Dwan"@en .
+<http://dbpedia.org/resource/Altruism> <http://www.w3.org/2000/01/rdf-schema#label> "Altruism"@en .
+<http://dbpedia.org/resource/Ameboid_stage> <http://www.w3.org/2000/01/rdf-schema#label> "Ameboid stage"@en .
+<http://dbpedia.org/resource/Amoeboid> <http://www.w3.org/2000/01/rdf-schema#label> "Amoeboid"@en .
+<http://dbpedia.org/resource/An_American_in_Paris> <http://dbpedia.org/ontology/wikiPageExternalLink> <http://www.archive.org/details/AnAmericanInParis> .
+<http://dbpedia.org/resource/An_American_in_Paris> <http://www.w3.org/2000/01/rdf-schema#label> "An American in Paris"@en .
+<http://dbpedia.org/resource/Animalia_%28book%29> <http://www.w3.org/2000/01/rdf-schema#label> "Animalia (book)"@en .
+<http://dbpedia.org/resource/Animation> <http://www.w3.org/2000/01/rdf-schema#label> "Animation"@en .
+<http://dbpedia.org/resource/Anthropology> <http://www.w3.org/2000/01/rdf-schema#label> "Anthropology"@en .
+<http://dbpedia.org/resource/AppliedStatistics> <http://www.w3.org/2000/01/rdf-schema#label> "AppliedStatistics"@en .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/wikiPageExternalLink> <http://www.concharto.org/search/eventsearch.htm?_tag=timeline%20of%20aristotle&_maptype=0> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2000/01/rdf-schema#label> "Aristotle"@en .
+<http://dbpedia.org/resource/Ascii_Art> <http://www.w3.org/2000/01/rdf-schema#label> "Ascii Art"@en .
+<http://dbpedia.org/resource/Ashmore_And_Cartier_Islands> <http://www.w3.org/2000/01/rdf-schema#label> "Ashmore And Cartier Islands"@en .
+<http://dbpedia.org/resource/Astronomer> <http://www.w3.org/2000/01/rdf-schema#label> "Astronomer"@en .
+<http://dbpedia.org/resource/Asymmetric_Algorithms> <http://www.w3.org/2000/01/rdf-schema#label> "Asymmetric Algorithms"@en .
+<http://dbpedia.org/resource/Austin_%28disambiguation%29> <http://www.w3.org/2000/01/rdf-schema#label> "Austin (disambiguation)"@en .
+<http://dbpedia.org/resource/Autism> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Neurological_disorders_in_children> .
+<http://dbpedia.org/resource/Autism> <http://dbpedia.org/ontology/thumbnail> <http://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Autism-stacking-cans_2nd_edit.jpg/200px-Autism-stacking-cans_2nd_edit.jpg> .
+<http://dbpedia.org/resource/Autism> <http://xmlns.com/foaf/0.1/depiction> <http://upload.wikimedia.org/wikipedia/commons/d/d1/Autism-stacking-cans_2nd_edit.jpg> .
+<http://dbpedia.org/resource/AutoRacing> <http://www.w3.org/2000/01/rdf-schema#label> "AutoRacing"@en .
+<http://dbpedia.org/resource/AynRand> <http://dbpedia.org/ontology/wikiPageRedirects> <http://dbpedia.org/resource/Ayn_Rand> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Artist> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Writer> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:Persondata> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/property/placeOfDeath> "New York City"@en .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/property/dateOfDeath> "1982-03-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/property/placeOfBirth> "Saint Petersburg, Russian Empire"@en .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/property/dateOfBirth> "1905-02-02"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/property/shortDescription> "novelist, philosopher, playwright, screenwriter"@en .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/property/alternativeNames> "Rosenbaum, Alisa Zinov'yevna; \u0410\u043B\u0438\u0441\u0430 \u0417\u0438\u043D\u043E\u0432\u044C\u0435\u0432\u043D\u0430 \u0420\u043E\u0437\u0435\u043D\u0431\u0430\u0443\u043C"@en .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/property/name> "Rand, Ayn"@en .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:IMDb_name> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/property/name> "Ayn Rand"@en .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/property/id> "709446"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:Gutenberg_author> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/property/name> "Ayn Rand"@en .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/property/id> "Ayn+Rand"@en .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:Worldcat_id> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/property/id> "lccn-n50-54463"@en .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/property/name> "Ayn Rand"@en .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:Sister_project_links> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/property/author> "yes"@en .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/property/b> "no"@en .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/property/wikt> "no"@en .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/property/v> "no"@en .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/property/n> "no"@en .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:Columns> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/property/col> ";Non-fiction\n*1961 For the New Intellectual\n*1964 The Virtue of Selfishness\n*1966 Capitalism: The Unknown Ideal\n*1969 The Romantic Manifesto\n*1971 The New Left: The Anti-Industrial Revolution\n*1979 Introduction to Objectivist Epistemology\n*1982 Philosophy: Who Needs It"@en .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/property/col> "--01-16"^^<http://www.w3.org/2001/XMLSchema#gMonthDay> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/property/colwidth> "24em"@en .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/property/quoted> "true"@en .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/property/salign> "right"@en .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/property/align> "right"@en .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/property/width> "32%"@en .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/property/source> "John Galt, in Atlas Shrugged"@en .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/property/quote> "The man at the top of the intellectual pyramid contributes the most to all those below him, but gets nothing except his material payment, receiving no intellectual bonus from others to add to the value of his time. The man at the bottom who, left to himself, would starve in his hopeless ineptitude, contributes nothing to those above him, but receives the bonus of all their brains. Such is the nature of the competition between the strong and the weak of the intellect. Such is the pattern of 'exploitation' for which you have damned the strong."@en .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:Quote_box> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/property/quoted> "true"@en .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/property/salign> "right"@en .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/property/align> "right"@en .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/property/width> "28%"@en .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/property/source> "Howard Roark, in The Fountainhead"@en .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/property/quote> "The great creators\u2014the thinkers, the artists, the scientists, the inventors\u2014stood alone against the men of their time. Every great new thought was opposed. Every great new invention was denounced. The first motor was considered foolish. The airplane was considered impossible. The power loom was considered vicious. Anesthesia was considered sinful. But the men of unborrowed vision went ahead. They fought, they suffered and they paid. But they won."@en .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:Infobox_writer> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/property/signature> "Sign Ayn Rand.png"@en .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/property/notableworks> "Atlas Shrugged"@en .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/property/notableworks> "The Fountainhead"@en .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/property/influenced> "Martin Anderson, Bob Barr, Andrew Bernstein, Harry Binswanger, Barbara Branden, Nathaniel Branden, Steve Ditko, Edith Efron, Terry Goodkind, Allan Gotthelf, Alan Greenspan, Robert Hessen, Erika Holzer, John Hospers, David Kelley, Anton LaVey, Liu Junning, Edwin A. Locke, Tibor Machan, Stefan Molyneux, Ron Paul, Neil Peart, Leonard Peikoff, George Reisman, Murray Rothbard, John Ridpath, Paul Ryan, Chris Matthew Sciabarra, George H. Smith, Kay Nolte Smith, L. Neil Smith, Tara Smith, John Stossel Clarence Thomas, Jimmy Wales"@en .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/property/influences> "Aristotle, Fr\u00E9d\u00E9ric Bastiat, Fyodor Dostoyevsky, O. Henry, Victor Hugo, H.L. Mencken, Ludwig von Mises, Friedrich Nietzsche, Isabel Paterson"@en .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/property/spouse> "Frank O'Connor"@en .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/property/almaMater> "University of Petrograd"@en .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/property/subject> "Moral philosophy"@en .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/property/period> "1934 \u2013 1982"@en .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/property/language> "English"@en .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/property/ethnicity> "Russian Jew"@en .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/property/citizenship> "United States"@en .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/property/occupation> "Philosopher, writer"@en .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/property/deathplace> "New York City, United States"@en .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/property/deathdate> "1982-03-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/property/birthplace> "Saint Petersburg, Russian Empire"@en .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/property/birthdate> "1905-02-02"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/property/birthname> "Alisa Zinov'yevna Rosenbaum"@en .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/property/caption> "Ayn Rand in 1957"@en .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/property/alt> "Half-length monochrome portrait photo of Ayn Rand, seated, holding a cigarette"@en .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/property/name> "Ayn Rand"@en .
+<http://dbpedia.org/resource/Ayn_Rand> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Women_philosophers> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Soviet_immigrants_to_the_United_States> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Saint_Petersburg_State_University_alumni> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Russian_atheists> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Pseudonyms> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Objectivists> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Libertarian_theorists> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Jewish_atheists> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Deaths_from_heart_failure> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Burials_at_Kensico_Cemetery> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Atheism_activists> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Atheist_philosophers> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Anti-Christianity> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:American_writers_of_Russian_descent> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:American_screenwriters> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:American_philosophers> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:American_novelists> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:American_essayists> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:American_dramatists_and_playwrights> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:American_atheists> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:American_anti-communists> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:20th-century_philosophers> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1982_deaths> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1905_births> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/ontology/wikiPageExternalLink> <http://plato.stanford.edu/entries/ayn-rand/> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/ontology/wikiPageExternalLink> <http://www.aynrandlexicon.com> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/ontology/wikiPageExternalLink> <http://hdl.loc.gov/loc.mss/eadmss.ms002006> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/ontology/wikiPageExternalLink> <http://www.cato-unbound.org/january-2010-whats-living-and-dead-in-ayn-rands-moral-and-political-thought/> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/ontology/wikiPageExternalLink> <http://www.aynrand.org/site/PageServer?pagename=about_ayn_rand_faq_index2> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/ontology/wikiPageExternalLink> <http://www.noblesoul.com/orc/bio/biofaq.html> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/ontology/wikiPageExternalLink> <http://www.nyu.edu/projects/sciabarra/essays/illustratedrand.pdf> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/ontology/wikiPageExternalLink> <http://www.nytimes.com/1982/03/07/obituaries/07randobit.html?&pagewanted=all> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/ontology/wikiPageExternalLink> <http://reason.com/archives/2009/11/09/ayn-rand-is-back/singlepage> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/ontology/wikiPageExternalLink> <http://plato.stanford.edu/entries/ayn-rand/> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://www.w3.org/2000/01/rdf-schema#label> "Ayn Rand"@en .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/ontology/notableWork> <http://dbpedia.org/resource/The_Fountainhead> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/ontology/notableWork> <http://dbpedia.org/resource/Atlas_Shrugged> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://xmlns.com/foaf/0.1/name> "Ayn Rand"@en .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/ontology/birthName> "Alisa Zinov'yevna Rosenbaum"@en .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/ontology/birthDate> "1905-02-02"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Saint_Petersburg> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Russian_Empire> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/ontology/deathDate> "1982-03-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/ontology/ethnicity> <http://dbpedia.org/resource/Russian_Jew> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/ontology/activeYearsStartYear> "1934"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/ontology/activeYearsEndYear> "1982"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://www.w3.org/2004/02/skos/core#subject> <http://dbpedia.org/resource/Moral_philosophy> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/ontology/almaMater> <http://dbpedia.org/resource/Saint_Petersburg_State_University> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Fr%C3%A9d%C3%A9ric_Bastiat> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Fyodor_Dostoyevsky> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/O._Henry> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Victor_Hugo> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/H.L._Mencken> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Ludwig_von_Mises> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Friedrich_Nietzsche> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Isabel_Paterson> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Martin_Anderson_%28economist%29> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Bob_Barr> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Andrew_Bernstein> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Harry_Binswanger> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Barbara_Branden> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Nathaniel_Branden> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Steve_Ditko> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Edith_Efron> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Terry_Goodkind> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Allan_Gotthelf> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Alan_Greenspan> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Robert_Hessen> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Erika_Holzer> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/John_Hospers> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/David_Kelley> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Anton_LaVey> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Liu_Junning> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Edwin_A._Locke> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Tibor_Machan> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Stefan_Molyneux> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Ron_Paul> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Neil_Peart> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Leonard_Peikoff> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/George_Reisman> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Murray_Rothbard> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/John_Ridpath> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Paul_Ryan_%28politician%29> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Chris_Matthew_Sciabarra> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/George_H._Smith> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Kay_Nolte_Smith> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/L._Neil_Smith> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Tara_Smith_%28philosopher%29> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/John_Stossel> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Jimmy_Wales> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/ontology/deathDate> "1982-03-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Russian_Empire> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Saint_Petersburg,_Russia> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/ontology/birthDate> "1905-02-02"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://purl.org/dc/elements/1.1/description> "novelist, philosopher, playwright, screenwriter"@en .
+<http://dbpedia.org/resource/Ayn_Rand> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://xmlns.com/foaf/0.1/givenName> "Ayn"@en .
+<http://dbpedia.org/resource/Ayn_Rand> <http://xmlns.com/foaf/0.1/surname> "Rand"@en .
+<http://dbpedia.org/resource/Ayn_Rand> <http://xmlns.com/foaf/0.1/name> "Ayn Rand"@en .
+<http://dbpedia.org/resource/Category:Abstract_algebra> <http://www.w3.org/2004/02/skos/core#broader> <http://dbpedia.org/resource/Category:Algebra> .
+<http://dbpedia.org/resource/Category:Abstract_algebra> <http://www.w3.org/2004/02/skos/core#prefLabel> "Abstract algebra"@en .
+<http://dbpedia.org/resource/Category:Abstract_algebra> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://dbpedia.org/resource/Category:African_countries> <http://www.w3.org/2004/02/skos/core#broader> <http://dbpedia.org/resource/Category:Geography_of_Africa> .
+<http://dbpedia.org/resource/Category:African_countries> <http://www.w3.org/2004/02/skos/core#broader> <http://dbpedia.org/resource/Category:Countries_by_continent> .
+<http://dbpedia.org/resource/Category:African_countries> <http://www.w3.org/2004/02/skos/core#broader> <http://dbpedia.org/resource/Category:Africa> .
+<http://dbpedia.org/resource/Category:African_countries> <http://www.w3.org/2004/02/skos/core#prefLabel> "African countries"@en .
+<http://dbpedia.org/resource/Category:African_countries> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://dbpedia.org/resource/Category:Algebra> <http://www.w3.org/2004/02/skos/core#broader> <http://dbpedia.org/resource/Category:Subdivisions_of_mathematics> .
+<http://dbpedia.org/resource/Category:Algebra> <http://www.w3.org/2004/02/skos/core#prefLabel> "Algebra"@en .
+<http://dbpedia.org/resource/Category:Algebra> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://dbpedia.org/resource/Category:Anime> <http://www.w3.org/2004/02/skos/core#broader> <http://dbpedia.org/resource/Category:Postwar_Japan> .
+<http://dbpedia.org/resource/Category:Anime> <http://www.w3.org/2004/02/skos/core#broader> <http://dbpedia.org/resource/Category:Arts_in_Japan> .
+<http://dbpedia.org/resource/Category:Anime> <http://www.w3.org/2004/02/skos/core#broader> <http://dbpedia.org/resource/Category:Japanese_pop_culture> .
+<http://dbpedia.org/resource/Category:Anime> <http://www.w3.org/2004/02/skos/core#broader> <http://dbpedia.org/resource/Category:Cinema_of_Japan> .
+<http://dbpedia.org/resource/Category:Anime> <http://www.w3.org/2004/02/skos/core#broader> <http://dbpedia.org/resource/Category:Animation> .
+<http://dbpedia.org/resource/Category:Anime> <http://www.w3.org/2004/02/skos/core#prefLabel> "Anime"@en .
+<http://dbpedia.org/resource/Category:Anime> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://dbpedia.org/resource/Category:British_monarchs> <http://www.w3.org/2004/02/skos/core#broader> <http://dbpedia.org/resource/Category:Heads_of_state_in_Europe> .
+<http://dbpedia.org/resource/Category:British_monarchs> <http://www.w3.org/2004/02/skos/core#broader> <http://dbpedia.org/resource/Category:European_monarchs> .
+<http://dbpedia.org/resource/Category:British_monarchs> <http://www.w3.org/2004/02/skos/core#broader> <http://dbpedia.org/resource/Category:Ceremonial_heads_of_state> .
+<http://dbpedia.org/resource/Category:British_monarchs> <http://www.w3.org/2004/02/skos/core#broader> <http://dbpedia.org/resource/Category:British_people_by_occupation> .
+<http://dbpedia.org/resource/Category:British_monarchs> <http://www.w3.org/2004/02/skos/core#broader> <http://dbpedia.org/resource/Category:Heads_of_state_by_country> .
+<http://dbpedia.org/resource/Category:British_monarchs> <http://www.w3.org/2004/02/skos/core#broader> <http://dbpedia.org/resource/Category:History_of_the_British_Isles> .
+<http://dbpedia.org/resource/Category:British_monarchs> <http://www.w3.org/2004/02/skos/core#broader> <http://dbpedia.org/resource/Category:History_of_the_United_Kingdom> .
+<http://dbpedia.org/resource/Category:British_monarchs> <http://www.w3.org/2004/02/skos/core#broader> <http://dbpedia.org/resource/Category:Monarchs_in_the_British_Isles> .
+<http://dbpedia.org/resource/Category:British_monarchs> <http://www.w3.org/2004/02/skos/core#broader> <http://dbpedia.org/resource/Category:British_royalty> .
+<http://dbpedia.org/resource/Category:British_monarchs> <http://www.w3.org/2004/02/skos/core#broader> <http://dbpedia.org/resource/Category:British_monarchy> .
+<http://dbpedia.org/resource/Category:British_monarchs> <http://www.w3.org/2004/02/skos/core#broader> <http://dbpedia.org/resource/Category:British_royalty> .
+<http://dbpedia.org/resource/Category:British_monarchs> <http://www.w3.org/2004/02/skos/core#prefLabel> "British monarchs"@en .
+<http://dbpedia.org/resource/Category:British_monarchs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://dbpedia.org/resource/Category:Calculus> <http://www.w3.org/2004/02/skos/core#broader> <http://dbpedia.org/resource/Category:Mathematical_analysis> .
+<http://dbpedia.org/resource/Category:Calculus> <http://www.w3.org/2004/02/skos/core#prefLabel> "Calculus"@en .
+<http://dbpedia.org/resource/Category:Calculus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://dbpedia.org/resource/Category:Desserts> <http://www.w3.org/2004/02/skos/core#broader> <http://dbpedia.org/resource/Category:Meals> .
+<http://dbpedia.org/resource/Category:Desserts> <http://www.w3.org/2004/02/skos/core#broader> <http://dbpedia.org/resource/Category:Foods> .
+<http://dbpedia.org/resource/Category:Desserts> <http://www.w3.org/2004/02/skos/core#prefLabel> "Desserts"@en .
+<http://dbpedia.org/resource/Category:Desserts> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://dbpedia.org/resource/Category:Fruit> <http://www.w3.org/2004/02/skos/core#broader> <http://dbpedia.org/resource/Category:Crops> .
+<http://dbpedia.org/resource/Category:Fruit> <http://www.w3.org/2004/02/skos/core#broader> <http://dbpedia.org/resource/Category:Foods> .
+<http://dbpedia.org/resource/Category:Fruit> <http://www.w3.org/2004/02/skos/core#broader> <http://dbpedia.org/resource/Category:Edible_plants> .
+<http://dbpedia.org/resource/Category:Fruit> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fruit"@en .
+<http://dbpedia.org/resource/Category:Fruit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://dbpedia.org/resource/Category:Linear_algebra> <http://www.w3.org/2004/02/skos/core#broader> <http://dbpedia.org/resource/Category:Algebra> .
+<http://dbpedia.org/resource/Category:Linear_algebra> <http://www.w3.org/2004/02/skos/core#broader> <http://dbpedia.org/resource/Category:Affine_geometry> .
+<http://dbpedia.org/resource/Category:Linear_algebra> <http://www.w3.org/2004/02/skos/core#prefLabel> "Linear algebra"@en .
+<http://dbpedia.org/resource/Category:Linear_algebra> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://dbpedia.org/resource/Category:Lists> <http://www.w3.org/2004/02/skos/core#broader> <http://dbpedia.org/resource/Category:Articles> .
+<http://dbpedia.org/resource/Category:Mathematics> <http://www.w3.org/2004/02/skos/core#broader> <http://dbpedia.org/resource/Category:Scientific_disciplines> .
+<http://dbpedia.org/resource/Category:Mathematics> <http://www.w3.org/2004/02/skos/core#broader> <http://dbpedia.org/resource/Category:Structure> .
+<http://dbpedia.org/resource/Category:Mathematics> <http://www.w3.org/2004/02/skos/core#broader> <http://dbpedia.org/resource/Category:Formal_sciences> .
+<http://dbpedia.org/resource/Category:Mathematics> <http://www.w3.org/2004/02/skos/core#broader> <http://dbpedia.org/resource/Category:Abstraction> .
+<http://dbpedia.org/resource/Category:Mathematics> <http://www.w3.org/2004/02/skos/core#broader> <http://dbpedia.org/resource/Category:Main_topic_classifications> .
+<http://dbpedia.org/resource/Category:Mathematics> <http://www.w3.org/2004/02/skos/core#related> <http://dbpedia.org/resource/Category:Logic> .
+<http://dbpedia.org/resource/Category:Mathematics> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mathematics"@en .
+<http://dbpedia.org/resource/Category:Mathematics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://dbpedia.org/resource/Category:Monarchs> <http://www.w3.org/2004/02/skos/core#broader> <http://dbpedia.org/resource/Category:Government_officials_with_life_tenure> .
+<http://dbpedia.org/resource/Category:Monarchs> <http://www.w3.org/2004/02/skos/core#broader> <http://dbpedia.org/resource/Category:Royalty> .
+<http://dbpedia.org/resource/Category:Monarchs> <http://www.w3.org/2004/02/skos/core#broader> <http://dbpedia.org/resource/Category:Heads_of_state> .
+<http://dbpedia.org/resource/Category:Monarchs> <http://www.w3.org/2004/02/skos/core#prefLabel> "Monarchs"@en .
+<http://dbpedia.org/resource/Category:Monarchs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://dbpedia.org/resource/Category:People> <http://www.w3.org/2004/02/skos/core#broader> <http://dbpedia.org/resource/Category:Main_topic_classifications> .
+<http://dbpedia.org/resource/Category:People> <http://www.w3.org/2004/02/skos/core#broader> <http://dbpedia.org/resource/Category:Society> .
+<http://dbpedia.org/resource/Category:People> <http://www.w3.org/2004/02/skos/core#broader> <http://dbpedia.org/resource/Category:Humans> .
+<http://dbpedia.org/resource/Category:People> <http://www.w3.org/2004/02/skos/core#related> <http://dbpedia.org/resource/Category:Fictional_characters> .
+<http://dbpedia.org/resource/Category:People> <http://www.w3.org/2004/02/skos/core#related> <http://dbpedia.org/resource/Category:Biographical_museums> .
+<http://dbpedia.org/resource/Category:People> <http://www.w3.org/2004/02/skos/core#related> <http://dbpedia.org/resource/Category:Categories_named_after_people> .
+<http://dbpedia.org/resource/Category:People> <http://www.w3.org/2004/02/skos/core#related> <http://dbpedia.org/resource/Category:Biographies_%28books%29> .
+<http://dbpedia.org/resource/Category:People> <http://www.w3.org/2004/02/skos/core#related> <http://dbpedia.org/resource/Category:Humans> .
+<http://dbpedia.org/resource/Category:People> <http://www.w3.org/2004/02/skos/core#prefLabel> "People"@en .
+<http://dbpedia.org/resource/Category:People> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://dbpedia.org/resource/Category:Popes> <http://www.w3.org/2004/02/skos/core#broader> <http://dbpedia.org/resource/Category:Vatican_City_people> .
+<http://dbpedia.org/resource/Category:Popes> <http://www.w3.org/2004/02/skos/core#broader> <http://dbpedia.org/resource/Category:Sovereigns_of_Vatican_City> .
+<http://dbpedia.org/resource/Category:Popes> <http://www.w3.org/2004/02/skos/core#broader> <http://dbpedia.org/resource/Category:Roman_Catholic_monarchs> .
+<http://dbpedia.org/resource/Category:Popes> <http://www.w3.org/2004/02/skos/core#broader> <http://dbpedia.org/resource/Category:Roman_Catholic_bishops> .
+<http://dbpedia.org/resource/Category:Popes> <http://www.w3.org/2004/02/skos/core#broader> <http://dbpedia.org/resource/Category:Roman_Catholic_Church> .
+<http://dbpedia.org/resource/Category:Popes> <http://www.w3.org/2004/02/skos/core#broader> <http://dbpedia.org/resource/Category:Positions_of_authority> .
+<http://dbpedia.org/resource/Category:Popes> <http://www.w3.org/2004/02/skos/core#broader> <http://dbpedia.org/resource/Category:Men_by_occupation> .
+<http://dbpedia.org/resource/Category:Popes> <http://www.w3.org/2004/02/skos/core#broader> <http://dbpedia.org/resource/Category:Holy_See> .
+<http://dbpedia.org/resource/Category:Popes> <http://www.w3.org/2004/02/skos/core#broader> <http://dbpedia.org/resource/Category:History_of_the_Papacy> .
+<http://dbpedia.org/resource/Category:Popes> <http://www.w3.org/2004/02/skos/core#broader> <http://dbpedia.org/resource/Category:Hierarchs> .
+<http://dbpedia.org/resource/Category:Popes> <http://www.w3.org/2004/02/skos/core#broader> <http://dbpedia.org/resource/Category:Heads_of_state_in_Europe> .
+<http://dbpedia.org/resource/Category:Popes> <http://www.w3.org/2004/02/skos/core#broader> <http://dbpedia.org/resource/Category:European_monarchs> .
+<http://dbpedia.org/resource/Category:Popes> <http://www.w3.org/2004/02/skos/core#broader> <http://dbpedia.org/resource/Category:Church_patriarchs> .
+<http://dbpedia.org/resource/Category:Popes> <http://www.w3.org/2004/02/skos/core#broader> <http://dbpedia.org/resource/Category:Christian_religious_leaders> .
+<http://dbpedia.org/resource/Category:Popes> <http://www.w3.org/2004/02/skos/core#broader> <http://dbpedia.org/resource/Category:Bishops_by_type> .
+<http://dbpedia.org/resource/Category:Popes> <http://www.w3.org/2004/02/skos/core#prefLabel> "Popes"@en .
+<http://dbpedia.org/resource/Category:Popes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://dbpedia.org/resource/Category:Professional_wrestling> <http://www.w3.org/2004/02/skos/core#broader> <http://dbpedia.org/resource/Category:Mock_combat> .
+<http://dbpedia.org/resource/Category:Professional_wrestling> <http://www.w3.org/2004/02/skos/core#broader> <http://dbpedia.org/resource/Category:Sports_entertainment> .
+<http://dbpedia.org/resource/Category:Professional_wrestling> <http://www.w3.org/2004/02/skos/core#prefLabel> "Professional wrestling"@en .
+<http://dbpedia.org/resource/Category:Professional_wrestling> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://dbpedia.org/resource/Category:Programming_languages> <http://www.w3.org/2004/02/skos/core#broader> <http://dbpedia.org/resource/Category:Computer_science> .
+<http://dbpedia.org/resource/Category:Programming_languages> <http://www.w3.org/2004/02/skos/core#broader> <http://dbpedia.org/resource/Category:Programming_language_topics> .
+<http://dbpedia.org/resource/Category:Programming_languages> <http://www.w3.org/2004/02/skos/core#broader> <http://dbpedia.org/resource/Category:Computer_programming> .
+<http://dbpedia.org/resource/Category:Programming_languages> <http://www.w3.org/2004/02/skos/core#broader> <http://dbpedia.org/resource/Category:Computer_languages> .
+<http://dbpedia.org/resource/Category:Programming_languages> <http://www.w3.org/2004/02/skos/core#related> <http://dbpedia.org/resource/Category:Audio_programming_languages> .
+<http://dbpedia.org/resource/Category:Programming_languages> <http://www.w3.org/2004/02/skos/core#related> <http://dbpedia.org/resource/Category:Domain-specific_programming_languages> .
+<http://dbpedia.org/resource/Category:Programming_languages> <http://www.w3.org/2004/02/skos/core#related> <http://dbpedia.org/resource/Category:C_programming_language_family> .
+<http://dbpedia.org/resource/Category:Programming_languages> <http://www.w3.org/2004/02/skos/core#related> <http://dbpedia.org/resource/Category:Algol_programming_language_family> .
+<http://dbpedia.org/resource/Category:Programming_languages> <http://www.w3.org/2004/02/skos/core#related> <http://dbpedia.org/resource/Category:Programming_language_families> .
+<http://dbpedia.org/resource/Category:Programming_languages> <http://www.w3.org/2004/02/skos/core#related> <http://dbpedia.org/resource/Category:Programming_language_topics> .
+<http://dbpedia.org/resource/Category:Programming_languages> <http://www.w3.org/2004/02/skos/core#prefLabel> "Programming languages"@en .
+<http://dbpedia.org/resource/Category:Programming_languages> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://dbpedia.org/resource/Category:Star_Trek> <http://www.w3.org/2004/02/skos/core#broader> <http://dbpedia.org/resource/Category:Categories_named_after_television_series> .
+<http://dbpedia.org/resource/Category:Star_Trek> <http://www.w3.org/2004/02/skos/core#broader> <http://dbpedia.org/resource/Category:Science_fiction_by_franchise> .
+<http://dbpedia.org/resource/Category:Star_Trek> <http://www.w3.org/2004/02/skos/core#broader> <http://dbpedia.org/resource/Category:Media_franchises> .
+<http://dbpedia.org/resource/Category:Star_Trek> <http://www.w3.org/2004/02/skos/core#related> <http://dbpedia.org/resource/Category:Star_Trek_devices> .
+<http://dbpedia.org/resource/Category:Star_Trek> <http://www.w3.org/2004/02/skos/core#related> <http://dbpedia.org/resource/Category:Star_Trek_terminology> .
+<http://dbpedia.org/resource/Category:Star_Trek> <http://www.w3.org/2004/02/skos/core#related> <http://dbpedia.org/resource/Category:Star_Trek_lists> .
+<http://dbpedia.org/resource/Category:Star_Trek> <http://www.w3.org/2004/02/skos/core#broader> <http://dbpedia.org/resource/Category:Star_Trek_films> .
+<http://dbpedia.org/resource/Category:Star_Trek> <http://www.w3.org/2004/02/skos/core#broader> <http://dbpedia.org/resource/Category:Star_Trek_series> .
+<http://dbpedia.org/resource/Category:Star_Trek> <http://www.w3.org/2004/02/skos/core#prefLabel> "Star Trek"@en .
+<http://dbpedia.org/resource/Category:Star_Trek> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://dbpedia.org/resource/Category:World_War_II> <http://www.w3.org/2004/02/skos/core#broader> <http://dbpedia.org/resource/Category:Wars_involving_Albania> .
+<http://dbpedia.org/resource/Category:World_War_II> <http://www.w3.org/2004/02/skos/core#broader> <http://dbpedia.org/resource/Category:Modern_history> .
+<http://dbpedia.org/resource/Category:World_War_II> <http://www.w3.org/2004/02/skos/core#broader> <http://dbpedia.org/resource/Category:Modern_Europe> .
+<http://dbpedia.org/resource/Category:World_War_II> <http://www.w3.org/2004/02/skos/core#broader> <http://dbpedia.org/resource/Category:Global_conflicts> .
+<http://dbpedia.org/resource/Category:World_War_II> <http://www.w3.org/2004/02/skos/core#broader> <http://dbpedia.org/resource/Category:Conflicts_in_1945> .
+<http://dbpedia.org/resource/Category:World_War_II> <http://www.w3.org/2004/02/skos/core#broader> <http://dbpedia.org/resource/Category:Conflicts_in_1944> .
+<http://dbpedia.org/resource/Category:World_War_II> <http://www.w3.org/2004/02/skos/core#broader> <http://dbpedia.org/resource/Category:Conflicts_in_1943> .
+<http://dbpedia.org/resource/Category:World_War_II> <http://www.w3.org/2004/02/skos/core#broader> <http://dbpedia.org/resource/Category:Conflicts_in_1942> .
+<http://dbpedia.org/resource/Category:World_War_II> <http://www.w3.org/2004/02/skos/core#broader> <http://dbpedia.org/resource/Category:Conflicts_in_1941> .
+<http://dbpedia.org/resource/Category:World_War_II> <http://www.w3.org/2004/02/skos/core#broader> <http://dbpedia.org/resource/Category:Conflicts_in_1940> .
+<http://dbpedia.org/resource/Category:World_War_II> <http://www.w3.org/2004/02/skos/core#broader> <http://dbpedia.org/resource/Category:Conflicts_in_1939> .
+<http://dbpedia.org/resource/Category:World_War_II> <http://www.w3.org/2004/02/skos/core#broader> <http://dbpedia.org/resource/Category:Categories_named_after_wars> .
+<http://dbpedia.org/resource/Category:World_War_II> <http://www.w3.org/2004/02/skos/core#broader> <http://dbpedia.org/resource/Category:20th-century_conflicts> .
+<http://dbpedia.org/resource/Category:World_War_II> <http://www.w3.org/2004/02/skos/core#broader> <http://dbpedia.org/resource/Category:1940s> .
+<http://dbpedia.org/resource/Category:World_War_II> <http://www.w3.org/2004/02/skos/core#broader> <http://dbpedia.org/resource/Category:1930s> .
+<http://dbpedia.org/resource/Category:World_War_II> <http://www.w3.org/2004/02/skos/core#prefLabel> "World War II"@en .
+<http://dbpedia.org/resource/Category:World_War_II> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://dbpedia.org/resource/Fultonham,_New_York> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Hamlets_in_New_York> .
+<http://dbpedia.org/resource/International_Atomic_Time> <http://www.w3.org/2000/01/rdf-schema#label> "International Atomic Time"@en .
+<http://dbpedia.org/resource/List_of_Atlas_Shrugged_characters> <http://www.w3.org/2000/01/rdf-schema#label> "List of Atlas Shrugged characters"@en .
+<http://dbpedia.org/resource/Topics_of_note_in_Atlas_Shrugged> <http://www.w3.org/2000/01/rdf-schema#label> "Topics of note in Atlas Shrugged"@en .
+<http://en.wikipedia.org/wiki/AynRand> <http://dbpedia.org/ontology/wikiPageRevisionID> "74466155"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Alexandre_Kirillov> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Mathematics_Genealogy_Project> .
+<http://dbpedia.org/resource/Alexandre_Kirillov> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Mathematics_Subject_Classification> .
+<http://dbpedia.org/resource/Alexandre_Kirillov> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Mathematics_competitions> .
+<http://dbpedia.org/resource/Alexandre_Kirillov> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Representation_of_a_Lie_group> .
+<http://dbpedia.org/resource/Alexandre_Kirillov> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/State_University_of_New_York_at_Stony_Brook> .
+<http://dbpedia.org/resource/Alexandre_Kirillov> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Category:Russian_mathematicians> .
+<http://dbpedia.org/resource/Alexandre_Kirillov> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Category:Soviet_mathematicians> .
+<http://dbpedia.org/resource/Alexandre_Kirillov> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Category:20th-century_mathematicians> .
+<http://dbpedia.org/resource/Alexandre_Kirillov> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Category:21st-century_mathematicians> .
+<http://dbpedia.org/resource/Alexandre_Kirillov> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Category:American_people_of_Russian_descent> .
+<http://dbpedia.org/resource/Alexandre_Kirillov> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Category:1936_births> .
+<http://dbpedia.org/resource/Alexandre_Kirillov> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Category:Living_people> .
+<http://dbpedia.org/resource/Alexandre_Kirillov> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Category:Moscow_State_University_alumni> .
+<http://dbpedia.org/resource/Alexandre_Kirillov> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Category:University_of_Pennsylvania_faculty> .
+<http://dbpedia.org/resource/Alexandre_Kirillov> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Northern_Illinois_University> .
+<http://dbpedia.org/resource/Alexandre_Kirillov> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Mathematics> .
+<http://dbpedia.org/resource/Alexandre_Kirillov> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Moscow_State_University> .
+<http://dbpedia.org/resource/Alexandre_Kirillov> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Israel_Gelfand> .
+<http://dbpedia.org/resource/Alexandre_Kirillov> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Victor_Ginzburg> .
+<http://dbpedia.org/resource/Alexandre_Kirillov> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/David_Kazhdan> .
+<http://dbpedia.org/resource/Alexandre_Kirillov> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Andrei_Okounkov> .
+<http://dbpedia.org/resource/Alexandre_Kirillov> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Kirillov_character_formula> .
+<http://dbpedia.org/resource/Alexandre_Kirillov> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Kirillov_orbit_theory> .
+<http://dbpedia.org/resource/Alexandre_Kirillov> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Kirillov_model> .
+<http://dbpedia.org/resource/Alexandre_Kirillov> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/USSR> .
+<http://dbpedia.org/resource/Alexandre_Kirillov> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Russia> .
+<http://dbpedia.org/resource/Alexandre_Kirillov> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Representation_theory> .
+<http://dbpedia.org/resource/Alexandre_Kirillov> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Topological_group> .
+<http://dbpedia.org/resource/Alexandre_Kirillov> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Lie_group> .
+<http://dbpedia.org/resource/Alexandre_Kirillov> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Moscow_State_University> .
+<http://dbpedia.org/resource/Alexandre_Kirillov> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Israel_Gelfand> .
+<http://dbpedia.org/resource/Alexandre_Kirillov> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Doctor_of_Philosophy> .
+<http://dbpedia.org/resource/Alexandre_Kirillov> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Kandidat> .
+<http://dbpedia.org/resource/Alexandre_Kirillov> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Doctor_of_Science> .
+<http://dbpedia.org/resource/Alexandre_Kirillov> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Soviet_Union> .
+<http://dbpedia.org/resource/Alexandre_Kirillov> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/University_of_Pennsylvania> .
+<http://dbpedia.org/resource/Alexandre_Kirillov> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Scientist> .
+<http://dbpedia.org/resource/Alexandre_Kirillov> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Alexandre_Kirillov> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Alexandre_Kirillov> <http://www.w3.org/2000/01/rdf-schema#label> "Alexandre Kirillov"@en .
+<http://dbpedia.org/resource/Alexandre_Kirillov> <http://dbpedia.org/property/knownFor> <http://dbpedia.org/resource/Kirillov_orbit_theory> .
+<http://dbpedia.org/resource/Alexandre_Kirillov> <http://dbpedia.org/property/doctoralStudents> <http://dbpedia.org/resource/David_Kazhdan> .
+<http://dbpedia.org/resource/Alexandre_Kirillov> <http://dbpedia.org/property/doctoralStudents> <http://dbpedia.org/resource/Victor_Ginzburg> .
+<http://dbpedia.org/resource/Alexandre_Kirillov> <http://dbpedia.org/property/name> "Alexandre Kirillov"@en .
+<http://dbpedia.org/resource/Alexandre_Kirillov> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:Persondata> .
+<http://dbpedia.org/resource/Alexandre_Kirillov> <http://dbpedia.org/property/name> "Kirillov, Alexandre"@en .
+<http://dbpedia.org/resource/Alexandre_Kirillov> <http://dbpedia.org/property/almaMater> "Moscow State University"@en .
+<http://dbpedia.org/resource/Alexandre_Kirillov> <http://dbpedia.org/property/fields> "Mathematics"@en .
+<http://dbpedia.org/resource/Alexandre_Kirillov> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:Infobox_scientist> .
+<http://dbpedia.org/resource/Alexandre_Kirillov> <http://dbpedia.org/property/boxWidth> "250px"@en .
+<http://dbpedia.org/resource/Alexandre_Kirillov> <http://dbpedia.org/property/doctoralAdvisor> "Israel Gelfand"@en .
+<http://dbpedia.org/resource/Alexandre_Kirillov> <http://dbpedia.org/property/knownFor> "Kirillov model"@en .
+<http://dbpedia.org/resource/Alexandre_Kirillov> <http://dbpedia.org/property/knownFor> <http://dbpedia.org/resource/Kirillov_character_formula> .
+<http://dbpedia.org/resource/Alexandre_Kirillov> <http://dbpedia.org/property/doctoralStudents> "Andrei Okounkov"@en .
+<http://dbpedia.org/resource/Alexandre_Kirillov> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://dbpedia.org/resource/Alexandre_Kirillov> <http://xmlns.com/foaf/0.1/givenName> "Alexandre"@en .
+<http://dbpedia.org/resource/Alexandre_Kirillov> <http://xmlns.com/foaf/0.1/surname> "Kirillov"@en .
+<http://dbpedia.org/resource/Alexandre_Kirillov> <http://xmlns.com/foaf/0.1/name> "Alexandre Kirillov"@en .
+<http://dbpedia.org/resource/Alexandre_Kirillov> <http://dbpedia.org/ontology/wikiPageExternalLink> <http://www.math.wm.edu/~klsmit/kirillov2poster.pdf> .
+<http://dbpedia.org/resource/Alexandre_Kirillov> <http://dbpedia.org/ontology/wikiPageExternalLink> <http://www.math.niu.edu/~rusin/known-math/98/MSC.names> .
+<http://dbpedia.org/resource/Alexandre_Kirillov> <http://xmlns.com/foaf/0.1/page> <http://en.wikipedia.org/wiki/Alexandre_Kirillov> .
+<http://dbpedia.org/resource/Alexandre_Kirillov> <http://xmlns.com/foaf/0.1/name> "Alexandre Kirillov"@en .
+<http://dbpedia.org/resource/Alexandre_Kirillov> <http://dbpedia.org/ontology/knownFor> <http://dbpedia.org/resource/Kirillov_orbit_theory> .
+<http://dbpedia.org/resource/Alexandre_Kirillov> <http://dbpedia.org/ontology/doctoralStudent> <http://dbpedia.org/resource/David_Kazhdan> .
+<http://dbpedia.org/resource/Alexandre_Kirillov> <http://dbpedia.org/ontology/knownFor> <http://dbpedia.org/resource/Kirillov_model> .
+<http://dbpedia.org/resource/Alexandre_Kirillov> <http://dbpedia.org/ontology/doctoralStudent> <http://dbpedia.org/resource/Andrei_Okounkov> .
+<http://dbpedia.org/resource/Alexandre_Kirillov> <http://dbpedia.org/ontology/field> <http://dbpedia.org/resource/Mathematics> .
+<http://dbpedia.org/resource/Alexandre_Kirillov> <http://dbpedia.org/ontology/knownFor> <http://dbpedia.org/resource/Kirillov_character_formula> .
+<http://dbpedia.org/resource/Alexandre_Kirillov> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Russia> .
+<http://dbpedia.org/resource/Alexandre_Kirillov> <http://dbpedia.org/ontology/almaMater> <http://dbpedia.org/resource/Moscow_State_University> .
+<http://dbpedia.org/resource/Alexandre_Kirillov> <http://dbpedia.org/ontology/doctoralStudent> <http://dbpedia.org/resource/Victor_Ginzburg> .
+<http://dbpedia.org/resource/Alexandre_Kirillov> <http://insights.gravity.com/2010/9/universe#rename> "Alex Kirillov" .
+<http://dbpedia.org/resource/Alexandre_Kirillov> <http://dbpedia.org/ontology/doctoralAdvisor> <http://dbpedia.org/resource/Israel_Gelfand> .
+<http://dbpedia.org/resource/Alexandre_Kirillov> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Soviet_mathematicians> .
+<http://dbpedia.org/resource/Alexandre_Kirillov> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Living_people> .
+<http://dbpedia.org/resource/Alexandre_Kirillov> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Moscow_State_University_alumni> .
+<http://dbpedia.org/resource/Alexandre_Kirillov> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1936_births> .
+<http://dbpedia.org/resource/Alexandre_Kirillov> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:American_people_of_Russian_descent> .
+<http://dbpedia.org/resource/Alexandre_Kirillov> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:21st-century_mathematicians> .
+<http://dbpedia.org/resource/Alexandre_Kirillov> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:20th-century_mathematicians> .
+<http://dbpedia.org/resource/Alexandre_Kirillov> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:University_of_Pennsylvania_faculty> .
+<http://dbpedia.org/resource/Alexandre_Kirillov> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Russian_mathematicians> .
+<http://dbpedia.org/resource/Alexandre_Kirillov> <http://insights.gravity.com/2010/04/universe#viewCountAndDayOfYear> "1|2011_141"@http://www .
+<http://dbpedia.org/resource/Barack_Obama> <http://www.w3.org/2000/01/rdf-schema#label> "Barack Obama"@en .
+<http://dbpedia.org/resource/Barack_Obama> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:American_people_of_Kenyan_descent> .
+<http://dbpedia.org/resource/Barack_Obama> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1961_births> .
+<http://dbpedia.org/resource/Barack_Obama> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:African_American_academics> .
+<http://dbpedia.org/resource/Barack_Obama> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:African_American_lawyers> .
+<http://dbpedia.org/resource/Barack_Obama> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:African_American_memoirists> .
+<http://dbpedia.org/resource/Barack_Obama> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:African_American_United_States_presidential_candidates> .
+<http://dbpedia.org/resource/Barack_Obama> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:African_American_United_States_Senators> .
+<http://dbpedia.org/resource/Barack_Obama> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:American_Christians> .
+<http://dbpedia.org/resource/Barack_Obama> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:American_civil_rights_lawyers> .
+<http://dbpedia.org/resource/Barack_Obama> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:American_legal_scholars> .
+<http://dbpedia.org/resource/Barack_Obama> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:American_Nobel_laureates> .
+<http://dbpedia.org/resource/Barack_Obama> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:American_people_of_English_descent> .
+<http://dbpedia.org/resource/Barack_Obama> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:American_political_writers> .
+<http://dbpedia.org/resource/Barack_Obama> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:American_politicians_of_German_descent> .
+<http://dbpedia.org/resource/Barack_Obama> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:American_politicians_of_Irish_descent> .
+<http://dbpedia.org/resource/Barack_Obama> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Audio_book_narrators> .
+<http://dbpedia.org/resource/Barack_Obama> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Barack_Obama> .
+<http://dbpedia.org/resource/Barack_Obama> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Columbia_University_alumni> .
+<http://dbpedia.org/resource/Barack_Obama> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Community_organizers> .
+<http://dbpedia.org/resource/Barack_Obama> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Current_national_leaders> .
+<http://dbpedia.org/resource/Barack_Obama> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Democratic_Party_%28United_States%29_presidential_nominees> .
+<http://dbpedia.org/resource/Barack_Obama> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Democratic_Party_Presidents_of_the_United_States> .
+<http://dbpedia.org/resource/Barack_Obama> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Democratic_Party_United_States_Senators> .
+<http://dbpedia.org/resource/Barack_Obama> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Grammy_Award_winners> .
+<http://dbpedia.org/resource/Barack_Obama> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Harvard_Law_School_alumni> .
+<http://dbpedia.org/resource/Barack_Obama> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Illinois_Democrats> .
+<http://dbpedia.org/resource/Barack_Obama> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Illinois_lawyers> .
+<http://dbpedia.org/resource/Barack_Obama> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Illinois_State_Senators> .
+<http://dbpedia.org/resource/Barack_Obama> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Living_people> .
+<http://dbpedia.org/resource/Barack_Obama> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Luo_people> .
+<http://dbpedia.org/resource/Barack_Obama> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Nobel_Peace_Prize_laureates> .
+<http://dbpedia.org/resource/Barack_Obama> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Obama_family> .
+<http://dbpedia.org/resource/Barack_Obama> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Occidental_College_alumni> .
+<http://dbpedia.org/resource/Barack_Obama> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:People_associated_with_renewable_energy> .
+<http://dbpedia.org/resource/Barack_Obama> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:People_from_Honolulu,_Hawaii> .
+<http://dbpedia.org/resource/Barack_Obama> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Politicians_from_Chicago,_Illinois> .
+<http://dbpedia.org/resource/Barack_Obama> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Presidents_of_the_United_Nations_Security_Council> .
+<http://dbpedia.org/resource/Barack_Obama> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Presidents_of_the_United_States> .
+<http://dbpedia.org/resource/Barack_Obama> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Punahou_School_alumni> .
+<http://dbpedia.org/resource/Barack_Obama> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:United_Church_of_Christ_members> .
+<http://dbpedia.org/resource/Barack_Obama> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:United_States_presidential_candidates,_2008> .
+<http://dbpedia.org/resource/Barack_Obama> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:United_States_presidential_candidates,_2012> .
+<http://dbpedia.org/resource/Barack_Obama> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:United_States_Senators_from_Illinois> .
+<http://dbpedia.org/resource/Barack_Obama> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:University_of_Chicago_Law_School_faculty> .
+<http://dbpedia.org/resource/Barack_Obama> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Writers_from_Chicago,_Illinois> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Dreams_from_My_Father> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Grammy_Award> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Grammy_Award_for_Best_Spoken_Word_Album> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/International_Herald_Tribune> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/France_24> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Harris_Interactive> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Nicolas_Sarkozy> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/President_of_France> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Walter_Veltroni> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Mayor> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Democratic_Party_%28Italy%29> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Tony_Blair> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Prime_Minister_of_the_United_Kingdom> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Bill_Clinton> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Ronald_Reagan> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Pew_Research_Center> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/File:20090124_WeeklyAddress.ogv> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/National_Association_of_Black_Journalists> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/African-American_Civil_Rights_Movement_%281955%E2%80%931968%29> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Ivy_League> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/File:Five_Presidents_Oval_Office.jpg> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Operation_Unified_Protector> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/NATO> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/B-2> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Tomahawk_missile> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/United_Nations_Security_Council_Resolution_1973> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Arab_League> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Muammar_Gaddafi> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/File:President_Obama_addresses_the_nation_on_the_military_efforts_in_Libya,_March_28,_2011.jpg> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Security_Council> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/United_Nations> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Joint_Chiefs_of_Staff> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Mike_Mullen> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Ehud_Barak> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Joint_Political_Military_Group> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/David_Petraeus> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Stanley_A._McChrystal> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Special_Forces_%28United_States_Army%29> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/David_D._McKiernan> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Counter-terrorism> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/United_States_Marine_Corps> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Robert_Gates> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Defense_Secretary> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/President-elect> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Presidential_transition_of_Barack_Obama> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/United_States_Senate> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/New_START> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/START_I> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Dmitry_Medvedev> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/President_of_Russia> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Russia> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/East_Jerusalem> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Benjamin_Netanyahu> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Prime_Minister_of_Israel> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/United_Nations_Security_Council> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/President_of_the_United_Nations_Security_Council> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/File:David_Cameron_and_Barack_Obama_at_the_G20_Summit_in_Toronto.jpg> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Iranian_presidential_election,_2009> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/A_New_Beginning> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Cairo_University> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Al_Arabiya> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/United_States_Secretary_of_State> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/File:Hu_Jintao_and_Barack_Obama_2009.jpg> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Ken_Salazar> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/United_States_Secretary_of_the_Interior> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Relief_well> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/BP> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Gulf_of_Mexico> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Macondo_Prospect> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Drilling_rig> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Barack_Obama_speech_to_joint_session_of_Congress,_September_2009> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Pre-existing_condition> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Health_care> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Public_health_insurance_option> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Health_care_in_the_United_States> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/File:Obama_signs_health_care-20100323.jpg> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Tax_Relief,_Unemployment_Insurance_Reauthorization,_and_Job_Creation_Act_of_2010> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Estate_tax_in_the_United_States> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Federal_Insurance_Contributions_Act_tax> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Bush_tax_cuts> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/United_States_elections,_2010> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/National_Association_for_Business_Economics> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Congressional_Budget_Office> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Ben_Bernanke> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Federal_Reserve> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Gross_domestic_product> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Congressional_Budget_Office> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Car_Allowance_Rebate_System> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/General_Motors_Chapter_11_reorganization> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Fiat> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Chrysler_Chapter_11_reorganization> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Chrysler> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/General_Motors> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Automotive_industry_crisis_of_2008%E2%80%932010> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Public-Private_Investment_Program_for_Legacy_Assets> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Financial_crisis_of_2007%E2%80%932010> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Timothy_Geithner> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/File:Barack_Obama_signs_American_Recovery_and_Reinvestment_Act_of_2009_on_February_17.jpg> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Tax_incentive> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Late-2000s_recession> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Stimulus_%28economic%29> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/American_Recovery_and_Reinvestment_Act_of_2009> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/United_States_presidential_election,_2008> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/United_States_Armed_Forces> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Don%27t_ask,_don%27t_tell> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Don%27t_Ask,_Don%27t_Tell_Repeal_Act_of_2010> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/International_Space_Station> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Mars> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Constellation_program> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Ares_V> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Ares_I> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Moon> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Manned_spaceflight> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/NASA> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Barack_Obama_space_policy_speech_at_Kennedy_Space_Center> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Patient_Protection_and_Affordable_Care_Act> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Pell_Grant> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Reconciliation_bill> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Health_Care_and_Education_Reconciliation_Act_of_2010> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Disability> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Gender_identity> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Sexual_orientation> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Gender> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Hate_crimes_in_the_United_States%23Federal_prosecution_of_hate_crimes> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Matthew_Shepard_and_James_Byrd,_Jr._Hate_Crimes_Prevention_Act> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Global_warming> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/John_Paul_Stevens> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Elena_Kagan> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Hispanic> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/David_Souter> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Associate_Justice_of_the_United_States> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Sonia_Sotomayor> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Embryonic_stem_cell> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/State_Children%27s_Health_Insurance_Program> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Lilly_Ledbetter_Fair_Pay_Act_of_2009> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/File:US_President_Barack_Obama_taking_his_Oath_of_Office_-_2009Jan20.jpg> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Mexico_City_Policy> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Freedom_of_Information_Act_%28United_States%29> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Guantanamo_Bay_detention_camp> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Iraq_War> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Inauguration_of_Barack_Obama> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Grant_Park_%28Chicago%29> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Barack_Obama_election_victory_speech,_2008> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Election> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Electoral_College_%28United_States%29> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/United_States_presidential_election_debates> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Campaign_finance_in_the_United_States%23Public_financing_of_campaigns> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/File:President_George_W._Bush_and_Barack_Obama_meet_in_Oval_Office.jpg> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Invesco_Field_at_Mile_High> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/2008_Democratic_National_Convention> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Joe_Biden> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Delaware> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Caucus> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Pledged_delegate> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Hillary_Rodham_Clinton> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Democratic_Party_%28United_States%29_presidential_primaries,_2008> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/File:Obama08acceptance.jpg> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Universal_health_care%23United_States> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Energy_policy_of_the_United_States> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Iraq_War> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Lincoln%27s_House_Divided_Speech> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Abraham_Lincoln> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Springfield,_Illinois> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Old_State_Capitol_State_Historic_Site_%28Illinois%29> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/File:Flickr_Obama_Springfield_01.jpg> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/University_of_Nairobi> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Palestinian_National_Authority> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/President_of_the_Palestinian_National_Authority> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Mahmoud_Abbas> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/United_States_Senate_Foreign_Relations_Subcommittee_on_European_Affairs> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/United_States_Senate_Committee_on_Homeland_Security_and_Governmental_Affairs> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/United_States_Senate_Committee_on_Health,_Education,_Labor,_and_Pensions> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/United_States_Senate_Committee_on_Veterans%27_Affairs> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/United_States_Senate_Committee_on_Environment_and_Public_Works> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/United_States_Senate_Committee_on_Foreign_Relations> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/State_Children%27s_Health_Insurance_Program> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Disinvestment_from_Iran> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Iraq_War_De-Escalation_Act_of_2007> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Deceptive_Practices_and_Voter_Intimidation_Prevention_Act> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Honest_Leadership_and_Open_Government_Act> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Democratic_Republic_of_the_Congo> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/File:Lugar-Obama.jpg> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/NSA_warrantless_surveillance_controversy> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Foreign_Intelligence_Surveillance_Act_of_1978_Amendments_Act_of_2008> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Class_Action_Fairness_Act_of_2005> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Tort_reform> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/John_McCain> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Tom_Coburn> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Tom_Carper> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Federal_Funding_Accountability_and_Transparency_Act_of_2006> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Nunn%E2%80%93Lugar_Cooperative_Threat_Reduction> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Secure_America_and_Orderly_Immigration_Act> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/File:Coburn_and_Obama_discuss_S._2590.jpg> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Lame_duck_%28politics%29> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Illinois> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Media_Matters_for_America> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/National_Journal> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Congressional_Quarterly> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Congressional_Black_Caucus> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/File:Obama_Portrait_2006.jpg> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Alan_Keyes> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Jack_Ryan_%28politician%29> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/2004_Democratic_National_Convention> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Dreams_from_My_Father> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Democratic_Party_%28United_States%29%23Current_structure_and_composition> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Carol_Moseley_Braun> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Peter_Fitzgerald_%28politician%29> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/File:04IllinoisSenatecounties.PNG> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Protests_against_the_Iraq_War> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Iraq_Resolution> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/2003_invasion_of_Iraq> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/George_W._Bush> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/David_Axelrod> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Capital_punishment_in_the_United_States> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Racial_profiling> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Bobby_Rush> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Illinois%27s_1st_congressional_district_election,_2000> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Tax_credit> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Chicago_Lawn,_Chicago> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/South_Shore,_Chicago> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Kenwood,_Chicago> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Hyde_Park,_Chicago> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Alice_Palmer_%28politician%29> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Illinois_Senate> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Chicago_Annenberg_Challenge> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Joyce_Foundation> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Woods_Fund_of_Chicago> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Of_counsel> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Associate_attorney> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Project_Vote> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Constitutional_law> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/University_of_Chicago_Law_School> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Dreams_from_My_Father> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/List_of_African-American_firsts> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Latin_honors> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Juris_Doctor> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Hopkins_&_Sutter> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Sidley_Austin> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Summer_associate> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Harvard_Law_School> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Kisumu> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Family_of_Barack_Obama%23Paternal_relations> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Gamaliel_Foundation> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Altgeld_Gardens,_Chicago> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/South_Side,_Chicago> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Riverdale,_Chicago> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/West_Pullman,_Chicago> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Roseland,_Chicago> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/New_York_Public_Interest_Research_Group> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Business_International_Corporation> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Bachelor_of_Arts> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/International_relations> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Political_science> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Columbia_University> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Pakistan> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/India> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Disinvestment_from_South_Africa> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Occidental_College> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Civil_Forum_on_the_Presidency> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Cocaine> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Cannabis_%28drug%29> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Multiracial> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/File:Ann_Dunham_with_father_and_children.jpg> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Ovarian_cancer> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Anthropology> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/College_preparatory_school> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Punahou_School> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Stanley_Armour_Dunham> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Madelyn_Dunham> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/State_Elementary_School_Menteng_01> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Jakarta> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Menteng> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Transition_to_the_New_Order> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Suharto> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Lolo_Soetoro> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Indonesia> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Harvard_University> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/University_of_Hawaii_at_Manoa> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Russian_language> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Kenya_Colony> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Nyanza_Province> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Nyang%27oma_Kogelo> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Luo_%28Kenya_and_Tanzania%29> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Barack_Obama,_Sr.> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/County_Offaly> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Irish_American> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Ethnic_Germans> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Wichita,_Kansas> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Ann_Dunham> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Kapiolani_Medical_Center_for_Women_and_Children> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/United_States_presidential_election,_2012> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Libya> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/2011_military_intervention_in_Libya> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Russia> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/New_START> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/War_in_Afghanistan_%282001%E2%80%93present%29> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Iraq_War> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Don%27t_Ask,_Don%27t_Tell_Repeal_Act_of_2010> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Dodd%E2%80%93Frank_Wall_Street_Reform_and_Consumer_Protection_Act> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Patient_Protection_and_Affordable_Care_Act> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Tax_Relief,_Unemployment_Insurance_Reauthorization,_and_Job_Creation_Act_of_2010> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/American_Recovery_and_Reinvestment_Act_of_2009> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Stimulus_%28economic%29> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Laureate> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/2009_Nobel_Peace_Prize> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Inauguration_of_Barack_Obama> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/John_McCain> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Republican_Party_%28United_States%29> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/United_States_presidential_election,_2008> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Hillary_Rodham_Clinton> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Democratic_Party_%28United_States%29_presidential_primaries,_2008> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Barack_Obama_presidential_primary_campaign,_2008> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/United_States_Senate_election_in_Illinois,_2004> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/2004_Democratic_National_Convention> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/2004_Democratic_National_Convention_keynote_address> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/United_States_Senate_election_in_Illinois,_2004%23Democratic_primary> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/United_States_Senate> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/United_States_House_of_Representatives> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Illinois_Senate> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Illinois_Senate_career_of_Barack_Obama> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/University_of_Chicago_Law_School> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Constitutional_law> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Civil_and_political_rights> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Juris_Doctor> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Community_organizing> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Harvard_Law_Review> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Harvard_Law_School> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Columbia_University> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Hawaii> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Honolulu> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/United_States_presidential_election,_2008> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Illinois> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/United_States_Senate> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/African_American> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/List_of_African-American_firsts> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/President_of_the_United_States> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Presidency_of_Barack_Obama> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/List_of_Presidents_of_the_United_States> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/%23obamaNavbox> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/2009_Nobel_Peace_Prize> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Barack_Obama%27s_first_100_days> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Timeline_of_the_Presidency_of_Barack_Obama_%282010%29> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Timeline_of_the_Presidency_of_Barack_Obama_%282009%29> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Presidency_of_Barack_Obama> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Electoral_history_of_Barack_Obama> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Inauguration_of_Barack_Obama> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Presidential_transition_of_Barack_Obama> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Barack_Obama_presidential_campaign,_2008> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Barack_Obama_presidential_primary_campaign,_2008> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Family_of_Barack_Obama> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Public_image_of_Barack_Obama> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Political_positions_of_Barack_Obama> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/United_States_Senate_career_of_Barack_Obama> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Illinois_Senate_career_of_Barack_Obama> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Early_life_and_career_of_Barack_Obama> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Christian> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Author> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Professor> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Constitutional_law> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Lawyer> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Community_organizing> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Juris_Doctor> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Harvard_Law_School> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Bachelor_of_Arts> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Columbia_University> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Occidental_College> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Illinois> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Chicago> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/White_House> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Family_of_Barack_Obama> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Michelle_Obama> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Democratic_Party_%28United_States%29> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Hawaii> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Honolulu> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Kwame_Raoul> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Alice_Palmer_%28politician%29> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Roland_Burris> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Peter_Fitzgerald_%28politician%29> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Illinois> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/George_W._Bush> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Joe_Biden> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/List_of_Presidents_of_the_United_States> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Obama_%28disambiguation%29> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Barak_%28disambiguation%29> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/The_Audacity_of_Hope> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Crown_Publishing_Group> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Youngstown_State_University> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Truman_State_University> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Nova_Publishers> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/The_New_York_Times> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Category:1961_births> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Category:African_American_academics> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Category:African_American_lawyers> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Category:African_American_memoirists> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Category:African_American_United_States_presidential_candidates> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Category:African_American_United_States_Senators> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Category:American_Christians> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Category:American_civil_rights_lawyers> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Category:American_legal_scholars> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Category:American_Nobel_laureates> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Category:American_people_of_English_descent> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Category:American_people_of_Kenyan_descent> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Category:American_political_writers> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Category:American_politicians_of_German_descent> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Category:American_politicians_of_Irish_descent> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Category:Audio_book_narrators> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Category:Barack_Obama> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Category:Columbia_University_alumni> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Category:Community_organizers> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Category:Current_national_leaders> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Category:Democratic_Party_%28United_States%29_presidential_nominees> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Category:Democratic_Party_Presidents_of_the_United_States> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Category:Democratic_Party_United_States_Senators> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Category:Grammy_Award_winners> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Category:Harvard_Law_School_alumni> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Category:Illinois_Democrats> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Category:Illinois_lawyers> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Category:Illinois_State_Senators> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Category:Living_people> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Category:Luo_people> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Category:Nobel_Peace_Prize_laureates> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Category:Obama_family> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Category:Occidental_College_alumni> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Category:People_associated_with_renewable_energy> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Category:People_from_Honolulu,_Hawaii> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Category:Politicians_from_Chicago,_Illinois> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Category:Presidents_of_the_United_Nations_Security_Council> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Category:Presidents_of_the_United_States> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Category:Punahou_School_alumni> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Category:United_Church_of_Christ_members> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Category:United_States_presidential_candidates,_2008> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Category:United_States_presidential_candidates,_2012> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Category:United_States_Senators_from_Illinois> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Category:University_of_Chicago_Law_School_faculty> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Category:Writers_from_Chicago,_Illinois> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Bjn:Barack_Obama> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Audiobook> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Three_Rivers_Press> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Dreams_from_My_Father> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/HarperCollins> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Obama:_From_Promise_to_Power> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Camp_David> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Jeremiah_Wright> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Jeremiah_Wright_controversy> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Trinity_United_Church_of_Christ> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Community_organizing> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Black_church> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Christian> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/The_Audacity_of_Hope> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Nicotine_replacement_therapy> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Money_%28magazine%29> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Tony_Rezko> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Kenwood,_Chicago> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Hyde_Park,_Chicago> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Bo_%28dog%29> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Portuguese_Water_Dog> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Sidwell_Friends_School> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/University_of_Chicago_Laboratory_Schools> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Sidley_Austin> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Michelle_Obama> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Super_Bowl_XLIII> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Pittsburgh_Steelers> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Steeler_Nation> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/National_Football_League> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Chicago_Bears> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/2009_Major_League_Baseball_All-Star_Game> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/2005_ALCS> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Chicago_White_Sox> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/File:Obama_Steelers.jpg> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/File:BarackObama-Basketball.JPEG> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Indonesian_language> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/List_of_Presidents_of_the_United_States_by_languages_spoken> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Nazi_concentration_camps> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Ohrdruf_concentration_camp> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/89th_Infantry_Division_%28United_States%29> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/American_Civil_War> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/President_of_the_Confederate_States_of_America> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Jefferson_Davis> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Native_Americans_in_the_United_States> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Dreams_from_My_Father> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Maya_Soetoro-Ng> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Margaret_Thatcher> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Bernie_Mac> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/File:Obamas_at_White_House_Easter_Egg_Roll_4-13-09_2.JPG> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Siena_College> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Nobel_Peace_Prize> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/2009_Nobel_Peace_Prize> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Norwegian_Nobel_Committee> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Time_Person_of_the_Year> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Daytime_Emmy_Award> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Yes_We_Can> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Barack_Obama_presidential_primary_campaign,_2008%23New_Hampshire> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/The_Audacity_of_Hope> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/successor> <http://dbpedia.org/resource/Kwame_Raoul> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/successor> <http://dbpedia.org/resource/Roland_Burris> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/religion> <http://dbpedia.org/resource/Christian> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/profession> <http://dbpedia.org/resource/Author> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/profession> <http://dbpedia.org/resource/Constitutional_law> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/profession> <http://dbpedia.org/resource/Lawyer> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/profession> <http://dbpedia.org/resource/Community_organizing> .
+<http://dbpedia.org/resource/Barack_Obama> <http://xmlns.com/foaf/0.1/homepage> <http://www.barackobama.com/> .
+<http://dbpedia.org/resource/Barack_Obama> <http://xmlns.com/foaf/0.1/homepage> <http://www.whitehouse.gov/> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/religion> <http://dbpedia.org/resource/Christian> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/almaMater> <http://dbpedia.org/resource/Harvard_Law_School> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/almaMater> <http://dbpedia.org/resource/Columbia_University> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/almaMater> <http://dbpedia.org/resource/Occidental_College> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/residence> <http://dbpedia.org/resource/Illinois> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/residence> <http://dbpedia.org/resource/Chicago> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/region> <http://dbpedia.org/resource/Illinois> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/vicePresident> <http://dbpedia.org/resource/Joe_Biden> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/activeYearsEndDate> "2004-11-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/residence> <http://dbpedia.org/resource/White_House> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/child> <http://dbpedia.org/resource/Family_of_Barack_Obama> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/spouse> <http://dbpedia.org/resource/Michelle_Obama> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/party> <http://dbpedia.org/resource/Democratic_Party_%28United_States%29> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Hawaii> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Honolulu> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/birthDate> "1961-08-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Barack_Obama> <http://xmlns.com/foaf/0.1/name> "Barack Obama"@en .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/seniority> "United States Senator"@en .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/region> <http://dbpedia.org/resource/Illinois> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/region> <http://dbpedia.org/resource/Illinois> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/activeYearsEndDate> "2008-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/activeYearsStartDate> "1997-01-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/activeYearsStartDate> "2005-01-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/activeYearsStartDate> "2009-01-20"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/orderInOffice> "President of the United States"@en .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/orderInOffice> "44th"@en .
+<http://dbpedia.org/resource/Barack_Obama> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Barack_Obama> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Barack_Obama> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/OfficeHolder> .
+<http://dbpedia.org/resource/Barack_Obama> <http://xmlns.com/foaf/0.1/depiction> <http://upload.wikimedia.org/wikipedia/commons/e/e9/Official_portrait_of_Barack_Obama.jpg> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/thumbnail> <http://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Official_portrait_of_Barack_Obama.jpg/200px-Official_portrait_of_Barack_Obama.jpg> .
+<http://dbpedia.org/resource/Barack_Obama> <http://xmlns.com/foaf/0.1/homepage> <http://www.whitehouse.gov/> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageExternalLink> <http://www.chicagolife.net/content/politics/Barack_Obama> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageExternalLink> <http://www.whitehouse.gov/blog/inaugural-address/> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageExternalLink> <http://www.whitehouse.gov/administration/president_obama/> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageExternalLink> <http://www.chicagoreader.com/obama/951208/> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageExternalLink> <http://www.bloomsburypress.com/books/catalog/young_mr_obama_hc_607> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageExternalLink> <http://www.newyorker.com/reporting/2007/05/07/070507fa_fact_macfarquhar> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageExternalLink> <http://www.barackobama.com/> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageExternalLink> <http://www.gq.com/news-politics/newsmakers/200708/obama-barack-election-president> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageExternalLink> <http://www.washingtonian.com/articles/mediapolitics/1836.html> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageExternalLink> <http://www.barackobama.com/> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageExternalLink> <http://www.whitehouse.gov/> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/wikiPageExternalLink> <http://topics.nytimes.com/top/reference/timestopics/people/o/barack_obama/index.html> .
+<http://dbpedia.org/resource/Barack_Obama> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://dbpedia.org/resource/Barack_Obama> <http://xmlns.com/foaf/0.1/givenName> "Barack"@en .
+<http://dbpedia.org/resource/Barack_Obama> <http://xmlns.com/foaf/0.1/name> "Barack Obama"@en .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Hawaii> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Honolulu> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/birthDate> "1961-08-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Barack_Obama> <http://xmlns.com/foaf/0.1/surname> "Obama"@en .
+<http://dbpedia.org/resource/Barack_Obama> <http://purl.org/dc/elements/1.1/description> "american politician, 44th President of the United States"@en .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/property/washpo> "Barack_Obama"@en .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/property/govtrack> "400629"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/property/ontheissuespath> "Barack_Obama.htm"@en .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/property/legistorm> "76/Sen_Barack_Obama.html"@en .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/property/fec> "S4IL00180"@en .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/property/name> "Barack Obama"@en .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/property/imagesize> "245px"@en .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/property/alt> "A portrait shot of a serious looking middle-aged African-American male  looking straight ahead. He has short black hair, and is wearing a dark navy blazer with a blue striped tie over a light blue collared shirt. In the background are two flags hanging from separate flagpoles: an American flag, and one from the Executive Office of the President."@en .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/property/order> "44"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/property/office> "President of the United States"@en .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/property/vicepresident> "Joe Biden"@en .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/property/termStart> "2009-01-20"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/property/predecessor> "George W. Bush"@en .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/property/jr/sr> "United States Senator"@en .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/property/state> "Illinois"@en .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/property/termStart> "2005-01-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/property/termEnd> "2008-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/property/predecessor> "Peter Fitzgerald"@en .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/property/successor> "Roland Burris"@en .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/property/stateSenate> "Illinois"@en .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/property/state> "Illinois"@en .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/property/district> "13"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/property/termStart> "1997-01-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/property/termEnd> "2004-11-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/property/predecessor> "Alice Palmer"@en .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/property/successor> "Kwame Raoul"@en .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/property/birthDate> "1961-08-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/property/birthPlace> "Honolulu, Hawaii"@en .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/property/party> "Democratic Party"@en .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/property/spouse> "Michelle Robinson Obama"@en .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/property/children> "Malia, Sasha"@en .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/property/residence> "White House"@en .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/property/residence> "Chicago, Illinois"@en .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/property/almaMater> <http://dbpedia.org/resource/Occidental_College> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/property/almaMater> "Columbia University"@en .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/property/almaMater> "Harvard Law School"@en .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/property/profession> <http://dbpedia.org/resource/Community_organizing> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/property/profession> <http://dbpedia.org/resource/Lawyer> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/property/profession> <http://dbpedia.org/resource/Constitutional_law> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/property/profession> <http://dbpedia.org/resource/Professor> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/property/profession> "Author"@en .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/property/religion> "Christian"@en .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/property/signature> "Barack Obama signature.svg"@en .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/property/signatureAlt> "Barack Obama"@en .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/property/website> <http://www.whitehouse.gov/> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/property/website> "Barack Obama"@en .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:Infobox_Officeholder> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/property/colwidth> "30em"@en .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/property/refs> "--06-04"^^<http://www.w3.org/2001/XMLSchema#gMonthDay> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:Reflist> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/property/author> "yes"@en .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/property/wikt> "no"@en .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/property/v> "no"@en .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/property/b> "no"@en .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:Persondata> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/property/placeOfBirth> "Honolulu, Hawaii, United States"@en .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/property/n> "Category:Barack Obama"@en .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:Sister_project_links> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/property/congbio> "o000167"@en .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/property/dateOfBirth> "1961-08-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/property/shortDescription> "american politician, 44th President of the United States"@en .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/property/name> "Obama, Barack"@en .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:Authority_control> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/property/viaf> "52010985"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/property/lccn> "n/94/112934"@en .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/property/pnd> "132522136"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:CongLinks> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/property/followthemoney> "17677"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/property/opensecrets> "N00009638"@en .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/property/votesmart> "9490"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://dbpedia.org/resource/Barack_Obama> <http://xmlns.com/foaf/0.1/page> <http://en.wikipedia.org/wiki/Barack_Obama> .
+
+#calculate views and trending views for obama - we put them out of order just like the real data is
+<http://dbpedia.org/resource/Barack_Obama> <http://insights.gravity.com/2010/04/universe#viewCountAndDayOfYear> "56|2011_147"@http://www .
+<http://dbpedia.org/resource/Barack_Obama> <http://insights.gravity.com/2010/04/universe#viewCountAndDayOfYear> "60|2011_142"@http://www .
+<http://dbpedia.org/resource/Barack_Obama> <http://insights.gravity.com/2010/04/universe#viewCountAndDayOfYear> "165|2011_152"@http://www .
+<http://dbpedia.org/resource/Barack_Obama> <http://insights.gravity.com/2010/04/universe#viewCountAndDayOfYear> "50|2011_143"@http://www .
+<http://dbpedia.org/resource/Barack_Obama> <http://insights.gravity.com/2010/04/universe#viewCountAndDayOfYear> "56|2011_144"@http://www .
+<http://dbpedia.org/resource/Barack_Obama> <http://insights.gravity.com/2010/04/universe#viewCountAndDayOfYear> "40|2011_145"@http://www .
+<http://dbpedia.org/resource/Barack_Obama> <http://insights.gravity.com/2010/04/universe#viewCountAndDayOfYear> "50|2011_146"@http://www .
+<http://dbpedia.org/resource/Barack_Obama> <http://insights.gravity.com/2010/04/universe#viewCountAndDayOfYear> "40|2011_141"@http://www .
+<http://dbpedia.org/resource/Barack_Obama> <http://insights.gravity.com/2010/04/universe#viewCountAndDayOfYear> "110|2011_148"@http://www .
+<http://dbpedia.org/resource/Barack_Obama> <http://insights.gravity.com/2010/04/universe#viewCountAndDayOfYear> "130|2011_149"@http://www .
+<http://dbpedia.org/resource/Barack_Obama> <http://insights.gravity.com/2010/04/universe#viewCountAndDayOfYear> "145|2011_150"@http://www .
+<http://dbpedia.org/resource/Barack_Obama> <http://insights.gravity.com/2010/04/universe#viewCountAndDayOfYear> "150|2011_151"@http://www .
+
+#EXAMPLES OF VIEWS WITHOUT MATCHING TOPICS IN OUR SYSTEM -> COULD INDICATE NEW TOPICS THAT WERE ADDED THAT WE'RE MISSING
+<http://dbpedia.org/resource/Jim_Plush_The_Third> <http://insights.gravity.com/2010/04/universe#viewCountAndDayOfYear> "200|2011_141"@http://www .
+<http://dbpedia.org/resource/Jim_Plush_The_Fourth> <http://insights.gravity.com/2010/04/universe#viewCountAndDayOfYear> "20|2011_141"@http://www .
+<http://dbpedia.org/resource/Jim_Plush_The_Fourth> <http://insights.gravity.com/2010/04/universe#viewCountAndDayOfYear> "20|2011_142"@http://www .
+<http://dbpedia.org/resource/Jim_Plush_The_Fourth> <http://insights.gravity.com/2010/04/universe#viewCountAndDayOfYear> "20|2011_143"@http://www .
+<http://dbpedia.org/resource/Jim_Plush_The_Fifth> <http://insights.gravity.com/2010/04/universe#viewCountAndDayOfYear> "143|2011_141"@http://www .
+
+<http://dbpedia.org/resource/Alien> <http://dbpedia.org/ontology/wikiPageDisambiguates> <http://dbpedia.org/resource/Alien_%28law%29> .
+<http://dbpedia.org/resource/Alien> <http://dbpedia.org/ontology/wikiPageDisambiguates> <http://dbpedia.org/resource/Alien_%28film%29> .
+<http://dbpedia.org/resource/Alien> <http://dbpedia.org/ontology/wikiPageDisambiguates> <http://dbpedia.org/resource/Aliens_%28film%29> .
+<http://dbpedia.org/resource/Alien> <http://dbpedia.org/ontology/wikiPageDisambiguates> <http://dbpedia.org/resource/Alien_%28creature_in_Alien_franchise%29> .
+<http://dbpedia.org/resource/Alien> <http://dbpedia.org/ontology/wikiPageDisambiguates> <http://dbpedia.org/resource/Alien_%28franchise%29> .
+<http://dbpedia.org/resource/Alien> <http://dbpedia.org/ontology/wikiPageDisambiguates> <http://dbpedia.org/resource/The_Alien> .
+<http://dbpedia.org/resource/Alien> <http://dbpedia.org/ontology/wikiPageDisambiguates> <http://dbpedia.org/resource/Aliens_%281902_novel%29> .
+<http://dbpedia.org/resource/Alien> <http://dbpedia.org/ontology/wikiPageDisambiguates> <http://dbpedia.org/resource/Aliens_%28novel_series%29> .
+<http://dbpedia.org/resource/Alien> <http://dbpedia.org/ontology/wikiPageDisambiguates> <http://dbpedia.org/resource/Aliens_%28comic_book%29> .
+<http://dbpedia.org/resource/Alien> <http://dbpedia.org/ontology/wikiPageDisambiguates> <http://dbpedia.org/resource/List_of_Alien_and_Predator_games> .
+<http://buzznet.com/ffb39dfa-9ffc-4896-a93a-b1911e809af8> <http://insights.gravity.com/2010/04/universe#indicatedNode> <http://dbpedia.org/resource/HDD> .
+<http://buzznet.com/ffb39dfa-9ffc-4896-a93a-b1911e809af8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://insights.gravity.com/2010/04/universe#ColloquialGram> .
+<http://buzznet.com/ffb39dfa-9ffc-4896-a93a-b1911e809af8> <http://insights.gravity.com/2010/04/universe#ngram> "hdd" .
+<http://buzznet.com/ffb39dfa-9ffc-4896-a93a-b1911e809af8> <http://insights.gravity.com/2010/04/universe#weight> "0.5"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://buzznet.com/ffb7698f-e1b9-4dbd-b764-91f88b5390f0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://insights.gravity.com/2010/04/universe#ColloquialGram> .
+<http://buzznet.com/ffb7698f-e1b9-4dbd-b764-91f88b5390f0> <http://insights.gravity.com/2010/04/universe#ngram> "my favorite president" .
+<http://buzznet.com/ffb7698f-e1b9-4dbd-b764-91f88b5390f0> <http://insights.gravity.com/2010/04/universe#weight> "0.5"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://buzznet.com/ffb7698f-e1b9-4dbd-b764-91f88b5390f0> <http://insights.gravity.com/2010/04/universe#indicatedNode> <http://dbpedia.org/resource/Barack_Obama> .
+
+# these are tags
+<http://buzznet.com/6522ff4e-0a46-4794-a59f-19f4642e0c7f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://insights.gravity.com/2010/9/universe#Tag>.
+<http://buzznet.com/6522ff4e-0a46-4794-a59f-19f4642e0c7f> <http://insights.gravity.com/2010/9/universe#ngram> "presidential candidate".
+<http://buzznet.com/6522ff4e-0a46-4794-a59f-19f4642e0c7f> <http://insights.gravity.com/2010/9/universe#extractedFromDomain> "buzznet.com".
+<http://buzznet.com/6522ff4e-0a46-4794-a59f-19f4642e0c7f> <http://insights.gravity.com/2010/9/universe#extractedFromDomain> "users.buzznet.com".
+<http://buzznet.com/6522ff4e-0a46-4794-a59f-19f4642e0c7f> <http://insights.gravity.com/2010/9/universe#indicatedNode> <http://dbpedia.org/resource/Barack_Obama>.
+
+# Moved concept-> interest rollups into the main sorted file
+<http://dbpedia.org/resource/Category:Community_organizers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>.
+
+<http://dbpedia.org/resource/Category:Community_organizers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://dbpedia.org/resource/Category:Community_organizers> <http://insights.gravity.com/2010/9/universe#broaderAnnotatedConcept> <http://dbpedia.org/resource/Category:Activists_by_type> .
+<http://dbpedia.org/resource/Category:Community_organizers> <http://www.w3.org/2004/02/skos/core#broader> <http://dbpedia.org/resource/Category:Activists_by_type> .
+<http://dbpedia.org/resource/Category:Community_organizers> <http://www.w3.org/2004/02/skos/core#broader> <http://dbpedia.org/resource/Category:Community_organizing> .
+<http://dbpedia.org/resource/Category:Community_organizers> <http://www.w3.org/2004/02/skos/core#prefLabel> "Community organizers"@en .
+
+<http://dbpedia.org/resource/Category:Activists_by_type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://dbpedia.org/resource/Category:Activists_by_type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://insights.gravity.com/interest/Social_Issues_&_Advocacy>.
+
+# Do Not Show Certain Topics & Concepts
+<http://dbpedia.org/resource/Photos> <http://insights.gravity.com/2010/9/universe#doNotShow> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+<http://dbpedia.org/resource/Flickr> <http://insights.gravity.com/2010/9/universe#doNotGraph> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+<http://dbpedia.org/resource/YouTube> <http://insights.gravity.com/2010/9/universe#doNotGraph> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+<http://dbpedia.org/resource/Category:Vegans_by_nationality> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://insights.gravity.com/interest/Social_Issues_&_Advocacy> .
+<http://dbpedia.org/resource/Category:Canadian_vegans> <http://insights.gravity.com/2010/9/universe#broaderAnnotatedConcept> <http://dbpedia.org/resource/Category:Vegans_by_nationality> .
+<http://dbpedia.org/resource/Category:Canadian_vegans> <http://insights.gravity.com/2010/9/universe#doNotFollowBroaderConcept> <http://dbpedia.org/resource/Category:Vegans_by_nationality> .
+<http://dbpedia.org/resource/Category:Abusers_of_Irony> <http://insights.gravity.com/2010/9/universe#broaderAnnotatedConcept> <http://dbpedia.org/resource/Category:Activists_by_type> .
+<http://dbpedia.org/resource/Category:Dead_people> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://insights.gravity.com/interest/Social_Issues_&_Advocacy> .
+<http://dbpedia.org/resource/Category:Dead_people> <http://insights.gravity.com/2010/9/universe#doNotGraph> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+<http://dbpedia.org/resource/Alanis_Morissette> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Community_organizers> .
+<http://dbpedia.org/resource/Alanis_Morissette> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Canadian_vegans> .
+<http://dbpedia.org/resource/Alanis_Morissette> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Dead_people> .
+<http://dbpedia.org/resource/Alanis_Morissette> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Abusers_of_Irony> .
+<http://dbpedia.org/resource/Alanis_Morissette> <http://insights.gravity.com/2010/9/universe#doNotFollowBroaderConcept> <http://dbpedia.org/resource/Category:Abusers_of_Irony> .
+
+#ADDING THE GOOGLE SEARCH TERM DATA SET
+<http://dbpedia.org/resource/Category:Presidents_of_the_United_States> <http://insights.gravity.com/2010/9/universe#googleSearchCnt> "500"^^<http://www.w3.org/2001/XMLSchema#long> .
+<http://dbpedia.org/resource/Category:African_American_academics> <http://insights.gravity.com/2010/9/universe#googleSearchCnt> "149"^^<http://www.w3.org/2001/XMLSchema#long> .
+<http://dbpedia.org/resource/Category:African_American_United_States_Senators> <http://insights.gravity.com/2010/9/universe#googleSearchCnt> "182"^^<http://www.w3.org/2001/XMLSchema#long> .
+<http://dbpedia.org/resource/Category:American_Christians> <http://insights.gravity.com/2010/9/universe#googleSearchCnt> "402"^^<http://www.w3.org/2001/XMLSchema#long> .
+<http://dbpedia.org/resource/Category:American_civil_rights_lawyers> <http://insights.gravity.com/2010/9/universe#googleSearchCnt> "34"^^<http://www.w3.org/2001/XMLSchema#long> .
+<http://dbpedia.org/resource/Category:American_legal_scholars> <http://insights.gravity.com/2010/9/universe#googleSearchCnt> "200"^^<http://www.w3.org/2001/XMLSchema#long> .
+<http://dbpedia.org/resource/Category:American_Nobel_laureates> <http://insights.gravity.com/2010/9/universe#googleSearchCnt> "194"^^<http://www.w3.org/2001/XMLSchema#long> .
+<http://dbpedia.org/resource/Category:American_people_of_English_descent> <http://insights.gravity.com/2010/9/universe#googleSearchCnt> "106"^^<http://www.w3.org/2001/XMLSchema#long> .
+<http://dbpedia.org/resource/Category:American_political_writers> <http://insights.gravity.com/2010/9/universe#googleSearchCnt> "164"^^<http://www.w3.org/2001/XMLSchema#long> .

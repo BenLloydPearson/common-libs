@@ -1,0 +1,358 @@
+{
+  "request": "tag",
+  "result": {
+    "tags": {
+      "entities": [
+        {
+          "name": "Sarkar",
+          "score": 1,
+          "disambiguator": "Movie",
+          "id": 2954902,
+          "references": [
+            {
+              "type": "freebase",
+              "id": "m.06rcdl"
+            }
+          ],
+          "instances": [
+            {
+              "field": "Body",
+              "offset": 713,
+              "length": 6
+            },
+            {
+              "field": "Body",
+              "offset": 877,
+              "length": 6
+            },
+            {
+              "field": "Body",
+              "offset": 1180,
+              "length": 6
+            },
+            {
+              "field": "Body",
+              "offset": 1232,
+              "length": 6
+            },
+            {
+              "field": "Body",
+              "offset": 1748,
+              "length": 6
+            },
+            {
+              "field": "Body",
+              "offset": 2072,
+              "length": 6
+            },
+            {
+              "field": "Body",
+              "offset": 2126,
+              "length": 6
+            },
+            {
+              "field": "Body",
+              "offset": 2269,
+              "length": 6
+            }
+          ],
+          "nodeTypes": [
+            {
+              "name": "Other",
+              "id": 48
+            },
+            {
+              "name": "movieWork",
+              "id": 36
+            }
+          ],
+          "inHeadline": false
+        },
+        {
+          "name": "Doctor",
+          "score": 0.75,
+          "disambiguator": "Title",
+          "id": 3683888,
+          "references": [
+            {
+              "type": "freebase",
+              "id": "m.02g9n"
+            }
+          ],
+          "instances": [
+            {
+              "field": "Body",
+              "offset": 891,
+              "length": 2
+            },
+            {
+              "field": "Body",
+              "offset": 1315,
+              "length": 2
+            },
+            {
+              "field": "Body",
+              "offset": 1527,
+              "length": 2
+            },
+            {
+              "field": "Body",
+              "offset": 3133,
+              "length": 2
+            }
+          ],
+          "nodeTypes": [
+            {
+              "name": "Other",
+              "id": 48
+            },
+            {
+              "name": "title",
+              "id": 131
+            }
+          ],
+          "inHeadline": false
+        },
+        {
+          "name": "Texas",
+          "score": 0.6625,
+          "disambiguator": "U.S. state",
+          "id": 3694990,
+          "references": [
+            {
+              "type": "freebase",
+              "id": "m.07b_l"
+            }
+          ],
+          "instances": [
+            {
+              "field": "Body",
+              "offset": 12,
+              "length": 5
+            }
+          ],
+          "nodeTypes": [
+            {
+              "name": "location",
+              "id": 30
+            },
+            {
+              "name": "state",
+              "id": 32
+            },
+            {
+              "name": "Other",
+              "id": 48
+            }
+          ],
+          "inHeadline": false
+        },
+        {
+          "name": "University of Texas at Austin",
+          "score": 0.6625,
+          "disambiguator": "University",
+          "id": 3696975,
+          "references": [
+            {
+              "type": "freebase",
+              "id": "m.07w0v"
+            }
+          ],
+          "instances": [
+            {
+              "field": "Body",
+              "offset": 298,
+              "length": 29
+            }
+          ],
+          "nodeTypes": [
+            {
+              "name": "Other",
+              "id": 48
+            },
+            {
+              "name": "school",
+              "id": 84
+            }
+          ],
+          "inHeadline": false
+        },
+        {
+          "name": "California",
+          "score": 0.575,
+          "disambiguator": "U.S. state",
+          "id": 3448007,
+          "references": [
+            {
+              "type": "freebase",
+              "id": "m.01n7q"
+            }
+          ],
+          "instances": [
+            {
+              "field": "Body",
+              "offset": 242,
+              "length": 10
+            }
+          ],
+          "nodeTypes": [
+            {
+              "name": "location",
+              "id": 30
+            },
+            {
+              "name": "state",
+              "id": 32
+            },
+            {
+              "name": "Other",
+              "id": 48
+            }
+          ],
+          "inHeadline": false
+        },
+        {
+          "name": "India",
+          "score": 0.5625,
+          "disambiguator": "Country",
+          "id": 3686704,
+          "references": [
+            {
+              "type": "freebase",
+              "id": "m.03rk0"
+            }
+          ],
+          "instances": [
+            {
+              "field": "Body",
+              "offset": 745,
+              "length": 5
+            }
+          ],
+          "nodeTypes": [
+            {
+              "name": "country",
+              "id": 31
+            },
+            {
+              "name": "Other",
+              "id": 48
+            }
+          ],
+          "inHeadline": false
+        },
+        {
+          "name": "Data transmission",
+          "score": 0.5625,
+          "disambiguator": "",
+          "id": 3699663,
+          "references": [
+            {
+              "type": "freebase",
+              "id": "m.0bl7c"
+            }
+          ],
+          "instances": [
+            {
+              "field": "Body",
+              "offset": 3526,
+              "length": 21
+            }
+          ],
+          "nodeTypes": [
+            {
+              "name": "Other",
+              "id": 48
+            }
+          ],
+          "inHeadline": false
+        }
+      ],
+      "subjects": [
+        {
+          "name": "U.S. News",
+          "score": 1,
+          "disambiguator": "News and Politics",
+          "id": 981465,
+          "references": [
+            {
+              "type": "IAB",
+              "id": "IAB12-3",
+              "name": "Local News"
+            }
+          ],
+          "mostGranular": true,
+          "path": "News and Politics\\News\\U.S. News"
+        },
+        {
+          "name": "News",
+          "score": 1,
+          "disambiguator": "News and Politics",
+          "id": 981523,
+          "references": [
+            {
+              "type": "IAB",
+              "id": "IAB12",
+              "name": "News"
+            }
+          ],
+          "mostGranular": false,
+          "path": "News and Politics\\News"
+        },
+        {
+          "name": "News and Politics",
+          "score": 1,
+          "disambiguator": "Subject",
+          "id": 981525,
+          "mostGranular": false,
+          "path": "News and Politics"
+        }
+      ],
+      "categories": [
+        {
+          "name": "U.S.",
+          "id": 146
+        }
+      ]
+    },
+    "inferredData": {
+      "language": "en"
+    },
+    "extractedData": {
+      "author": "Ian Lovett, Richard Pérez-Peña and Jack Healy",
+      "body": "New laws in Texas and other states allowing people to carry concealed weapons on college campuses have heightened concerns about gun violence, though concealed carry is still prohibited on most campuses around the country, including those in California. Two prominent faculty members have left the University of Texas at Austin, citing the change, and a third has said he will try to defy the law and bar guns in his classroom. \n“You never want to have to think about something like this, and now I’m not sure I can avoid thinking about it,” said Joshua Dienstag, a political science professor who spent two and a half hours on Wednesday barricaded in a room with four others while U.C.L.A. was on lockdown. \nMr. Sarkar, 38, who immigrated from India, earned a Ph.D. in mechanical engineering from U.C.L.A. in 2013. On March 10, in a blog post that has since been deleted, Mr. Sarkar called Dr. Klug, 39, “a sick person.” \n“I was this guy’s Ph.D. student,” he wrote. “We had personal differences. He cleverly stole all my code and gave it another student. He made me really sick.” Chief Beck said at a news conference that investigators think the claim was unfounded and that Mr. Sarkar had “some mental issues.” \nOn Wednesday, Mr. Sarkar walked into the Engineering IV building, entered the fourth-floor office of Dr. Klug , and opened fire. The professor, married and the father of two small children, was considered a star in computational biomechanics, a field that applies engineering principles to biology and medicine. \nDr. Klug was a devoted youth baseball coach. His research dealt with topics as esoteric as the mechanical structures of the protein shells around viruses, and of layers of fatty molecules in cell membranes. \nThe note Mr. Sarkar left in the office talked about a grievance against the other professor on his list, Chief Beck said, adding, “Detectives believe, and I support their belief, that he went there intending to kill two faculty members from U.C.L.A.” \nThe other professor was off-campus at the time, he said, and it was not clear if Mr. Sarkar tried to find him. Professors had known of Mr. Sarkar’s grudge against some faculty members, he added, but they did not think he posed a threat. Court records in Minnesota indicate that Mr. Sarkar’s only run-ins with the law were minor traffic and parking tickets. \nHe took two semiautomatic pistols with him to U.C.L.A. — both legally purchased in Minnesota, officials said — along with multiple magazines, but fired just three shots from one weapon. “He could have caused many more fatalities,” Chief Beck said. \nAs students and faculty here tried to resume classes and prepare for finals, some professors said that campus shootings have subtly transformed the educational experience and have made them more cautious. David Myers, a former chairman of the history department who has offered “active shooter” training, said that when he met with students who seem enraged or unstable, he found himself watching their hands, ever more cognizant of the possibility that they might be armed. \n“I sort of lived in fear of this day coming to my own campus,” Dr. Myers said. “And it did. It did.” Ideally, a university “is a place of free movement of ideas and people,” he said. “When that is constrained in the way it was yesterday, something is killed off.” \nStephen Aron, who succeeded Mr. Myers as chairman of the history department, said he had become quicker to refer troubled students to counselors rather than trying to discuss their problems. Digital communication makes it harder to tell how students really are, he added, because “it’s harder to parse out tone in an email than face-to-face.” \n“People are feeling a bit discombobulated today,” he said. “I’m hearing that mostly from my staff. They’re the ones there every day, so in some sense they’re most vulnerable in those situations. It’s not surprising they feel particularly scared.” \n",
+      "snippet": "The gunman who killed a professor and himself may have also killed a woman in Minnesota, and may have intended to kill another professor, the authorities said.",
+      "title": "U.C.L.A. Gunman May Have Targeted 2nd Professor and Killed Woman",
+      "url": "http://www.nytimes.com/2016/06/03/us/ucla-shooting-mainak-sarkar.html?_r=0",
+      "canonicalUrl": "http://www.nytimes.com/2016/06/03/us/ucla-shooting-mainak-sarkar.html",
+      "images": [
+        {
+          "description": null,
+          "height": 550,
+          "media_credit": "",
+          "media_meduim": "image",
+          "url": "https://static01.nyt.com/images/2016/06/03/us/03ucla-web/03ucla-web-facebookJumbo.jpg",
+          "width": 1050
+        },
+        {
+          "description": null,
+          "height": 231,
+          "media_credit": "",
+          "media_meduim": "image",
+          "url": "https://static01.nyt.com/images/2016/06/03/us/03ucla-web2/03ucla-web2-master180.jpg",
+          "width": 180
+        },
+        {
+          "description": null,
+          "height": 210,
+          "media_credit": "",
+          "media_meduim": "image",
+          "url": "https://static01.nyt.com/images/2016/06/03/us/03UCLA-jp1/03UCLA-jp1-master315.jpg",
+          "width": 315
+        }
+      ],
+      "videos": []
+    },
+    "publisherId": -1
+  }
+}

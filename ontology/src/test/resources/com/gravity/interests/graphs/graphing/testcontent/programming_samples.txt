@@ -1,0 +1,180 @@
+Piet Program Gallery
+These are sample programs for the Piet programming language I invented.
+Hello World
+This program prints "Hello world!" and then exits. It is shown in two sizes: 1 pixel per codel, and 25 pixels per codel. Program flow proceeds clockwise from the upper left red block along the edge of the program until the dark blue block at lower left is reached. It then proceeds up to the single light blue codel, right to the dark cyan codel, and right into the large green block at centre. From there it flows left through the dark green codel to the yellow block, then up through the dark yellow codel to the red block inside the black codels, where execution halts. This produces the required ASCII codes in a brute force manner, with each of the large blocks coding one of the required characters, but there are a few stack tricks in there to prevent having to redefine the same character more than once. (Thanks to Matt Rudary for debugging!)
+Fibonacci Numbers
+This program prints the first 100 Fibonacci numbers. It is shown at 1 pixel per codel, and twice at 121 pixels per codel. The second copy of the large version is overlaid with a black line to show program flow, beginning at the upper left. The flow sets up initial stack entries and prints the first two numbers before entering a loop at the dark blue codel in the centre of the left edge. The loop executes clockwise, rejoining itself at the dark blue codel. The branch in the long green block at the bottom is the test to see whether the 100th number has been printed. If it has, the code branches up to the red block and terminates there. Note that the yellow->dark blue transition on both entry points to the loop are "pointer" commands defining rotations of the DP, necessary to get the DP pointing in the right direction to trace the loop. Non-significant codels are left white to emphasise readability of the code, but in practice these could be filled with other colours for greater artistic effect. The only significant white codel is the slide from dark blue to yellow just before rejoining the loop, required to get the yellow to dark blue transition for the "pointer" command.
+Towers of Hanoi
+This program solves the Towers of Hanoi problem. It was written by Sylvain Tintillier. Don't ask me how it works, I have no idea!
+Fancy Hello World
+To show you how different two programs that do the same thing can look, this is another version of "Hello World!" written by Matt Rudary. I'm not sure how it works, but it looks a lot more elegant than my version.
+Prime Number Test
+Alexander Rodgers writes:
+
+    There are two versions, but the first is merely the "better-looking" one, with unimportant squares filled in which colours instead of black. The effect of the program is to take in a number, and output either "PRIME" or "NOT PRIME" depending on which it is. The first part finds the whole number lower than the input's square root (a surprising amount of work in Piet) to save on runtime. Then, the program goes input-modulus-(2, 3, etc) to see if it has any factors. If it does, it goes through that big light magenta square to write out NOT, then into the dark cyan square. If none of the numbers below the square root are factors, it enters the dark cyan square. From there the program writes PRIME. It's strange that the text section takes up a lot more room than the calculation section.
+
+
+Artistic Hello World
+Thomas Schoch demonstrates that programs written in Piet really can be artistic. He calls this version of "Hello, world!" his masterpiece, and provides a detailed explanation of its principles, both artistic and programmatic.
+Artistic Hello World 2
+Thomas Schoch provides another implementation of "Hello, world!" He writes:
+
+    This is similar code, but without the DP manipulation, since the black color block enforces program flow. Also included is an animated GIF consisting of 3 runnable variations of the static version. Note that the animated GIF can be run by the Piet interpreter! (Of course, I prefer the animated version.)
+
+
+Artistic Hello World 3 and 4
+Thomas Schoch writes again:
+
+    Program flow of these is obviously simple. They were made just to demonstrate how decorative Piet programs can be.
+
+
+
+Composition with Red, Yellow and Blue by Piet Mondrian
+Composition with Red,
+Yellow and Blue.
+1921, Piet Mondrian.
+"Piet"
+Thomas Schoch just can't stop coding in Piet!
+
+    This was made with the goal of having a Piet program that really looks like a painting of Piet Mondrian. It prints "Piet".
+
+
+Alpha
+Chad Etzel was so inspired by learning Piet to attack Perplex City's puzzle card #234 that he's started coding in it. Here's a program that prints out the letters of the alphabet. He's also supplied a full trace of the code.
+
+    I basically had it push 1, multiply a bunch of times (so as not to affect the stack) around the big blue block to get back to the beginning of the loop. That's where the majoriy of the steps come from. I could have had way fewer instructions by having only a few pushes/pops, but I figured I would make it pretty :-). It is a graphic language after all... I encourage everyone to try to write a Piet program, it's wonderfully mindbending.
+
+
+Prime Number Generator
+Sylvain Tintillier provides a method of generating prime numbers using Piet. Figuring out how it works is easy, he says, "Just look at the bitmap!"
+Adder
+Mike Tolly supplies a simple adding program, which adds together two input numbers.
+Pi
+Richard Mitton supplies this amazing program which calculates an approximation of pi... literally by dividing a circular area by the radius twice. Richard says:
+
+    The output is printed without the decimal point after the 3.
+
+    Naturally, a more accurate value can be obtained by using a bigger program.
+
+
+Euclid's Algorithm
+Clint Herron provides Euclid's algorithm for determining the greatest common divisor of a pair of integers. He writes:
+
+    PROGRAMMING NOTES: (line numbers are my own scribbled tags, the middle is the operation, the right column is an approximation of the stack).
+
+    01: m = in(number)   m
+    02: n = in(number)   nm
+    03: dup              nnm
+    04: push 3           3nnm
+    05: push 1           13nnm
+    06: roll             nmn
+    07: r = m % n        rn
+    08: dup              rrn
+    09: push 1           1rrn
+    10: greater          0rn
+    11: not              1rn
+    12: switch (stay left if it's not greater than 1, otherwise turn right)
+                         rn
+    LEFT PATH
+    L1: dup              rrn
+
+    GUIDE TO OLD CODE AT 03:
+
+    RIGHT PATH
+    R1: pop              n
+    R2: out(number)
+
+    It's not nearly as cool as some of the other programs you have up there, but I thought someone else might benefit from seeing a minimalistic simple-but-documented example.
+
+
+JAPH
+Nathan Mahon is Just Another Piet Hacker. Npiet trace is here.
+Power function
+François Tavin sent in this implementation of the power function. Trace is here. François says:
+
+    After having created the basis of the algorithm I decided to modify it in order to have a nice picture, corresponding to the notion of power. That's why the program looks like an elephant (or a pig, I must admit... :-P).
+
+
+Factorials
+Thomas Polasek produced this code to compute factorials of an input number.
+99 Bottles of Beer
+Eddy Ferreira wrote this program to help him count down the number of bottles of beer on the wall.
+Mondrian Hello World
+James Dessart designed this "Hello World" to look like a Mondrian painting. It's basically a string pushed on to the stack one character at a time, followed by a function that prints a string off the stack. The string-printing loop involves the rainbow stripe of code near the bottom right corner.
+Another Prime Tester
+Kyle Woodward wrote this version of a prime number tester, designed to look like a Mondrian painting. This is actual size.
+Non-Pastel Hello World
+Tom Boothby writes: Piet is a wonderful invention. However, I do question your use of pastel colours. On my screen, it's difficult to differentiate white from light yellow, and between light red and light magenta. So, I made this one entirely without pastel colours.
+World Hello World
+Tom Boothby writes: I made this before I made the other, but didn't really like it until I put the globe in the middle. It's almost precisely the same program as Thomas Schoch's pieces, "Artistic Hello World" 1 and 2 - though I didn't realize this until after I was nearly done with it.
+Day of Week Calculator
+Jonathan Couper-Smartt writes: This program computes the day of the week for any year in the range 2000-2099 inclusive. The program will prompt for three integer values, which are entered in the following order:
+
+    4-digit Year-With-Century (range 2000-2099 inclusive).
+    Number of Month (range 1-12 inclusive).
+    Day of Month (range 1-31 inclusive).
+
+    ? 2007
+    ? 3
+    ? 15
+    0
+
+The program will then print out the day of week in the range: 0 = Sun, 1 = Mon, etc. through to 6 = Sat. In the example execution above, the program has computed that March 15th, 2007 is a Sunday.
+Assembled Piet Code
+These are actually two different programs written by Sergei Lewis using the Piet assembler he wrote. The large one is the most complex Piet program I've seen yet.
+
+The smaller program implements counting according to the Fizz Buzz game, in which multiples of 3 are replaced by the word "fizz", multiples of 5 are replaced by the word "buzz", and multiples of 15 are replaced by "fizz-buzz".
+
+The larger program is... wait for it... a text adventure game.
+Brainfuck Interpreter
+Matthias Ernst has done the amazing and implemented an entire other Turing-complete esoteric programming language in Piet! Here is his brainfuck interpreter. Matthias writes:
+
+    The Piet program takes a Brainfuck program, and its input (seperated by |), from STDIN and prints the output of the Brainfuck program to STDOUT. E.g. the input ",+>,+>,+>,+.<.<.<.|sdhO" would generate the output "Piet".
+
+    I've also written a PHP script that generates those Brainfuck interpreters with hard coded Brainfuck code, so they just need the input of the Brainfuck program. So the script can also be called "Brainfuck2Piet converter". The script is available here. (There's also an explanation of the functional principle in general.)
+
+
+Cow Say
+Antoine Lucas has done a "cowsay" program, without using any of the pastel colours. Sample input and output:
+
+$ echo "hello world" | npiet untitled.ppm
+_____________
+< hello world >
+-------------
+       \   ^__^
+        \  (oo)\_______
+           (__)\       )\/\
+               ||----w |
+               ||     ||
+
+
+$ echo "Legi, Patres colendissimi, in Arabum monumentis, interrogatum
+Abdalam 1 Sarracenum, quid in hac quasi mundana scaena admirandum
+maxime spectaretur, nihil spectari homine admirabilius respondisse." |
+npiet untitled.ppm
+_________________________________________
+/ Legi, Patres colendissimi, in Arabum mo \
+| numentis, interrogatum Abdalam 1 Sarrac |
+| enum, quid in hac quasi mundana scaena  |
+| admirandum maxime spectaretur, nihil sp |
+\ ectari homine admirabilius respondisse. /
+-----------------------------------------
+       \   ^__^
+        \  (oo)\_______
+           (__)\       )\/\
+               ||----w |
+               ||     ||
+
+
+Gnome Sort
+Joshua Schulter sends this implementation of the gnome sort algorithm, partly written with help from Sergei Lewis's Piet assembler. He says the code contains "at least one Easter egg". And as you can see, the code is licensed under CC-GPL.
+Tetris
+Anthony Maës says this is a tribute to Alexey Pajitnov. No, alas, it's not an implementation of Tetris using Piet, but it does print "Tetris" and every single coloured codel block is in the shape of a Tetris piece!
+Multi-Codel Size
+Matthias Ernst has created another astounding program. This one is two different programs in one - it runs and produces different, sensible output depending on the codel size specified! With a codel size of 1 it prints "Hello world!", but with a codel size of 2 it prints "Piet".
+
+npiet -cs 2 helloworld-piet.gif
+Piet
+
+npiet -cs 1 helloworld-piet.gif
+Hello world! 

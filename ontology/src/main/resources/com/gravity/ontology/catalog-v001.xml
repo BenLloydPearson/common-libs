@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog id="XML Catalog File (see http://www.oasis-open.org/committees/entity/spec-2001-08-06.html) - Created By Protege 4" prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <group id="Folder Repository, directory=/Users/chris/Projects/interests/graphs/src/main/resources/com/gravity/interests/graphs/ontology, recursive=true, Auto-Update=true" prefer="public" xml:base="">
+        <uri id="Automatically generated entry, Timestamp=1288572734457" name="http://dbpedia.org/ontology/" uri="dbpedia_3.5.1.owl"/>
+    </group>
+</catalog>

@@ -1,0 +1,1 @@
+@transient val sparkConf = com.gravity.interests.jobs.spark.SparkShell.defaultSparkConf()

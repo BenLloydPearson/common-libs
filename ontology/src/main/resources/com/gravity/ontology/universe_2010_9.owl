@@ -1,0 +1,1353 @@
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix swrlb: <http://www.w3.org/2003/11/swrlb#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix protege: <http://protege.stanford.edu/plugins/owl/protege#> .
+@prefix xsp: <http://www.owl-ontologies.com/2005/08/07/xsp.owl#> .
+@prefix : <http://insights.gravity.com/2010/9/universe#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix swrl: <http://www.w3.org/2003/11/swrl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@base <http://insights.gravity.com/2010/9/universe> .
+
+<http://insights.gravity.com/2010/9/universe> rdf:type owl:Ontology ;
+                                              
+                                              rdfs:label "universe part deux"^^xsd:string ;
+                                              
+                                              rdfs:comment "Second version of the universe ontology"^^xsd:string .
+
+
+#################################################################
+#
+#    Annotation properties
+#
+#################################################################
+
+
+
+
+#################################################################
+#
+#    Datatypes
+#
+#################################################################
+
+
+
+
+#################################################################
+#
+#    Object Properties
+#
+#################################################################
+
+
+###  http://insights.gravity.com/2010/04/universe#indicatedNode
+
+<http://insights.gravity.com/2010/04/universe#indicatedNode> rdf:type owl:ObjectProperty ;
+                                                             
+                                                             rdfs:domain :SpecializedPhrase ;
+                                                             
+                                                             rdfs:range :Topic ;
+                                                             
+                                                             rdfs:subPropertyOf owl:topObjectProperty .
+
+
+
+###  http://insights.gravity.com/2010/9/universe#annotatedPhrase
+
+:annotatedPhrase rdf:type owl:ObjectProperty ;
+                 
+                 rdfs:range :AnnotatedPhrase ;
+                 
+                 rdfs:domain :Annotation .
+
+
+
+###  http://insights.gravity.com/2010/9/universe#broaderAnnotatedConcept
+
+:broaderAnnotatedConcept rdf:type owl:FunctionalProperty ,
+                                  owl:ObjectProperty ;
+                         
+                         rdfs:comment "This means that a human has marked the fact that the broader Concept should be a preferred path to an Interest." ;
+                         
+                         rdfs:domain <http://www.w3.org/2004/02/skos/core#Concept> ;
+                         
+                         rdfs:range <http://www.w3.org/2004/02/skos/core#Concept> .
+
+
+
+###  http://insights.gravity.com/2010/9/universe#broaderProposedConcept
+
+:broaderProposedConcept rdf:type owl:ObjectProperty ;
+                        
+                        rdfs:domain :Node ;
+                        
+                        rdfs:range :ProposedConceptLink ;
+                        
+                        rdfs:subPropertyOf owl:topObjectProperty .
+
+
+
+###  http://insights.gravity.com/2010/9/universe#byUser
+
+:byUser rdf:type owl:FunctionalProperty ,
+                 owl:ObjectProperty ;
+        
+        rdfs:domain :Annotation ;
+        
+        rdfs:range :User .
+
+
+
+###  http://insights.gravity.com/2010/9/universe#coreferences
+
+:coreferences rdf:type owl:ObjectProperty ;
+              
+              rdfs:subPropertyOf :coreferencesTransitive .
+
+
+
+###  http://insights.gravity.com/2010/9/universe#coreferencesTransitive
+
+:coreferencesTransitive rdf:type owl:ObjectProperty ,
+                                 owl:TransitiveProperty ;
+                        
+                        rdfs:domain :Annotation ;
+                        
+                        rdfs:range :Annotation .
+
+
+
+###  http://insights.gravity.com/2010/9/universe#doNotFollowBroaderConcept
+
+:doNotFollowBroaderConcept rdf:type owl:ObjectProperty ;
+                           
+                           rdfs:comment "Effectively indicates that the relationship between the subject concept and the object broader concept should be removed from the ontology, even if it lives in the source dataset." ;
+                           
+                           rdfs:range <http://www.w3.org/2004/02/skos/core#Concept> ;
+                           
+                           rdfs:domain <http://www.w3.org/2004/02/skos/core#Concept> .
+
+
+
+###  http://insights.gravity.com/2010/9/universe#fromGlossary
+
+:fromGlossary rdf:type owl:ObjectProperty ;
+              
+              rdfs:range :Glossary ;
+              
+              rdfs:domain :GlossaryTerm .
+
+
+
+###  http://insights.gravity.com/2010/9/universe#higherLevelTag
+
+:higherLevelTag rdf:type owl:ObjectProperty ;
+                
+                rdfs:subPropertyOf :higherLevelTagTransitive .
+
+
+
+###  http://insights.gravity.com/2010/9/universe#higherLevelTagTransitive
+
+:higherLevelTagTransitive rdf:type owl:ObjectProperty ,
+                                   owl:TransitiveProperty ;
+                          
+                          rdfs:domain :Tag ;
+                          
+                          rdfs:range :Tag .
+
+
+
+###  http://insights.gravity.com/2010/9/universe#machineSelectedPhrase
+
+:machineSelectedPhrase rdf:type owl:ObjectProperty ;
+                       
+                       rdfs:comment "The Gravity Phrase Extractor selected this phrase." ;
+                       
+                       rdfs:subPropertyOf :annotatedPhrase .
+
+
+
+###  http://insights.gravity.com/2010/9/universe#matchesConcept
+
+:matchesConcept rdf:type owl:ObjectProperty ;
+                
+                rdfs:subPropertyOf :shouldMatchConcept .
+
+
+
+###  http://insights.gravity.com/2010/9/universe#matchesTopic
+
+:matchesTopic rdf:type owl:ObjectProperty ;
+              
+              rdfs:subPropertyOf :shouldMatchTopic .
+
+
+
+###  http://insights.gravity.com/2010/9/universe#pointsToInterest
+
+:pointsToInterest rdf:type owl:FunctionalProperty ,
+                           owl:ObjectProperty ;
+                  
+                  rdfs:range :Interest ;
+                  
+                  rdfs:domain :InterestScoredRollup .
+
+
+
+###  http://insights.gravity.com/2010/9/universe#redirectsTo
+
+:redirectsTo rdf:type owl:ObjectProperty ;
+             
+             rdfs:range :Node ;
+             
+             rdfs:domain :Redirect ;
+             
+             rdfs:subPropertyOf :redirectsTransitive .
+
+
+
+###  http://insights.gravity.com/2010/9/universe#redirectsTransitive
+
+:redirectsTransitive rdf:type owl:ObjectProperty ,
+                              owl:TransitiveProperty .
+
+
+
+###  http://insights.gravity.com/2010/9/universe#rollsupFrom
+
+:rollsupFrom rdf:type owl:FunctionalProperty ,
+                      owl:ObjectProperty ;
+             
+             rdfs:range :DbPediaClass ;
+             
+             rdfs:domain :InterestScoredRollup ;
+             
+             rdfs:range <http://www.w3.org/2004/02/skos/core#Concept> .
+
+
+
+###  http://insights.gravity.com/2010/9/universe#shouldMatchConcept
+
+:shouldMatchConcept rdf:type owl:FunctionalProperty ,
+                             owl:ObjectProperty ;
+                    
+                    rdfs:domain :Node ;
+                    
+                    rdfs:subPropertyOf owl:topObjectProperty ;
+                    
+                    rdfs:range <http://www.w3.org/2004/02/skos/core#Concept> .
+
+
+
+###  http://insights.gravity.com/2010/9/universe#shouldMatchTopic
+
+:shouldMatchTopic rdf:type owl:FunctionalProperty ,
+                           owl:ObjectProperty ;
+                  
+                  rdfs:comment "Range is Node, not Topic, because annotations may suggest meta-topics e.g. an \"empty\" topic." ;
+                  
+                  rdfs:range :Node ;
+                  
+                  rdfs:domain :Node ;
+                  
+                  rdfs:subPropertyOf owl:topObjectProperty .
+
+
+
+###  http://insights.gravity.com/2010/9/universe#url
+
+:url rdf:type owl:FunctionalProperty ,
+              owl:ObjectProperty ;
+     
+     rdfs:comment "The web page this annotation concerns." ;
+     
+     rdfs:domain :Annotation ;
+     
+     rdfs:range :WebLink .
+
+
+
+###  http://insights.gravity.com/2010/9/universe#userSelectedPhrase
+
+:userSelectedPhrase rdf:type owl:ObjectProperty ;
+                    
+                    rdfs:comment "A user selected this phrase." ;
+                    
+                    rdfs:subPropertyOf :annotatedPhrase .
+
+
+
+###  http://www.w3.org/2004/02/skos/core#broader
+
+<http://www.w3.org/2004/02/skos/core#broader> rdf:type owl:ObjectProperty .
+
+
+
+
+
+#################################################################
+#
+#    Data properties
+#
+#################################################################
+
+
+###  http://insights.gravity.com/2010/04/universe#ngram
+
+<http://insights.gravity.com/2010/04/universe#ngram> rdf:type owl:DatatypeProperty ,
+                                                              owl:FunctionalProperty ;
+                                                     
+                                                     rdfs:comment "One or more words, case sensitive, non-stemmed." ;
+                                                     
+                                                     rdfs:domain :SpecializedPhrase ;
+                                                     
+                                                     owl:propertyDisjointWith :isRequiredInText ;
+                                                     
+                                                     rdfs:range xsd:string .
+
+
+
+###  http://insights.gravity.com/2010/04/universe#weight
+
+<http://insights.gravity.com/2010/04/universe#weight> rdf:type owl:DatatypeProperty ,
+                                                               owl:FunctionalProperty ;
+                                                      
+                                                      rdfs:comment "This is a value, from 0 to 1, that indicates the strength of relationship between the subject and its object. " ;
+                                                      
+                                                      rdfs:domain :SpecializedPhrase ;
+                                                      
+                                                      rdfs:range xsd:float .
+
+
+
+###  http://insights.gravity.com/2010/9/universe#alternateLabel
+
+:alternateLabel rdf:type owl:DatatypeProperty ;
+                
+                rdfs:comment "Another label for a node.  These can be stacked.  Typical example: the label of \"Joe Schmoe\" could have an alternateLabel \"Schmoe, Joe\".  Indicates that both should be equally strong matches." ;
+                
+                rdfs:domain :Topic .
+
+
+
+###  http://insights.gravity.com/2010/9/universe#annotationReason
+
+:annotationReason rdf:type owl:DatatypeProperty ,
+                           owl:FunctionalProperty ;
+                  
+                  rdfs:comment "Logs the reason the user made an annotation." ;
+                  
+                  rdfs:domain :Annotation ;
+                  
+                  rdfs:range xsd:string .
+
+
+
+###  http://insights.gravity.com/2010/9/universe#atIndex
+
+:atIndex rdf:type owl:DatatypeProperty ;
+         
+         rdfs:comment "The index at which a phrase occurred in its source text." ;
+         
+         rdfs:domain :AnnotatedPhrase ;
+         
+         rdfs:range xsd:positiveInteger .
+
+
+
+###  http://insights.gravity.com/2010/9/universe#atTime
+
+:atTime rdf:type owl:DatatypeProperty ;
+        
+        rdfs:range xsd:dateTime ;
+        
+        rdfs:subPropertyOf owl:topDataProperty .
+
+
+
+###  http://insights.gravity.com/2010/9/universe#blacklistLowercase
+
+:blacklistLowercase rdf:type owl:DatatypeProperty ;
+                    
+                    rdfs:comment "This text will cause a node to be removed from the ontology, even if it is a substring match.  For very bad words, or words that indicate wikipedia infrastructure, like \"disambiguation\" or \"list of\"." ;
+                    
+                    rdfs:domain :BlacklistedPhraseLowercase ;
+                    
+                    rdfs:range xsd:string .
+
+
+
+###  http://insights.gravity.com/2010/9/universe#confidenceScore
+
+:confidenceScore rdf:type owl:DatatypeProperty ,
+                          owl:FunctionalProperty ;
+                 
+                 rdfs:comment "How confident are we that a particular item has successfully rolled up to a particular Interest?" ;
+                 
+                 rdfs:domain :InterestScoredRollup ;
+                 
+                 rdfs:range xsd:float .
+
+
+
+###  http://insights.gravity.com/2010/9/universe#doNotGraph
+
+:doNotGraph rdf:type owl:DatatypeProperty ;
+            
+            rdfs:comment "Effectively indicates that a node should be removed from the ontology, even if it lives in the source dataset." ;
+            
+            rdfs:domain :Node ;
+            
+            rdfs:range xsd:boolean .
+
+
+
+###  http://insights.gravity.com/2010/9/universe#doNotShow
+
+:doNotShow rdf:type owl:DatatypeProperty ;
+           
+           rdfs:comment """This node is unsuitable for showing to users, though fine for graphing (contrast with doNotGraph).
+
+For example, the topic FDR is quoted in many political articles and our system correctly matches the references and rolls up to politics. Generally, however, modern articles are not about FDR, so it is ineffective to show him as a major topic in our Analytics site.""" ;
+           
+           rdfs:domain :Node ;
+           
+           rdfs:range xsd:boolean .
+
+
+
+###  http://insights.gravity.com/2010/9/universe#extractedFromDomain
+
+:extractedFromDomain rdf:type owl:DatatypeProperty ;
+                     
+                     rdfs:comment "This should be the two top level portions of the domain, e.g. \"buzznet.com\" as opposed to \".com\" and \"blah.buzznet.com\" *unless* the subdomain is useful for disambiguation."^^xsd:string ;
+                     
+                     rdfs:domain :Tag ;
+                     
+                     rdfs:range xsd:string .
+
+
+
+###  http://insights.gravity.com/2010/9/universe#glossarySource
+
+:glossarySource rdf:type owl:DatatypeProperty ;
+                
+                rdfs:comment "What glossary did the GlossaryTerm come from?" .
+
+
+
+###  http://insights.gravity.com/2010/9/universe#googleSearchCnt
+
+:googleSearchCnt rdf:type owl:DatatypeProperty ;
+                 
+                 rdfs:domain :Node ;
+                 
+                 rdfs:range xsd:long .
+
+
+
+###  http://insights.gravity.com/2010/9/universe#isRequiredInText
+
+:isRequiredInText rdf:type owl:DatatypeProperty ;
+                  
+                  rdfs:comment "Should the ContextualPhrase be required in the source text to match its indicatedNode?" ;
+                  
+                  rdfs:domain :ContextualPhrase ;
+                  
+                  rdfs:range xsd:boolean ;
+                  
+                  rdfs:subPropertyOf owl:topDataProperty .
+
+
+
+###  http://insights.gravity.com/2010/9/universe#level
+
+:level rdf:type owl:DatatypeProperty ,
+                owl:FunctionalProperty ;
+       
+       rdfs:comment "The subject's level in a hierarchy.  This is redundant data that is used to make parsing easier, because the level can already be inferred by a class hierarchy." ;
+       
+       rdfs:domain :Interest ;
+       
+       rdfs:range xsd:int .
+
+
+
+###  http://insights.gravity.com/2010/9/universe#phrase
+
+:phrase rdf:type owl:DatatypeProperty ;
+        
+        rdfs:comment "Deprecated, use ngram instead." ;
+        
+        rdfs:domain :ContextualPhrase .
+
+
+
+###  http://insights.gravity.com/2010/9/universe#rename
+
+:rename rdf:type owl:DatatypeProperty ,
+                 owl:FunctionalProperty ;
+        
+        rdfs:comment "If encountered, a rename should override the rdf:label of a subject.  This is to annotate external datasets." ;
+        
+        rdfs:domain :Node ;
+        
+        rdfs:range xsd:string .
+
+
+
+###  http://insights.gravity.com/2010/9/universe#shouldApplyTo
+
+:shouldApplyTo rdf:type owl:DatatypeProperty ;
+               
+               rdfs:comment "In what contexts does the annotation apply? It could apply to all articles of an entire siteGuid, a wildcard subsection of a single web domain, or just a single web page. Empty values indicate the annotation should apply in all contexts everywhere." ;
+               
+               rdfs:domain :Annotation ;
+               
+               rdfs:range xsd:string .
+
+
+
+###  http://insights.gravity.com/2010/9/universe#shouldBeRequiredInText
+
+:shouldBeRequiredInText rdf:type owl:DatatypeProperty ,
+                                 owl:FunctionalProperty ;
+                        
+                        rdfs:domain :AnnotatedPhrase ;
+                        
+                        rdfs:range xsd:boolean ;
+                        
+                        rdfs:subPropertyOf owl:topDataProperty .
+
+
+
+###  http://insights.gravity.com/2010/9/universe#shouldHideMatched
+
+:shouldHideMatched rdf:type owl:DatatypeProperty ,
+                            owl:FunctionalProperty ;
+                   
+                   rdfs:comment "The matched node should be hidden from the front-end." ;
+                   
+                   rdfs:domain :Node ;
+                   
+                   rdfs:range xsd:boolean ;
+                   
+                   rdfs:subPropertyOf owl:topDataProperty .
+
+
+
+###  http://insights.gravity.com/2010/9/universe#shouldMatchUserInput
+
+:shouldMatchUserInput rdf:type owl:DatatypeProperty ,
+                               owl:FunctionalProperty ;
+                      
+                      rdfs:domain :AnnotatedPhrase ;
+                      
+                      rdfs:range xsd:string .
+
+
+
+###  http://insights.gravity.com/2010/9/universe#shouldRename
+
+:shouldRename rdf:type owl:DatatypeProperty ,
+                       owl:FunctionalProperty ;
+              
+              rdfs:domain :Node ;
+              
+              rdfs:range xsd:string ;
+              
+              rdfs:subPropertyOf owl:topDataProperty .
+
+
+
+###  http://insights.gravity.com/2010/9/universe#siteGuid
+
+:siteGuid rdf:type owl:DatatypeProperty ;
+          
+          rdfs:range xsd:string .
+
+
+
+###  http://insights.gravity.com/2010/9/universe#viewCount
+
+:viewCount rdf:type owl:DatatypeProperty ;
+           
+           rdfs:comment "Number of views that a node has received.  DEPRECATED." ;
+           
+           rdfs:domain :Node ;
+           
+           rdfs:range xsd:int .
+
+
+
+###  http://insights.gravity.com/2010/9/universe#viewCountAndDayOfYear
+
+:viewCountAndDayOfYear rdf:type owl:DatatypeProperty ;
+                       
+                       rdfs:domain :Node ;
+                       
+                       rdfs:subPropertyOf owl:topDataProperty .
+
+
+
+
+
+#################################################################
+#
+#    Classes
+#
+#################################################################
+
+
+###  http://insights.gravity.com/2010/04/universe#ColloquialGram
+
+<http://insights.gravity.com/2010/04/universe#ColloquialGram> rdf:type owl:Class ;
+                                                              
+                                                              owl:equivalentClass :ColloquialPhrase ;
+                                                              
+                                                              rdfs:subClassOf :SpecializedPhrase ;
+                                                              
+                                                              owl:disjointWith :Topic ;
+                                                              
+                                                              rdfs:comment "An ngram that represents an unusual piece of text that indicates a topic. " .
+
+
+
+###  http://insights.gravity.com/2010/9/universe#AnnotatedPhrase
+
+:AnnotatedPhrase rdf:type owl:Class ;
+                 
+                 rdfs:subClassOf :SpecializedPhrase ;
+                 
+                 rdfs:comment "A highlighted phrase in an annotation. Contains text and starts at an index i on the page it was found on." .
+
+
+
+###  http://insights.gravity.com/2010/9/universe#Annotation
+
+:Annotation rdf:type owl:Class ;
+            
+            rdfs:subClassOf :Node ;
+            
+            rdfs:comment """User annotation of a phrase on a web page. The annotation can indicate that 
+
+1. The Gravity Phrase Extractor missed a relevant phrase & topic
+2. The Gravity Phrase Extractor Found a phrase but matched it to the wrong topic
+3. A topic name x should be renamed to y.""" .
+
+
+
+###  http://insights.gravity.com/2010/9/universe#BlacklistedPhraseLowercase
+
+:BlacklistedPhraseLowercase rdf:type owl:Class ;
+                            
+                            rdfs:subClassOf :GravityThing ;
+                            
+                            rdfs:comment "A phrase that is checked against items in the ontology: if they substring match this phrase, they are gone.  Typically used for very bad words, or 'infrastructure'-type words, like \"list of\"." .
+
+
+
+###  http://insights.gravity.com/2010/9/universe#ColloquialPhrase
+
+:ColloquialPhrase rdf:type owl:Class ;
+                  
+                  rdfs:subClassOf :SpecializedPhrase ;
+                  
+                  rdfs:comment "Deprecated: Use ColloquialGram." .
+
+
+
+###  http://insights.gravity.com/2010/9/universe#ContextualPhrase
+
+:ContextualPhrase rdf:type owl:Class ;
+                  
+                  rdfs:subClassOf :SpecializedPhrase ;
+                  
+                  rdfs:comment "A phrase that, when discovered in context with a topic, increases the weight of that topic." .
+
+
+
+###  http://insights.gravity.com/2010/9/universe#DbPediaClass
+
+:DbPediaClass rdf:type owl:Class ;
+              
+              rdfs:subClassOf :Node ;
+              
+              rdfs:comment "Indicates a DbPediaClass, where the class of the object is in the Dbpedia Ontology." .
+
+
+
+###  http://insights.gravity.com/2010/9/universe#Glossary
+
+:Glossary rdf:type owl:Class ;
+          
+          rdfs:subClassOf :GravityThing ;
+          
+          rdfs:comment "A repository of terms that we have pulled from to get Glossary Terms." .
+
+
+
+###  http://insights.gravity.com/2010/9/universe#GlossaryTerm
+
+:GlossaryTerm rdf:type owl:Class ;
+              
+              rdfs:subClassOf :SpecializedPhrase ;
+              
+              rdfs:comment "A phrase that was gotten from a glossary that indicates a topic." .
+
+
+
+###  http://insights.gravity.com/2010/9/universe#GravityThing
+
+:GravityThing rdf:type owl:Class ;
+              
+              rdfs:comment "Top level class for Gravity.  Mainly to attach very generic properites." .
+
+
+
+###  http://insights.gravity.com/2010/9/universe#Interest
+
+:Interest rdf:type owl:Class ;
+          
+          rdfs:subClassOf <http://www.w3.org/2004/02/skos/core#Concept> ;
+          
+          owl:disjointWith :Topic ;
+          
+          rdfs:comment "An Interest is something that people can be Interested in.  Think of it as a member of a curated subset of possible Concepts.  This comes out of a need to show people things that make sense as stuff they might be interested in." .
+
+
+
+###  http://insights.gravity.com/2010/9/universe#InterestScoredRollup
+
+:InterestScoredRollup rdf:type owl:Class ;
+                      
+                      rdfs:subClassOf :GravityThing ;
+                      
+                      rdfs:comment "This represents an item (usually a wikipedia Concept or a Dbpedia Class) that rolls up to an Interest with a confidence score."^^xsd:string .
+
+
+
+###  http://insights.gravity.com/2010/9/universe#Node
+
+:Node rdf:type owl:Class ;
+      
+      rdfs:subClassOf :GravityThing ;
+      
+      rdfs:comment "A top level class for anything that becomes a node in the ontology, where the ontology is manifested as a graph." .
+
+
+
+###  http://insights.gravity.com/2010/9/universe#ProposedConceptLink
+
+:ProposedConceptLink rdf:type owl:Class ;
+                     
+                     rdfs:subClassOf :Node ;
+                     
+                     rdfs:comment """A link between Concepts. The relationship was proposed at some time in some context, but isn't necessarily definitive.
+
+This is linked-list-like to emulate the original sequence from a starting Node, e.g. from broad to broadest.""" .
+
+
+
+###  http://insights.gravity.com/2010/9/universe#Redirect
+
+:Redirect rdf:type owl:Class ;
+          
+          rdfs:subClassOf :Node ;
+          
+          owl:disjointWith :SpecializedPhrase ;
+          
+          rdfs:comment "This is a specialized type of node that, if matched in the ontology, points to another node." .
+
+
+
+###  http://insights.gravity.com/2010/9/universe#SpecializedPhrase
+
+:SpecializedPhrase rdf:type owl:Class ;
+                   
+                   rdfs:subClassOf :Node ;
+                   
+                   rdfs:comment "A super class for phrases that are used to annotate the ontology in different ways.  Glossary terms, Colloquial Grams, etc.  These tend to share properties, hence the existence of this class." .
+
+
+
+###  http://insights.gravity.com/2010/9/universe#Tag
+
+:Tag rdf:type owl:Class ;
+     
+     rdfs:subClassOf :SpecializedPhrase ;
+     
+     rdfs:comment "A Tag is usually gotten from a website where content is tagged.  Can be used as site specific annotations." .
+
+
+
+###  http://insights.gravity.com/2010/9/universe#Topic
+
+:Topic rdf:type owl:Class ;
+       
+       rdfs:subClassOf :Node ;
+       
+       owl:disjointWith <http://www.w3.org/2004/02/skos/core#Concept> ;
+       
+       rdfs:comment "A node that indicates something very specific: such as Inigo Montoya.  Or Cat.  Or Ball." .
+
+
+
+###  http://insights.gravity.com/2010/9/universe#User
+
+:User rdf:type owl:Class ;
+      
+      rdfs:subClassOf :GravityThing ;
+      
+      rdfs:comment "User who annotated text via the Highlighter or Topic Manager. May come from various sources, identified my email address, Insights guid, or external network id, captured as a Gravity session id (sid) in this user's URI." .
+
+
+
+###  http://insights.gravity.com/2010/9/universe#WebLink
+
+:WebLink rdf:type owl:Class ;
+         
+         rdfs:subClassOf :GravityThing .
+
+
+
+###  http://www.w3.org/2004/02/skos/core#Concept
+
+<http://www.w3.org/2004/02/skos/core#Concept> rdf:type owl:Class ;
+                                              
+                                              rdfs:subClassOf :Node ;
+                                              
+                                              rdfs:comment "A concept tends to be a unit of categorization, with a HAS-A relationship to Topics.  Cardinality is such that a Topic can have multiple Concepts, and a Concept can have multiple Topics." .
+
+
+
+
+
+#################################################################
+#
+#    Individuals
+#
+#################################################################
+
+
+###  http://insights.gravity.com/2010/9/universe#blacklistedPhrase1
+
+:blacklistedPhrase1 rdf:type :BlacklistedPhraseLowercase ,
+                             owl:NamedIndividual ;
+                    
+                    :blacklistLowercase "blah blah blah"^^xsd:string .
+
+
+
+###  http://insights.gravity.com/2010/9/universe#exampleFinancialTermsGlossary
+
+:exampleFinancialTermsGlossary rdf:type :Glossary ,
+                                        owl:NamedIndividual .
+
+
+
+###  http://insights.gravity.com/2010/9/universe#exampleTopic1
+
+:exampleTopic1 rdf:type owl:NamedIndividual .
+
+
+
+###  http://insights.gravity.com/2010/9/universe#hiddenTopic
+
+:hiddenTopic rdf:type owl:NamedIndividual .
+
+
+
+###  http://insights.gravity.com/2010/9/universe#neverMatch
+
+:neverMatch rdf:type :Node ,
+                     owl:NamedIndividual ;
+            
+            rdfs:label "Never Match" ;
+            
+            rdfs:comment "Marks when a match should never be matched, because it's offensive, inaccurate, not useful, etc." .
+
+
+
+###  http://insights.gravity.com/2010/9/universe#noSuggestion
+
+:noSuggestion rdf:type :Node ,
+                       owl:NamedIndividual ;
+              
+              rdfs:label "No Suggestion" ;
+              
+              rdfs:comment "Marks when a node incorrectly matched, but the user suggested no correction in particular." .
+
+
+
+###  http://insights.gravity.com/annotation/2001/10/26/16apm5/3150988a-92fa-11e0-8ee4-c8bcc89c4f2f
+
+<http://insights.gravity.com/annotation/2001/10/26/16apm5/3150988a-92fa-11e0-8ee4-c8bcc89c4f2f> rdf:type :Annotation ,
+                                                                                                         owl:NamedIndividual ;
+                                                                                                
+                                                                                                rdfs:label "Example Annotation of an Inaccurate Match" ;
+                                                                                                
+                                                                                                :shouldApplyTo "01234567deadbeef"^^xsd:string ;
+                                                                                                
+                                                                                                :siteGuid "01234567deadbeef"^^xsd:string ;
+                                                                                                
+                                                                                                :atTime "2001-10-26T21:32:52"^^xsd:dateTime ;
+                                                                                                
+                                                                                                rdfs:comment "This user annotated a web page using the Gravity highlighter. He selected a more relevant substring than the Phrase Extractor selected. He indicates the phrase shouldn't match topic1, but topic2. This correction applies to all sites with the guid 01234567deadbeef." ;
+                                                                                                
+                                                                                                :matchesTopic :exampleTopic1 ;
+                                                                                                
+                                                                                                :shouldMatchTopic :hiddenTopic ;
+                                                                                                
+                                                                                                :machineSelectedPhrase <http://insights.gravity.com/annotation/phrase/2011/06/01/d6e885/71dfb7b5-92fd-11e0-b2ad-c8bcc89c4f2f> ;
+                                                                                                
+                                                                                                :userSelectedPhrase <http://insights.gravity.com/annotation/phrase/2011/06/01/d6e885/817147f8-92fd-11e0-ab08-c8bcc89c4f2f> ;
+                                                                                                
+                                                                                                :byUser <http://insights.gravity.com/annotation/sid/twid:12345678> ;
+                                                                                                
+                                                                                                :url <http://mysourcesite.org/thebestpageintheuniverse/c.cgi?u=macs_cant> .
+
+
+
+###  http://insights.gravity.com/annotation/2001/10/26/16apm5/8e964eeb-92fa-11e0-b19f-c8bcc89c4f2f
+
+<http://insights.gravity.com/annotation/2001/10/26/16apm5/8e964eeb-92fa-11e0-b19f-c8bcc89c4f2f> rdf:type :Annotation ,
+                                                                                                         owl:NamedIndividual ;
+                                                                                                
+                                                                                                rdfs:label "Example Annotation of a Missed Topic" ;
+                                                                                                
+                                                                                                :siteGuid "01234567deadbeef"^^xsd:string ;
+                                                                                                
+                                                                                                :atTime "2001-10-26T21:32:52+02:00"^^xsd:dateTime ;
+                                                                                                
+                                                                                                rdfs:comment "This user annotated a web page using the Gravity highlighter. He selected a phrase that the Phrase Extractor didn't. He indicates the phrase should match topic1." ;
+                                                                                                
+                                                                                                :shouldMatchTopic :exampleTopic1 ;
+                                                                                                
+                                                                                                :annotatedPhrase <http://insights.gravity.com/annotation/phrase/2011/06/01/d6e885/817147f8-92fd-11e0-ab08-c8bcc89c4f2f> ;
+                                                                                                
+                                                                                                :byUser <http://insights.gravity.com/annotation/sid/twid:12345678> ;
+                                                                                                
+                                                                                                :url <http://mysourcesite.org/thebestpageintheuniverse/c.cgi?u=macs_cant> .
+
+
+
+###  http://insights.gravity.com/annotation/2001/10/26/16apm5/fb454734-84a5-47d3-b742-52ccf8ef01be
+
+<http://insights.gravity.com/annotation/2001/10/26/16apm5/fb454734-84a5-47d3-b742-52ccf8ef01be> rdf:type :Annotation ,
+                                                                                                         owl:NamedIndividual ;
+                                                                                                
+                                                                                                rdfs:label "Example Annotation of a Rename" ;
+                                                                                                
+                                                                                                :shouldApplyTo ""^^xsd:string ;
+                                                                                                
+                                                                                                :siteGuid "01234567deadbeef"^^xsd:string ;
+                                                                                                
+                                                                                                :atTime "2001-10-26T21:32:52-08:00"^^xsd:dateTime ;
+                                                                                                
+                                                                                                :shouldRename "Baby Cats"^^xsd:string ;
+                                                                                                
+                                                                                                rdfs:comment "This user annotated a topic on the Topic Manager (you can tell because it isn't associated with a machine-extracted phrase or specific web page). He says topic1 should really be labeled \"Baby Cats.\" This correction applies to all sites." ;
+                                                                                                
+                                                                                                :byUser <http://insights.gravity.com/annotation/sid/twid:12345678> ;
+                                                                                                
+                                                                                                :matchesTopic <http://mysourcesite.org/resources/exampleTopic1> .
+
+
+
+###  http://insights.gravity.com/annotation/2001/10/26/d6e885/3150988a-92fa-11e0-8ee4-c8bcc89c4f2a
+
+<http://insights.gravity.com/annotation/2001/10/26/d6e885/3150988a-92fa-11e0-8ee4-c8bcc89c4f2a> rdf:type :Annotation ,
+                                                                                                         owl:NamedIndividual ;
+                                                                                                
+                                                                                                rdfs:label "Example Annotation of Hiding a Topic" ;
+                                                                                                
+                                                                                                :shouldApplyTo ""^^xsd:string ;
+                                                                                                
+                                                                                                :siteGuid "01234567deadbeef"^^xsd:string ;
+                                                                                                
+                                                                                                :atTime "2011-06-26T21:32:52+02:00"^^xsd:dateTime ;
+                                                                                                
+                                                                                                :shouldHideMatched "true"^^xsd:boolean ;
+                                                                                                
+                                                                                                rdfs:comment "This user annotated a topic via the Insights Topic Manager for partner 01234567deadbeef. The Topic Manager listed FDR, but that shouldn't be displayed, although the topic is itself legitimate." ;
+                                                                                                
+                                                                                                :byUser <http://insights.gravity.com/annotation/sid/twid:12345678> ;
+                                                                                                
+                                                                                                :matchesTopic <http://insights.gravity.com/resource/Franklin_D._Roosevelt> .
+
+
+
+###  http://insights.gravity.com/annotation/2001/10/26/d6e885/3150988a-92fa-11e0-8ee4-c8bcc89c4f2f
+
+<http://insights.gravity.com/annotation/2001/10/26/d6e885/3150988a-92fa-11e0-8ee4-c8bcc89c4f2f> rdf:type :Annotation ,
+                                                                                                         owl:NamedIndividual ;
+                                                                                                
+                                                                                                rdfs:label "Example Annotation of a Topic Blacklist (Ban Hammer)" ;
+                                                                                                
+                                                                                                :shouldApplyTo ""^^xsd:string ;
+                                                                                                
+                                                                                                :siteGuid "01234567deadbeef"^^xsd:string ;
+                                                                                                
+                                                                                                :atTime "2001-10-26T21:32:52-08:00"^^xsd:dateTime ;
+                                                                                                
+                                                                                                :annotationReason "Is Ambiguous"^^xsd:string ;
+                                                                                                
+                                                                                                rdfs:comment "This user annotated a topic via the Insights Topic Manager for partner 01234567deadbeef. The Topic Manager listed topic1 but that shouldn't be used in graphing, because he believes the topic is ambiguous." ;
+                                                                                                
+                                                                                                :matchesTopic :exampleTopic1 ;
+                                                                                                
+                                                                                                :shouldMatchTopic :neverMatch ;
+                                                                                                
+                                                                                                :byUser <http://insights.gravity.com/annotation/sid/twid:12345678> .
+
+
+
+###  http://insights.gravity.com/annotation/2011/06/28/16apm5/3150988a-92fa-11e0-8ee4-c8bcc89c4f2f
+
+<http://insights.gravity.com/annotation/2011/06/28/16apm5/3150988a-92fa-11e0-8ee4-c8bcc89c4f2f> rdf:type :Annotation ,
+                                                                                                         owl:NamedIndividual ;
+                                                                                                
+                                                                                                rdfs:label "Example Annotation of a Bad Concept Link" ;
+                                                                                                
+                                                                                                :atTime "2011-06-26T21:32:52+02:00"^^xsd:dateTime ;
+                                                                                                
+                                                                                                rdfs:comment "This user annotated a web page using the Concepts annotator (via the Chrome extension). He marked a bad link (the final link) in a chain of broader concepts. He doesn't specify what the real link should be instead (what a dick)." ;
+                                                                                                
+                                                                                                :matchesTopic :exampleTopic1 ;
+                                                                                                
+                                                                                                :shouldMatchTopic :noSuggestion ;
+                                                                                                
+                                                                                                :broaderProposedConcept <http://insights.gravity.com/annotation/conceptlink/5b74789d-2303-4fb3-adb7-246ddd7f9067> ;
+                                                                                                
+                                                                                                :byUser <http://insights.gravity.com/annotation/sid/twid:12345678> ;
+                                                                                                
+                                                                                                :url <http://mysourcesite.org/thebestpageintheuniverse/c.cgi?u=macs_cant> .
+
+
+
+###  http://insights.gravity.com/annotation/conceptlink/5b74789d-2303-4fb3-adb7-246ddd7f9067
+
+<http://insights.gravity.com/annotation/conceptlink/5b74789d-2303-4fb3-adb7-246ddd7f9067> rdf:type :ProposedConceptLink ,
+                                                                                                   owl:NamedIndividual ;
+                                                                                          
+                                                                                          rdfs:label "Example Proposed Concept Link #1" ;
+                                                                                          
+                                                                                          rdfs:comment "This link matches a concept and points to a broader one." ;
+                                                                                          
+                                                                                          :broaderProposedConcept <http://insights.gravity.com/annotation/conceptlink/5b74789d-2303-4fb3-adb7-246ddd7f9068> ;
+                                                                                          
+                                                                                          :matchesConcept <http://mysourcesite.org/resources/exampleConcept> .
+
+
+
+###  http://insights.gravity.com/annotation/conceptlink/5b74789d-2303-4fb3-adb7-246ddd7f9068
+
+<http://insights.gravity.com/annotation/conceptlink/5b74789d-2303-4fb3-adb7-246ddd7f9068> rdf:type :ProposedConceptLink ,
+                                                                                                   owl:NamedIndividual ;
+                                                                                          
+                                                                                          rdfs:label "Example Proposed Concept Link #2" ;
+                                                                                          
+                                                                                          rdfs:comment "This is a bad link because it matches a concept, but also says it should match something else." ;
+                                                                                          
+                                                                                          :shouldMatchConcept :noSuggestion ;
+                                                                                          
+                                                                                          :matchesConcept <http://mysourcesite.org/exampleAnnotatedHigherConcept> .
+
+
+
+###  http://insights.gravity.com/annotation/phrase/2011/06/01/d6e885/71dfb7b5-92fd-11e0-b2ad-c8bcc89c4f2f
+
+<http://insights.gravity.com/annotation/phrase/2011/06/01/d6e885/71dfb7b5-92fd-11e0-b2ad-c8bcc89c4f2f> rdf:type :AnnotatedPhrase ,
+                                                                                                                owl:NamedIndividual ;
+                                                                                                       
+                                                                                                       rdfs:label "Example Machine Selected Phrase" ;
+                                                                                                       
+                                                                                                       <http://insights.gravity.com/2010/04/universe#ngram> "'t wear fedoras"^^xsd:string ;
+                                                                                                       
+                                                                                                       :atIndex "1009"^^xsd:positiveInteger ;
+                                                                                                       
+                                                                                                       rdfs:comment "Machine chunked the phrase \"'t wear fedoras\" starting at index 1009 on the source text." .
+
+
+
+###  http://insights.gravity.com/annotation/phrase/2011/06/01/d6e885/817147f8-92fd-11e0-ab08-c8bcc89c4f2f
+
+<http://insights.gravity.com/annotation/phrase/2011/06/01/d6e885/817147f8-92fd-11e0-ab08-c8bcc89c4f2f> rdf:type :AnnotatedPhrase ,
+                                                                                                                owl:NamedIndividual ;
+                                                                                                       
+                                                                                                       rdfs:label "Example User Selected Phrase" ;
+                                                                                                       
+                                                                                                       :atIndex "1024"^^xsd:positiveInteger ;
+                                                                                                       
+                                                                                                       <http://insights.gravity.com/2010/04/universe#ngram> "fedoras"^^xsd:string ;
+                                                                                                       
+                                                                                                       rdfs:comment "User selected the phrase \"fedoras\" starting at index 1024 in the source text." .
+
+
+
+###  http://insights.gravity.com/annotation/sid/twid:12345678
+
+<http://insights.gravity.com/annotation/sid/twid:12345678> rdf:type :User ,
+                                                                    owl:NamedIndividual ;
+                                                           
+                                                           rdfs:label "Example Annotation User #1" .
+
+
+
+###  http://insights.gravity.com/resource/Franklin_D._Roosevelt
+
+<http://insights.gravity.com/resource/Franklin_D._Roosevelt> rdf:type :Topic ,
+                                                                      owl:NamedIndividual ;
+                                                             
+                                                             rdfs:label "Franklin D. Roosevelt" ;
+                                                             
+                                                             :doNotGraph "true"^^xsd:boolean .
+
+
+
+###  http://mysourcesite.org/exampleAnnotatedHigherConcept
+
+<http://mysourcesite.org/exampleAnnotatedHigherConcept> rdf:type owl:NamedIndividual ,
+                                                                 <http://www.w3.org/2004/02/skos/core#Concept> .
+
+
+
+###  http://mysourcesite.org/exampleAnnotatedLowerConcept
+
+<http://mysourcesite.org/exampleAnnotatedLowerConcept> rdf:type owl:NamedIndividual ,
+                                                                <http://www.w3.org/2004/02/skos/core#Concept> ;
+                                                       
+                                                       rdfs:comment "This is an example of a concept rolling up to another concept with annotation." ;
+                                                       
+                                                       :broaderAnnotatedConcept <http://mysourcesite.org/exampleAnnotatedHigherConcept> .
+
+
+
+###  http://mysourcesite.org/exampleScoredRollup
+
+<http://mysourcesite.org/exampleScoredRollup> rdf:type :InterestScoredRollup ,
+                                                       owl:NamedIndividual ;
+                                              
+                                              :confidenceScore "0.4"^^xsd:float ;
+                                              
+                                              :rollsupFrom <http://mysourcesite.org/resources/exampleConcept> ;
+                                              
+                                              :pointsToInterest <http://mysourcesite.org/resources/exampleHigherInterest> .
+
+
+
+###  http://mysourcesite.org/resources/exampleColloquial1
+
+<http://mysourcesite.org/resources/exampleColloquial1> rdf:type <http://insights.gravity.com/2010/04/universe#ColloquialGram> ,
+                                                                owl:NamedIndividual ;
+                                                       
+                                                       <http://insights.gravity.com/2010/04/universe#weight> "5"^^xsd:float ;
+                                                       
+                                                       <http://insights.gravity.com/2010/04/universe#ngram> "How now, brown cow?"^^xsd:string ;
+                                                       
+                                                       <http://insights.gravity.com/2010/04/universe#indicatedNode> <http://mysourcesite.org/resources/exampleTopic1> .
+
+
+
+###  http://mysourcesite.org/resources/exampleColloquial2
+
+<http://mysourcesite.org/resources/exampleColloquial2> rdf:type <http://insights.gravity.com/2010/04/universe#ColloquialGram> ,
+                                                                owl:NamedIndividual .
+
+
+
+###  http://mysourcesite.org/resources/exampleConcept
+
+<http://mysourcesite.org/resources/exampleConcept> rdf:type owl:NamedIndividual ,
+                                                            <http://www.w3.org/2004/02/skos/core#Concept> ;
+                                                   
+                                                   <http://www.w3.org/2004/02/skos/core#broader> <http://mysourcesite.org/resources/exampleHigherConcept> .
+
+
+
+###  http://mysourcesite.org/resources/exampleContextual1
+
+<http://mysourcesite.org/resources/exampleContextual1> rdf:type :ContextualPhrase ,
+                                                                owl:NamedIndividual ;
+                                                       
+                                                       :isRequiredInText "true"^^xsd:boolean ;
+                                                       
+                                                       <http://insights.gravity.com/2010/04/universe#indicatedNode> <http://mysourcesite.org/resources/exampleTopic1> .
+
+
+
+###  http://mysourcesite.org/resources/exampleDoubleRedirect
+
+<http://mysourcesite.org/resources/exampleDoubleRedirect> rdf:type :Redirect ,
+                                                                   owl:NamedIndividual ;
+                                                          
+                                                          :redirectsTo <http://mysourcesite.org/resources/exampleRedirect> .
+
+
+
+###  http://mysourcesite.org/resources/exampleHigherConcept
+
+<http://mysourcesite.org/resources/exampleHigherConcept> rdf:type owl:NamedIndividual ,
+                                                                  <http://www.w3.org/2004/02/skos/core#Concept> ;
+                                                         
+                                                         :googleSearchCnt "3634234"^^xsd:long ;
+                                                         
+                                                         <http://www.w3.org/2004/02/skos/core#broader> <http://mysourcesite.org/resources/exampleHighestConcept> .
+
+
+
+###  http://mysourcesite.org/resources/exampleHigherInterest
+
+<http://mysourcesite.org/resources/exampleHigherInterest> rdf:type :Interest ,
+                                                                   owl:NamedIndividual ;
+                                                          
+                                                          :level "2"^^xsd:int ;
+                                                          
+                                                          rdfs:comment """An Interest is a specialization of a Concept.  It is basically a Concept that has been attached to an acyclic directed graph of Interests that constitute a taxonomy under which things can be grouped. 
+
+Concepts, on the other hand, are members of a cyclic directed graph, and therefore do not have \"levels\" or a \"top Concept\".""" .
+
+
+
+###  http://mysourcesite.org/resources/exampleHigherLevel1
+
+<http://mysourcesite.org/resources/exampleHigherLevel1> rdf:type :Tag ,
+                                                                 owl:NamedIndividual ;
+                                                        
+                                                        :extractedFromDomain "buzznet.com"^^xsd:string ;
+                                                        
+                                                        <http://insights.gravity.com/2010/04/universe#ngram> "example tag gram"^^xsd:string ;
+                                                        
+                                                        :higherLevelTag <http://mysourcesite.org/resources/exampleHighestLevelTag1> ;
+                                                        
+                                                        <http://insights.gravity.com/2010/04/universe#indicatedNode> <http://mysourcesite.org/resources/exampleTopic1> .
+
+
+
+###  http://mysourcesite.org/resources/exampleHigherLevelOtherPathTag1
+
+<http://mysourcesite.org/resources/exampleHigherLevelOtherPathTag1> rdf:type :Tag ,
+                                                                             owl:NamedIndividual ;
+                                                                    
+                                                                    :higherLevelTag <http://mysourcesite.org/resources/exampleHighestLevelOtherPath1> .
+
+
+
+###  http://mysourcesite.org/resources/exampleHighestConcept
+
+<http://mysourcesite.org/resources/exampleHighestConcept> rdf:type owl:NamedIndividual ,
+                                                                   <http://www.w3.org/2004/02/skos/core#Concept> .
+
+
+
+###  http://mysourcesite.org/resources/exampleHighestLevelOtherPath1
+
+<http://mysourcesite.org/resources/exampleHighestLevelOtherPath1> rdf:type :Tag ,
+                                                                           owl:NamedIndividual .
+
+
+
+###  http://mysourcesite.org/resources/exampleHighestLevelTag1
+
+<http://mysourcesite.org/resources/exampleHighestLevelTag1> rdf:type :Tag ,
+                                                                     owl:NamedIndividual .
+
+
+
+###  http://mysourcesite.org/resources/exampleInitialPublicOffering
+
+<http://mysourcesite.org/resources/exampleInitialPublicOffering> rdf:type :GlossaryTerm ,
+                                                                          owl:NamedIndividual ;
+                                                                 
+                                                                 <http://insights.gravity.com/2010/04/universe#ngram> "IPO"^^xsd:string ;
+                                                                 
+                                                                 :fromGlossary :exampleFinancialTermsGlossary ;
+                                                                 
+                                                                 <http://insights.gravity.com/2010/04/universe#indicatedNode> <http://mysourcesite.org/resources/exampleTopic1> .
+
+
+
+###  http://mysourcesite.org/resources/exampleInterest
+
+<http://mysourcesite.org/resources/exampleInterest> rdf:type :Interest ,
+                                                             owl:NamedIndividual ;
+                                                    
+                                                    rdfs:label "Cats" ;
+                                                    
+                                                    :level "2"^^xsd:int .
+
+
+
+###  http://mysourcesite.org/resources/exampleLowerLevelTag1
+
+<http://mysourcesite.org/resources/exampleLowerLevelTag1> rdf:type :Tag ,
+                                                                   owl:NamedIndividual ;
+                                                          
+                                                          :extractedFromDomain "buzznet.com"^^xsd:string ;
+                                                          
+                                                          <http://insights.gravity.com/2010/04/universe#ngram> "kittens are cute"^^xsd:string ;
+                                                          
+                                                          :higherLevelTag <http://mysourcesite.org/resources/exampleHigherLevel1> ,
+                                                                          <http://mysourcesite.org/resources/exampleHigherLevelOtherPathTag1> ;
+                                                          
+                                                          <http://insights.gravity.com/2010/04/universe#indicatedNode> <http://mysourcesite.org/resources/exampleTopicThatIsAClass> .
+
+
+
+###  http://mysourcesite.org/resources/exampleRedirect
+
+<http://mysourcesite.org/resources/exampleRedirect> rdf:type :Redirect ,
+                                                             owl:NamedIndividual ;
+                                                    
+                                                    rdfs:label "led zep" ;
+                                                    
+                                                    :redirectsTo <http://mysourcesite.org/resources/exampleTopic1> .
+
+
+
+###  http://mysourcesite.org/resources/exampleTopic1
+
+<http://mysourcesite.org/resources/exampleTopic1> rdf:type :Topic ,
+                                                           owl:NamedIndividual ;
+                                                  
+                                                  rdfs:label "Kittens" ;
+                                                  
+                                                  :alternateLabel "Cats"^^xsd:string .
+
+
+
+###  http://mysourcesite.org/resources/exampleTopicThatIsAClass
+
+<http://mysourcesite.org/resources/exampleTopicThatIsAClass> rdf:type :DbPediaClass ,
+                                                                      :Topic ,
+                                                                      owl:NamedIndividual .
+
+
+
+###  http://mysourcesite.org/resources/hiddenTopic
+
+<http://mysourcesite.org/resources/hiddenTopic> rdf:type :Topic ,
+                                                         owl:NamedIndividual ;
+                                                
+                                                rdfs:label "Brown Cow" ;
+                                                
+                                                :doNotShow "true"^^xsd:boolean .
+
+
+
+###  http://mysourcesite.org/thebestpageintheuniverse/c.cgi?u=macs_cant
+
+<http://mysourcesite.org/thebestpageintheuniverse/c.cgi?u=macs_cant> rdf:type :WebLink ,
+                                                                              owl:NamedIndividual ;
+                                                                     
+                                                                     rdfs:label "Example Web Link #1" .
+
+
+
+
+###  Generated by the OWL API (version 3.2.3.22702) http://owlapi.sourceforge.net
+

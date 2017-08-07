@@ -1,0 +1,234 @@
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix : <http://insights.gravity.com/2010/9/universe#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@base <http://insights.gravity.com/2010/9/universe> .
+
+<http://insights.gravity.com/2010/9/universe> rdf:type owl:Ontology .
+
+
+#################################################################
+#
+#    Object Properties
+#
+#################################################################
+
+
+###  http://insights.gravity.com/2010/9/universe#broaderInterest
+
+:broaderInterest rdf:type owl:ObjectProperty ;
+                 
+                 rdfs:subPropertyOf :broaderInterestTransitive .
+
+
+
+###  http://insights.gravity.com/2010/9/universe#broaderInterestTransitive
+
+:broaderInterestTransitive rdf:type owl:ObjectProperty ,
+                                    owl:TransitiveProperty ;
+                           
+                           rdfs:subPropertyOf :interestRelation ;
+                           
+                           owl:inverseOf :narrowerInterestTransitive .
+
+
+
+###  http://insights.gravity.com/2010/9/universe#dbpediaClass
+
+:dbpediaClass rdf:type owl:ObjectProperty ;
+              
+              rdfs:subPropertyOf :interestMapping ;
+              
+              rdfs:range owl:Thing .
+
+
+
+###  http://insights.gravity.com/2010/9/universe#indicatedNode
+
+:indicatedNode rdf:type owl:ObjectProperty ;
+               
+               rdfs:domain :ContextualPhrase ;
+               
+               rdfs:subPropertyOf owl:topObjectProperty .
+
+
+
+###  http://insights.gravity.com/2010/9/universe#interestMapping
+
+:interestMapping rdf:type owl:ObjectProperty ;
+                 
+                 rdfs:domain :Interest ;
+                 
+                 rdfs:subPropertyOf owl:topObjectProperty .
+
+
+
+###  http://insights.gravity.com/2010/9/universe#interestRelation
+
+:interestRelation rdf:type owl:ObjectProperty ;
+                  
+                  rdfs:range :Interest ;
+                  
+                  rdfs:domain :Interest ;
+                  
+                  rdfs:subPropertyOf owl:topObjectProperty .
+
+
+
+###  http://insights.gravity.com/2010/9/universe#narrowerInterest
+
+:narrowerInterest rdf:type owl:ObjectProperty ;
+                  
+                  owl:inverseOf :broaderInterest ;
+                  
+                  rdfs:subPropertyOf :narrowerInterestTransitive .
+
+
+
+###  http://insights.gravity.com/2010/9/universe#narrowerInterestTransitive
+
+:narrowerInterestTransitive rdf:type owl:ObjectProperty ,
+                                     owl:TransitiveProperty ;
+                            
+                            rdfs:subPropertyOf :interestRelation .
+
+
+
+###  http://insights.gravity.com/2010/9/universe#wikiCategory
+
+:wikiCategory rdf:type owl:ObjectProperty ;
+              
+              rdfs:subPropertyOf :interestMapping ;
+              
+              rdfs:range skos:Concept .
+
+
+
+###  http://www.w3.org/2002/07/owl#topObjectProperty
+
+owl:topObjectProperty rdf:type owl:ObjectProperty .
+
+
+
+
+
+#################################################################
+#
+#    Data properties
+#
+#################################################################
+
+
+###  http://insights.gravity.com/2010/9/universe#doNotShow
+
+:doNotShow rdf:type owl:DatatypeProperty ;
+           
+           rdfs:range xsd:boolean ;
+           
+           rdfs:subPropertyOf owl:topDataProperty .
+
+
+
+###  http://insights.gravity.com/2010/9/universe#isRequiredInText
+
+:isRequiredInText rdf:type owl:DatatypeProperty ;
+                  
+                  rdfs:domain :ContextualPhrase ;
+                  
+                  rdfs:range xsd:boolean ;
+                  
+                  rdfs:subPropertyOf owl:topDataProperty .
+
+
+
+###  http://insights.gravity.com/2010/9/universe#level
+
+:level rdf:type owl:DatatypeProperty ;
+       
+       rdfs:domain :Interest ;
+       
+       rdfs:range xsd:integer ;
+       
+       rdfs:subPropertyOf owl:topDataProperty .
+
+
+
+###  http://insights.gravity.com/2010/9/universe#phrase
+
+:phrase rdf:type owl:DatatypeProperty ;
+        
+        rdfs:domain :ContextualPhrase ;
+        
+        rdfs:range xsd:string ;
+        
+        rdfs:subPropertyOf owl:topDataProperty .
+
+
+
+###  http://insights.gravity.com/2010/9/universe#phraseCertainty
+
+:phraseCertainty rdf:type owl:DatatypeProperty ;
+                 
+                 rdfs:domain :ContextualPhrase ;
+                 
+                 rdfs:range xsd:float ;
+                 
+                 rdfs:subPropertyOf owl:topDataProperty .
+
+
+
+###  http://insights.gravity.com/2010/9/universe#rename
+
+:rename rdf:type owl:DatatypeProperty ;
+        
+        rdfs:subPropertyOf owl:topDataProperty .
+
+
+
+###  http://www.w3.org/2002/07/owl#topDataProperty
+
+owl:topDataProperty rdf:type owl:DatatypeProperty ;
+                    
+                    rdfs:domain :ContextualPhrase .
+
+
+
+
+
+#################################################################
+#
+#    Classes
+#
+#################################################################
+
+
+###  http://insights.gravity.com/2010/9/universe#ContextualPhrase
+
+:ContextualPhrase rdf:type owl:Class .
+
+
+
+###  http://insights.gravity.com/2010/9/universe#Interest
+
+:Interest rdf:type owl:Class .
+
+
+
+###  http://www.w3.org/2002/07/owl#Thing
+
+owl:Thing rdf:type owl:Class .
+
+
+
+###  http://www.w3.org/2004/02/skos/core#Concept
+
+skos:Concept rdf:type owl:Class .
+
+
+
+
+###  Generated by the OWL API (version 3.1.0.1602) http://owlapi.sourceforge.net
+

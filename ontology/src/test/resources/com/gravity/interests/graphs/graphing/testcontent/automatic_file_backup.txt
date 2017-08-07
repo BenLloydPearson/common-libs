@@ -1,0 +1,142 @@
+Once our file backup utility is running and our window is open we need to be able to use the start and stop buttons to control the activity of program.
+
+Here is the code for the start action. It ties into the [start] label in the Start button.
+
+    [start] 'startup the backup timer
+    #main.start "!disable"
+    #main.stop "!enable"
+    gosub [checkInitialFiles]
+    #main.statusLog "Starting backup"
+    #main.interval "!contents? interval"
+    timer interval * 1000, [checkFiles]
+    wait
+
+
+When the button is clicked we disable the Start button and enable the Stop button to show which operations are valid. We call [checkInitialFiles] which we haven't written yet (we'll get into that later). We show in the statusLog texteditor that we are starting the backup process. Then we get the contents of the interval textbox and start the timer. The reason we multiply the interval by 1000 is that the timer measures time in milliseconds so if we want 5 a second interval we need to give the timer a value of 5000. Finally we stop and wait for a timer tick or for user interaction.
+
+Once our timer is running we need to be able to stop it. Here is our stop handler:
+
+    [stop] 'stop the backup timer
+    timer 0
+    #main.start "!enable"
+    #main.stop "!disable"
+    #main.statusLog "Stopping backup"
+    wait
+
+
+This is real simple. First thing is to stop the timer with timer 0. Then we reverse the enabling of the Start and Stop buttons. Compare this to the way that [start] does it. Then we log to the statusLog texteditor that we are stopping. Finally we wait.
+
+The purpose of the [checkInitialFiles] subroutine is to create a description of the files we are interested in and the time and date they were last modified. Then each time the timer ticks after this we create a new description of these files. If the date and time changes on any of these files then it's time to make a new backup.
+
+Just for now let's just create an empty [checkInitialFiles] subroutine:
+
+    [checkInitialFiles] 'snapshot of filenames and timestamps
+    return
+
+
+The routine doesn't do anything yet, so we only have a RETURN statement.
+
+Now we'll create a [checkFiles] routine which will be called each time the timer ticks. For now the routine will not do much. We will write the full routine in a later section.
+
+    [checkFiles] 'are there new files
+    #main.statusLog "tick"
+    'temporarily disable the timer
+    timer 0
+    'perform the check here
+    'reenable the timer
+    timer interval * 1000, [checkFiles]
+    wait
+
+
+The first thing we do is log the word "tick" to the statusLog. This is for instructive purposes only and will be removed later. We do this so that we can see that the timer is working. After this we disable the timer. This might seem like a strange idea, but the reason we do it is because the next thing we do is check the files to see if they changed (we'll write this part later). If they change we don't want the timer to be running because if it takes a while to backup the files and the timer is still running then the timer events can build up. Once the file check and possible backup are finished we reenable the timer.
+
+The entire listing so far is posted below. Try running it. When you click Start it will begin logging its activity. Notice that the word tick gets logged every five seconds. Click the Stop button and change the interval to 1. Start it again and the logging will happen once per second.
+
+
+    dim info$(10,10)
+    setupPath$ = DefaultDir$+"\backupsetup.ini"
+
+    WindowWidth = 560
+    WindowHeight = 460
+    statictext #main, "Files to backup:", 5, 5, 94, 20
+    texteditor #main.listOfFiles, 5, 26, 530, 95
+    statictext #main, "Destination folder:", 5, 132, 107, 20
+    textbox #main.destination, 115, 127, 420, 25
+    statictext #main, "Backup interval in seconds:", 5, 157, 163, 20
+    textbox #main.interval, 170, 152, 100, 25
+    button #main.save,"Save",[save], UL, 495, 152, 42, 25
+    button #main.start,"Start",[start], UL, 5, 187, 75, 25
+    button #main.stop,"Stop",[stop], UL, 90, 187, 70, 25
+    statictext #main, "Backup status log", 5, 217, 106, 20
+    texteditor #main.statusLog, 5, 237, 530, 160
+    menu #main, "Edit"
+    open "Backup Utility" for window_nf as #main
+    #main.stop "!disable"
+    gosub [loadSetup]
+    wait
+
+    [loadSetup]
+    #main.listOfFiles "!cls";
+    if fileExists(setupPath$) then
+    open setupPath$ for input as #setup
+    while filename$ <> "end!"
+    line input #setup, filename$
+    if filename$ <> "end!" then
+    #main.listOfFiles filename$
+    end if
+    wend
+    line input #setup, destination$
+    #main.destination destination$
+    line input #setup, interval
+    #main.interval interval
+    close #setup
+    end if
+    return
+
+    [start] 'startup the backup timer
+    #main.start "!disable"
+    #main.stop "!enable"
+    #main.interval "!contents? interval"
+    gosub [checkInitialFiles]
+    #main.statusLog "Starting backup"
+    timer interval * 1000, [checkFiles]
+    wait
+
+    [stop] 'stop the backup timer
+    timer 0
+    #main.start "!enable"
+    #main.stop "!disable"
+    #main.statusLog "Stopping backup"
+    wait
+
+    [checkInitialFiles] 'snapshot of filenames and timestamps
+    return
+
+    [checkFiles] 'are there new files
+    #main.statusLog "tick"
+    'temporarily disable the timer
+    timer 0
+    'perform the check here
+    'reenable the timer
+    timer interval * 1000, [checkFiles]
+    wait
+
+    'return a true if the file in fullPath$ exists, else return false
+    function fileExists(fullPath$)
+    files pathOnly$(fullPath$), filenameOnly$(fullPath$), info$()
+    fileExists = val(info$(0, 0)) > 0
+    end function
+
+    'return just the directory path from a full file path
+    function pathOnly$(fullPath$)
+    pathOnly$ = fullPath$
+    while right$(pathOnly$, 1) <> "\" and pathOnly$ <> ""
+    pathOnly$ = left$(pathOnly$, len(pathOnly$)-1)
+    wend
+    end function
+
+    'return just the filename from a full file path
+    function filenameOnly$(fullPath$)
+    pathLength = len(pathOnly$(fullPath$))
+    filenameOnly$ = right$(fullPath$, len(fullPath$)-pathLength)
+    end function

@@ -1,0 +1,3619 @@
+{
+  "size": 10,
+  "clusters": {
+    "746762446122545152": {
+      "articles": [
+        {
+          "content_length": 2328,
+          "updated": "2016-06-25T18:04:22.914000+00:00",
+          "update_received": "2016-06-25T18:08:31.228388+00:00",
+          "crawled_ts": 1466878111228388000,
+          "content_hash": "mmh3-103779898221357434795479585888911770707",
+          "guid": "http://patch.com/california/marinadelrey/s/fsrpb/cal-state-system-saving-money-with-san-franciscos-company-energy-storage-technology?utm_source=article-mostrecent&utm_medium=rss&utm_term=schools&utm_campaign=recirc&utm_content=aol",
+          "id": "6AB_yz/1466878111228388000",
+          "snippet": "LONG BEACH, CA — The California State University system Wednesday announced that it would be installing a group of cutting-edge energy storage facilities that will reduce energy costs and provide critical support to the electric grid.",
+          "title": "Cal State System Saving Money with San Francisco's Company Energy-Storage Technology",
+          "media": {
+            "images": [
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://cdn20.patch.com/users/22880693/20160624/074151/styles/T800x600/public/article_images/co-frontsignwseal1.jpg",
+                "anchor_url": null,
+                "height": 600,
+                "credit": null,
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": "Link",
+                "title": null,
+                "caption": null,
+                "width": 800,
+                "provider_asset_id": null
+              },
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://cdn20.patch.com/users/22880693/20160624/074151/styles/T800x600/public/article_images/co-frontsignwseal1.jpg",
+                "anchor_url": null,
+                "height": 600,
+                "credit": null,
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": "OpenGraph",
+                "title": null,
+                "caption": null,
+                "width": 800,
+                "provider_asset_id": null
+              }
+            ]
+          },
+          "content": "LONG BEACH, CA — The California State University system Wednesday announced that it would be installing a group of cutting-edge energy storage facilities that will reduce energy costs and provide critical support to the electric grid. \nThe project, in conjunction with San Francisco-based Advanced Microgrid Solutions , will be implemented in multiple phases and represent the largest advanced electrical storage project at an educational institution in the nation. Company and CSU officials estimate that first phase of the project will reduce the CSU’s electric utility costs by more than $3.3 million and will store enough energy to power 2,000 homes. \n“This exciting partnership adds to many collaborative efforts implemented by the CSU to boost efficiency and cut costs,” said CSU Executive Vice Chancellor and Chief Financial Officer Steve Relyea. “By helping integrate more renewable energy onto the grid, this transformational system will support California’s environment and direct resources to support the academic mission of the CSU.” \nIn the initial phase of the project, AMS will oversee the design, installation and operation of a 1,000kW/6,000kWh energy storage system at CSU’s Long Beach campus. AMS will subsequently install two storage systems at the CSU Office of the Chancellor and the Dominguez Hills campus, for a total of 2,000kW/12,000kWh of energy storage. Additional CSU campuses will be able to enroll in the project through a standardized contract. \n“The CSU is setting the standard for sustainability among higher education institutions, both statewide and across the nation,” said Susan Kennedy, Chief Executive Officer of AMS. “We are proud to work with them and provide Southern California Edison with critical capacity during this time of emergency.” \nThe company will break ground at Cal State Long Beach this summer, and the system is expected to be completed by October. Construction at the chancellor’s office is expected to begin in early 2017 and be completed by mid- 2017. \nThe buildings use Tesla Powerpack commercial batteries to store energy during nonpeak hours, typically at night. During times of high demand, AMS’ analytics software shifts buildings from the electric grid to the AMS energy storage system, reducing grid congestion and easing the need to build additional plants. \n",
+          "relegence": {
+            "topic": {
+              "heat": 0,
+              "id": 746762446122545152,
+              "document_count": 1,
+              "created": "2016-06-25T17:50:16+00:00"
+            },
+            "duplicate": [
+              {
+                "type": "Partial",
+                "original_doc_id": 746762446122545152
+              }
+            ],
+            "categories": [
+              {
+                "name": "Finance",
+                "id": 142
+              },
+              {
+                "name": "Sci/Tech",
+                "id": 144
+              }
+            ],
+            "tags": [
+              {
+                "hits": [
+                  {
+                    "field": "Title",
+                    "length": 9,
+                    "offset": 0
+                  }
+                ],
+                "name": "California State University",
+                "node_types": [
+                  {
+                    "name": "Other",
+                    "id": 48
+                  },
+                  {
+                    "name": "school",
+                    "id": 84
+                  }
+                ],
+                "in_headline": true,
+                "freebase_mid": "m.0fnmz",
+                "score": 1,
+                "disambiguator": "University",
+                "type": "Entity",
+                "id": 3460263
+              },
+              {
+                "hits": [
+                  {
+                    "field": "Body",
+                    "length": 20,
+                    "offset": 1818
+                  }
+                ],
+                "name": "California State University, Long Beach",
+                "node_types": [
+                  {
+                    "name": "Other",
+                    "id": 48
+                  },
+                  {
+                    "name": "school",
+                    "id": 84
+                  }
+                ],
+                "in_headline": false,
+                "freebase_mid": "m.021w0_",
+                "score": 1,
+                "disambiguator": "University",
+                "type": "Entity",
+                "id": 3602866
+              },
+              {
+                "hits": [
+                  {
+                    "field": "Body",
+                    "length": 12,
+                    "offset": 955
+                  }
+                ],
+                "name": "California",
+                "node_types": [
+                  {
+                    "name": "location",
+                    "id": 30
+                  },
+                  {
+                    "name": "state",
+                    "id": 32
+                  },
+                  {
+                    "name": "Other",
+                    "id": 48
+                  }
+                ],
+                "in_headline": false,
+                "freebase_mid": "m.01n7q",
+                "score": 0.9146,
+                "disambiguator": "U.S. state",
+                "type": "Entity",
+                "id": 3448007
+              },
+              {
+                "hits": [
+                  {
+                    "field": "Body",
+                    "length": 14,
+                    "offset": 0
+                  },
+                  {
+                    "field": "Body",
+                    "length": 10,
+                    "offset": 1193
+                  }
+                ],
+                "name": "Long Beach, California",
+                "node_types": [
+                  {
+                    "name": "location",
+                    "id": 30
+                  },
+                  {
+                    "name": "Other",
+                    "id": 48
+                  },
+                  {
+                    "name": "city",
+                    "id": 33
+                  }
+                ],
+                "in_headline": false,
+                "freebase_mid": "m.0nbwf",
+                "score": 0.9146,
+                "disambiguator": "Location",
+                "type": "Entity",
+                "id": 3470920
+              },
+              {
+                "hits": [
+                  {
+                    "field": "Body",
+                    "length": 26,
+                    "offset": 1702
+                  }
+                ],
+                "name": "Southern California Edison",
+                "node_types": [
+                  {
+                    "name": "company",
+                    "id": 47
+                  },
+                  {
+                    "name": "Other",
+                    "id": 48
+                  }
+                ],
+                "in_headline": false,
+                "freebase_mid": "m.04d8r1",
+                "score": 0.9146,
+                "disambiguator": "Company",
+                "type": "Entity",
+                "id": 3574016
+              },
+              {
+                "hits": [
+                  {
+                    "field": "Body",
+                    "length": 15,
+                    "offset": 1306
+                  }
+                ],
+                "name": "California State University, Dominguez Hills",
+                "node_types": [
+                  {
+                    "name": "Other",
+                    "id": 48
+                  },
+                  {
+                    "name": "school",
+                    "id": 84
+                  }
+                ],
+                "in_headline": false,
+                "freebase_mid": "m.033w8f",
+                "score": 0.622,
+                "disambiguator": "University",
+                "type": "Entity",
+                "id": 3492948
+              },
+              {
+                "hits": [
+                  {
+                    "field": "Body",
+                    "length": 15,
+                    "offset": 2032
+                  }
+                ],
+                "name": "Powerwall",
+                "node_types": [
+                  {
+                    "name": "Other",
+                    "id": 48
+                  },
+                  {
+                    "name": "product",
+                    "id": 87
+                  }
+                ],
+                "in_headline": false,
+                "freebase_mid": null,
+                "score": 0.622,
+                "disambiguator": "Other",
+                "type": "Entity",
+                "id": 6384156
+              },
+              {
+                "name": "Business and Finance",
+                "score": 1,
+                "most_granular": true,
+                "disambiguator": "Subject",
+                "type": "Subject",
+                "id": 981284
+              },
+              {
+                "name": "Science and Technology",
+                "score": 1,
+                "most_granular": false,
+                "disambiguator": "Subject",
+                "type": "Subject",
+                "id": 982665
+              },
+              {
+                "name": "Power and Energy",
+                "score": 0.82638395,
+                "most_granular": false,
+                "disambiguator": "Science and Technology",
+                "type": "Subject",
+                "id": 982131
+              },
+              {
+                "name": "Renewable Energy",
+                "score": 0.82638395,
+                "most_granular": true,
+                "disambiguator": "Science and Technology",
+                "type": "Subject",
+                "id": 982431
+              }
+            ]
+          },
+          "provider": null,
+          "license_id": "16",
+          "slideshow_images_count": 0,
+          "store": [],
+          "slideshow_count": 0,
+          "tags": [],
+          "plain_text": "LONG BEACH, CA — The California State University system Wednesday announced that it would be installing a group of cutting-edge energy storage facilities that will reduce energy costs and provide critical support to the electric grid. \nThe project, in conjunction with San Francisco-based Advanced Microgrid Solutions , will be implemented in multiple phases and represent the largest advanced electrical storage project at an educational institution in the nation. Company and CSU officials estimate that first phase of the project will reduce the CSU’s electric utility costs by more than $3.3 million and will store enough energy to power 2,000 homes. \n“This exciting partnership adds to many collaborative efforts implemented by the CSU to boost efficiency and cut costs,” said CSU Executive Vice Chancellor and Chief Financial Officer Steve Relyea. “By helping integrate more renewable energy onto the grid, this transformational system will support California’s environment and direct resources to support the academic mission of the CSU.” \nIn the initial phase of the project, AMS will oversee the design, installation and operation of a 1,000kW/6,000kWh energy storage system at CSU’s Long Beach campus. AMS will subsequently install two storage systems at the CSU Office of the Chancellor and the Dominguez Hills campus, for a total of 2,000kW/12,000kWh of energy storage. Additional CSU campuses will be able to enroll in the project through a standardized contract. \n“The CSU is setting the standard for sustainability among higher education institutions, both statewide and across the nation,” said Susan Kennedy, Chief Executive Officer of AMS. “We are proud to work with them and provide Southern California Edison with critical capacity during this time of emergency.” \nThe company will break ground at Cal State Long Beach this summer, and the system is expected to be completed by October. Construction at the chancellor’s office is expected to begin in early 2017 and be completed by mid- 2017. \nThe buildings use Tesla Powerpack commercial batteries to store energy during nonpeak hours, typically at night. During times of high demand, AMS’ analytics software shifts buildings from the electric grid to the AMS energy storage system, reducing grid congestion and easing the need to build additional plants. \n",
+          "link": "http://patch.com/california/marinadelrey/s/fsrpb/cal-state-system-saving-money-with-san-franciscos-company-energy-storage-technology?utm_source=article-mostrecent&utm_medium=rss&utm_term=schools&utm_campaign=recirc&utm_content=aol",
+          "content_type": "content",
+          "categories": [],
+          "lang": "en",
+          "video_count": 0,
+          "profane": false,
+          "crawled": "2016-06-25T18:08:31.228388",
+          "author": {
+            "type": "16",
+            "name": "PATCH SOCAL (Patch Staff)",
+            "id": null
+          },
+          "summary": null,
+          "source": {
+            "title": "Marina Del Rey Patch",
+            "zipcode": "90066",
+            "location": {
+              "lat": 34.00201,
+              "lon": -118.430832
+            },
+            "groups": [
+              3,
+              7
+            ],
+            "publisher_id": null,
+            "id": "6AB_yz"
+          },
+          "published": "2016-06-25T18:04:22.914000+00:00",
+          "image_count": 2
+        }
+      ]
+    },
+    "746762446066733056": {
+      "articles": [
+        {
+          "content_length": 1911,
+          "updated": "2016-06-25T18:04:06.649000+00:00",
+          "update_received": "2016-06-25T18:08:31.225824+00:00",
+          "crawled_ts": 1466878111225824000,
+          "content_hash": "mmh3-30063698701227886332098052132137141134",
+          "guid": "http://patch.com/california/marinadelrey/s/fsrqf/cat-lovers-gather-in-los-angeles-for-2-day-catconla?utm_source=article-mostrecent&utm_medium=rss&utm_term=community%20corner&utm_campaign=recirc&utm_content=aol",
+          "id": "6AB_yz/1466878111225824000",
+          "snippet": "LOS ANGELES, CA - CatConLA -- a two-day convention and symposium for cat lovers -- will return to Los Angeles this weekend, providing a \"purr- fect\" activity for fans of all things feline.",
+          "title": "Cat Lovers Gather in Los Angeles for 2-Day CatConLA",
+          "media": {
+            "images": [
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://cdn20.patch.com/users/22880693/20160624/091743/styles/T800x600/public/article_images/cat-1044750_1280.jpg",
+                "anchor_url": null,
+                "height": 600,
+                "credit": null,
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": "Link",
+                "title": null,
+                "caption": null,
+                "width": 800,
+                "provider_asset_id": null
+              },
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://cdn20.patch.com/users/22880693/20160624/091743/styles/T800x600/public/article_images/cat-1044750_1280.jpg",
+                "anchor_url": null,
+                "height": 600,
+                "credit": null,
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": "OpenGraph",
+                "title": null,
+                "caption": null,
+                "width": 800,
+                "provider_asset_id": null
+              }
+            ]
+          },
+          "content": "LOS ANGELES, CA - CatConLA -- a two-day convention and symposium for cat lovers -- will return to Los Angeles this weekend, providing a \"purr- fect\" activity for fans of all things feline. \nThe event, described by organizers as \"redefining the cat lady -- proving that you can be chic and stylish and own a cat, simultaneously,\" is expected to draw 15,000 attendees to The Reef, 1933 S. Broadway. \nHuman attendees will not be allowed to bring their cats to the event, but several social-media celebrity felines and their owners will host meet-and- greets, including Lil BUB, who has 1.3 million followers on Instagram; Pudge, who has 600,000 followers; and Nala cat, who has 2.9 million followers. \nAmong the human celebrities in attendance will be Julie Newmar, the original Catwoman; actress Mariel Hemingway; and comedian Andy Milonakis, who will host CatVideoFest -- a reel of the best cat videos of the year along with some classic and unique submissions -- at The Theatre at Ace Hotel. \nIn addition to the meet-and-greets, the convention will feature a 3,000- square-foot adoption village where 100 cats and kittens will be housed and available for adoption. \nThere will also be an array of cat-centric merchandise and seminars led by representatives from \"BuzzFeed Pets\" and the creators of \"Cats of Instagram.\" \nThe event will also include its inaugural fashion event, titled \"Furrocious Fashion Face Off Contest,\" in which 10 human contestants will showcase their \"best cosplay catspiration attire,\" organizers say. \nAttendees will also get a chance to visit an escape room, which is modeled from a cat's perspective, with participants piecing together enormous cat toys that unlock clues to help them escape a giant cardboard box. \nTickets are $25 for one day and $40 for both days for adults. For children ages 5 to 12, tickets are $15 and $25. Tickets can be purchased at www.catconla.com/tickets. \n",
+          "relegence": {
+            "topic": {
+              "heat": 0,
+              "id": 746762446066733056,
+              "document_count": 1,
+              "created": "2016-06-25T17:50:16+00:00"
+            },
+            "duplicate": [
+              {
+                "type": "Partial",
+                "original_doc_id": 746762446066733056
+              }
+            ],
+            "categories": [
+              {
+                "name": "Entertainment",
+                "id": 141
+              }
+            ],
+            "tags": [
+              {
+                "hits": [
+                  {
+                    "field": "Title",
+                    "length": 11,
+                    "offset": 21
+                  },
+                  {
+                    "field": "Body",
+                    "length": 15,
+                    "offset": 0
+                  },
+                  {
+                    "field": "Body",
+                    "length": 11,
+                    "offset": 98
+                  }
+                ],
+                "name": "Los Angeles",
+                "node_types": [
+                  {
+                    "name": "Other",
+                    "id": 48
+                  },
+                  {
+                    "name": "city",
+                    "id": 33
+                  }
+                ],
+                "in_headline": true,
+                "freebase_mid": "m.030qb3t",
+                "score": 1,
+                "disambiguator": "City",
+                "type": "Entity",
+                "id": 3688445
+              },
+              {
+                "hits": [
+                  {
+                    "field": "Body",
+                    "length": 8,
+                    "offset": 387
+                  }
+                ],
+                "name": "Broadway",
+                "node_types": [
+                  {
+                    "name": "location",
+                    "id": 30
+                  },
+                  {
+                    "name": "Other",
+                    "id": 48
+                  }
+                ],
+                "in_headline": false,
+                "freebase_mid": "m.07dws5",
+                "score": 0.6333,
+                "disambiguator": "Los Angeles",
+                "type": "Entity",
+                "id": 3793266
+              },
+              {
+                "hits": [
+                  {
+                    "field": "Body",
+                    "length": 12,
+                    "offset": 749
+                  }
+                ],
+                "name": "Julie Newmar",
+                "node_types": [
+                  {
+                    "name": "TVPerson",
+                    "id": 44
+                  },
+                  {
+                    "name": "moviePerson",
+                    "id": 14
+                  },
+                  {
+                    "name": "Other",
+                    "id": 48
+                  },
+                  {
+                    "name": "musicPerson",
+                    "id": 6
+                  }
+                ],
+                "in_headline": false,
+                "freebase_mid": "m.017_xx",
+                "score": 0.6111,
+                "disambiguator": "Celebrity",
+                "type": "Entity",
+                "id": 2810519
+              },
+              {
+                "hits": [
+                  {
+                    "field": "Body",
+                    "length": 16,
+                    "offset": 794
+                  }
+                ],
+                "name": "Mariel Hemingway",
+                "node_types": [
+                  {
+                    "name": "TVPerson",
+                    "id": 44
+                  },
+                  {
+                    "name": "moviePerson",
+                    "id": 14
+                  },
+                  {
+                    "name": "Other",
+                    "id": 48
+                  },
+                  {
+                    "name": "musicPerson",
+                    "id": 6
+                  }
+                ],
+                "in_headline": false,
+                "freebase_mid": "m.02ldxr",
+                "score": 0.6111,
+                "disambiguator": "Celebrity",
+                "type": "Entity",
+                "id": 2820378
+              },
+              {
+                "hits": [
+                  {
+                    "field": "Body",
+                    "length": 8,
+                    "offset": 776
+                  }
+                ],
+                "name": "Catwoman",
+                "node_types": [
+                  {
+                    "name": "Other",
+                    "id": 48
+                  }
+                ],
+                "in_headline": false,
+                "freebase_mid": "m.027j55",
+                "score": 0.6111,
+                "disambiguator": "comics character and publication",
+                "type": "Entity",
+                "id": 3605064
+              },
+              {
+                "hits": [
+                  {
+                    "field": "Body",
+                    "length": 14,
+                    "offset": 825
+                  }
+                ],
+                "name": "Andy Milonakis",
+                "node_types": [
+                  {
+                    "name": "TVPerson",
+                    "id": 44
+                  },
+                  {
+                    "name": "moviePerson",
+                    "id": 14
+                  },
+                  {
+                    "name": "Other",
+                    "id": 48
+                  },
+                  {
+                    "name": "musicPerson",
+                    "id": 6
+                  }
+                ],
+                "in_headline": false,
+                "freebase_mid": "m.0fcm86",
+                "score": 0.6111,
+                "disambiguator": "Person",
+                "type": "Entity",
+                "id": 3922511
+              },
+              {
+                "name": "Arts and Entertainment",
+                "score": 1,
+                "most_granular": true,
+                "disambiguator": "Subject",
+                "type": "Subject",
+                "id": 979432
+              },
+              {
+                "name": "Lifestyle",
+                "score": 0.9409669,
+                "most_granular": false,
+                "disambiguator": "Subject",
+                "type": "Subject",
+                "id": 980877
+              },
+              {
+                "name": "Cats",
+                "score": 0.9015125,
+                "most_granular": false,
+                "disambiguator": "Lifestyle",
+                "type": "Subject",
+                "id": 978476
+              },
+              {
+                "name": "Pets",
+                "score": 0.9015125,
+                "most_granular": false,
+                "disambiguator": "Lifestyle",
+                "type": "Subject",
+                "id": 981941
+              },
+              {
+                "name": "Kittens",
+                "score": 0.81549263,
+                "most_granular": true,
+                "disambiguator": "Lifestyle",
+                "type": "Subject",
+                "id": 980737
+              }
+            ]
+          },
+          "provider": null,
+          "license_id": "16",
+          "slideshow_images_count": 0,
+          "store": [],
+          "slideshow_count": 0,
+          "tags": [],
+          "plain_text": "LOS ANGELES, CA - CatConLA -- a two-day convention and symposium for cat lovers -- will return to Los Angeles this weekend, providing a \"purr- fect\" activity for fans of all things feline. \nThe event, described by organizers as \"redefining the cat lady -- proving that you can be chic and stylish and own a cat, simultaneously,\" is expected to draw 15,000 attendees to The Reef, 1933 S. Broadway. \nHuman attendees will not be allowed to bring their cats to the event, but several social-media celebrity felines and their owners will host meet-and- greets, including Lil BUB, who has 1.3 million followers on Instagram; Pudge, who has 600,000 followers; and Nala cat, who has 2.9 million followers. \nAmong the human celebrities in attendance will be Julie Newmar, the original Catwoman; actress Mariel Hemingway; and comedian Andy Milonakis, who will host CatVideoFest -- a reel of the best cat videos of the year along with some classic and unique submissions -- at The Theatre at Ace Hotel. \nIn addition to the meet-and-greets, the convention will feature a 3,000- square-foot adoption village where 100 cats and kittens will be housed and available for adoption. \nThere will also be an array of cat-centric merchandise and seminars led by representatives from \"BuzzFeed Pets\" and the creators of \"Cats of Instagram.\" \nThe event will also include its inaugural fashion event, titled \"Furrocious Fashion Face Off Contest,\" in which 10 human contestants will showcase their \"best cosplay catspiration attire,\" organizers say. \nAttendees will also get a chance to visit an escape room, which is modeled from a cat's perspective, with participants piecing together enormous cat toys that unlock clues to help them escape a giant cardboard box. \nTickets are $25 for one day and $40 for both days for adults. For children ages 5 to 12, tickets are $15 and $25. Tickets can be purchased at www.catconla.com/tickets. \n",
+          "link": "http://patch.com/california/marinadelrey/s/fsrqf/cat-lovers-gather-in-los-angeles-for-2-day-catconla?utm_source=article-mostrecent&utm_medium=rss&utm_term=community%20corner&utm_campaign=recirc&utm_content=aol",
+          "content_type": "content",
+          "categories": [],
+          "lang": "en",
+          "video_count": 0,
+          "profane": false,
+          "crawled": "2016-06-25T18:08:31.225824",
+          "author": {
+            "type": "16",
+            "name": "PATCH SOCAL (Patch Staff)",
+            "id": null
+          },
+          "summary": null,
+          "source": {
+            "title": "Marina Del Rey Patch",
+            "zipcode": "90066",
+            "location": {
+              "lat": 34.00201,
+              "lon": -118.430832
+            },
+            "groups": [
+              3,
+              7
+            ],
+            "publisher_id": null,
+            "id": "6AB_yz"
+          },
+          "published": "2016-06-25T18:04:06.649000+00:00",
+          "image_count": 2
+        }
+      ]
+    },
+    "746419400607322112": {
+      "articles": [
+        {
+          "content_length": 2384,
+          "updated": "2016-06-25T08:24:44.600000+00:00",
+          "update_received": "2016-06-25T08:34:43.243663+00:00",
+          "crawled_ts": 1466843683243663000,
+          "content_hash": "mmh3-337181971343979213281297880594414516029",
+          "guid": "http://patch.com/california/marinadelrey/s/fsqyg/sweeping-california-gun-control-initiative-qualifies-for-november-ballot?utm_source=article-mostrecent&utm_medium=rss&utm_term=politics%20&%20government&utm_campaign=recirc&utm_content=aol",
+          "id": "6AB_yz/1466843683243663000",
+          "snippet": "A sweeping California gun control measure that would outlaw high-capacity magazines, require background checks for ammunition and require people to report lost or stolen guns was approved for the state’s November ballot, Secretary of State Alex Padilla announced Thursday.",
+          "title": "Sweeping California Gun Control Initiative Qualifies for November Ballot",
+          "media": {
+            "images": [
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://cdn20.patch.com/users/22880695/20160624/092626/styles/T800x600/public/article_images/election_voting_generic_shutterstock_180372209.jpg",
+                "anchor_url": null,
+                "height": 600,
+                "credit": null,
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": "Link",
+                "title": null,
+                "caption": null,
+                "width": 800,
+                "provider_asset_id": null
+              },
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://cdn20.patch.com/users/22880695/20160624/092626/styles/T800x600/public/article_images/election_voting_generic_shutterstock_180372209.jpg",
+                "anchor_url": null,
+                "height": 600,
+                "credit": null,
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": "OpenGraph",
+                "title": null,
+                "caption": null,
+                "width": 800,
+                "provider_asset_id": null
+              }
+            ]
+          },
+          "content": "A sweeping California gun control measure that would outlaw high-capacity magazines, require background checks for ammunition and require people to report lost or stolen guns was approved for the state’s November ballot, Secretary of State Alex Padilla announced Thursday. \nIf passed, the initiative would represent some of the most comprehensive gun restrictions passed at the state level in the wake of several mass shootings in the United States, most recently at the Pulse nightclub in Orlando where 49 people were shot dead. \nThe measure, called the \"Safety for All\" Initiative, would do the following if passed: \nBan the sale and possession of high-capacity, “military-style” magazines of 11 or more rounds. Anyone in possession of such magazines would be required to either sell them back to the manufacturer, destroy them or take them out of state. \nTreat ammunition like gun sales. People buying ammunition will be subject to background checks as if they were buying a gun. And anyone selling ammunition will have to obtain the appropriate licenses to do so. \nRequire people to report lost or stolen guns. Everyone who has had their gun lost or stolen must report it to law enforcement. \nEstablish new procedures to keep guns out of the hands of people who can't have them. This includes punishing dealers who sell guns to people they know are not allowed to have them. \nShare background check data with the National Instant Criminal Background Check System run by the FBI. \nYou can read the entire ballot measure here. \nTo get on the ballot, the initiative needed to get 365,880 valid signatures from registered voters, according to Padilla. \nCalifornia residents will get to vote on the measure Nov. 8. \nLt. Gov. Gavin Newsom, who has already announced that he will run for governor in 2018, said the initiative “will save lives by making it much harder for dangerous people to get guns and ammunition in California.” \nBut critics of the initiative, like Michele Hanisee, president of the Association of Los Angeles Deputy District Attorneys, disagreed and said the measure was nothing more than a political play by Newsom. \n\"Since ammunition will still be legal to possess, albeit more difficult to acquire, the measure does nothing to stop criminals who commit murder, which, of course, is already illegal,\" Hanisee said. \"It will only affect the law abiding citizens.” \n",
+          "relegence": {
+            "topic": {
+              "heat": 0,
+              "id": 746419400607322112,
+              "document_count": 5,
+              "created": "2016-06-24T19:07:08+00:00"
+            },
+            "duplicate": [
+              {
+                "type": "None",
+                "original_doc_id": 746622638724345856
+              }
+            ],
+            "categories": [
+              {
+                "name": "U.S.",
+                "id": 146
+              }
+            ],
+            "tags": [
+              {
+                "hits": [
+                  {
+                    "field": "Title",
+                    "length": 10,
+                    "offset": 9
+                  },
+                  {
+                    "field": "Body",
+                    "length": 10,
+                    "offset": 11
+                  },
+                  {
+                    "field": "Body",
+                    "length": 10,
+                    "offset": 1653
+                  },
+                  {
+                    "field": "Body",
+                    "length": 10,
+                    "offset": 1916
+                  }
+                ],
+                "name": "California",
+                "node_types": [
+                  {
+                    "name": "location",
+                    "id": 30
+                  },
+                  {
+                    "name": "state",
+                    "id": 32
+                  },
+                  {
+                    "name": "Other",
+                    "id": 48
+                  }
+                ],
+                "in_headline": true,
+                "freebase_mid": "m.01n7q",
+                "score": 1,
+                "disambiguator": "U.S. state",
+                "type": "Entity",
+                "id": 3448007
+              },
+              {
+                "hits": [
+                  {
+                    "field": "Body",
+                    "length": 12,
+                    "offset": 240
+                  }
+                ],
+                "name": "Alex Padilla",
+                "node_types": [
+                  {
+                    "name": "Other",
+                    "id": 48
+                  },
+                  {
+                    "name": "politicsPerson",
+                    "id": 53
+                  }
+                ],
+                "in_headline": false,
+                "freebase_mid": "m.0749wj",
+                "score": 0.7157,
+                "disambiguator": "Politics Person(State Senator)",
+                "type": "Entity",
+                "id": 3775895
+              },
+              {
+                "hits": [
+                  {
+                    "field": "Body",
+                    "length": 12,
+                    "offset": 1724
+                  }
+                ],
+                "name": "Gavin Newsom",
+                "node_types": [
+                  {
+                    "name": "Other",
+                    "id": 48
+                  },
+                  {
+                    "name": "politicsPerson",
+                    "id": 53
+                  }
+                ],
+                "in_headline": false,
+                "freebase_mid": "m.0264nv",
+                "score": 0.6961,
+                "disambiguator": "Politics Person",
+                "type": "Entity",
+                "id": 3608174
+              },
+              {
+                "hits": [
+                  {
+                    "field": "Body",
+                    "length": 18,
+                    "offset": 221
+                  }
+                ],
+                "name": "Secretary of state",
+                "node_types": [
+                  {
+                    "name": "Other",
+                    "id": 48
+                  }
+                ],
+                "in_headline": false,
+                "freebase_mid": "m.09n5b9",
+                "score": 0.6176,
+                "disambiguator": "U.S. state government",
+                "type": "Entity",
+                "id": 3825563
+              },
+              {
+                "hits": [
+                  {
+                    "field": "Body",
+                    "length": 7,
+                    "offset": 490
+                  }
+                ],
+                "name": "Orlando, Florida",
+                "node_types": [
+                  {
+                    "name": "location",
+                    "id": 30
+                  },
+                  {
+                    "name": "Other",
+                    "id": 48
+                  },
+                  {
+                    "name": "city",
+                    "id": 33
+                  }
+                ],
+                "in_headline": false,
+                "freebase_mid": "m.0ply0",
+                "score": 0.598,
+                "disambiguator": "Location",
+                "type": "Entity",
+                "id": 3467479
+              },
+              {
+                "hits": [
+                  {
+                    "field": "Body",
+                    "length": 3,
+                    "offset": 1478
+                  }
+                ],
+                "name": "Federal Bureau of Investigation",
+                "node_types": [
+                  {
+                    "name": "Other",
+                    "id": 48
+                  },
+                  {
+                    "name": "politicsGroup",
+                    "id": 135
+                  }
+                ],
+                "in_headline": false,
+                "freebase_mid": "m.02_1m",
+                "score": 0.598,
+                "disambiguator": "Government Agency",
+                "type": "Entity",
+                "id": 3683015
+              },
+              {
+                "hits": [
+                  {
+                    "field": "Body",
+                    "length": 49,
+                    "offset": 1417
+                  }
+                ],
+                "name": "National Instant Criminal Background Check System",
+                "node_types": [
+                  {
+                    "name": "Other",
+                    "id": 48
+                  }
+                ],
+                "in_headline": false,
+                "freebase_mid": "m.0801mm",
+                "score": 0.598,
+                "disambiguator": "",
+                "type": "Entity",
+                "id": 3726045
+              },
+              {
+                "hits": [
+                  {
+                    "field": "Body",
+                    "length": 13,
+                    "offset": 435
+                  }
+                ],
+                "name": "United States",
+                "node_types": [
+                  {
+                    "name": "country",
+                    "id": 31
+                  },
+                  {
+                    "name": "Other",
+                    "id": 48
+                  }
+                ],
+                "in_headline": false,
+                "freebase_mid": "m.09c7w0",
+                "score": 0.598,
+                "disambiguator": "Country",
+                "type": "Entity",
+                "id": 3804968
+              },
+              {
+                "hits": [
+                  {
+                    "field": "Body",
+                    "length": 5,
+                    "offset": 471
+                  }
+                ],
+                "name": "Pulse",
+                "node_types": [
+                  {
+                    "name": "Other",
+                    "id": 48
+                  }
+                ],
+                "in_headline": false,
+                "freebase_mid": "m.0fn7wg",
+                "score": 0.598,
+                "disambiguator": "interbank network",
+                "type": "Entity",
+                "id": 3934004
+              },
+              {
+                "name": "U.S. News",
+                "score": 1,
+                "most_granular": true,
+                "disambiguator": "News and Politics",
+                "type": "Subject",
+                "id": 981465
+              },
+              {
+                "name": "News",
+                "score": 1,
+                "most_granular": false,
+                "disambiguator": "News and Politics",
+                "type": "Subject",
+                "id": 981523
+              },
+              {
+                "name": "News and Politics",
+                "score": 1,
+                "most_granular": false,
+                "disambiguator": "Subject",
+                "type": "Subject",
+                "id": 981525
+              },
+              {
+                "name": "Politics",
+                "score": 0.97313654,
+                "most_granular": false,
+                "disambiguator": "News and Politics",
+                "type": "Subject",
+                "id": 982065
+              },
+              {
+                "name": "Gun Control",
+                "score": 0.97313654,
+                "most_granular": true,
+                "disambiguator": "News and Politics",
+                "type": "Subject",
+                "id": 4941756
+              },
+              {
+                "name": "Political Issues",
+                "score": 0.97313654,
+                "most_granular": false,
+                "disambiguator": "Politics",
+                "type": "Subject",
+                "id": 6258425
+              },
+              {
+                "name": "Law, Government and Politics",
+                "score": 0.97313654,
+                "most_granular": false,
+                "disambiguator": "News and Politics",
+                "type": "Subject",
+                "id": 6378649
+              },
+              {
+                "name": "Law",
+                "score": 0.6613219,
+                "most_granular": false,
+                "disambiguator": "News and Politics",
+                "type": "Subject",
+                "id": 980826
+              },
+              {
+                "name": "Legal Issues",
+                "score": 0.6613219,
+                "most_granular": true,
+                "disambiguator": "News and Politics",
+                "type": "Subject",
+                "id": 6378650
+              }
+            ]
+          },
+          "provider": null,
+          "license_id": "16",
+          "slideshow_images_count": 0,
+          "store": [],
+          "slideshow_count": 0,
+          "tags": [],
+          "plain_text": "A sweeping California gun control measure that would outlaw high-capacity magazines, require background checks for ammunition and require people to report lost or stolen guns was approved for the state’s November ballot, Secretary of State Alex Padilla announced Thursday. \nIf passed, the initiative would represent some of the most comprehensive gun restrictions passed at the state level in the wake of several mass shootings in the United States, most recently at the Pulse nightclub in Orlando where 49 people were shot dead. \nThe measure, called the \"Safety for All\" Initiative, would do the following if passed: \nBan the sale and possession of high-capacity, “military-style” magazines of 11 or more rounds. Anyone in possession of such magazines would be required to either sell them back to the manufacturer, destroy them or take them out of state. \nTreat ammunition like gun sales. People buying ammunition will be subject to background checks as if they were buying a gun. And anyone selling ammunition will have to obtain the appropriate licenses to do so. \nRequire people to report lost or stolen guns. Everyone who has had their gun lost or stolen must report it to law enforcement. \nEstablish new procedures to keep guns out of the hands of people who can't have them. This includes punishing dealers who sell guns to people they know are not allowed to have them. \nShare background check data with the National Instant Criminal Background Check System run by the FBI. \nYou can read the entire ballot measure here. \nTo get on the ballot, the initiative needed to get 365,880 valid signatures from registered voters, according to Padilla. \nCalifornia residents will get to vote on the measure Nov. 8. \nLt. Gov. Gavin Newsom, who has already announced that he will run for governor in 2018, said the initiative “will save lives by making it much harder for dangerous people to get guns and ammunition in California.” \nBut critics of the initiative, like Michele Hanisee, president of the Association of Los Angeles Deputy District Attorneys, disagreed and said the measure was nothing more than a political play by Newsom. \n\"Since ammunition will still be legal to possess, albeit more difficult to acquire, the measure does nothing to stop criminals who commit murder, which, of course, is already illegal,\" Hanisee said. \"It will only affect the law abiding citizens.” \n",
+          "link": "http://patch.com/california/marinadelrey/s/fsqyg/sweeping-california-gun-control-initiative-qualifies-for-november-ballot?utm_source=article-mostrecent&utm_medium=rss&utm_term=politics%20&%20government&utm_campaign=recirc&utm_content=aol",
+          "content_type": "content",
+          "categories": [],
+          "lang": "en",
+          "video_count": 0,
+          "profane": false,
+          "crawled": "2016-06-25T08:34:43.243663",
+          "author": {
+            "type": "16",
+            "name": "California Patch (Patch Staff)",
+            "id": null
+          },
+          "summary": null,
+          "source": {
+            "title": "Marina Del Rey Patch",
+            "zipcode": "90066",
+            "location": {
+              "lat": 34.00201,
+              "lon": -118.430832
+            },
+            "groups": [
+              3,
+              7
+            ],
+            "publisher_id": null,
+            "id": "6AB_yz"
+          },
+          "published": "2016-06-25T08:24:44.600000+00:00",
+          "image_count": 2
+        }
+      ]
+    },
+    "746365683561689088": {
+      "articles": [
+        {
+          "content_length": 2295,
+          "updated": "2016-06-25T07:33:12.097000+00:00",
+          "update_received": "2016-06-25T07:41:20.674467+00:00",
+          "crawled_ts": 1466840480674467000,
+          "content_hash": "mmh3-313150066354550594581824495320556451384",
+          "guid": "http://patch.com/california/culvercity/s/fsq05/beverly-hills-dad-places-ad-on-fathers-day-seeking-wife-for-son?utm_source=article-mostrecent&utm_medium=rss&utm_term=community%20corner&utm_campaign=recirc&utm_content=aol",
+          "id": "vKLhn6/1466840480674467000",
+          "snippet": "Los Angeles, CA — A dad, perhaps looking to become a grandad, took an extreme measure to find a wife for his 48-year-old son: He placed a full-page ad in an Idaho newspaper on Father's Day.",
+          "title": "Beverly Hills Dad Places Ad On Father's Day Seeking Wife For Son",
+          "media": {
+            "images": [
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://cdn20.patch.com/users/231734/20160623/075615/styles/T800x600/public/article_images/looking-for-a-wife2.jpg",
+                "anchor_url": null,
+                "height": 600,
+                "credit": null,
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": "Link",
+                "title": null,
+                "caption": null,
+                "width": 800,
+                "provider_asset_id": null
+              },
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://cdn20.patch.com/users/231734/20160623/075615/styles/T800x600/public/article_images/looking-for-a-wife2.jpg",
+                "anchor_url": null,
+                "height": 600,
+                "credit": null,
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": "OpenGraph",
+                "title": null,
+                "caption": null,
+                "width": 800,
+                "provider_asset_id": null
+              },
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://cdn20.patch.com/inline_images/231734/1466726030.jpg",
+                "anchor_url": null,
+                "height": 1271,
+                "credit": null,
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": "Img",
+                "title": null,
+                "caption": null,
+                "width": 652,
+                "provider_asset_id": null
+              }
+            ]
+          },
+          "content": "Los Angeles, CA — A dad, perhaps looking to become a grandad, took an extreme measure to find a wife for his 48-year-old son: He placed a full-page ad in an Idaho newspaper on Father's Day. \nThe ad, placed without the son's knowledge, reads: \"My name is Baron Brooks. I am 48 years old, never been married and live in Salt Lake City. I am looking for a wife who is ready, willing and able to have children as soon as possible.\" \nBrooks, a Los Angeles native who moved to Utah 10 years ago for his business, was obviously mortified by the ad. \nHe told the Spokesman-Review his father, Arthur Brooks, 78, of Beverly Hills, placed the $900 ad last Saturday in the Coeur d'Alene Press in Idaho. \n“My father did this without my consent,” Brooks told the paper. “I can’t even describe to you how embarrassing and ridiculous this is.” \nThe ad has since gone viral. \nWhy Idaho? Because the state is a predominantly red state and the elder Brooks wanted a conservative wife for his son. \n\"If you voted for Obama or plan to vote Hillary, you are not for me,\" the ad reads. \nThe potential mate should also be short and have no children, though that is, apparently, up for negotiation. \nAccording to the ad, the elder Brooks plans to screen potential matches at the Coeur D'Alene Resort this Saturday. \nThe younger Brooks is, at least, being good-natured about the whole situation and is letting his dad go forward with interviewing potential life mates. Though, he admits, he is powerless to stop his dad. \n\"What am I supposed to do? He already did it,\" Brooks told the Spokesman-Review. But Brooks said he will have a talk with his dad once this is over. \nThe elder Brooks told the Associated Press he will comment after he completes the interviews Saturday. \nAccording to the ad, the younger Brooks is Jewish, but not religious, and owns two health food stores. \nBrooks described his dad as the Larry David character on the TV show,\"Curb Your Enthusiasm.\" And since his dad has been ill, he is looking for a grandson to carry on the family name, Brooks said. \nAs for the ad hurting his chances at getting dates, Brooks is resigned but hopeful. \n\"Who knows, it can’t hurt,\" he told the Spokesman-Review. \"Who the hell knows?\" \nWhat do you say ladies? Eligible bachelor, comes with \"kooky\" father-in-law. \n",
+          "relegence": {
+            "topic": {
+              "heat": 0,
+              "id": 746365683561689088,
+              "document_count": 13,
+              "created": "2016-06-24T15:33:40+00:00"
+            },
+            "duplicate": [
+              {
+                "type": "Partial",
+                "original_doc_id": 746410635003031552
+              }
+            ],
+            "categories": [
+              {
+                "name": "Entertainment",
+                "id": 141
+              },
+              {
+                "name": "U.S.",
+                "id": 146
+              }
+            ],
+            "tags": [
+              {
+                "hits": [
+                  {
+                    "field": "Body",
+                    "length": 13,
+                    "offset": 584
+                  },
+                  {
+                    "field": "Body",
+                    "length": 6,
+                    "offset": 733
+                  },
+                  {
+                    "field": "Body",
+                    "length": 6,
+                    "offset": 1206
+                  },
+                  {
+                    "field": "Body",
+                    "length": 6,
+                    "offset": 1303
+                  },
+                  {
+                    "field": "Body",
+                    "length": 6,
+                    "offset": 1543
+                  },
+                  {
+                    "field": "Body",
+                    "length": 6,
+                    "offset": 1656
+                  },
+                  {
+                    "field": "Body",
+                    "length": 6,
+                    "offset": 1783
+                  },
+                  {
+                    "field": "Body",
+                    "length": 6,
+                    "offset": 2103
+                  }
+                ],
+                "name": "Arthur Brooks",
+                "node_types": [
+                  {
+                    "name": "TVPerson",
+                    "id": 44
+                  }
+                ],
+                "in_headline": false,
+                "freebase_mid": null,
+                "score": 1,
+                "disambiguator": "Celebrity",
+                "type": "Entity",
+                "id": 4490577
+              },
+              {
+                "hits": [
+                  {
+                    "field": "Title",
+                    "length": 13,
+                    "offset": 0
+                  },
+                  {
+                    "field": "Body",
+                    "length": 13,
+                    "offset": 606
+                  }
+                ],
+                "name": "Beverly Hills, California",
+                "node_types": [
+                  {
+                    "name": "location",
+                    "id": 30
+                  },
+                  {
+                    "name": "Other",
+                    "id": 48
+                  },
+                  {
+                    "name": "city",
+                    "id": 33
+                  }
+                ],
+                "in_headline": true,
+                "freebase_mid": "m.0k049",
+                "score": 0.8,
+                "disambiguator": "Location",
+                "type": "Entity",
+                "id": 3457368
+              },
+              {
+                "hits": [
+                  {
+                    "field": "Title",
+                    "length": 12,
+                    "offset": 31
+                  },
+                  {
+                    "field": "Body",
+                    "length": 12,
+                    "offset": 176
+                  }
+                ],
+                "name": "Father's Day",
+                "node_types": [
+                  {
+                    "name": "event",
+                    "id": 12
+                  },
+                  {
+                    "name": "Other",
+                    "id": 48
+                  }
+                ],
+                "in_headline": true,
+                "freebase_mid": "m.0cjkt",
+                "score": 0.8,
+                "disambiguator": "Holiday",
+                "type": "Entity",
+                "id": 3702664
+              },
+              {
+                "hits": [
+                  {
+                    "field": "Body",
+                    "length": 5,
+                    "offset": 157
+                  },
+                  {
+                    "field": "Body",
+                    "length": 5,
+                    "offset": 684
+                  }
+                ],
+                "name": "Idaho",
+                "node_types": [
+                  {
+                    "name": "Other",
+                    "id": 48
+                  },
+                  {
+                    "name": "musicGroup",
+                    "id": 7
+                  }
+                ],
+                "in_headline": false,
+                "freebase_mid": "m.01jvpcv",
+                "score": 0.6197,
+                "disambiguator": "Music Group",
+                "type": "Entity",
+                "id": 5639972
+              },
+              {
+                "hits": [
+                  {
+                    "field": "Body",
+                    "length": 15,
+                    "offset": 0
+                  },
+                  {
+                    "field": "Body",
+                    "length": 11,
+                    "offset": 439
+                  }
+                ],
+                "name": "Los Angeles",
+                "node_types": [
+                  {
+                    "name": "Other",
+                    "id": 48
+                  },
+                  {
+                    "name": "city",
+                    "id": 33
+                  }
+                ],
+                "in_headline": false,
+                "freebase_mid": "m.030qb3t",
+                "score": 0.5845,
+                "disambiguator": "City",
+                "type": "Entity",
+                "id": 3688445
+              },
+              {
+                "hits": [
+                  {
+                    "field": "Body",
+                    "length": 14,
+                    "offset": 318
+                  }
+                ],
+                "name": "Salt Lake City",
+                "node_types": [
+                  {
+                    "name": "location",
+                    "id": 30
+                  },
+                  {
+                    "name": "Other",
+                    "id": 48
+                  }
+                ],
+                "in_headline": false,
+                "freebase_mid": "m.0f2r6",
+                "score": 0.5423,
+                "disambiguator": "Location",
+                "type": "Entity",
+                "id": 3470308
+              },
+              {
+                "hits": [
+                  {
+                    "field": "Body",
+                    "length": 11,
+                    "offset": 1886
+                  }
+                ],
+                "name": "Larry David",
+                "node_types": [
+                  {
+                    "name": "TVPerson",
+                    "id": 44
+                  },
+                  {
+                    "name": "moviePerson",
+                    "id": 14
+                  },
+                  {
+                    "name": "majorCelebrity",
+                    "id": 190
+                  },
+                  {
+                    "name": "Other",
+                    "id": 48
+                  },
+                  {
+                    "name": "musicPerson",
+                    "id": 6
+                  }
+                ],
+                "in_headline": false,
+                "freebase_mid": "m.0q9zc",
+                "score": 0.5352,
+                "disambiguator": "Celebrity",
+                "type": "Entity",
+                "id": 2814495
+              },
+              {
+                "hits": [
+                  {
+                    "field": "Body",
+                    "length": 20,
+                    "offset": 1924
+                  }
+                ],
+                "name": "Curb Your Enthusiasm",
+                "node_types": [
+                  {
+                    "name": "TVWork",
+                    "id": 45
+                  },
+                  {
+                    "name": "Other",
+                    "id": 48
+                  }
+                ],
+                "in_headline": false,
+                "freebase_mid": "m.01ft14",
+                "score": 0.5352,
+                "disambiguator": "TV Show",
+                "type": "Entity",
+                "id": 3501310
+              },
+              {
+                "hits": [
+                  {
+                    "field": "Body",
+                    "length": 5,
+                    "offset": 997
+                  }
+                ],
+                "name": "Barack Obama",
+                "node_types": [
+                  {
+                    "name": "TVPerson",
+                    "id": 44
+                  },
+                  {
+                    "name": "moviePerson",
+                    "id": 14
+                  },
+                  {
+                    "name": "Other",
+                    "id": 48
+                  },
+                  {
+                    "name": "politicsPerson",
+                    "id": 53
+                  },
+                  {
+                    "name": "musicPerson",
+                    "id": 6
+                  }
+                ],
+                "in_headline": false,
+                "freebase_mid": "m.02mjmr",
+                "score": 0.5352,
+                "disambiguator": "Politics Person",
+                "type": "Entity",
+                "id": 3646062
+              },
+              {
+                "hits": [
+                  {
+                    "field": "Body",
+                    "length": 4,
+                    "offset": 471
+                  }
+                ],
+                "name": "Utah",
+                "node_types": [
+                  {
+                    "name": "location",
+                    "id": 30
+                  },
+                  {
+                    "name": "state",
+                    "id": 32
+                  }
+                ],
+                "in_headline": false,
+                "freebase_mid": null,
+                "score": 0.5352,
+                "disambiguator": "U.S. state",
+                "type": "Entity",
+                "id": 6375778
+              },
+              {
+                "name": "Arts and Entertainment",
+                "score": 1,
+                "most_granular": true,
+                "disambiguator": "Subject",
+                "type": "Subject",
+                "id": 979432
+              },
+              {
+                "name": "U.S. News",
+                "score": 1,
+                "most_granular": true,
+                "disambiguator": "News and Politics",
+                "type": "Subject",
+                "id": 981465
+              },
+              {
+                "name": "News",
+                "score": 1,
+                "most_granular": false,
+                "disambiguator": "News and Politics",
+                "type": "Subject",
+                "id": 981523
+              },
+              {
+                "name": "News and Politics",
+                "score": 1,
+                "most_granular": false,
+                "disambiguator": "Subject",
+                "type": "Subject",
+                "id": 981525
+              }
+            ]
+          },
+          "provider": null,
+          "license_id": "16",
+          "slideshow_images_count": 0,
+          "store": [],
+          "slideshow_count": 0,
+          "tags": [],
+          "plain_text": "Los Angeles, CA — A dad, perhaps looking to become a grandad, took an extreme measure to find a wife for his 48-year-old son: He placed a full-page ad in an Idaho newspaper on Father's Day. \nThe ad, placed without the son's knowledge, reads: \"My name is Baron Brooks. I am 48 years old, never been married and live in Salt Lake City. I am looking for a wife who is ready, willing and able to have children as soon as possible.\" \nBrooks, a Los Angeles native who moved to Utah 10 years ago for his business, was obviously mortified by the ad. \nHe told the Spokesman-Review his father, Arthur Brooks, 78, of Beverly Hills, placed the $900 ad last Saturday in the Coeur d'Alene Press in Idaho. \n“My father did this without my consent,” Brooks told the paper. “I can’t even describe to you how embarrassing and ridiculous this is.” \nThe ad has since gone viral. \nWhy Idaho? Because the state is a predominantly red state and the elder Brooks wanted a conservative wife for his son. \n\"If you voted for Obama or plan to vote Hillary, you are not for me,\" the ad reads. \nThe potential mate should also be short and have no children, though that is, apparently, up for negotiation. \nAccording to the ad, the elder Brooks plans to screen potential matches at the Coeur D'Alene Resort this Saturday. \nThe younger Brooks is, at least, being good-natured about the whole situation and is letting his dad go forward with interviewing potential life mates. Though, he admits, he is powerless to stop his dad. \n\"What am I supposed to do? He already did it,\" Brooks told the Spokesman-Review. But Brooks said he will have a talk with his dad once this is over. \nThe elder Brooks told the Associated Press he will comment after he completes the interviews Saturday. \nAccording to the ad, the younger Brooks is Jewish, but not religious, and owns two health food stores. \nBrooks described his dad as the Larry David character on the TV show,\"Curb Your Enthusiasm.\" And since his dad has been ill, he is looking for a grandson to carry on the family name, Brooks said. \nAs for the ad hurting his chances at getting dates, Brooks is resigned but hopeful. \n\"Who knows, it can’t hurt,\" he told the Spokesman-Review. \"Who the hell knows?\" \nWhat do you say ladies? Eligible bachelor, comes with \"kooky\" father-in-law. \n",
+          "link": "http://patch.com/california/culvercity/s/fsq05/beverly-hills-dad-places-ad-on-fathers-day-seeking-wife-for-son?utm_source=article-mostrecent&utm_medium=rss&utm_term=community%20corner&utm_campaign=recirc&utm_content=aol",
+          "content_type": "content",
+          "categories": [],
+          "lang": "en",
+          "video_count": 0,
+          "profane": false,
+          "crawled": "2016-06-25T07:41:20.674467",
+          "author": {
+            "type": "16",
+            "name": "Alexander Nguyen (Patch Staff)",
+            "id": null
+          },
+          "summary": null,
+          "source": {
+            "title": "Culver City Patch",
+            "zipcode": "90066",
+            "location": {
+              "lat": 34.00201,
+              "lon": -118.430832
+            },
+            "groups": [
+              3,
+              7
+            ],
+            "publisher_id": null,
+            "id": "vKLhn6"
+          },
+          "published": "2016-06-25T07:33:12.097000+00:00",
+          "image_count": 3
+        }
+      ]
+    },
+    "746246895058731008": {
+      "articles": [
+        {
+          "content_length": 1439,
+          "updated": "2016-06-25T07:33:04.800000+00:00",
+          "update_received": "2016-06-25T07:41:20.671709+00:00",
+          "crawled_ts": 1466840480671709000,
+          "content_hash": "mmh3-100039603327426063391124913447033181931",
+          "guid": "http://patch.com/california/culvercity/s/fsq3m/whitney-houstons-estate-sued-over-planned-auction-of-emmy?utm_source=article-mostrecent&utm_medium=rss&utm_term=arts%20&%20entertainment&utm_campaign=recirc&utm_content=aol",
+          "id": "vKLhn6/1466840480671709000",
+          "snippet": "LOS ANGELES, CA - The Academy of Television Arts & Sciences sued Whitney Houston's estate and a Beverly Hills auction house today to block an upcoming sale of the late singer's Emmy trophy.",
+          "title": "Whitney Houston's Estate Sued Over Planned Auction of Emmy",
+          "media": {
+            "images": [
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://cdn20.patch.com/users/22880695/20160623/095130/styles/T800x600/public/article_images/whitney_houston_welcome_home_heroes_1_cropped.jpg",
+                "anchor_url": null,
+                "height": 600,
+                "credit": null,
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": "Link",
+                "title": null,
+                "caption": null,
+                "width": 800,
+                "provider_asset_id": null
+              },
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://cdn20.patch.com/users/22880695/20160623/095130/styles/T800x600/public/article_images/whitney_houston_welcome_home_heroes_1_cropped.jpg",
+                "anchor_url": null,
+                "height": 600,
+                "credit": null,
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": "OpenGraph",
+                "title": null,
+                "caption": null,
+                "width": 800,
+                "provider_asset_id": null
+              }
+            ]
+          },
+          "content": "LOS ANGELES, CA - The Academy of Television Arts & Sciences sued Whitney Houston's estate and a Beverly Hills auction house today to block an upcoming sale of the late singer's Emmy trophy. \nThe academy, which presents the Emmy Awards, contends it owns the rights to the trophies, and that the statuettes are nontransferable. \nHeirs can continue to keep the award \"to symbolize the achievements of the deceased honorees,\" but the statuettes cannot be sold, according to the suit filed in Los Angeles federal court. \nHouston, who died in 2012, won the Emmy in 1986 in recognition of her performance of \"Saving All My Love for You\" at a televised Grammy ceremony. \nAlso named in the suit is Heritage Auctions, which is presenting a two- day auction Friday of Houston's possessions. \nThe auction is authorized by the late songbird's family. \n\"If Heritage's highly publicized auction is allowed to go forward, it will undermine the prestige of the Emmy Award and tarnish the Television Academy's reputation, leaving the impression that the highest honor in the television industry is a commodity available for sale to the highest bidder,\" the academy wrote in the suit. \nA message left with a Heritage spokeswoman was not immediately answered and attempts to reach a representative of Houston's estate were unsuccessful. \nHouston, 48, was found dead Feb. 11, 2012, in her room at the Beverly Hilton, the weekend of that year's Grammy Awards. \n",
+          "relegence": {
+            "topic": {
+              "heat": 0,
+              "id": 746246895058731008,
+              "document_count": 31,
+              "created": "2016-06-24T07:41:39+00:00"
+            },
+            "duplicate": [
+              {
+                "type": "Partial",
+                "original_doc_id": 746510537092526080
+              }
+            ],
+            "categories": [
+              {
+                "name": "Entertainment",
+                "id": 141
+              }
+            ],
+            "tags": [
+              {
+                "hits": [
+                  {
+                    "field": "Title",
+                    "length": 15,
+                    "offset": 0
+                  },
+                  {
+                    "field": "Body",
+                    "length": 15,
+                    "offset": 65
+                  },
+                  {
+                    "field": "Body",
+                    "length": 7,
+                    "offset": 516
+                  },
+                  {
+                    "field": "Body",
+                    "length": 7,
+                    "offset": 757
+                  },
+                  {
+                    "field": "Body",
+                    "length": 7,
+                    "offset": 1281
+                  },
+                  {
+                    "field": "Body",
+                    "length": 7,
+                    "offset": 1318
+                  }
+                ],
+                "name": "Whitney Houston",
+                "node_types": [
+                  {
+                    "name": "TVPerson",
+                    "id": 44
+                  },
+                  {
+                    "name": "moviePerson",
+                    "id": 14
+                  },
+                  {
+                    "name": "majorCelebrity",
+                    "id": 190
+                  },
+                  {
+                    "name": "blackCelebrity",
+                    "id": 206
+                  },
+                  {
+                    "name": "Other",
+                    "id": 48
+                  },
+                  {
+                    "name": "musicPerson",
+                    "id": 6
+                  }
+                ],
+                "in_headline": true,
+                "freebase_mid": "m.086qd",
+                "score": 1,
+                "disambiguator": "Celebrity",
+                "type": "Entity",
+                "id": 1140715
+              },
+              {
+                "hits": [
+                  {
+                    "field": "Title",
+                    "length": 4,
+                    "offset": 54
+                  },
+                  {
+                    "field": "Body",
+                    "length": 4,
+                    "offset": 177
+                  },
+                  {
+                    "field": "Body",
+                    "length": 11,
+                    "offset": 223
+                  },
+                  {
+                    "field": "Body",
+                    "length": 4,
+                    "offset": 551
+                  },
+                  {
+                    "field": "Body",
+                    "length": 10,
+                    "offset": 944
+                  }
+                ],
+                "name": "Emmy Award",
+                "node_types": [
+                  {
+                    "name": "award",
+                    "id": 76
+                  },
+                  {
+                    "name": "Other",
+                    "id": 48
+                  }
+                ],
+                "in_headline": true,
+                "freebase_mid": "m.013sb1",
+                "score": 0.9437,
+                "disambiguator": "Award",
+                "type": "Entity",
+                "id": 3532133
+              },
+              {
+                "hits": [
+                  {
+                    "field": "Body",
+                    "length": 17,
+                    "offset": 689
+                  }
+                ],
+                "name": "Heritage Auctions",
+                "node_types": [
+                  {
+                    "name": "Other",
+                    "id": 48
+                  }
+                ],
+                "in_headline": false,
+                "freebase_mid": "m.02qctpk",
+                "score": 0.7113,
+                "disambiguator": "",
+                "type": "Entity",
+                "id": 3953224
+              },
+              {
+                "hits": [
+                  {
+                    "field": "Body",
+                    "length": 13,
+                    "offset": 96
+                  }
+                ],
+                "name": "Beverly Hills, California",
+                "node_types": [
+                  {
+                    "name": "location",
+                    "id": 30
+                  },
+                  {
+                    "name": "Other",
+                    "id": 48
+                  },
+                  {
+                    "name": "city",
+                    "id": 33
+                  }
+                ],
+                "in_headline": false,
+                "freebase_mid": "m.0k049",
+                "score": 0.669,
+                "disambiguator": "Location",
+                "type": "Entity",
+                "id": 3457368
+              },
+              {
+                "hits": [
+                  {
+                    "field": "Body",
+                    "length": 15,
+                    "offset": 0
+                  },
+                  {
+                    "field": "Body",
+                    "length": 11,
+                    "offset": 488
+                  }
+                ],
+                "name": "Los Angeles",
+                "node_types": [
+                  {
+                    "name": "Other",
+                    "id": 48
+                  },
+                  {
+                    "name": "city",
+                    "id": 33
+                  }
+                ],
+                "in_headline": false,
+                "freebase_mid": "m.030qb3t",
+                "score": 0.669,
+                "disambiguator": "City",
+                "type": "Entity",
+                "id": 3688445
+              },
+              {
+                "hits": [
+                  {
+                    "field": "Body",
+                    "length": 14,
+                    "offset": 1380
+                  }
+                ],
+                "name": "Beverly Hilton Hotel",
+                "node_types": [
+                  {
+                    "name": "location",
+                    "id": 30
+                  },
+                  {
+                    "name": "Other",
+                    "id": 48
+                  }
+                ],
+                "in_headline": false,
+                "freebase_mid": "m.05c26pb",
+                "score": 0.669,
+                "disambiguator": "Hotel",
+                "type": "Entity",
+                "id": 4212436
+              },
+              {
+                "hits": [
+                  {
+                    "field": "Body",
+                    "length": 6,
+                    "offset": 645
+                  },
+                  {
+                    "field": "Body",
+                    "length": 13,
+                    "offset": 1423
+                  }
+                ],
+                "name": "Grammy Awards",
+                "node_types": [
+                  {
+                    "name": "award",
+                    "id": 76
+                  },
+                  {
+                    "name": "event",
+                    "id": 12
+                  },
+                  {
+                    "name": "Other",
+                    "id": 48
+                  }
+                ],
+                "in_headline": false,
+                "freebase_mid": "m.0c4ys",
+                "score": 0.6549,
+                "disambiguator": "Award",
+                "type": "Entity",
+                "id": 3702210
+              },
+              {
+                "hits": [
+                  {
+                    "field": "Body",
+                    "length": 26,
+                    "offset": 602
+                  }
+                ],
+                "name": "Saving All My Love for You",
+                "node_types": [
+                  {
+                    "name": "Other",
+                    "id": 48
+                  },
+                  {
+                    "name": "musicWork",
+                    "id": 8
+                  }
+                ],
+                "in_headline": false,
+                "freebase_mid": "m.06q7my",
+                "score": 0.5704,
+                "disambiguator": "Song",
+                "type": "Entity",
+                "id": 3745466
+              },
+              {
+                "name": "Arts and Entertainment",
+                "score": 1,
+                "most_granular": true,
+                "disambiguator": "Subject",
+                "type": "Subject",
+                "id": 979432
+              }
+            ]
+          },
+          "provider": null,
+          "license_id": "16",
+          "slideshow_images_count": 0,
+          "store": [],
+          "slideshow_count": 0,
+          "tags": [],
+          "plain_text": "LOS ANGELES, CA - The Academy of Television Arts & Sciences sued Whitney Houston's estate and a Beverly Hills auction house today to block an upcoming sale of the late singer's Emmy trophy. \nThe academy, which presents the Emmy Awards, contends it owns the rights to the trophies, and that the statuettes are nontransferable. \nHeirs can continue to keep the award \"to symbolize the achievements of the deceased honorees,\" but the statuettes cannot be sold, according to the suit filed in Los Angeles federal court. \nHouston, who died in 2012, won the Emmy in 1986 in recognition of her performance of \"Saving All My Love for You\" at a televised Grammy ceremony. \nAlso named in the suit is Heritage Auctions, which is presenting a two- day auction Friday of Houston's possessions. \nThe auction is authorized by the late songbird's family. \n\"If Heritage's highly publicized auction is allowed to go forward, it will undermine the prestige of the Emmy Award and tarnish the Television Academy's reputation, leaving the impression that the highest honor in the television industry is a commodity available for sale to the highest bidder,\" the academy wrote in the suit. \nA message left with a Heritage spokeswoman was not immediately answered and attempts to reach a representative of Houston's estate were unsuccessful. \nHouston, 48, was found dead Feb. 11, 2012, in her room at the Beverly Hilton, the weekend of that year's Grammy Awards. \n",
+          "link": "http://patch.com/california/culvercity/s/fsq3m/whitney-houstons-estate-sued-over-planned-auction-of-emmy?utm_source=article-mostrecent&utm_medium=rss&utm_term=arts%20&%20entertainment&utm_campaign=recirc&utm_content=aol",
+          "content_type": "content",
+          "categories": [],
+          "lang": "en",
+          "video_count": 0,
+          "profane": false,
+          "crawled": "2016-06-25T07:41:20.671709",
+          "author": {
+            "type": "16",
+            "name": "California Patch (Patch Staff)",
+            "id": null
+          },
+          "summary": null,
+          "source": {
+            "title": "Culver City Patch",
+            "zipcode": "90066",
+            "location": {
+              "lat": 34.00201,
+              "lon": -118.430832
+            },
+            "groups": [
+              3,
+              7
+            ],
+            "publisher_id": null,
+            "id": "vKLhn6"
+          },
+          "published": "2016-06-25T07:33:04.800000+00:00",
+          "image_count": 2
+        }
+      ]
+    },
+    "746387733730476032": {
+      "articles": [
+        {
+          "content_length": 907,
+          "updated": "2016-06-25T06:45:38.684000+00:00",
+          "update_received": "2016-06-25T06:49:14.681378+00:00",
+          "crawled_ts": 1466837354681378000,
+          "content_hash": "mmh3-45255673219044470654382313145880944902",
+          "guid": "http://patch.com/california/manhattanbeach/s/fsqwa/hillary-clinton-coming-to-hollywood-tuesday?utm_source=article-mostrecent&utm_medium=rss&utm_term=politics%20&%20government&utm_campaign=recirc&utm_content=aol",
+          "id": "lXOPe1/1466837354681378000",
+          "snippet": "Hollywood, CA — Presumptive Democratic presidential nominee Hillary Clinton will participate in a town hall discussion with digital content creators in Hollywood on Tuesday, her campaign announced Friday.",
+          "title": "Hillary Clinton Coming to Hollywood Tuesday",
+          "media": {
+            "images": [
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://cdn20.patch.com/users/22880695/20160624/121821/styles/T800x600/public/article_images/hillary_clinton_photo_by_gage_skidmore_via_flickr.jpg",
+                "anchor_url": null,
+                "height": 600,
+                "credit": null,
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": "Link",
+                "title": null,
+                "caption": null,
+                "width": 800,
+                "provider_asset_id": null
+              },
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://cdn20.patch.com/users/22880695/20160624/121821/styles/T800x600/public/article_images/hillary_clinton_photo_by_gage_skidmore_via_flickr.jpg",
+                "anchor_url": null,
+                "height": 600,
+                "credit": null,
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": "OpenGraph",
+                "title": null,
+                "caption": null,
+                "width": 800,
+                "provider_asset_id": null
+              }
+            ]
+          },
+          "content": "Hollywood, CA — Presumptive Democratic presidential nominee Hillary Clinton will participate in a town hall discussion with digital content creators in Hollywood on Tuesday, her campaign announced Friday. \nParticipants will have the opportunity to engage in a conversation and ask the former secretary of state questions important to their communities and online audiences, according to the campaign. \nClinton is also scheduled to hold two Los Angeles-area fundraisers on Tuesday, a $2,700-per-person reception at the home of Napster co-founder and former Facebook president Sean Parker and his wife Alexandra, and a reception and dinner at the home of investor/philanthropist Marc Nathanson, founder of Falcon Cable, with prices ranging from $33,400 per couple to $100,000 per couple, according to an invitation obtained by City News Service. \nExact street closures and times have not yet been announced. \n",
+          "relegence": {
+            "topic": {
+              "heat": 0,
+              "id": 746387733730476032,
+              "document_count": 4,
+              "created": "2016-06-24T17:01:18+00:00"
+            },
+            "duplicate": [
+              {
+                "type": "Partial",
+                "original_doc_id": 746588518602035200
+              }
+            ],
+            "categories": [],
+            "tags": [
+              {
+                "hits": [
+                  {
+                    "field": "Title",
+                    "length": 15,
+                    "offset": 0
+                  },
+                  {
+                    "field": "Body",
+                    "length": 15,
+                    "offset": 60
+                  },
+                  {
+                    "field": "Body",
+                    "length": 7,
+                    "offset": 402
+                  }
+                ],
+                "name": "Hillary Rodham Clinton",
+                "node_types": [
+                  {
+                    "name": "TVPerson",
+                    "id": 44
+                  },
+                  {
+                    "name": "moviePerson",
+                    "id": 14
+                  },
+                  {
+                    "name": "Other",
+                    "id": 48
+                  },
+                  {
+                    "name": "politicsPerson",
+                    "id": 53
+                  },
+                  {
+                    "name": "musicPerson",
+                    "id": 6
+                  }
+                ],
+                "in_headline": true,
+                "freebase_mid": "m.0d06m5",
+                "score": 1,
+                "disambiguator": "Politics Person",
+                "type": "Entity",
+                "id": 3862709
+              },
+              {
+                "hits": [
+                  {
+                    "field": "Body",
+                    "length": 16,
+                    "offset": 440
+                  }
+                ],
+                "name": "Greater Los Angeles Area",
+                "node_types": [
+                  {
+                    "name": "location",
+                    "id": 30
+                  },
+                  {
+                    "name": "Other",
+                    "id": 48
+                  }
+                ],
+                "in_headline": false,
+                "freebase_mid": "m.0k_s5",
+                "score": 0.622,
+                "disambiguator": "Metropolitan Area",
+                "type": "Entity",
+                "id": 3460024
+              },
+              {
+                "hits": [
+                  {
+                    "field": "Body",
+                    "length": 7,
+                    "offset": 526
+                  }
+                ],
+                "name": "Napster",
+                "node_types": [
+                  {
+                    "name": "company",
+                    "id": 47
+                  },
+                  {
+                    "name": "Other",
+                    "id": 48
+                  },
+                  {
+                    "name": "product",
+                    "id": 87
+                  }
+                ],
+                "in_headline": false,
+                "freebase_mid": "m.055ps1",
+                "score": 0.622,
+                "disambiguator": "pay service",
+                "type": "Entity",
+                "id": 3657275
+              },
+              {
+                "hits": [
+                  {
+                    "field": "Body",
+                    "length": 8,
+                    "offset": 556
+                  }
+                ],
+                "name": "Facebook",
+                "node_types": [
+                  {
+                    "name": "Other",
+                    "id": 48
+                  },
+                  {
+                    "name": "socialNetworkCompany",
+                    "id": 178
+                  },
+                  {
+                    "name": "product",
+                    "id": 87
+                  }
+                ],
+                "in_headline": false,
+                "freebase_mid": "m.0jwq95q",
+                "score": 0.622,
+                "disambiguator": "Company",
+                "type": "Entity",
+                "id": 4019410
+              },
+              {
+                "hits": [
+                  {
+                    "field": "Body",
+                    "length": 11,
+                    "offset": 575
+                  }
+                ],
+                "name": "Sean Parker",
+                "node_types": [
+                  {
+                    "name": "businessPerson",
+                    "id": 88
+                  }
+                ],
+                "in_headline": false,
+                "freebase_mid": null,
+                "score": 0.622,
+                "disambiguator": "Business Person",
+                "type": "Entity",
+                "id": 4954318
+              },
+              {
+                "name": "Elections",
+                "score": 1,
+                "most_granular": false,
+                "disambiguator": "News and Politics",
+                "type": "Subject",
+                "id": 979364
+              },
+              {
+                "name": "News and Politics",
+                "score": 1,
+                "most_granular": false,
+                "disambiguator": "Subject",
+                "type": "Subject",
+                "id": 981525
+              },
+              {
+                "name": "Politics",
+                "score": 1,
+                "most_granular": false,
+                "disambiguator": "News and Politics",
+                "type": "Subject",
+                "id": 982065
+              },
+              {
+                "name": "U.S. Presidential Elections",
+                "score": 1,
+                "most_granular": true,
+                "disambiguator": "Politics",
+                "type": "Subject",
+                "id": 6258423
+              },
+              {
+                "name": "Law, Government and Politics",
+                "score": 1,
+                "most_granular": false,
+                "disambiguator": "News and Politics",
+                "type": "Subject",
+                "id": 6378649
+              },
+              {
+                "name": "Democratic Politics",
+                "score": 0.8851425,
+                "most_granular": true,
+                "disambiguator": "News and Politics",
+                "type": "Subject",
+                "id": 4944926
+              },
+              {
+                "name": "U.S. Politics",
+                "score": 0.8851425,
+                "most_granular": false,
+                "disambiguator": "News and Politics",
+                "type": "Subject",
+                "id": 6310529
+              }
+            ]
+          },
+          "provider": null,
+          "license_id": "16",
+          "slideshow_images_count": 0,
+          "store": [],
+          "slideshow_count": 0,
+          "tags": [],
+          "plain_text": "Hollywood, CA — Presumptive Democratic presidential nominee Hillary Clinton will participate in a town hall discussion with digital content creators in Hollywood on Tuesday, her campaign announced Friday. \nParticipants will have the opportunity to engage in a conversation and ask the former secretary of state questions important to their communities and online audiences, according to the campaign. \nClinton is also scheduled to hold two Los Angeles-area fundraisers on Tuesday, a $2,700-per-person reception at the home of Napster co-founder and former Facebook president Sean Parker and his wife Alexandra, and a reception and dinner at the home of investor/philanthropist Marc Nathanson, founder of Falcon Cable, with prices ranging from $33,400 per couple to $100,000 per couple, according to an invitation obtained by City News Service. \nExact street closures and times have not yet been announced. \n",
+          "link": "http://patch.com/california/manhattanbeach/s/fsqwa/hillary-clinton-coming-to-hollywood-tuesday?utm_source=article-mostrecent&utm_medium=rss&utm_term=politics%20&%20government&utm_campaign=recirc&utm_content=aol",
+          "content_type": "content",
+          "categories": [],
+          "lang": "en",
+          "video_count": 0,
+          "profane": false,
+          "crawled": "2016-06-25T06:49:14.681378",
+          "author": {
+            "type": "16",
+            "name": "California Patch (Patch Staff)",
+            "id": null
+          },
+          "summary": null,
+          "source": {
+            "title": "Manhattan Beach Patch",
+            "zipcode": "90250",
+            "location": {
+              "lat": 33.914616,
+              "lon": -118.350922
+            },
+            "groups": [
+              3,
+              7
+            ],
+            "publisher_id": null,
+            "id": "lXOPe1"
+          },
+          "published": "2016-06-25T06:45:38.684000+00:00",
+          "image_count": 2
+        }
+      ]
+    },
+    "746578197028401152": {
+      "articles": [
+        {
+          "content_length": 2131,
+          "updated": "2016-06-25T05:37:06.632000+00:00",
+          "update_received": "2016-06-25T05:38:07.507004+00:00",
+          "crawled_ts": 1466833087507004000,
+          "content_hash": "mmh3-147545470706440071592909374265310305455",
+          "guid": "http://patch.com/california/venice/s/fsrf2/california-wildfire-wrap-2-killed-as-4-500-fight-6-large-fires?utm_source=article-mostrecent&utm_medium=rss&utm_term=police%20&%20fire&utm_campaign=recirc&utm_content=aol",
+          "id": "Z8cOzT/1466833087507004000",
+          "snippet": "Thousands of firefighters are working around the clock to battle six major wildfires in California.",
+          "title": "California Wildfire Wrap: 2 Killed as 4,500 Fight 6 Large Fires",
+          "media": {
+            "images": [
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://cdn20.patch.com/users/1396761/20160624/033832/styles/T800x600/public/article_images/fire_cal_fire_firefighters_generic_by_renee.jpg",
+                "anchor_url": null,
+                "height": 600,
+                "credit": null,
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": "Link",
+                "title": null,
+                "caption": null,
+                "width": 800,
+                "provider_asset_id": null
+              },
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://cdn20.patch.com/users/1396761/20160624/033832/styles/T800x600/public/article_images/fire_cal_fire_firefighters_generic_by_renee.jpg",
+                "anchor_url": null,
+                "height": 600,
+                "credit": null,
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": "OpenGraph",
+                "title": null,
+                "caption": null,
+                "width": 800,
+                "provider_asset_id": null
+              },
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://cdn20.patch.com/inline_images/1396761/1466794881.jpeg",
+                "anchor_url": null,
+                "height": 300,
+                "credit": null,
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": "Img",
+                "title": null,
+                "caption": null,
+                "width": 300,
+                "provider_asset_id": null
+              },
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://cdn20.patch.com/inline_images/1396761/1466795198.jpg",
+                "anchor_url": null,
+                "height": 450,
+                "credit": null,
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": "Img",
+                "title": null,
+                "caption": null,
+                "width": 600,
+                "provider_asset_id": null
+              },
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://cdn20.patch.com/inline_images/1396761/1466795731.jpeg",
+                "anchor_url": null,
+                "height": 361,
+                "credit": null,
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": "Img",
+                "title": null,
+                "caption": null,
+                "width": 640,
+                "provider_asset_id": null
+              }
+            ]
+          },
+          "content": "Thousands of firefighters are working around the clock to battle six major wildfires in California. And just as crews are making progress on containing many of them, the newest fire is quickly becoming the largest and most damaging of them all. \nThe now-deadly Erskine Fire near Lake Isabella in Kern County broke out Thursday afternoon and has already burned nearly 20,000 acres and approximately 100 structures. Firefighters estimate another 1,500 are threatened and confirm that at least two people have been killed. \nThe Sherpa Fire in Santa Barbara County was first reported on June 15, north of Goleta, Camino and Cielo ridges. That blaze is now considered 93 percent contained after burning an estimated 7,474 acres. \nDown in San Diego County, firefighters continue to strengthen and secure containment lines at the Border Fire , which broke out Sunday. That fire was 7,483 acres in size and 45 percent contained Friday afternoon, according to Cal Fire. \nThe San Gabriel Complex Fire in Los Angeles County, which first broke out Monday, has burned a combined 5,267 acres and was 30 percent contained Friday morning. Hundreds of residents were initially evacuated in that incident but were finally given the all-clear to return home Friday. \nThe Pony Fire is burning in the northernmost part of the state. That one broke out back on June 7 and is considered 60 percent contained at 2,858 acres as of Friday, according to U.S. Forest Service officials. \nAn estimated 200 acres of pinyon and brush have burned in the Marina Fire, located in the Yosemite National Park area, in Mono County. That fire was first reported Friday morning, and already \"numerous\" firefighting resources are being routed to the incident, according to the Forest Service. \n\"With the weekend approaching CAL FIRE is again urging the public to be extra careful with outdoor activities,\" Calfire officials said Friday. \"Whether it’s camping, barbequing, or off-road driving, conditions are ripe for a simple spark to ignite a wildfire. One Less Spark means One Less Wildfire.\" \nCalfire offers fire preparedness safety tips for all California residents: \n",
+          "relegence": {
+            "topic": {
+              "heat": 0,
+              "id": 746578197028401152,
+              "document_count": 1,
+              "created": "2016-06-25T05:38:07+00:00"
+            },
+            "duplicate": [
+              {
+                "type": "Partial",
+                "original_doc_id": 746459367972728832
+              }
+            ],
+            "categories": [
+              {
+                "name": "U.S.",
+                "id": 146
+              }
+            ],
+            "tags": [
+              {
+                "hits": [
+                  {
+                    "field": "Body",
+                    "length": 20,
+                    "offset": 540
+                  }
+                ],
+                "name": "Santa Barbara County, California",
+                "node_types": [
+                  {
+                    "name": "location",
+                    "id": 30
+                  },
+                  {
+                    "name": "Other",
+                    "id": 48
+                  }
+                ],
+                "in_headline": false,
+                "freebase_mid": "m.0l2wt",
+                "score": 1,
+                "disambiguator": "Location",
+                "type": "Entity",
+                "id": 3460114
+              },
+              {
+                "hits": [
+                  {
+                    "field": "Body",
+                    "length": 18,
+                    "offset": 994
+                  }
+                ],
+                "name": "Los Angeles County, California",
+                "node_types": [
+                  {
+                    "name": "location",
+                    "id": 30
+                  },
+                  {
+                    "name": "Other",
+                    "id": 48
+                  }
+                ],
+                "in_headline": false,
+                "freebase_mid": "m.0kpys",
+                "score": 1,
+                "disambiguator": "Location",
+                "type": "Entity",
+                "id": 3477980
+              },
+              {
+                "hits": [
+                  {
+                    "field": "Body",
+                    "length": 11,
+                    "offset": 296
+                  }
+                ],
+                "name": "Kern County, California",
+                "node_types": [
+                  {
+                    "name": "location",
+                    "id": 30
+                  },
+                  {
+                    "name": "Other",
+                    "id": 48
+                  }
+                ],
+                "in_headline": false,
+                "freebase_mid": "m.0kv5t",
+                "score": 1,
+                "disambiguator": "Location",
+                "type": "Entity",
+                "id": 3478361
+              },
+              {
+                "hits": [
+                  {
+                    "field": "Body",
+                    "length": 16,
+                    "offset": 733
+                  }
+                ],
+                "name": "San Diego County, California",
+                "node_types": [
+                  {
+                    "name": "location",
+                    "id": 30
+                  },
+                  {
+                    "name": "Other",
+                    "id": 48
+                  }
+                ],
+                "in_headline": false,
+                "freebase_mid": "m.0l2rj",
+                "score": 1,
+                "disambiguator": "Location",
+                "type": "Entity",
+                "id": 4242411
+              },
+              {
+                "hits": [
+                  {
+                    "field": "Body",
+                    "length": 11,
+                    "offset": 1581
+                  }
+                ],
+                "name": "Mono County, California",
+                "node_types": [
+                  {
+                    "name": "Other",
+                    "id": 48
+                  },
+                  {
+                    "name": "county",
+                    "id": 34
+                  }
+                ],
+                "in_headline": false,
+                "freebase_mid": "m.0l2l3",
+                "score": 1,
+                "disambiguator": "County(US)",
+                "type": "Entity",
+                "id": 4263859
+              },
+              {
+                "hits": [
+                  {
+                    "field": "Title",
+                    "length": 10,
+                    "offset": 0
+                  },
+                  {
+                    "field": "Body",
+                    "length": 10,
+                    "offset": 88
+                  },
+                  {
+                    "field": "Body",
+                    "length": 10,
+                    "offset": 2108
+                  }
+                ],
+                "name": "California",
+                "node_types": [
+                  {
+                    "name": "location",
+                    "id": 30
+                  },
+                  {
+                    "name": "state",
+                    "id": 32
+                  },
+                  {
+                    "name": "Other",
+                    "id": 48
+                  }
+                ],
+                "in_headline": true,
+                "freebase_mid": "m.01n7q",
+                "score": 0.8942,
+                "disambiguator": "U.S. state",
+                "type": "Entity",
+                "id": 3448007
+              },
+              {
+                "hits": [
+                  {
+                    "field": "Body",
+                    "length": 8,
+                    "offset": 951
+                  },
+                  {
+                    "field": "Body",
+                    "length": 8,
+                    "offset": 1783
+                  },
+                  {
+                    "field": "Body",
+                    "length": 7,
+                    "offset": 1865
+                  },
+                  {
+                    "field": "Body",
+                    "length": 7,
+                    "offset": 2055
+                  }
+                ],
+                "name": "California Department of Forestry and Fire Protection",
+                "node_types": [
+                  {
+                    "name": "Other",
+                    "id": 48
+                  },
+                  {
+                    "name": "group",
+                    "id": 2
+                  }
+                ],
+                "in_headline": false,
+                "freebase_mid": "m.0cq6qv",
+                "score": 0.8846,
+                "disambiguator": "fire department",
+                "type": "Entity",
+                "id": 3919710
+              },
+              {
+                "hits": [
+                  {
+                    "field": "Body",
+                    "length": 19,
+                    "offset": 1427
+                  }
+                ],
+                "name": "United States Forest Service",
+                "node_types": [
+                  {
+                    "name": "Other",
+                    "id": 48
+                  },
+                  {
+                    "name": "politicsGroup",
+                    "id": 135
+                  }
+                ],
+                "in_headline": false,
+                "freebase_mid": "m.0bqc_",
+                "score": 0.6923,
+                "disambiguator": "Government Agency",
+                "type": "Entity",
+                "id": 3701379
+              },
+              {
+                "hits": [
+                  {
+                    "field": "Body",
+                    "length": 13,
+                    "offset": 279
+                  }
+                ],
+                "name": "Lake Isabella",
+                "node_types": [
+                  {
+                    "name": "location",
+                    "id": 30
+                  },
+                  {
+                    "name": "Other",
+                    "id": 48
+                  }
+                ],
+                "in_headline": false,
+                "freebase_mid": "m.03tvxj",
+                "score": 0.6154,
+                "disambiguator": "Lake",
+                "type": "Entity",
+                "id": 3463372
+              },
+              {
+                "hits": [
+                  {
+                    "field": "Body",
+                    "length": 22,
+                    "offset": 1549
+                  }
+                ],
+                "name": "Yosemite National Park",
+                "node_types": [
+                  {
+                    "name": "location",
+                    "id": 30
+                  },
+                  {
+                    "name": "Other",
+                    "id": 48
+                  }
+                ],
+                "in_headline": false,
+                "freebase_mid": "m.0c_y8",
+                "score": 0.5962,
+                "disambiguator": "Location(Protected Area)",
+                "type": "Entity",
+                "id": 3468475
+              },
+              {
+                "name": "U.S. News",
+                "score": 1,
+                "most_granular": true,
+                "disambiguator": "News and Politics",
+                "type": "Subject",
+                "id": 981465
+              },
+              {
+                "name": "Natural Disasters",
+                "score": 1,
+                "most_granular": false,
+                "disambiguator": "News and Politics",
+                "type": "Subject",
+                "id": 981469
+              },
+              {
+                "name": "News",
+                "score": 1,
+                "most_granular": false,
+                "disambiguator": "News and Politics",
+                "type": "Subject",
+                "id": 981523
+              },
+              {
+                "name": "News and Politics",
+                "score": 1,
+                "most_granular": false,
+                "disambiguator": "Subject",
+                "type": "Subject",
+                "id": 981525
+              },
+              {
+                "name": "Wildfire",
+                "score": 1,
+                "most_granular": true,
+                "disambiguator": "News and Politics",
+                "type": "Subject",
+                "id": 4941961
+              },
+              {
+                "name": "Disasters",
+                "score": 1,
+                "most_granular": false,
+                "disambiguator": "News and Politics",
+                "type": "Subject",
+                "id": 4941963
+              },
+              {
+                "name": "Biological Sciences",
+                "score": 0.68,
+                "most_granular": true,
+                "disambiguator": "Science and Technology",
+                "type": "Subject",
+                "id": 978094
+              },
+              {
+                "name": "Science",
+                "score": 0.68,
+                "most_granular": false,
+                "disambiguator": "Science and Technology",
+                "type": "Subject",
+                "id": 982661
+              },
+              {
+                "name": "Science and Technology",
+                "score": 0.68,
+                "most_granular": false,
+                "disambiguator": "Subject",
+                "type": "Subject",
+                "id": 982665
+              }
+            ]
+          },
+          "provider": null,
+          "license_id": "16",
+          "slideshow_images_count": 0,
+          "store": [],
+          "slideshow_count": 0,
+          "tags": [],
+          "plain_text": "Thousands of firefighters are working around the clock to battle six major wildfires in California. And just as crews are making progress on containing many of them, the newest fire is quickly becoming the largest and most damaging of them all. \nThe now-deadly Erskine Fire near Lake Isabella in Kern County broke out Thursday afternoon and has already burned nearly 20,000 acres and approximately 100 structures. Firefighters estimate another 1,500 are threatened and confirm that at least two people have been killed. \nThe Sherpa Fire in Santa Barbara County was first reported on June 15, north of Goleta, Camino and Cielo ridges. That blaze is now considered 93 percent contained after burning an estimated 7,474 acres. \nDown in San Diego County, firefighters continue to strengthen and secure containment lines at the Border Fire , which broke out Sunday. That fire was 7,483 acres in size and 45 percent contained Friday afternoon, according to Cal Fire. \nThe San Gabriel Complex Fire in Los Angeles County, which first broke out Monday, has burned a combined 5,267 acres and was 30 percent contained Friday morning. Hundreds of residents were initially evacuated in that incident but were finally given the all-clear to return home Friday. \nThe Pony Fire is burning in the northernmost part of the state. That one broke out back on June 7 and is considered 60 percent contained at 2,858 acres as of Friday, according to U.S. Forest Service officials. \nAn estimated 200 acres of pinyon and brush have burned in the Marina Fire, located in the Yosemite National Park area, in Mono County. That fire was first reported Friday morning, and already \"numerous\" firefighting resources are being routed to the incident, according to the Forest Service. \n\"With the weekend approaching CAL FIRE is again urging the public to be extra careful with outdoor activities,\" Calfire officials said Friday. \"Whether it’s camping, barbequing, or off-road driving, conditions are ripe for a simple spark to ignite a wildfire. One Less Spark means One Less Wildfire.\" \nCalfire offers fire preparedness safety tips for all California residents: \n",
+          "link": "http://patch.com/california/venice/s/fsrf2/california-wildfire-wrap-2-killed-as-4-500-fight-6-large-fires?utm_source=article-mostrecent&utm_medium=rss&utm_term=police%20&%20fire&utm_campaign=recirc&utm_content=aol",
+          "content_type": "content",
+          "categories": [],
+          "lang": "en",
+          "video_count": 0,
+          "profane": false,
+          "crawled": "2016-06-25T05:38:07.507004",
+          "author": {
+            "type": "16",
+            "name": "Renee Schiavone (Patch Staff)",
+            "id": null
+          },
+          "summary": null,
+          "source": {
+            "title": "Venice-mar Vista Patch",
+            "zipcode": "90066",
+            "location": {
+              "lat": 34.00201,
+              "lon": -118.430832
+            },
+            "groups": [
+              3,
+              7
+            ],
+            "publisher_id": null,
+            "id": "Z8cOzT"
+          },
+          "published": "2016-06-25T05:37:06.632000+00:00",
+          "image_count": 5
+        }
+      ]
+    },
+    "746478212346200064": {
+      "articles": [
+        {
+          "content_length": 1895,
+          "updated": "2016-06-25T05:36:50.038000+00:00",
+          "update_received": "2016-06-25T05:38:07.503349+00:00",
+          "crawled_ts": 1466833087503349000,
+          "content_hash": "mmh3-224908264483941483579904339741604483825",
+          "guid": "http://patch.com/california/venice/s/fsrkc/socal-u-s-attorneys-office-forms-civil-rights-section?utm_source=article-mostrecent&utm_medium=rss&utm_term=politics%20&%20government&utm_campaign=recirc&utm_content=aol",
+          "id": "Z8cOzT/1466833087503349000",
+          "snippet": "Federal prosecutors in Los Angeles announced Thursday the creation of a Civil Rights Section within the U.S. Attorney’s Office to focus exclusively on enforcement of federal civil rights laws, including statutes prohibiting discrimination on the basis of race, color, sex, disability, religion, familial status and national origin.",
+          "title": "SoCal U.S. Attorney's Office Forms Civil Rights Section",
+          "media": {
+            "images": [
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://cdn20.patch.com/users/22880693/20160624/051422/styles/T800x600/public/article_images/seal_of_the_united_states_department_of_justice.jpg",
+                "anchor_url": null,
+                "height": 600,
+                "credit": null,
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": "Link",
+                "title": null,
+                "caption": null,
+                "width": 800,
+                "provider_asset_id": null
+              },
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://cdn20.patch.com/users/22880693/20160624/051422/styles/T800x600/public/article_images/seal_of_the_united_states_department_of_justice.jpg",
+                "anchor_url": null,
+                "height": 600,
+                "credit": null,
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": "OpenGraph",
+                "title": null,
+                "caption": null,
+                "width": 800,
+                "provider_asset_id": null
+              }
+            ]
+          },
+          "content": "Federal prosecutors in Los Angeles announced Thursday the creation of a Civil Rights Section within the U.S. Attorney’s Office to focus exclusively on enforcement of federal civil rights laws, including statutes prohibiting discrimination on the basis of race, color, sex, disability, religion, familial status and national origin. \n“My office is committed to protecting the civil rights of every single resident in our district,” U.S. Attorney Eileen M. Decker said. “The formation of the Civil Rights Section will increase our capacity to address civil rights complaints and enhance our community engagement on these issues. Protecting these rights, and especially those of our most vulnerable residents, is one of my top priorities.” \nThe newly formed section — headed by Assistant U.S. Attorney Joanna Hull — will focus on enforcing federal laws that prohibit discrimination and harassment on the basis of race, color, sex, disability, religion, familial status and national origin; prohibit police misconduct; protect the constitutional rights of institutionalized persons; protect the employment rights of individuals serving in our armed services; and prohibit discrimination in housing and lending. \nThe section will also focus on increasing community outreach on these issues. \nThis week, more than three dozen assistant U.S. attorneys from across the country who handle affirmative civil rights enforcement matters are in Los Angeles for training. The training will provide prosecutors with in-depth instruction on various civil rights enforcement topics. \nThe U.S. Attorney’s Office for the Central District of California serves residents in the counties of Los Angeles, Orange, Riverside, San Bernardino, Ventura, Santa Barbara and San Luis Obispo. The Central District of California, with a population of more than 19 million people, is the largest federal district in the nation. \n",
+          "relegence": {
+            "topic": {
+              "heat": 0,
+              "id": 746478212346200064,
+              "document_count": 1,
+              "created": "2016-06-24T23:00:49+00:00"
+            },
+            "duplicate": [
+              {
+                "type": "Partial",
+                "original_doc_id": 746478212346200064
+              }
+            ],
+            "categories": [
+              {
+                "name": "U.S.",
+                "id": 146
+              }
+            ],
+            "tags": [
+              {
+                "hits": [
+                  {
+                    "field": "Title",
+                    "length": 22,
+                    "offset": 6
+                  },
+                  {
+                    "field": "Body",
+                    "length": 19,
+                    "offset": 0
+                  },
+                  {
+                    "field": "Body",
+                    "length": 22,
+                    "offset": 104
+                  },
+                  {
+                    "field": "Body",
+                    "length": 14,
+                    "offset": 1330
+                  }
+                ],
+                "name": "United States Attorney",
+                "node_types": [
+                  {
+                    "name": "Other",
+                    "id": 48
+                  }
+                ],
+                "in_headline": true,
+                "freebase_mid": "m.0294qn",
+                "score": 1,
+                "disambiguator": "",
+                "type": "Entity",
+                "id": 3604053
+              },
+              {
+                "hits": [
+                  {
+                    "field": "Body",
+                    "length": 11,
+                    "offset": 23
+                  },
+                  {
+                    "field": "Body",
+                    "length": 11,
+                    "offset": 1432
+                  },
+                  {
+                    "field": "Body",
+                    "length": 11,
+                    "offset": 1669
+                  }
+                ],
+                "name": "Los Angeles",
+                "node_types": [
+                  {
+                    "name": "Other",
+                    "id": 48
+                  },
+                  {
+                    "name": "city",
+                    "id": 33
+                  }
+                ],
+                "in_headline": false,
+                "freebase_mid": "m.030qb3t",
+                "score": 0.7787,
+                "disambiguator": "City",
+                "type": "Entity",
+                "id": 3688445
+              },
+              {
+                "hits": [
+                  {
+                    "field": "Body",
+                    "length": 14,
+                    "offset": 1701
+                  }
+                ],
+                "name": "San Bernardino, California",
+                "node_types": [
+                  {
+                    "name": "location",
+                    "id": 30
+                  },
+                  {
+                    "name": "Other",
+                    "id": 48
+                  },
+                  {
+                    "name": "city",
+                    "id": 33
+                  }
+                ],
+                "in_headline": false,
+                "freebase_mid": "m.0r4qq",
+                "score": 0.6639,
+                "disambiguator": "Location",
+                "type": "Entity",
+                "id": 3483236
+              },
+              {
+                "hits": [
+                  {
+                    "field": "Body",
+                    "length": 15,
+                    "offset": 1744
+                  }
+                ],
+                "name": "San Luis Obispo, California",
+                "node_types": [
+                  {
+                    "name": "location",
+                    "id": 30
+                  },
+                  {
+                    "name": "Other",
+                    "id": 48
+                  },
+                  {
+                    "name": "city",
+                    "id": 33
+                  }
+                ],
+                "in_headline": false,
+                "freebase_mid": "m.0r5lz",
+                "score": 0.6639,
+                "disambiguator": "Location",
+                "type": "Entity",
+                "id": 3490165
+              },
+              {
+                "hits": [
+                  {
+                    "field": "Body",
+                    "length": 30,
+                    "offset": 1602
+                  }
+                ],
+                "name": "United States District Court for the Central District of California",
+                "node_types": [
+                  {
+                    "name": "Other",
+                    "id": 48
+                  },
+                  {
+                    "name": "group",
+                    "id": 2
+                  }
+                ],
+                "in_headline": false,
+                "freebase_mid": "m.03j9q_",
+                "score": 0.6639,
+                "disambiguator": "District Court(US)",
+                "type": "Entity",
+                "id": 3517116
+              },
+              {
+                "hits": [
+                  {
+                    "field": "Body",
+                    "length": 13,
+                    "offset": 1726
+                  }
+                ],
+                "name": "Santa Barbara, California",
+                "node_types": [
+                  {
+                    "name": "location",
+                    "id": 30
+                  },
+                  {
+                    "name": "Other",
+                    "id": 48
+                  },
+                  {
+                    "name": "city",
+                    "id": 33
+                  }
+                ],
+                "in_headline": false,
+                "freebase_mid": "m.0r62v",
+                "score": 0.582,
+                "disambiguator": "Location",
+                "type": "Entity",
+                "id": 3485889
+              },
+              {
+                "name": "Law",
+                "score": 1,
+                "most_granular": false,
+                "disambiguator": "News and Politics",
+                "type": "Subject",
+                "id": 980826
+              },
+              {
+                "name": "U.S. News",
+                "score": 1,
+                "most_granular": true,
+                "disambiguator": "News and Politics",
+                "type": "Subject",
+                "id": 981465
+              },
+              {
+                "name": "News",
+                "score": 1,
+                "most_granular": false,
+                "disambiguator": "News and Politics",
+                "type": "Subject",
+                "id": 981523
+              },
+              {
+                "name": "News and Politics",
+                "score": 1,
+                "most_granular": false,
+                "disambiguator": "Subject",
+                "type": "Subject",
+                "id": 981525
+              },
+              {
+                "name": "Law, Government and Politics",
+                "score": 1,
+                "most_granular": false,
+                "disambiguator": "News and Politics",
+                "type": "Subject",
+                "id": 6378649
+              },
+              {
+                "name": "Legal Issues",
+                "score": 1,
+                "most_granular": true,
+                "disambiguator": "News and Politics",
+                "type": "Subject",
+                "id": 6378650
+              },
+              {
+                "name": "Politics",
+                "score": 0.9394433,
+                "most_granular": false,
+                "disambiguator": "News and Politics",
+                "type": "Subject",
+                "id": 982065
+              },
+              {
+                "name": "Civil Rights",
+                "score": 0.89706916,
+                "most_granular": true,
+                "disambiguator": "News and Politics",
+                "type": "Subject",
+                "id": 978641
+              },
+              {
+                "name": "Political Issues",
+                "score": 0.89706916,
+                "most_granular": false,
+                "disambiguator": "Politics",
+                "type": "Subject",
+                "id": 6258425
+              }
+            ]
+          },
+          "provider": null,
+          "license_id": "16",
+          "slideshow_images_count": 0,
+          "store": [],
+          "slideshow_count": 0,
+          "tags": [],
+          "plain_text": "Federal prosecutors in Los Angeles announced Thursday the creation of a Civil Rights Section within the U.S. Attorney’s Office to focus exclusively on enforcement of federal civil rights laws, including statutes prohibiting discrimination on the basis of race, color, sex, disability, religion, familial status and national origin. \n“My office is committed to protecting the civil rights of every single resident in our district,” U.S. Attorney Eileen M. Decker said. “The formation of the Civil Rights Section will increase our capacity to address civil rights complaints and enhance our community engagement on these issues. Protecting these rights, and especially those of our most vulnerable residents, is one of my top priorities.” \nThe newly formed section — headed by Assistant U.S. Attorney Joanna Hull — will focus on enforcing federal laws that prohibit discrimination and harassment on the basis of race, color, sex, disability, religion, familial status and national origin; prohibit police misconduct; protect the constitutional rights of institutionalized persons; protect the employment rights of individuals serving in our armed services; and prohibit discrimination in housing and lending. \nThe section will also focus on increasing community outreach on these issues. \nThis week, more than three dozen assistant U.S. attorneys from across the country who handle affirmative civil rights enforcement matters are in Los Angeles for training. The training will provide prosecutors with in-depth instruction on various civil rights enforcement topics. \nThe U.S. Attorney’s Office for the Central District of California serves residents in the counties of Los Angeles, Orange, Riverside, San Bernardino, Ventura, Santa Barbara and San Luis Obispo. The Central District of California, with a population of more than 19 million people, is the largest federal district in the nation. \n",
+          "link": "http://patch.com/california/venice/s/fsrkc/socal-u-s-attorneys-office-forms-civil-rights-section?utm_source=article-mostrecent&utm_medium=rss&utm_term=politics%20&%20government&utm_campaign=recirc&utm_content=aol",
+          "content_type": "content",
+          "categories": [],
+          "lang": "en",
+          "video_count": 0,
+          "profane": false,
+          "crawled": "2016-06-25T05:38:07.503349",
+          "author": {
+            "type": "16",
+            "name": "PATCH SOCAL (Patch Staff)",
+            "id": null
+          },
+          "summary": null,
+          "source": {
+            "title": "Venice-mar Vista Patch",
+            "zipcode": "90066",
+            "location": {
+              "lat": 34.00201,
+              "lon": -118.430832
+            },
+            "groups": [
+              3,
+              7
+            ],
+            "publisher_id": null,
+            "id": "Z8cOzT"
+          },
+          "published": "2016-06-25T05:36:50.038000+00:00",
+          "image_count": 2
+        }
+      ]
+    },
+    "746410634967531520": {
+      "articles": [
+        {
+          "content_length": 2377,
+          "updated": "2016-06-25T02:12:37.917000+00:00",
+          "update_received": "2016-06-25T02:17:16.040323+00:00",
+          "crawled_ts": 1466821036040323000,
+          "content_hash": "mmh3-183014521554975620595527760126236102708",
+          "guid": "http://patch.com/california/marinadelrey/s/fsr2q/la-zoo-offers-week-long-summer-camps-for-kids?utm_source=article-mostrecent&utm_medium=rss&utm_term=kids%20&%20family%20&utm_campaign=recirc&utm_content=aol",
+          "id": "6AB_yz/1466821036040323000",
+          "snippet": "Looking for a way to keep your kids busy this summer?",
+          "title": "LA Zoo Offers Week Long Summer Camps for Kids",
+          "media": {
+            "images": [
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://cdn20.patch.com/users/21854731/20160624/015740/styles/T800x600/public/article_images/los_angeles_zoo_0.jpeg",
+                "anchor_url": null,
+                "height": 600,
+                "credit": null,
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": "Link",
+                "title": null,
+                "caption": null,
+                "width": 800,
+                "provider_asset_id": null
+              },
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://cdn20.patch.com/users/21854731/20160624/015740/styles/T800x600/public/article_images/los_angeles_zoo_0.jpeg",
+                "anchor_url": null,
+                "height": 600,
+                "credit": null,
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": "OpenGraph",
+                "title": null,
+                "caption": null,
+                "width": 800,
+                "provider_asset_id": null
+              }
+            ]
+          },
+          "content": "Looking for a way to keep your kids busy this summer? The Los Angeles Zoo and Botanical Gardens offers week long Summer Zoo Camps through August 12. \nChildren are separated by age groups and the theme changes each week. \nThe camps operate Monday - Friday, 9 a.m. - 3 p.m. The zoo also offers morning and afternoon extended care for working parents. \nAccording to the zoo, \"Your child will enjoy making new discoveries every day. Through fun, safe, engaging activities, your campers will trail blaze through the week. This adventure is something your child will never forget.\" \nFor the week of June 27 - July 1, the themes include: \nPre-K and K -- Apatosaurs to Zebra: Do you know the ABC’s of the animal kingdom? Join us for an alphabetastic week of camp as we let the Zoo’s animal residents (pre-historic to present) guide us from A-Z. Along the way, we’ll investigate what makes these animals awesome, fantastic and unique. * OR* Critter Jam: Can you boogie like bongo? Get funky like flamingo? Animals move in lots of different ways and you can too when you join us at the Zoo! This week we will move like some of our favorite animals and discover why they boogie, get funky, and jam to their own tune. \n1st - 3rd Grades -- Outback Adventures: Join us for a week long walkabout in the land down under! From the bush to a billabong, both blokes and sheilas will explore roos, crocs, koalas and all the other awesome Aussie animals and the island continent they call home. No worries mate – it will be big mobs of fun! * OR * Furrific Felines: Are you cat crazy? Can you swim like a tiger? Purr like a kitten, or roar like a lion? Find out how Zoo cats are just like our kitties at home and discover feline fundamentals of the cat’s world. \n4th - 6th Grades -- Zoorasic Park : Explore a world of living fossils…at the Los Angeles Zoo! Have a wild week encountering animal ancestors, modern dinosaurs, and plants from more than one million years ago. Come to Zoocamp and uncover the past right here in the present. * OR * Rebel Raptors: Get out your talons and rip into this week of Raptor camp! Whether it’s diving at top speeds to catch prey or building their nests on the edge of a cliff, we’ll discover what makes these feathered raptors the ultimate predators of the sky. \nThe cost is $280 per week for members and $310 per week for non-members. You may register online. \n",
+          "relegence": {
+            "topic": {
+              "heat": 0,
+              "id": 746410634967531520,
+              "document_count": 1,
+              "created": "2016-06-24T18:32:18+00:00"
+            },
+            "duplicate": [
+              {
+                "type": "Partial",
+                "original_doc_id": 746410634967531520
+              }
+            ],
+            "categories": [],
+            "tags": [
+              {
+                "hits": [
+                  {
+                    "field": "Body",
+                    "length": 19,
+                    "offset": 54
+                  },
+                  {
+                    "field": "Body",
+                    "length": 15,
+                    "offset": 1819
+                  }
+                ],
+                "name": "Los Angeles Zoo",
+                "node_types": [
+                  {
+                    "name": "location",
+                    "id": 30
+                  },
+                  {
+                    "name": "Other",
+                    "id": 48
+                  }
+                ],
+                "in_headline": false,
+                "freebase_mid": "m.04h995",
+                "score": 1,
+                "disambiguator": "Zoo",
+                "type": "Entity",
+                "id": 3573780
+              },
+              {
+                "hits": [
+                  {
+                    "field": "Body",
+                    "length": 5,
+                    "offset": 632
+                  }
+                ],
+                "name": "Pre-kindergarten",
+                "node_types": [
+                  {
+                    "name": "Other",
+                    "id": 48
+                  }
+                ],
+                "in_headline": false,
+                "freebase_mid": "m.06wypd",
+                "score": 0.5588,
+                "disambiguator": "",
+                "type": "Entity",
+                "id": 3761858
+              },
+              {
+                "name": "Cats",
+                "score": 0.7798183,
+                "most_granular": true,
+                "disambiguator": "Lifestyle",
+                "type": "Subject",
+                "id": 978476
+              },
+              {
+                "name": "Lifestyle",
+                "score": 0.7798183,
+                "most_granular": false,
+                "disambiguator": "Subject",
+                "type": "Subject",
+                "id": 980877
+              },
+              {
+                "name": "Pets",
+                "score": 0.7798183,
+                "most_granular": false,
+                "disambiguator": "Lifestyle",
+                "type": "Subject",
+                "id": 981941
+              }
+            ]
+          },
+          "provider": null,
+          "license_id": "16",
+          "slideshow_images_count": 0,
+          "store": [],
+          "slideshow_count": 0,
+          "tags": [],
+          "plain_text": "Looking for a way to keep your kids busy this summer? The Los Angeles Zoo and Botanical Gardens offers week long Summer Zoo Camps through August 12. \nChildren are separated by age groups and the theme changes each week. \nThe camps operate Monday - Friday, 9 a.m. - 3 p.m. The zoo also offers morning and afternoon extended care for working parents. \nAccording to the zoo, \"Your child will enjoy making new discoveries every day. Through fun, safe, engaging activities, your campers will trail blaze through the week. This adventure is something your child will never forget.\" \nFor the week of June 27 - July 1, the themes include: \nPre-K and K -- Apatosaurs to Zebra: Do you know the ABC’s of the animal kingdom? Join us for an alphabetastic week of camp as we let the Zoo’s animal residents (pre-historic to present) guide us from A-Z. Along the way, we’ll investigate what makes these animals awesome, fantastic and unique. * OR* Critter Jam: Can you boogie like bongo? Get funky like flamingo? Animals move in lots of different ways and you can too when you join us at the Zoo! This week we will move like some of our favorite animals and discover why they boogie, get funky, and jam to their own tune. \n1st - 3rd Grades -- Outback Adventures: Join us for a week long walkabout in the land down under! From the bush to a billabong, both blokes and sheilas will explore roos, crocs, koalas and all the other awesome Aussie animals and the island continent they call home. No worries mate – it will be big mobs of fun! * OR * Furrific Felines: Are you cat crazy? Can you swim like a tiger? Purr like a kitten, or roar like a lion? Find out how Zoo cats are just like our kitties at home and discover feline fundamentals of the cat’s world. \n4th - 6th Grades -- Zoorasic Park : Explore a world of living fossils…at the Los Angeles Zoo! Have a wild week encountering animal ancestors, modern dinosaurs, and plants from more than one million years ago. Come to Zoocamp and uncover the past right here in the present. * OR * Rebel Raptors: Get out your talons and rip into this week of Raptor camp! Whether it’s diving at top speeds to catch prey or building their nests on the edge of a cliff, we’ll discover what makes these feathered raptors the ultimate predators of the sky. \nThe cost is $280 per week for members and $310 per week for non-members. You may register online. \n",
+          "link": "http://patch.com/california/marinadelrey/s/fsr2q/la-zoo-offers-week-long-summer-camps-for-kids?utm_source=article-mostrecent&utm_medium=rss&utm_term=kids%20&%20family%20&utm_campaign=recirc&utm_content=aol",
+          "content_type": "content",
+          "categories": [],
+          "lang": "en",
+          "video_count": 0,
+          "profane": false,
+          "crawled": "2016-06-25T02:17:16.040323",
+          "author": {
+            "type": "16",
+            "name": "Bea Karnes (Patch Staff)",
+            "id": null
+          },
+          "summary": null,
+          "source": {
+            "title": "Marina Del Rey Patch",
+            "zipcode": "90066",
+            "location": {
+              "lat": 34.00201,
+              "lon": -118.430832
+            },
+            "groups": [
+              3,
+              7
+            ],
+            "publisher_id": null,
+            "id": "6AB_yz"
+          },
+          "published": "2016-06-25T02:12:37.917000+00:00",
+          "image_count": 2
+        }
+      ]
+    },
+    "746418845613735936": {
+      "articles": [
+        {
+          "content_length": 2124,
+          "updated": "2016-06-25T02:12:29.121000+00:00",
+          "update_received": "2016-06-25T02:17:16.035778+00:00",
+          "crawled_ts": 1466821036035778000,
+          "content_hash": "mmh3-138966560158204959309489803719770726786",
+          "guid": "http://patch.com/california/marinadelrey/s/fsr4z/san-gabriel-complex-fire-evacuations-lifted-containment-at-30-percent?utm_source=article-mostrecent&utm_medium=rss&utm_term=police%20&%20fire&utm_campaign=recirc&utm_content=aol",
+          "id": "6AB_yz/1466821036035778000",
+          "snippet": "Duarte, CA — Hundreds residents evacuated from the San Gabriel Complex Fire may now return home, officials said.",
+          "title": "San Gabriel Complex Fire: Evacuations Lifted, Containment at 30 percent",
+          "media": {
+            "images": [
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://cdn20.patch.com/users/231734/20160624/022213/styles/T800x600/public/article_images/complex.jpg",
+                "anchor_url": null,
+                "height": 600,
+                "credit": null,
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": "Link",
+                "title": null,
+                "caption": null,
+                "width": 800,
+                "provider_asset_id": null
+              },
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://cdn20.patch.com/users/231734/20160624/022213/styles/T800x600/public/article_images/complex.jpg",
+                "anchor_url": null,
+                "height": 600,
+                "credit": null,
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": "OpenGraph",
+                "title": null,
+                "caption": null,
+                "width": 800,
+                "provider_asset_id": null
+              }
+            ]
+          },
+          "content": "Duarte, CA — Hundreds residents evacuated from the San Gabriel Complex Fire may now return home, officials said. \nThe evacuation order was lifted Friday morning and residents can start returning home at noon, police said. \n\"For any residents of Camp Williams and any other community in the canyon, we ask you to use Glendora Mountain Road,\" police said in a statement. \"Highway 39 will remain closed and the canyon will remain closed for recreation but will allow residents to return home.\" \nResidents will need to show their identifications and only small pets are allowed back in at this time, police said. Horses and other farm animals will be allowed back Saturday starting at 8 a.m.. \nThe fire, which has burned a combined 5,267 acres, was 30 percent contained Friday morning. The Reservoir Fire was holding steady at 1,200 acres charred and the Fish Fire grew to 4,067 over night. Both fire, though about 2 miles apart, are collectively known as the San Gabriel Complex Fire. \nEarly Friday morning, Sierra Madre Police Department closed the Chantry Flats Recreational Area because for danger from the fires. \n\"Enforcement realizes that this is a very popular area, especially during the weekends, however for the public's and the community's safety we must ask that you be diligent in remaining out of the area,\" police said. \nThe Los Angeles County Public Health Department has issued a Boil Water order for residents in Azusa Canyon, except for Camp Williams, because of a power outage that affected the water distribution systems. \nResidents need leave the water at a rolling boil for one minute before use. \nThe initial fire, dubbed the Reservoir Fire , started Monday when a pickup truck crashed off Highway 39 near Morris Dam and started a brush fire. The driver was killed in the crash and ensuing fire. The fire quickly grew to more than 1,200 acres in a matter of hours. \nThe fire was burning uphill in extremely steep terrain with heavy vegetation, Garcia said. \nAbout 90 minutes later, another fire, dubbed the Fish Fire , started above Duarte, near homes. That fire quickly grew to more than 3,000 acres. \n",
+          "relegence": {
+            "topic": {
+              "heat": 0,
+              "id": 746418845613735936,
+              "document_count": 3,
+              "created": "2016-06-24T19:04:56+00:00"
+            },
+            "duplicate": [
+              {
+                "type": "Partial",
+                "original_doc_id": 746453038540439552
+              }
+            ],
+            "categories": [
+              {
+                "name": "U.S.",
+                "id": 146
+              }
+            ],
+            "tags": [
+              {
+                "hits": [
+                  {
+                    "field": "Body",
+                    "length": 10,
+                    "offset": 0
+                  }
+                ],
+                "name": "Duarte, California",
+                "node_types": [
+                  {
+                    "name": "location",
+                    "id": 30
+                  },
+                  {
+                    "name": "Other",
+                    "id": 48
+                  },
+                  {
+                    "name": "city",
+                    "id": 33
+                  }
+                ],
+                "in_headline": false,
+                "freebase_mid": "m.0r06n",
+                "score": 1,
+                "disambiguator": "Location",
+                "type": "Entity",
+                "id": 3485827
+              },
+              {
+                "hits": [
+                  {
+                    "field": "Body",
+                    "length": 13,
+                    "offset": 245
+                  },
+                  {
+                    "field": "Body",
+                    "length": 13,
+                    "offset": 1453
+                  }
+                ],
+                "name": "Camp W.G. Williams",
+                "node_types": [
+                  {
+                    "name": "location",
+                    "id": 30
+                  },
+                  {
+                    "name": "Other",
+                    "id": 48
+                  }
+                ],
+                "in_headline": false,
+                "freebase_mid": "m.04gpjyx",
+                "score": 0.9583,
+                "disambiguator": "Location",
+                "type": "Entity",
+                "id": 4157770
+              },
+              {
+                "name": "U.S. News",
+                "score": 1,
+                "most_granular": true,
+                "disambiguator": "News and Politics",
+                "type": "Subject",
+                "id": 981465
+              },
+              {
+                "name": "News",
+                "score": 1,
+                "most_granular": false,
+                "disambiguator": "News and Politics",
+                "type": "Subject",
+                "id": 981523
+              },
+              {
+                "name": "News and Politics",
+                "score": 1,
+                "most_granular": false,
+                "disambiguator": "Subject",
+                "type": "Subject",
+                "id": 981525
+              }
+            ]
+          },
+          "provider": null,
+          "license_id": "16",
+          "slideshow_images_count": 0,
+          "store": [],
+          "slideshow_count": 0,
+          "tags": [],
+          "plain_text": "Duarte, CA — Hundreds residents evacuated from the San Gabriel Complex Fire may now return home, officials said. \nThe evacuation order was lifted Friday morning and residents can start returning home at noon, police said. \n\"For any residents of Camp Williams and any other community in the canyon, we ask you to use Glendora Mountain Road,\" police said in a statement. \"Highway 39 will remain closed and the canyon will remain closed for recreation but will allow residents to return home.\" \nResidents will need to show their identifications and only small pets are allowed back in at this time, police said. Horses and other farm animals will be allowed back Saturday starting at 8 a.m.. \nThe fire, which has burned a combined 5,267 acres, was 30 percent contained Friday morning. The Reservoir Fire was holding steady at 1,200 acres charred and the Fish Fire grew to 4,067 over night. Both fire, though about 2 miles apart, are collectively known as the San Gabriel Complex Fire. \nEarly Friday morning, Sierra Madre Police Department closed the Chantry Flats Recreational Area because for danger from the fires. \n\"Enforcement realizes that this is a very popular area, especially during the weekends, however for the public's and the community's safety we must ask that you be diligent in remaining out of the area,\" police said. \nThe Los Angeles County Public Health Department has issued a Boil Water order for residents in Azusa Canyon, except for Camp Williams, because of a power outage that affected the water distribution systems. \nResidents need leave the water at a rolling boil for one minute before use. \nThe initial fire, dubbed the Reservoir Fire , started Monday when a pickup truck crashed off Highway 39 near Morris Dam and started a brush fire. The driver was killed in the crash and ensuing fire. The fire quickly grew to more than 1,200 acres in a matter of hours. \nThe fire was burning uphill in extremely steep terrain with heavy vegetation, Garcia said. \nAbout 90 minutes later, another fire, dubbed the Fish Fire , started above Duarte, near homes. That fire quickly grew to more than 3,000 acres. \n",
+          "link": "http://patch.com/california/marinadelrey/s/fsr4z/san-gabriel-complex-fire-evacuations-lifted-containment-at-30-percent?utm_source=article-mostrecent&utm_medium=rss&utm_term=police%20&%20fire&utm_campaign=recirc&utm_content=aol",
+          "content_type": "content",
+          "categories": [],
+          "lang": "en",
+          "video_count": 0,
+          "profane": false,
+          "crawled": "2016-06-25T02:17:16.035778",
+          "author": {
+            "type": "16",
+            "name": "Alexander Nguyen (Patch Staff)",
+            "id": null
+          },
+          "summary": null,
+          "source": {
+            "title": "Marina Del Rey Patch",
+            "zipcode": "90066",
+            "location": {
+              "lat": 34.00201,
+              "lon": -118.430832
+            },
+            "groups": [
+              3,
+              7
+            ],
+            "publisher_id": null,
+            "id": "6AB_yz"
+          },
+          "published": "2016-06-25T02:12:29.121000+00:00",
+          "image_count": 2
+        }
+      ]
+    }
+  }
+}

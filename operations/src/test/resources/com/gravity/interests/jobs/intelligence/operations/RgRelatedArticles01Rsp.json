@@ -1,0 +1,110 @@
+{
+  "numResults": 5,
+  "results": [
+    {
+      "id": "7mdkz3/1467828302727982000",
+      "url": "http://www.engadget.com/2016/07/06/google-now-on-tap-translation/",
+      "isArticle": false,
+      "source": {
+        "id": "7mdkz3",
+        "title": "Engadget",
+        "groups": [
+          1,
+          4
+        ]
+      },
+      "headline": "Google Now on Tap translates languages in any app",
+      "publishDate": "2016-07-06T18:00:00.000Z",
+      "images": [
+        {
+          "src": "http://o.aolcdn.com/hss/storage/midas/d88f1b27a091f64d50ee4426c2d1ca4c/204044732/google-now-on-tap-translate.jpg"
+        }
+      ]
+    },
+    {
+      "id": "7mdkz3/1467819104448768000",
+      "url": "http://www.engadget.com/2016/07/06/lg-is-getting-into-connected-cars-with-volkswagen/",
+      "isArticle": false,
+      "source": {
+        "id": "7mdkz3",
+        "title": "Engadget",
+        "groups": [
+          1,
+          4
+        ]
+      },
+      "headline": "LG is getting into connected cars with Volkswagen",
+      "publishDate": "2016-07-06T16:11:17.000Z",
+      "images": [
+        {
+          "src": "http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/1920x1280+0+0/resize/1600x1067!/format/jpg/quality/85/http://o.aolcdn.com/hss/storage/midas/536870573e1c8269f81b0ca95878dd48/201379352/06-vw-cross-coupe-gte-detroit.jpg"
+        }
+      ]
+    },
+    {
+      "id": "7mdkz3/1467742584073165000",
+      "url": "http://www.engadget.com/2016/07/05/android-malware-from-chinese-ad-firm-infects-10-million-devices/",
+      "isArticle": false,
+      "source": {
+        "id": "7mdkz3",
+        "title": "Engadget",
+        "groups": [
+          1,
+          4
+        ]
+      },
+      "headline": "Android malware from Chinese ad firm infects 10 million devices",
+      "publishDate": "2016-07-06T14:56:37.000Z",
+      "images": [
+        {
+          "src": "http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/2600x1844+0+0/resize/1600x1135!/format/jpg/quality/85/http://o.aolcdn.com/hss/storage/midas/1dc898e35cc10018a1cc22a0b4e537b7/202716450/stock-photo-mountain-view-ca-usa-august-android-marshmallow-latest-android-os-replica-in-front-of-307787327.jpg"
+        }
+      ]
+    },
+    {
+      "id": "7mdkz3/1467773249551188000",
+      "url": "http://www.engadget.com/2016/07/05/pokemon-go-android-ios-roll-out/",
+      "isArticle": false,
+      "source": {
+        "id": "7mdkz3",
+        "title": "Engadget",
+        "groups": [
+          1,
+          4
+        ]
+      },
+      "headline": "'Pokémon Go' rolls out on Android and iOS",
+      "publishDate": "2016-07-06T14:41:01.000Z",
+      "images": [
+        {
+          "src": "http://o.aolcdn.com/hss/storage/midas/5a9bee73bf21e47ea0e0f446826e3850/204043902/0609_pokemongo-21-ed.jpg"
+        }
+      ]
+    },
+    {
+      "id": "7mdkz3/1467800152254525000",
+      "url": "http://www.engadget.com/2016/07/06/google-buys-startup-that-helps-your-phone-identify-objects/",
+      "isArticle": false,
+      "source": {
+        "id": "7mdkz3",
+        "title": "Engadget",
+        "groups": [
+          1,
+          4
+        ]
+      },
+      "headline": "Google buys startup that helps your phone identify objects",
+      "publishDate": "2016-07-06T10:15:00.000Z",
+      "images": [
+        {
+          "src": "http://o.aolcdn.com/hss/storage/midas/472b74447e6c80c5fdb719d3f0b5adb3/204042112/google-moodstocks-object-recognition-2016-07-06-01.jpg"
+        },
+        {
+          "src": "https://s.aolcdn.com/dims5/amp:f5886445772efebba166ee3e96f6c88c332963ab/q:100/?url=http%3A%2F%2Fo.aolcdn.com%2Fhss%2Fstorage%2Fmidas%2Fe56fc07fc6bf2f3c02cf93519a83c307%2F203602993%2FScreen%2BShot%2B2016-03-25%2Bat%2B4.58.15%2BPM.png",
+          "title": "null"
+        }
+      ]
+    }
+  ],
+  "message": "OK"
+}

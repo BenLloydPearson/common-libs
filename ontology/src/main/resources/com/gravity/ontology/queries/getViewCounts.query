@@ -1,0 +1,11 @@
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+PREFIX skosres: <http://dbpedia.org/resource/Category:>
+PREFIX dbtop: <http://dbpedia.org/resource/>
+PREFIX dbprop: <http://dbpedia.org/property/>
+PREFIX yagoclass: <http://dbpedia.org/class/yago/>
+PREFIX gs: <http://insights.gravity.com/2010/04/universe#>
+PREFIX dbont: <http://dbpedia.org/ontology/>
+select distinct ?subject ?viewCount from <http://insights.gravity.com/viewcounts>
+where {
+?subject gs:viewCount ?viewCount
+}

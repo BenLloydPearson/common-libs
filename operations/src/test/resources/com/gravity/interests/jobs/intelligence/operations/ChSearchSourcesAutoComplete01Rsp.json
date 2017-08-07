@@ -1,0 +1,76 @@
+{
+  "term": "aol",
+  "results": 10,
+  "sources": [
+    {
+      "url": "https://webfeeds.moneyadviceservice.org.uk/feeds/186.rss",
+      "guid": null,
+      "id": "6yOtQj",
+      "html_url": "https://webfeeds.moneyadviceservice.org.uk/feeds/186.rss",
+      "title": "08/09/15 - AOL - Blog Feed"
+    },
+    {
+      "url": "AOL Autos",
+      "guid": "736",
+      "id": "YPfMVe",
+      "html_url": "",
+      "title": "AOL Autos"
+    },
+    {
+      "url": "AOL Cars UK",
+      "guid": "477",
+      "id": "Z-pwTy",
+      "html_url": "",
+      "title": "AOL Cars UK"
+    },
+    {
+      "url": "http://features.aol.com/contenthub",
+      "guid": null,
+      "id": "DiJoC9",
+      "html_url": "",
+      "title": "AOL Features"
+    },
+    {
+      "url": "AOL Hot Search - UK",
+      "guid": "548",
+      "id": "vSFIyo",
+      "html_url": "",
+      "title": "AOL Hot Search - UK"
+    },
+    {
+      "url": "AOL Jobs",
+      "guid": "501",
+      "id": "wGwNob",
+      "html_url": "",
+      "title": "AOL Jobs"
+    },
+    {
+      "url": "AOL Money UK",
+      "guid": "824",
+      "id": "lE44mi",
+      "html_url": "",
+      "title": "AOL Money UK"
+    },
+    {
+      "url": "AOL News JP",
+      "guid": "822",
+      "id": "eosYRc",
+      "html_url": "",
+      "title": "AOL News JP"
+    },
+    {
+      "url": "AOL Real Estate",
+      "guid": "675",
+      "id": "c8PaKF",
+      "html_url": "",
+      "title": "AOL Real Estate"
+    },
+    {
+      "url": "AOL Shopping UK",
+      "guid": "839",
+      "id": "06fAFQ",
+      "html_url": "",
+      "title": "AOL Shopping UK"
+    }
+  ]
+}

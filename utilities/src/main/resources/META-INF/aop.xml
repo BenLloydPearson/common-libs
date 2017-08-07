@@ -1,0 +1,9 @@
+<aspectj>
+    <aspects>
+        <aspect name="com.gravity.interests.jobs.spark.ScalaShellAspect"/>
+    </aspects>
+    <weaver options="-warn:none">
+        <!-- AspectJ emits warnings for this class, so exclude it -->
+        <exclude within="org.apache.spark.SparkContext"/>
+    </weaver>
+</aspectj>

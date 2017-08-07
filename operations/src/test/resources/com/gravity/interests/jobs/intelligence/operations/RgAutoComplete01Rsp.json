@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Apple",
+    "alias": "Apple",
+    "id": 4967332,
+    "disabmbiguator": "Company",
+    "exactMatch": true
+  },
+  {
+    "name": "iPhone",
+    "alias": "iPhone",
+    "id": 4062164,
+    "disabmbiguator": "Product",
+    "exactMatch": false
+  },
+  {
+    "name": "iOS (Apple)",
+    "alias": "iOS (Apple)",
+    "id": 4139312,
+    "disabmbiguator": "Operating System",
+    "exactMatch": false
+  },
+  {
+    "name": "Apple Music",
+    "alias": "Apple Music",
+    "id": 6393055,
+    "disabmbiguator": "software",
+    "exactMatch": false
+  },
+  {
+    "name": "Apple TV",
+    "alias": "Apple TV",
+    "id": 4017814,
+    "disabmbiguator": "Product",
+    "exactMatch": false
+  },
+  {
+    "name": "Eli Apple",
+    "alias": "Eli Apple",
+    "id": 6299761,
+    "disabmbiguator": "CFB Player(Current)",
+    "exactMatch": false
+  },
+  {
+    "name": "Safari (web browser)",
+    "alias": "Safari (web browser)",
+    "id": 3521993,
+    "disabmbiguator": "web browser",
+    "exactMatch": false
+  },
+  {
+    "name": "Apple Pencil",
+    "alias": "Apple Pencil",
+    "id": 6399078,
+    "disabmbiguator": "Product",
+    "exactMatch": false
+  },
+  {
+    "name": "Macintosh",
+    "alias": "Macintosh",
+    "id": 4166750,
+    "disabmbiguator": "",
+    "exactMatch": false
+  },
+  {
+    "name": "Boot Camp (software)",
+    "alias": "Boot Camp (software)",
+    "id": 3931823,
+    "disabmbiguator": "Software",
+    "exactMatch": false
+  }
+]

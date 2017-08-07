@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Politics",
+    "alias": "Politics",
+    "id": 982065,
+    "disabmbiguator": "News and Politics",
+    "exactMatch": true
+  },
+  {
+    "name": "News and Politics",
+    "alias": "News and Politics",
+    "id": 981525,
+    "disabmbiguator": "Subject",
+    "exactMatch": false
+  },
+  {
+    "name": "Law, Government and Politics",
+    "alias": "Law, Government and Politics",
+    "id": 6378649,
+    "disabmbiguator": "News and Politics",
+    "exactMatch": false
+  },
+  {
+    "name": "U.S. Politics",
+    "alias": "U.S. Politics",
+    "id": 6310529,
+    "disabmbiguator": "News and Politics",
+    "exactMatch": false
+  },
+  {
+    "name": "Republican Politics",
+    "alias": "Republican Politics",
+    "id": 4944927,
+    "disabmbiguator": "News and Politics",
+    "exactMatch": false
+  },
+  {
+    "name": "Democratic Politics",
+    "alias": "Democratic Politics",
+    "id": 4944926,
+    "disabmbiguator": "News and Politics",
+    "exactMatch": false
+  },
+  {
+    "name": "Independent (politician)",
+    "alias": "Independent (politician)",
+    "id": 3756801,
+    "disabmbiguator": "Politics Person",
+    "exactMatch": false
+  },
+  {
+    "name": "American politics",
+    "alias": "American politics",
+    "id": 3560192,
+    "disabmbiguator": "",
+    "exactMatch": false
+  },
+  {
+    "name": "Dan Patrick (Texas politician)",
+    "alias": "Dan Patrick (Texas politician)",
+    "id": 4304338,
+    "disabmbiguator": "Politics Person(State Senator)",
+    "exactMatch": false
+  },
+  {
+    "name": "Eagleton Institute of Politics",
+    "alias": "Eagleton Institute of Politics",
+    "id": 4036022,
+    "disabmbiguator": "Location",
+    "exactMatch": false
+  }
+]

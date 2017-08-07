@@ -1,0 +1,12 @@
+A new HAI WORLD of sorts
+
+Reddit has been infected by this meme of “A Reddit clone in X lines of Y programming language.” I suppose, then, that it was inevitable that someone would pull it off with LOLCODE. Naturally, as with any high performance web programming needs, they turned to PHP, and Tetraboy's LOLCODE implementation, which was one of the very first out there (and why it might not look like other dialects of LOLCODE found elsewhere).
+
+CAN HAS SQL?
+DBASE IZ GETDB('db/lcsn.db')
+FUNNAHS IZ DBUCKET(&DBASE&,"CAN I PLZ GET * ALL UP IN lollit")
+IM IN UR FUNNAHS ITZA TITLE
+	VOTEZ IZ &TITLE#ups& - &TITLE#downs&
+...
+
+Well played, keyz182, well played.

@@ -1,0 +1,14 @@
+{
+  "message": "OK",
+  "data": [
+    {
+      "relationshipType": "Broader To",
+      "nodeTypes": [
+        9
+      ],
+      "id": 981523,
+      "name": "News",
+      "disambig": "News and Politics"
+    }
+  ]
+}

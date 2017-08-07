@@ -1,0 +1,25 @@
+{
+   "phrase":  "Best Ski Resorts",
+   "filter": {
+       "and": [
+           {
+               "term": {
+                   "relegence.tags.id": 3448003
+               }
+           },
+           {
+               "range": {
+                   "author.type": {
+                       "lte": 7
+                   }
+               }
+           }
+       ]
+   },
+   "size": 10,
+   "sort": [
+       {
+           "crawled_ts": "desc"
+       }
+   ]
+}

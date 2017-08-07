@@ -1,0 +1,3054 @@
+{
+  "total": 422524,
+  "max_score": 1,
+  "articles": [
+    {
+      "content_length": 4333,
+      "updated": "2015-12-03T16:06:38+00:00",
+      "update_received": "2015-12-03T16:12:16.041000+00:00",
+      "crawled_ts": 1449158818132600000,
+      "content_hash": "mmh3-278668057183367062943589265468308093925",
+      "guid": "8708140",
+      "id": "8Y10Ju/1449158818132600000",
+      "snippet": "On dit que les sourcils façonnent le visage: raison de plus pour en prendre bien soin! ",
+      "title": "Les tendances sourcils de l'automne/hiver 2015-2016 et les astuces pour les obtenir",
+      "media": {
+        "images": [
+          {
+            "url": "http://i.huffpost.com/gen/3739358/thumbs/o-CAROLINA-HERRERA-570.jpg?7",
+            "caption": "carolina herrera",
+            "extracted_from_html": true,
+            "original_markup": "<img alt=\"carolina herrera\" src=\"http://i.huffpost.com/gen/3739358/thumbs/o-CAROLINA-HERRERA-570.jpg?7\"/>",
+            "anchor_url": ""
+          },
+          {
+            "url": "http://i.huffpost.com/gen/3739458/thumbs/o-DKNY-570.jpg?5",
+            "caption": "dkny",
+            "extracted_from_html": true,
+            "original_markup": "<img alt=\"dkny\" src=\"http://i.huffpost.com/gen/3739458/thumbs/o-DKNY-570.jpg?5\"/>",
+            "anchor_url": ""
+          },
+          {
+            "url": "http://i.huffpost.com/gen/3739510/thumbs/o-NICOLE-MILLER-570.jpg?7",
+            "caption": "nicole miller",
+            "extracted_from_html": true,
+            "original_markup": "<img alt=\"nicole miller\" src=\"http://i.huffpost.com/gen/3739510/thumbs/o-NICOLE-MILLER-570.jpg?7\"/>",
+            "anchor_url": ""
+          },
+          {
+            "url": "http://i.huffpost.com/gen/3739692/thumbs/o-TORY-BURCH-570.jpg?3",
+            "caption": "tory burch",
+            "extracted_from_html": true,
+            "original_markup": "<img alt=\"tory burch\" src=\"http://i.huffpost.com/gen/3739692/thumbs/o-TORY-BURCH-570.jpg?3\"/>",
+            "anchor_url": ""
+          },
+          {
+            "url": "http://i.huffpost.com/gen/3739586/thumbs/o-CUSHNIE-ET-OCHS-570.jpg?7",
+            "caption": "cushnie et ochs",
+            "extracted_from_html": true,
+            "original_markup": "<img alt=\"cushnie et ochs\" src=\"http://i.huffpost.com/gen/3739586/thumbs/o-CUSHNIE-ET-OCHS-570.jpg?7\"/>",
+            "anchor_url": ""
+          },
+          {
+            "url": "http://big.assets.huffingtonpost.com/FBLOGO_0.png",
+            "extracted_from_html": true,
+            "original_markup": "<a href=\"https://www.facebook.com/HuffPostQuebecStyle\"><img src=\"http://big.assets.huffingtonpost.com/FBLOGO_0.png\"/></a>",
+            "anchor_url": "https://www.facebook.com/HuffPostQuebecStyle"
+          },
+          {
+            "url": "http://big.assets.huffingtonpost.com/TWITTERBIRD.png",
+            "extracted_from_html": true,
+            "original_markup": "<a href=\"https://twitter.com/huffpostqcstyle\"><img src=\"http://big.assets.huffingtonpost.com/TWITTERBIRD.png\"/></a>",
+            "anchor_url": "https://twitter.com/huffpostqcstyle"
+          },
+          {
+            "extracted_from_html": null,
+            "original_markup": "<!--HH--PHOTO--CUSHNIE-ET-OCHS--3739586--HH-->",
+            "tags": [],
+            "url": "http://i.huffpost.com/gen/3739586/original.jpg",
+            "anchor_url": null,
+            "height": 673,
+            "credit": "Cushnie et Ochs",
+            "media_medium": "image",
+            "headline": true,
+            "alternate_sizes": [
+              {
+                "url": "http://i.huffpost.com/gen/3739586/images/n-CUSHNIE-ET-OCHS-medium.jpg",
+                "width": 300,
+                "height": 125,
+                "mime_type": "image/jpeg",
+                "tags": [
+                  "n-medium"
+                ]
+              },
+              {
+                "url": "http://i.huffpost.com/gen/3739586/images/r-CUSHNIE-ET-OCHS-medium.jpg",
+                "width": 300,
+                "height": 125,
+                "mime_type": "image/jpeg",
+                "tags": [
+                  "r-medium"
+                ]
+              }
+            ],
+            "provider": null,
+            "title": null,
+            "caption": null,
+            "width": 474,
+            "provider_asset_id": null
+          }
+        ],
+        "slideshows": [
+          {
+            "extracted_from_html": null,
+            "embed_code": null,
+            "description": null,
+            "tags": [],
+            "title": "Les tendances sourcils de l'automne/hiver 2015-2016 et les astuces pour les obtenir",
+            "slides": [
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://i.huffpost.com/gadgets/slideshows/467292/slide_467292_6340060_compressed.jpg",
+                "anchor_url": null,
+                "height": null,
+                "credit": "Carolina Herrera",
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": null,
+                "title": " ",
+                "caption": "L’arche parfaite  - Défilé Carolina Herrera",
+                "width": null,
+                "provider_asset_id": null
+              },
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://i.huffpost.com/gadgets/slideshows/467292/slide_467292_6340062_compressed.jpg",
+                "anchor_url": null,
+                "height": null,
+                "credit": "Courtoisie",
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": null,
+                "title": " ",
+                "caption": "Ciseau pour les sourcils, de Sephora",
+                "width": null,
+                "provider_asset_id": null
+              },
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://i.huffpost.com/gadgets/slideshows/467292/slide_467292_6340064_compressed.jpg",
+                "anchor_url": null,
+                "height": null,
+                "credit": "Cushnie et Ochs",
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": null,
+                "title": " ",
+                "caption": "Fournis et brossés - Collection: Cushnie et Ochs",
+                "width": null,
+                "provider_asset_id": null
+              },
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://i.huffpost.com/gadgets/slideshows/467292/slide_467292_6340066_compressed.jpg",
+                "anchor_url": null,
+                "height": null,
+                "credit": "DKNY",
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": null,
+                "title": " ",
+                "caption": "Sourcils brossés - Défilé DKNY",
+                "width": null,
+                "provider_asset_id": null
+              },
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://i.huffpost.com/gadgets/slideshows/467292/slide_467292_6340068_compressed.jpg",
+                "anchor_url": null,
+                "height": null,
+                "credit": "Courtoisie",
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": null,
+                "title": " ",
+                "caption": "Kit de modèles pour sourcils, de Sephora Collection, 15 $. Sephora.ca",
+                "width": null,
+                "provider_asset_id": null
+              },
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://i.huffpost.com/gadgets/slideshows/467292/slide_467292_6340070_compressed.jpg",
+                "anchor_url": null,
+                "height": null,
+                "credit": "Nicole Miller",
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": null,
+                "title": " ",
+                "caption": "Sourcils naturels - Collection Nicole Miller",
+                "width": null,
+                "provider_asset_id": null
+              },
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://i.huffpost.com/gadgets/slideshows/467292/slide_467292_6340072_compressed.jpg",
+                "anchor_url": null,
+                "height": null,
+                "credit": "Courtoisie",
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": null,
+                "title": " ",
+                "caption": "Pince plate et pointue",
+                "width": null,
+                "provider_asset_id": null
+              },
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://i.huffpost.com/gadgets/slideshows/467292/slide_467292_6340074_compressed.jpg",
+                "anchor_url": null,
+                "height": null,
+                "credit": "Courtoisie",
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": null,
+                "title": " ",
+                "caption": "Pince plate, de Tweezerman, 29 $. Sephora.ca",
+                "width": null,
+                "provider_asset_id": null
+              },
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://i.huffpost.com/gadgets/slideshows/467292/slide_467292_6340076_compressed.jpg",
+                "anchor_url": null,
+                "height": null,
+                "credit": "Courtoisie",
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": null,
+                "title": " ",
+                "caption": "Pince pointue, de Tweezerman, 30 $. Sephora.ca",
+                "width": null,
+                "provider_asset_id": null
+              },
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://i.huffpost.com/gadgets/slideshows/467292/slide_467292_6340078_compressed.jpg",
+                "anchor_url": null,
+                "height": null,
+                "credit": "Tory Burch",
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": null,
+                "title": " ",
+                "caption": "Sourcils fournis  - Collection Tory Burch",
+                "width": null,
+                "provider_asset_id": null
+              }
+            ],
+            "media_medium": "slideshow",
+            "original_markup": "<!--HH--236SLIDEEXPAND--467292--HH-->",
+            "provider": null,
+            "provider_asset_id": null
+          },
+          {
+            "extracted_from_html": null,
+            "embed_code": null,
+            "description": null,
+            "tags": [],
+            "title": "Les sourcils de stars",
+            "slides": [
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://i.huffpost.com/gadgets/slideshows/456004/slide_456004_6127626_free.jpg",
+                "anchor_url": null,
+                "height": null,
+                "credit": "David Livingston/Getty Images",
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": null,
+                "title": "Camilla Belle",
+                "caption": " ",
+                "width": null,
+                "provider_asset_id": null
+              },
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://i.huffpost.com/gadgets/slideshows/456004/slide_456004_6127628_free.jpg",
+                "anchor_url": null,
+                "height": null,
+                "credit": "John Shearer/Invision/AP",
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": null,
+                "title": "Robert Pattinson",
+                "caption": " ",
+                "width": null,
+                "provider_asset_id": null
+              },
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://i.huffpost.com/gadgets/slideshows/456004/slide_456004_6127630_free.jpg",
+                "anchor_url": null,
+                "height": null,
+                "credit": "Mark Davis/Getty Images",
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": null,
+                "title": "Lily Collins",
+                "caption": " ",
+                "width": null,
+                "provider_asset_id": null
+              },
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://i.huffpost.com/gadgets/slideshows/456004/slide_456004_6127632_free.jpg",
+                "anchor_url": null,
+                "height": null,
+                "credit": "ANDREW COWIE/AFP/Getty Images",
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": null,
+                "title": "Cara Delevingne",
+                "caption": " ",
+                "width": null,
+                "provider_asset_id": null
+              },
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://i.huffpost.com/gadgets/slideshows/456004/slide_456004_6127634_free.jpg",
+                "anchor_url": null,
+                "height": null,
+                "credit": "Mike Coppola/Getty Images",
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": null,
+                "title": "Emma Watson",
+                "caption": " ",
+                "width": null,
+                "provider_asset_id": null
+              },
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://i.huffpost.com/gadgets/slideshows/456004/slide_456004_6127636_free.jpg",
+                "anchor_url": null,
+                "height": null,
+                "credit": "Jason Merritt/Getty Images for GLAAD",
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": null,
+                "title": "Charlize Theron",
+                "caption": " ",
+                "width": null,
+                "provider_asset_id": null
+              },
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://i.huffpost.com/gadgets/slideshows/456004/slide_456004_6127638_free.jpg",
+                "anchor_url": null,
+                "height": null,
+                "credit": "Lintao Zhang/Getty Images",
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": null,
+                "title": "David Beckham",
+                "caption": " ",
+                "width": null,
+                "provider_asset_id": null
+              },
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://i.huffpost.com/gadgets/slideshows/456004/slide_456004_6127640_free.jpg",
+                "anchor_url": null,
+                "height": null,
+                "credit": "Charles Sykes/Invision/AP",
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": null,
+                "title": "Jon Hamm",
+                "caption": " ",
+                "width": null,
+                "provider_asset_id": null
+              },
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://i.huffpost.com/gadgets/slideshows/456004/slide_456004_6127642_free.jpg",
+                "anchor_url": null,
+                "height": null,
+                "credit": "Mike Coppola/Getty Images for Mercedes-Benz",
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": null,
+                "title": "Brooke Shields",
+                "caption": " ",
+                "width": null,
+                "provider_asset_id": null
+              },
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://i.huffpost.com/gadgets/slideshows/456004/slide_456004_6127644_free.jpg",
+                "anchor_url": null,
+                "height": null,
+                "credit": "Jason Merritt/Getty Images",
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": null,
+                "title": "Chloe Grace Moretz",
+                "caption": " ",
+                "width": null,
+                "provider_asset_id": null
+              },
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://i.huffpost.com/gadgets/slideshows/456004/slide_456004_6127646_free.jpg",
+                "anchor_url": null,
+                "height": null,
+                "credit": "",
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": null,
+                "title": "NEXT: Best Celebrity Eyebrows Of All Time",
+                "caption": " ",
+                "width": null,
+                "provider_asset_id": null
+              },
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://i.huffpost.com/gadgets/slideshows/456004/slide_456004_6127648_free.jpg",
+                "anchor_url": null,
+                "height": null,
+                "credit": "Getty",
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": null,
+                "title": "Frida Kahlo",
+                "caption": " ",
+                "width": null,
+                "provider_asset_id": null
+              },
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://i.huffpost.com/gadgets/slideshows/456004/slide_456004_6127650_free.jpg",
+                "anchor_url": null,
+                "height": null,
+                "credit": "Getty",
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": null,
+                "title": "Marilyn Monroe",
+                "caption": " ",
+                "width": null,
+                "provider_asset_id": null
+              },
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://i.huffpost.com/gadgets/slideshows/456004/slide_456004_6127652_free.jpg",
+                "anchor_url": null,
+                "height": null,
+                "credit": "Getty",
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": null,
+                "title": "Beyonce",
+                "caption": " ",
+                "width": null,
+                "provider_asset_id": null
+              },
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://i.huffpost.com/gadgets/slideshows/456004/slide_456004_6127654_free.jpg",
+                "anchor_url": null,
+                "height": null,
+                "credit": "Getty",
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": null,
+                "title": "Sophia Loren",
+                "caption": " ",
+                "width": null,
+                "provider_asset_id": null
+              },
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://i.huffpost.com/gadgets/slideshows/456004/slide_456004_6127656_free.jpg",
+                "anchor_url": null,
+                "height": null,
+                "credit": "Getty",
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": null,
+                "title": "Linda Evangelista",
+                "caption": " ",
+                "width": null,
+                "provider_asset_id": null
+              },
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://i.huffpost.com/gadgets/slideshows/456004/slide_456004_6127658_free.jpg",
+                "anchor_url": null,
+                "height": null,
+                "credit": "Getty",
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": null,
+                "title": "Miranda Kerr",
+                "caption": " ",
+                "width": null,
+                "provider_asset_id": null
+              },
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://i.huffpost.com/gadgets/slideshows/456004/slide_456004_6127660_free.jpg",
+                "anchor_url": null,
+                "height": null,
+                "credit": "Getty",
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": null,
+                "title": "Grace Kelly",
+                "caption": " ",
+                "width": null,
+                "provider_asset_id": null
+              },
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://i.huffpost.com/gadgets/slideshows/456004/slide_456004_6127662_free.jpg",
+                "anchor_url": null,
+                "height": null,
+                "credit": "Getty",
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": null,
+                "title": "Rihanna",
+                "caption": " ",
+                "width": null,
+                "provider_asset_id": null
+              },
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://i.huffpost.com/gadgets/slideshows/456004/slide_456004_6127664_free.jpg",
+                "anchor_url": null,
+                "height": null,
+                "credit": "Getty",
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": null,
+                "title": "Maria Felix ",
+                "caption": " ",
+                "width": null,
+                "provider_asset_id": null
+              },
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://i.huffpost.com/gadgets/slideshows/456004/slide_456004_6127666_free.jpg",
+                "anchor_url": null,
+                "height": null,
+                "credit": "Getty",
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": null,
+                "title": "Agyness Deyn",
+                "caption": " ",
+                "width": null,
+                "provider_asset_id": null
+              },
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://i.huffpost.com/gadgets/slideshows/456004/slide_456004_6127668_free.jpg",
+                "anchor_url": null,
+                "height": null,
+                "credit": "Getty",
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": null,
+                "title": "Julia Roberts",
+                "caption": " ",
+                "width": null,
+                "provider_asset_id": null
+              },
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://i.huffpost.com/gadgets/slideshows/456004/slide_456004_6127670_free.jpg",
+                "anchor_url": null,
+                "height": null,
+                "credit": "Getty",
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": null,
+                "title": "Jennifer Connelly",
+                "caption": " ",
+                "width": null,
+                "provider_asset_id": null
+              },
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://i.huffpost.com/gadgets/slideshows/456004/slide_456004_6127672_free.jpg",
+                "anchor_url": null,
+                "height": null,
+                "credit": "Getty",
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": null,
+                "title": "Gwen Stefani",
+                "caption": " ",
+                "width": null,
+                "provider_asset_id": null
+              },
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://i.huffpost.com/gadgets/slideshows/456004/slide_456004_6127674_free.jpg",
+                "anchor_url": null,
+                "height": null,
+                "credit": "Getty",
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": null,
+                "title": "Megan Fox",
+                "caption": " ",
+                "width": null,
+                "provider_asset_id": null
+              },
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://i.huffpost.com/gadgets/slideshows/456004/slide_456004_6127676_free.jpg",
+                "anchor_url": null,
+                "height": null,
+                "credit": "Getty",
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": null,
+                "title": "Rachel Weisz",
+                "caption": " ",
+                "width": null,
+                "provider_asset_id": null
+              },
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://i.huffpost.com/gadgets/slideshows/456004/slide_456004_6127678_free.jpg",
+                "anchor_url": null,
+                "height": null,
+                "credit": "Getty",
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": null,
+                "title": "Rachel Roy",
+                "caption": " ",
+                "width": null,
+                "provider_asset_id": null
+              },
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://i.huffpost.com/gadgets/slideshows/456004/slide_456004_6127680_free.jpg",
+                "anchor_url": null,
+                "height": null,
+                "credit": "Getty",
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": null,
+                "title": "Kerry Washington",
+                "caption": " ",
+                "width": null,
+                "provider_asset_id": null
+              },
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://i.huffpost.com/gadgets/slideshows/456004/slide_456004_6127682_free.jpg",
+                "anchor_url": null,
+                "height": null,
+                "credit": "Getty",
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": null,
+                "title": "Angelina Jolie",
+                "caption": " ",
+                "width": null,
+                "provider_asset_id": null
+              },
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://i.huffpost.com/gadgets/slideshows/456004/slide_456004_6127684_free.jpg",
+                "anchor_url": null,
+                "height": null,
+                "credit": "Getty",
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": null,
+                "title": "Miley Cyrus",
+                "caption": " ",
+                "width": null,
+                "provider_asset_id": null
+              },
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://i.huffpost.com/gadgets/slideshows/456004/slide_456004_6127686_free.jpg",
+                "anchor_url": null,
+                "height": null,
+                "credit": "Getty",
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": null,
+                "title": "Hilary Rhoda",
+                "caption": " ",
+                "width": null,
+                "provider_asset_id": null
+              },
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://i.huffpost.com/gadgets/slideshows/456004/slide_456004_6127688_free.jpg",
+                "anchor_url": null,
+                "height": null,
+                "credit": "Getty",
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": null,
+                "title": "Solange Knowles",
+                "caption": " ",
+                "width": null,
+                "provider_asset_id": null
+              },
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://i.huffpost.com/gadgets/slideshows/456004/slide_456004_6127690_free.jpg",
+                "anchor_url": null,
+                "height": null,
+                "credit": "Getty",
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": null,
+                "title": "Diane Kruger",
+                "caption": " ",
+                "width": null,
+                "provider_asset_id": null
+              },
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://i.huffpost.com/gadgets/slideshows/456004/slide_456004_6127692_free.jpg",
+                "anchor_url": null,
+                "height": null,
+                "credit": "Getty",
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": null,
+                "title": "Kate Upton",
+                "caption": " ",
+                "width": null,
+                "provider_asset_id": null
+              },
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://i.huffpost.com/gadgets/slideshows/456004/slide_456004_6127694_free.jpg",
+                "anchor_url": null,
+                "height": null,
+                "credit": "Getty",
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": null,
+                "title": "Lauren London",
+                "caption": " ",
+                "width": null,
+                "provider_asset_id": null
+              },
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://i.huffpost.com/gadgets/slideshows/456004/slide_456004_6127696_free.jpg",
+                "anchor_url": null,
+                "height": null,
+                "credit": "Getty",
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": null,
+                "title": "Keira Knightley",
+                "caption": " ",
+                "width": null,
+                "provider_asset_id": null
+              },
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://i.huffpost.com/gadgets/slideshows/456004/slide_456004_6127698_free.jpg",
+                "anchor_url": null,
+                "height": null,
+                "credit": "Getty",
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": null,
+                "title": "Doutzen Kroes",
+                "caption": " ",
+                "width": null,
+                "provider_asset_id": null
+              },
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://i.huffpost.com/gadgets/slideshows/456004/slide_456004_6127700_free.jpg",
+                "anchor_url": null,
+                "height": null,
+                "credit": "Getty",
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": null,
+                "title": "Jessica Alba",
+                "caption": " ",
+                "width": null,
+                "provider_asset_id": null
+              },
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://i.huffpost.com/gadgets/slideshows/456004/slide_456004_6127702_free.jpg",
+                "anchor_url": null,
+                "height": null,
+                "credit": "Getty",
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": null,
+                "title": "Eva Mendes",
+                "caption": " ",
+                "width": null,
+                "provider_asset_id": null
+              },
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://i.huffpost.com/gadgets/slideshows/456004/slide_456004_6127704_free.jpg",
+                "anchor_url": null,
+                "height": null,
+                "credit": "Getty",
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": null,
+                "title": "Audrey Hepburn",
+                "caption": " ",
+                "width": null,
+                "provider_asset_id": null
+              },
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://i.huffpost.com/gadgets/slideshows/456004/slide_456004_6127706_free.jpg",
+                "anchor_url": null,
+                "height": null,
+                "credit": "Getty",
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": null,
+                "title": "Cara Delevingne",
+                "caption": " ",
+                "width": null,
+                "provider_asset_id": null
+              },
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://i.huffpost.com/gadgets/slideshows/456004/slide_456004_6127708_free.jpg",
+                "anchor_url": null,
+                "height": null,
+                "credit": "Getty",
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": null,
+                "title": "Camilla Belle",
+                "caption": " ",
+                "width": null,
+                "provider_asset_id": null
+              },
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://i.huffpost.com/gadgets/slideshows/456004/slide_456004_6127710_free.jpg",
+                "anchor_url": null,
+                "height": null,
+                "credit": "Getty",
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": null,
+                "title": "Brooke Shields",
+                "caption": " ",
+                "width": null,
+                "provider_asset_id": null
+              },
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://i.huffpost.com/gadgets/slideshows/456004/slide_456004_6127712_free.jpg",
+                "anchor_url": null,
+                "height": null,
+                "credit": "Getty",
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": null,
+                "title": "Lily Collins",
+                "caption": " ",
+                "width": null,
+                "provider_asset_id": null
+              },
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://i.huffpost.com/gadgets/slideshows/456004/slide_456004_6127714_free.jpg",
+                "anchor_url": null,
+                "height": null,
+                "credit": "Getty",
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": null,
+                "title": "Madonna ",
+                "caption": " ",
+                "width": null,
+                "provider_asset_id": null
+              },
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://i.huffpost.com/gadgets/slideshows/456004/slide_456004_6127716_free.jpg",
+                "anchor_url": null,
+                "height": null,
+                "credit": "Getty",
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": null,
+                "title": "Elizabeth Taylor",
+                "caption": " ",
+                "width": null,
+                "provider_asset_id": null
+              }
+            ],
+            "media_medium": "slideshow",
+            "original_markup": "<!--HH--236SLIDEEXPAND--456004--HH-->",
+            "provider": null,
+            "provider_asset_id": null
+          }
+        ],
+        "videos": []
+      },
+      "content": "On dit que les sourcils façonnent le visage: raison de plus pour en prendre bien soin! Voici les tendances de la saison et quelques informations pour être au poil.\r\n\r\n<strong>L’arche parfaite (Défilé Carolina Herrera) </strong> \r\nCeux-ci sont obtenus avec beaucoup de précision: on suit la ligne naturelle de notre arcade sourcilière et on enlève tout ce qui l’entrave. Pour ajouter de la définition, on utilise un gel teinté d’une couleur qui ressemble à notre poil naturel.\r\n\r\n<img alt=\"carolina herrera\" src=\"http://i.huffpost.com/gen/3739358/thumbs/o-CAROLINA-HERRERA-570.jpg?7\" />\r\n\r\n<strong>Photo: Défilé Carolina Herrera</strong>\r\n\r\n<strong>Sourcils brossés (Défilé DKNY)</strong>\r\nLe look est frappant et très facile à obtenir: sur des sourcils ayant poussé librement dans les dernières semaines (on cache les ciseaux!), on brosse vers le haut. On obtient la tenue à l’aide d’un gel transparent pour les sourcils.\r\n\r\n<img alt=\"dkny\" src=\"http://i.huffpost.com/gen/3739458/thumbs/o-DKNY-570.jpg?5\" />\r\n\r\n<strong>Photo: Défilé DKNY</strong>\r\n\r\n<strong>Sourcils naturels (Collection Nicole Miller)</strong>\r\nHyper simple, mais qui demande tout de même du travail: on maintient notre ligne et on coupe les poils de façon régulière. Nul besoin de les placer ou d’exagérer la couleur, car on veut l’effet parfaitement naturel.\r\n\r\n<img alt=\"nicole miller\" src=\"http://i.huffpost.com/gen/3739510/thumbs/o-NICOLE-MILLER-570.jpg?7\" />\r\n\r\n<strong>Photo: Collection Nicole Miller</strong>\r\n\r\n\r\n<strong>Les tendances sourcils de l'automne/hiver 2015-2016</strong>\r\n\r\n<!--HH--236SLIDEEXPAND--467292--HH-->\r\n<br>\r\n\r\n<strong>Sourcils fournis (CollectionTory Burch)</strong>\r\nSur des sourcils bien entretenus, on comble les endroits parsemés à l’aide d’un produit d’un ton plus foncé que notre couleur naturelle. On repasse ensuite partout pour uniformiser la couleur.\r\n\r\n<img alt=\"tory burch\" src=\"http://i.huffpost.com/gen/3739692/thumbs/o-TORY-BURCH-570.jpg?3\" />\r\n\r\n<strong>Photo: Collection Tory Burch</strong>\r\n\r\n<strong>Fournis et brossés (Collection: Cushnie et Ochs)</strong>\r\nLe nec plus ultra de la saison: l’union du sourcil brossé et du sourcil fourni. On commence par brosser avec un gel teinté, puis on vient fournir avec un crayon ou un fard à sourcil. \r\n\r\n<img alt=\"cushnie et ochs\" src=\"http://i.huffpost.com/gen/3739586/thumbs/o-CUSHNIE-ET-OCHS-570.jpg?7\" />\r\n\r\n<strong>Photo: Collection Cushnie et Ochs</strong>\r\n\r\n<strong>5 trucs essentiels pour des sourcils impeccables</strong>\r\n\r\n<strong>1 - Avoir la bonne pince en main</strong>\r\nL’idéal est d’en posséder deux: une plate et l’autre pointue. La pince plate est parfaite pour retirer les poils, car sa forme s’appuie sur l’arcade sourcilière pour aller cherche le poil à la racine. La pince pointue est redoutable pour retirer les poils incarnés sans endommager la peau.\r\n\r\n<strong>2 - Épiler après la douche</strong>\r\nLes poils sont plus mous et les follicules s’ouvrent après une bonne douche chaude, ce qui aide l’extraction.\r\n\r\n<strong>3 - Oublier le miroir grossissant</strong>\r\nCe miroir peut donner l’effet qu’il y a plus de poils à enlever qu’en vrai, et mener à un sourcil trop épilé. On choisit plutôt un miroir régulier dans un bon éclairage. Après quelques poils enlevés, on prend du recul pour vérifier l’effet sur notre visage.\r\n\r\n<strong>4 - Remplir avant d’épiler</strong>\r\nEn remplissant les sourcils à l’aide d’un crayon avant de les épiler, on s’assure de ne pas trop en enlever.\r\n\r\n<strong>5 - Respecter les règles</strong>\r\nOn suit la règle universelle suivante: le sourcil commence au-dessus du coin interne de l’œil, atteint son point le plus haut lorsqu’il est aligné avec le point externe de l’iris, et se termine lorsqu’il est en angle de 45 degrés au coin externe de l’œil. \r\n\r\n\r\n<strong><a href=\"https://www.facebook.com/HuffPostQuebecStyle\"><img src=\"http://big.assets.huffingtonpost.com/FBLOGO_0.png\"></a> <a href=\"https://www.facebook.com/HuffPostQuebecStyle\" target=\"_hplink\">Abonnez-vous à HuffPost Québec Style sur Facebook</a><br> <a href=\"https://twitter.com/huffpostqcstyle\"><img src=\"http://big.assets.huffingtonpost.com/TWITTERBIRD.png\"></a> <a href=\"https://twitter.com/huffpostqcstyle\" target=\"_hplink\">Suivez HuffPost Québec Style sur Twitter</a><br class=\"ethanmobile\" /></strong>\r\n\r\n\r\n <!--HH--236SLIDEEXPAND--456004--HH--> ",
+      "relegence": {
+        "topic": {
+          "heat": 0,
+          "id": 82270196,
+          "document_count": 1,
+          "created": "2015-12-03T11:12:16+00:00"
+        },
+        "duplicate": [
+          {
+            "type": "Total",
+            "original_doc_id": 82269175
+          }
+        ],
+        "categories": [],
+        "tags": []
+      },
+      "provider": null,
+      "license_id": "2",
+      "slideshow_images_count": 56,
+      "store": {
+        "entry_source": "Le Huffington Post Québec",
+        "entry_mobile_headline": "",
+        "entry_mobile_link": "http://m.huffpost.com/qc/entry/8708140"
+      },
+      "slideshow_count": 2,
+      "tags": [
+        "beauté québec"
+      ],
+      "plain_text": "On dit que les sourcils façonnent le visage: raison de plus pour en prendre bien soin! Voici les tendances de la saison et quelques informations pour être au poil.\r\n\r\nL’arche parfaite (Défilé Carolina Herrera)  \r\nCeux-ci sont obtenus avec beaucoup de précision: on suit la ligne naturelle de notre arcade sourcilière et on enlève tout ce qui l’entrave. Pour ajouter de la définition, on utilise un gel teinté d’une couleur qui ressemble à notre poil naturel.\r\n\r\n\r\n\r\nPhoto: Défilé Carolina Herrera\r\n\r\nSourcils brossés (Défilé DKNY)\r\nLe look est frappant et très facile à obtenir: sur des sourcils ayant poussé librement dans les dernières semaines (on cache les ciseaux!), on brosse vers le haut. On obtient la tenue à l’aide d’un gel transparent pour les sourcils.\r\n\r\n\r\n\r\nPhoto: Défilé DKNY\r\n\r\nSourcils naturels (Collection Nicole Miller)\r\nHyper simple, mais qui demande tout de même du travail: on maintient notre ligne et on coupe les poils de façon régulière. Nul besoin de les placer ou d’exagérer la couleur, car on veut l’effet parfaitement naturel.\r\n\r\n\r\n\r\nPhoto: Collection Nicole Miller\r\n\r\n\r\nLes tendances sourcils de l'automne/hiver 2015-2016\r\n\r\n\r\n\r\n\r\n\r\nSourcils fournis (CollectionTory Burch)\r\nSur des sourcils bien entretenus, on comble les endroits parsemés à l’aide d’un produit d’un ton plus foncé que notre couleur naturelle. On repasse ensuite partout pour uniformiser la couleur.\r\n\r\n\r\n\r\nPhoto: Collection Tory Burch\r\n\r\nFournis et brossés (Collection: Cushnie et Ochs)\r\nLe nec plus ultra de la saison: l’union du sourcil brossé et du sourcil fourni. On commence par brosser avec un gel teinté, puis on vient fournir avec un crayon ou un fard à sourcil. \r\n\r\n\r\n\r\nPhoto: Collection Cushnie et Ochs\r\n\r\n5 trucs essentiels pour des sourcils impeccables\r\n\r\n1 - Avoir la bonne pince en main\r\nL’idéal est d’en posséder deux: une plate et l’autre pointue. La pince plate est parfaite pour retirer les poils, car sa forme s’appuie sur l’arcade sourcilière pour aller cherche le poil à la racine. La pince pointue est redoutable pour retirer les poils incarnés sans endommager la peau.\r\n\r\n2 - Épiler après la douche\r\nLes poils sont plus mous et les follicules s’ouvrent après une bonne douche chaude, ce qui aide l’extraction.\r\n\r\n3 - Oublier le miroir grossissant\r\nCe miroir peut donner l’effet qu’il y a plus de poils à enlever qu’en vrai, et mener à un sourcil trop épilé. On choisit plutôt un miroir régulier dans un bon éclairage. Après quelques poils enlevés, on prend du recul pour vérifier l’effet sur notre visage.\r\n\r\n4 - Remplir avant d’épiler\r\nEn remplissant les sourcils à l’aide d’un crayon avant de les épiler, on s’assure de ne pas trop en enlever.\r\n\r\n5 - Respecter les règles\r\nOn suit la règle universelle suivante: le sourcil commence au-dessus du coin interne de l’œil, atteint son point le plus haut lorsqu’il est aligné avec le point externe de l’iris, et se termine lorsqu’il est en angle de 45 degrés au coin externe de l’œil. \r\n\r\n\r\n Abonnez-vous à HuffPost Québec Style sur Facebook\r\n  Suivez HuffPost Québec Style sur Twitter\r\n\r\n\r\n\r\n ",
+      "link": "http://quebec.huffingtonpost.ca/2015/12/03/tendances-sourcils-lautomnehiver-2015-2016-astuces-_n_8708140.html",
+      "categories": [],
+      "lang": "fr",
+      "video_count": 0,
+      "profane": false,
+      "crawled": "2015-12-03T16:06:58.132600",
+      "author": {
+        "type": "2",
+        "name": "Andréa Sirhan-Daneau",
+        "id": null
+      },
+      "source": {
+        "zipcode": null,
+        "publisher_id": "142",
+        "id": "8Y10Ju",
+        "groups": [
+          1,
+          5,
+          173
+        ],
+        "title": "Quebec Style"
+      },
+      "published": "2015-12-03T16:01:47+00:00",
+      "image_count": 8,
+      "_score": 1
+    },
+    {
+      "content_length": 4731,
+      "updated": "2015-12-03T16:09:56+00:00",
+      "update_received": "2015-12-03T16:12:16.649007+00:00",
+      "crawled_ts": 1449159136649007000,
+      "content_hash": "mmh3-258831294873215425838844032635472671796",
+      "guid": "8708912",
+      "id": "SOiPYC/1449159136649007000",
+      "snippet": "ENVIRONNEMENT - \"La transition écologique sait décrire son but, mais pas son chemin. La transition numérique, c'est le contraire. Chacune a besoin de l'autre !\" ",
+      "title": "Transition²: faire converger les transitions écologique et numérique",
+      "media": {
+        "images": [
+          {
+            "extracted_from_html": null,
+            "original_markup": "<!--HH--PHOTO--DEFAULT--3337804--HH-->",
+            "tags": [],
+            "url": "http://i.huffpost.com/gen/3337804/original.jpg",
+            "anchor_url": null,
+            "height": 1650,
+            "credit": " ",
+            "media_medium": "image",
+            "headline": true,
+            "alternate_sizes": [
+              {
+                "url": "http://i.huffpost.com/gen/3337804/images/n-DEFAULT-medium.jpg",
+                "width": 300,
+                "height": 125,
+                "mime_type": "image/jpeg",
+                "tags": [
+                  "n-medium"
+                ]
+              },
+              {
+                "url": "http://i.huffpost.com/gen/3337804/images/r-DEFAULT-medium.jpg",
+                "width": 300,
+                "height": 125,
+                "mime_type": "image/jpeg",
+                "tags": [
+                  "r-medium"
+                ]
+              }
+            ],
+            "provider": null,
+            "title": null,
+            "caption": null,
+            "width": 3000,
+            "provider_asset_id": null
+          }
+        ],
+        "slideshows": [],
+        "videos": []
+      },
+      "content": "ENVIRONNEMENT - \"La transition écologique sait décrire son but, mais pas son chemin. La transition numérique, c'est le contraire. Chacune a besoin de l'autre !\" C'est à partir de cette provocation qu'un groupe d'acteurs issus de l'écologie d'une part, du numérique de l'autre, a choisi de travailler ensemble autour d'un \"<a href=\"http://www.transitions2.net/catalogue/view/709/appel-a-engagements-transitions-au-carre\" target=\"_hplink\">appel à engagements</a>\" rendu public le 27 novembre dernier.\n\n33 ans après le premier \"Sommet de la Terre\", nous ne sommes guère avancés dans la lutte contre le changement climatique. Nous espérons tous que la COP21 débouchera sur un accord ambitieux et contraignant, mais nous savons qu'il ne sera efficace que si la transformation écologique embarque chaque entreprise et chacun d'entre nous - et nous en sommes loin.\n\n20 ans après l'ouverture de l'internet au grand public, le numérique apparaît, qu'on s'en réjouisse ou qu'on s'en plaigne, comme la principale force de transformation de nos sociétés contemporaines. Les entreprises et les secteurs économiques entrent en \"transition numérique\", l'Etat se veut \"plateforme\", plus de la moitié de la population mondiale dispose d'un téléphone mobile... En revanche, la numérisation n'a pas suffi à rendre notre croissance plus verte. Au contraire, l'\"effet rebond\" semble avoir été inventé pour le numérique : les extraordinaires gains dans la productivité des ressources, qu'il a contribué à rendre possibles, ont été intégralement réinvestis dans plus de croissance, plus de consommation, plus de déplacements.\n\nL'ampleur de la transformation nécessaire de notre modèle de développement est hors de portée de solutions purement techniques. Mais le numérique, ce n'est pas que du calcul. Il outille aussi les nouvelles formes de mobilisation, de participation et d'action collective, d'échange et de partage. Il favorise la compréhension de phénomènes complexes et l'exploration d'autres champs des possibles. Il facilite le passage de l'idée à sa réalisation et l'émergence d'alternatives concrètes.\n\nPeut-on, par conséquent, mettre la puissance transformatrice du numérique au service de la transition écologique ? Et celle-ci peut-elle prêter à la \"révolution numérique\" l'objectif qui lui fait défaut ? Nous faisons ce pari et nous entendons le traduire en actes, en nous saisissant ensemble d'un certain nombre de \"défis\".\n\nParmi les plus importants de ces défis figure la mise en œuvre de nouvelles manières de mesurer la valeur et la richesse, qui intègrent ce que l'on nomme encore les \"externalités\" sociales et environnementales. Cela passe par la transformation des outils de mesure, de comptabilisation, ainsi que de présentation de l'information, à l'échelle des entreprises comme des nations.\n\nAutre défi, celui de l'articulation des échelles. Partout dans le monde, des groupes s'appuient sur les outils numériques pour inventer des matériaux, des outils ou des méthodes de production durables, à l'instar de la \"boîte à outils pour un village global\" d'<a href=\"http://opensourceecology.org/\" target=\"_hplink\">Open Source Ecology</a>. Leurs plans sont disponibles en ligne pour que d'autres puissent les reproduire ou les améliorer. Reste à articuler ces échelons très locaux à d'autres, à l'échelle de bassins de vie comme de continents, d'entreprises comme de secteurs économiques entiers.\n\nNous ne négligeons pas, bien sûr, la nécessité de réduire l'empreinte écologique du numérique soi-même. Mais l'enjeu de la convergence des deux transitions est bien plus important. Il s'agit de dépasser le sentiment d'impuissance qui nous saisit parfois devant l'ampleur et la difficulté du défi climatique, en mettant à son service la dynamique, la force évocatrice, la puissance mobilisatrice de la transformation numérique.\n\n\nUn appel ne fait pas une transition : venez nous retrouver le samedi 5 décembre au <a href=\"http://paris.numa.co/Evenements/Barcamp-Transitions2\" target=\"_hplink\">NUMA Paris</a>.\n\n<blockquote><strong>Breakthrough Night par ICA</strong>\n\nLe 4 décembre 2015, sous la nef du Grand Palais, l'éco-système de l'innovation se réunit pour mettre en avant des projets, matures ou natifs, qui participent activement à l'invention du monde post-carbone et au changement de notre société.\n \nICA (Innovation Climate Accelerator) permet de fédérer la communauté des acteurs de l'innovation pour le climat. Organisé sur les dix tendances de ruptures, et conçu comme une application de networking, ICA se veut être un accélérateur d'innovation en réunissant porteurs de projets, financeurs et entreprises autour de rencontres en live et online dont la première est la Breakthrough Night pendant la Cop21.</blockquote> ",
+      "relegence": {
+        "topic": {
+          "heat": 0,
+          "id": 82270202,
+          "document_count": 1,
+          "created": "2015-12-03T11:12:16+00:00"
+        },
+        "duplicate": [
+          {
+            "type": "None",
+            "original_doc_id": 82270202
+          }
+        ],
+        "categories": [],
+        "tags": []
+      },
+      "provider": null,
+      "license_id": "3",
+      "slideshow_images_count": 0,
+      "store": {
+        "entry_mobile_headline": "",
+        "entry_mobile_link": "http://m.huffpost.com/fr/entry/8708912"
+      },
+      "slideshow_count": 0,
+      "tags": [
+        "cop21",
+        "transition énergétique",
+        "environnement",
+        "numérique",
+        "techno",
+        "écologie"
+      ],
+      "plain_text": "ENVIRONNEMENT - \"La transition écologique sait décrire son but, mais pas son chemin. La transition numérique, c'est le contraire. Chacune a besoin de l'autre !\" C'est à partir de cette provocation qu'un groupe d'acteurs issus de l'écologie d'une part, du numérique de l'autre, a choisi de travailler ensemble autour d'un \"appel à engagements\" rendu public le 27 novembre dernier.\n\n33 ans après le premier \"Sommet de la Terre\", nous ne sommes guère avancés dans la lutte contre le changement climatique. Nous espérons tous que la COP21 débouchera sur un accord ambitieux et contraignant, mais nous savons qu'il ne sera efficace que si la transformation écologique embarque chaque entreprise et chacun d'entre nous - et nous en sommes loin.\n\n20 ans après l'ouverture de l'internet au grand public, le numérique apparaît, qu'on s'en réjouisse ou qu'on s'en plaigne, comme la principale force de transformation de nos sociétés contemporaines. Les entreprises et les secteurs économiques entrent en \"transition numérique\", l'Etat se veut \"plateforme\", plus de la moitié de la population mondiale dispose d'un téléphone mobile... En revanche, la numérisation n'a pas suffi à rendre notre croissance plus verte. Au contraire, l'\"effet rebond\" semble avoir été inventé pour le numérique : les extraordinaires gains dans la productivité des ressources, qu'il a contribué à rendre possibles, ont été intégralement réinvestis dans plus de croissance, plus de consommation, plus de déplacements.\n\nL'ampleur de la transformation nécessaire de notre modèle de développement est hors de portée de solutions purement techniques. Mais le numérique, ce n'est pas que du calcul. Il outille aussi les nouvelles formes de mobilisation, de participation et d'action collective, d'échange et de partage. Il favorise la compréhension de phénomènes complexes et l'exploration d'autres champs des possibles. Il facilite le passage de l'idée à sa réalisation et l'émergence d'alternatives concrètes.\n\nPeut-on, par conséquent, mettre la puissance transformatrice du numérique au service de la transition écologique ? Et celle-ci peut-elle prêter à la \"révolution numérique\" l'objectif qui lui fait défaut ? Nous faisons ce pari et nous entendons le traduire en actes, en nous saisissant ensemble d'un certain nombre de \"défis\".\n\nParmi les plus importants de ces défis figure la mise en œuvre de nouvelles manières de mesurer la valeur et la richesse, qui intègrent ce que l'on nomme encore les \"externalités\" sociales et environnementales. Cela passe par la transformation des outils de mesure, de comptabilisation, ainsi que de présentation de l'information, à l'échelle des entreprises comme des nations.\n\nAutre défi, celui de l'articulation des échelles. Partout dans le monde, des groupes s'appuient sur les outils numériques pour inventer des matériaux, des outils ou des méthodes de production durables, à l'instar de la \"boîte à outils pour un village global\" d'Open Source Ecology. Leurs plans sont disponibles en ligne pour que d'autres puissent les reproduire ou les améliorer. Reste à articuler ces échelons très locaux à d'autres, à l'échelle de bassins de vie comme de continents, d'entreprises comme de secteurs économiques entiers.\n\nNous ne négligeons pas, bien sûr, la nécessité de réduire l'empreinte écologique du numérique soi-même. Mais l'enjeu de la convergence des deux transitions est bien plus important. Il s'agit de dépasser le sentiment d'impuissance qui nous saisit parfois devant l'ampleur et la difficulté du défi climatique, en mettant à son service la dynamique, la force évocatrice, la puissance mobilisatrice de la transformation numérique.\n\n\nUn appel ne fait pas une transition : venez nous retrouver le samedi 5 décembre au NUMA Paris.\n\nBreakthrough Night par ICA\n\nLe 4 décembre 2015, sous la nef du Grand Palais, l'éco-système de l'innovation se réunit pour mettre en avant des projets, matures ou natifs, qui participent activement à l'invention du monde post-carbone et au changement de notre société.\n \nICA (Innovation Climate Accelerator) permet de fédérer la communauté des acteurs de l'innovation pour le climat. Organisé sur les dix tendances de ruptures, et conçu comme une application de networking, ICA se veut être un accélérateur d'innovation en réunissant porteurs de projets, financeurs et entreprises autour de rencontres en live et online dont la première est la Breakthrough Night pendant la Cop21.",
+      "link": "http://www.huffingtonpost.fr/benoit-thieulin/transition-ecologique-numerique_b_8708912.html",
+      "categories": [],
+      "lang": "fr",
+      "video_count": 0,
+      "profane": false,
+      "crawled": "2015-12-03T16:12:16.649007",
+      "author": {
+        "type": "3",
+        "name": "Benoît Thieulin|Daniel Kaplan",
+        "id": null
+      },
+      "source": {
+        "zipcode": null,
+        "publisher_id": "80",
+        "id": "SOiPYC",
+        "groups": [
+          1,
+          5,
+          174
+        ],
+        "title": "Huff. Post: France - France"
+      },
+      "published": "2015-12-03T16:09:42+00:00",
+      "image_count": 1,
+      "_score": 1
+    },
+    {
+      "content_length": 3082,
+      "updated": "2015-12-03T16:11:00+00:00",
+      "update_received": "2015-12-03T16:12:15.840028+00:00",
+      "crawled_ts": 1449159135840028000,
+      "content_hash": "mmh3-229269282749938121943857626547314970183",
+      "guid": "8708956",
+      "id": "wsy8G4/1449159135840028000",
+      "snippet": "<div class=\"flash_video\">Eine kleine Weile haben sich die Fans der vier Nordlichter Jonas Nay (25), Jon Klein, David Grabowski und Franz Blumenthal von der Band Northern Lights auf neues Futter gedulden müssen. ",
+      "title": "Neue EP der Nordlichter Jonas Nays Northern Lights",
+      "media": {
+        "images": [
+          {
+            "extracted_from_html": null,
+            "original_markup": "<!--HH--PHOTO--JONAS-NAYS-NORTHERN-LIGHTS-NEUE-EP--3739732--HH-->",
+            "tags": [],
+            "url": "http://i.huffpost.com/gen/3739732/original.jpg",
+            "anchor_url": null,
+            "height": 750,
+            "credit": "Anna-Lena Ehlers",
+            "media_medium": "image",
+            "headline": true,
+            "alternate_sizes": [
+              {
+                "url": "http://i.huffpost.com/gen/3739732/images/n-JONAS-NAYS-NORTHERN-LIGHTS-NEUE-EP-medium.jpg",
+                "width": 300,
+                "height": 125,
+                "mime_type": "image/jpeg",
+                "tags": [
+                  "n-medium"
+                ]
+              },
+              {
+                "url": "http://i.huffpost.com/gen/3739732/images/r-JONAS-NAYS-NORTHERN-LIGHTS-NEUE-EP-medium.jpg",
+                "width": 300,
+                "height": 125,
+                "mime_type": "image/jpeg",
+                "tags": [
+                  "r-medium"
+                ]
+              }
+            ],
+            "provider": null,
+            "title": null,
+            "caption": "Die neue EP wird \"Pulsar\" heißen.",
+            "width": 1000,
+            "provider_asset_id": null
+          }
+        ],
+        "slideshows": [],
+        "videos": []
+      },
+      "content": "<div class=\"flash_video\">Eine kleine Weile haben sich die Fans der vier Nordlichter Jonas Nay (25), Jon Klein, David Grabowski und Franz Blumenthal von der Band Northern Lights auf neues Futter gedulden müssen. Im Herbst 2014 brachten sie ihr Debüt-Album <a href=\"http://www.amazon.de/Landed-Northern-Lights/dp/B00NI0PWG6/ref=sr_1_3_twi_aud_2?ie=UTF8&qid=1449147642&sr=8-3&keywords=northern+lights&tag=spot_on_huffingtonpost-21\" rel=\"nofollow\" title=\"Affiliate Link\">\"Landed\"</a> heraus, im September dieses Jahres stellten sie auf <a href=\"https://www.facebook.com/NorthernLightsBandpage\">ihrer Facebook-Seite</a> das \"visuelle Rauschgift\", das Video ihrer Single \"Sie hält dich wach\", vor. Jetzt folgt mit \"Pulsar\" eine neue EP, vollgepackt mit jeder Menge \"Progressive Pop\" und, na klar, deutschen Texten.\r\n\r\nNoch mehr als mit seiner Band ist Frontmann Nay derzeit für seine Hauptrolle in der RTL-Serie \"Deutschland 83\" bekannt. Darin spielt er einen DDR-Grenzsoldaten, der als \"Kundschafter des Friedens\", sprich als Spion, in die Bundeswehr der BRD eingeschleust wird.\r\n\r\n<a href=\"http://www.amazon.de/Deutschland-83-DVDs-Jonas-Nay/dp/B010A177FY/ref=sr_1_2?ie=UTF8&qid=1449149038&sr=8-2&keywords=jonas+nay&tag=spot_on_huffingtonpost-21\" rel=\"nofollow\" title=\"Affiliate Link\">Bestellen Sie sich hier die DVD zur Hit-Serie \"Deutschland 83\"</a>\r\n\r\n\"Pulsar\" wird am 4. Dezember 2015 erscheinen, im kommenden Jahr folgt dann die erste Deutschlandtour der vier Lübecker.\r\n\r\n<blockquote><strong>Lesenswert:</strong>\r\n<ul><li><a\r\nhref=\"http://www.huffingtonpost.de/2015/12/02/griechenland-eu-schengen-fluechtlinge_n_8704348.html\" target=\"_hplink\">Die EU hat genug von Athens Spiel in der Flüchtlingskrise – und plant eine krasse Strafe</a></li>\r\n<li><a href=\"http://www.huffingtonpost.de/2015/12/03/saudi-arabien-geheimdienst_n_8697424.html\">Der deutsche Geheimdienst warnt vor einem Land, das gerade kaum jemand auf dem Schirm hat</a></li>\r\n<li><a href=\"http://www.huffingtonpost.de/2015/12/02/erdogan-gollum-vergleich_n_8698982.html\" target=\"_hplink\">Erdogan mit Gollum verglichen - Arzt steht vor Gericht</a></li>\r\n<li><a href=\"http://www.huffingtonpost.de/2015/12/02/frau-geburtstagstorte-autismus_n_8696964.html\" target=\"_hplink\">Eine Kundin bekommt eine verunglückte Geburtstagstorte und reagiert perfekt</a></li>\r\n<li><a href=\"http://www.huffingtonpost.de/2015/12/03/geisterschiff-japan_n_8705592.html\" target=\"_hplink\">Geisterschiffe mit Leichen an Japans Küste: Hat Kim Jong Un damit etwas zu tun?</a></li></ul></blockquote>\r\n\r\n<blockquote><strong>Ihr habt auch ein spannendes Thema?</strong>\r\n </div>\r\nDie Huffington Post ist eine Debattenplattform für alle Perspektiven. Wenn ihr die Diskussion zu politischen oder gesellschaftlichen Themen vorantreiben wollt, schickt eure Idee an unser Blogteam unter <a href=\"mailto:blog@huffingtonpost.de\" target=\"_hplink\">\r\nblog@huffingtonpost.de</a>. </blockquote>\r\n\r\n<blockquote><center><strong><a target=\"_self\" href=\"http://m.huffpost.com/de\" target=\"_hplink\">Hier geht es zurück zur Startseite</a></strong></center></blockquote>\r\n ",
+      "relegence": {
+        "topic": {
+          "heat": 0,
+          "id": 82271303,
+          "document_count": 1,
+          "created": "2015-12-03T11:15:16+00:00"
+        },
+        "duplicate": [
+          {
+            "type": "None",
+            "original_doc_id": 82271303
+          }
+        ],
+        "categories": [],
+        "tags": []
+      },
+      "provider": null,
+      "license_id": "16",
+      "slideshow_images_count": 0,
+      "store": {
+        "entry_source": "Spot On",
+        "entry_mobile_headline": "",
+        "entry_mobile_link": "http://m.huffpost.com/de/entry/8708956"
+      },
+      "slideshow_count": 0,
+      "tags": [
+        "entertainment",
+        "musik",
+        "ep",
+        "Jonas Nays Northern Lights"
+      ],
+      "plain_text": "Eine kleine Weile haben sich die Fans der vier Nordlichter Jonas Nay (25), Jon Klein, David Grabowski und Franz Blumenthal von der Band Northern Lights auf neues Futter gedulden müssen. Im Herbst 2014 brachten sie ihr Debüt-Album \"Landed\" heraus, im September dieses Jahres stellten sie auf ihrer Facebook-Seite das \"visuelle Rauschgift\", das Video ihrer Single \"Sie hält dich wach\", vor. Jetzt folgt mit \"Pulsar\" eine neue EP, vollgepackt mit jeder Menge \"Progressive Pop\" und, na klar, deutschen Texten.\r\n\r\nNoch mehr als mit seiner Band ist Frontmann Nay derzeit für seine Hauptrolle in der RTL-Serie \"Deutschland 83\" bekannt. Darin spielt er einen DDR-Grenzsoldaten, der als \"Kundschafter des Friedens\", sprich als Spion, in die Bundeswehr der BRD eingeschleust wird.\r\n\r\nBestellen Sie sich hier die DVD zur Hit-Serie \"Deutschland 83\"\r\n\r\n\"Pulsar\" wird am 4. Dezember 2015 erscheinen, im kommenden Jahr folgt dann die erste Deutschlandtour der vier Lübecker.\r\n\r\nLesenswert:\r\nDie EU hat genug von Athens Spiel in der Flüchtlingskrise – und plant eine krasse Strafe\r\nDer deutsche Geheimdienst warnt vor einem Land, das gerade kaum jemand auf dem Schirm hat\r\nErdogan mit Gollum verglichen - Arzt steht vor Gericht\r\nEine Kundin bekommt eine verunglückte Geburtstagstorte und reagiert perfekt\r\nGeisterschiffe mit Leichen an Japans Küste: Hat Kim Jong Un damit etwas zu tun?\r\n\r\nIhr habt auch ein spannendes Thema?\r\n \r\nDie Huffington Post ist eine Debattenplattform für alle Perspektiven. Wenn ihr die Diskussion zu politischen oder gesellschaftlichen Themen vorantreiben wollt, schickt eure Idee an unser Blogteam unter \r\nblog@huffingtonpost.de. \r\n\r\nHier geht es zurück zur Startseite\r\n ",
+      "link": "http://www.huffingtonpost.de/2015/12/03/jonas-nays-northern-lights-neue-ep-pulsar_n_8708956.html",
+      "categories": [],
+      "lang": "de",
+      "video_count": 0,
+      "profane": false,
+      "crawled": "2015-12-03T16:12:15.840028",
+      "author": {
+        "type": "16",
+        "name": "spot on news",
+        "id": null
+      },
+      "source": {
+        "zipcode": null,
+        "publisher_id": "130",
+        "id": "wsy8G4",
+        "groups": [
+          1,
+          5,
+          175
+        ],
+        "title": "Huff. Post: Germany - Germany"
+      },
+      "published": "2015-12-03T16:11:00+00:00",
+      "image_count": 1,
+      "_score": 1
+    },
+    {
+      "content_length": 2771,
+      "updated": "2015-12-03T13:41:57+00:00",
+      "update_received": "2015-12-03T13:42:01.304118+00:00",
+      "crawled_ts": 1449122921066608000,
+      "content_hash": "mmh3-76361585288098949831474021380525284130",
+      "guid": "21277164",
+      "id": "JhH-EO/1449122921066608000",
+      "snippet": "<a href=\"http://cn.engadget.com/2015/12/03/samsung-exits-uk-camera-market/\"><img data-credit=\"Engadget\" data-mep=\"1067456\" src=\"http://o.aolcdn.com/hss/storage/midas/a35b006003b3bcc7335b75622c426f31/203074695/Samsung_NX1_150305_DSC5421.jpg\" alt=\"\" /></a><br />传闻已久，三星已经收掉英国相机业务的传言现在已获官方证实，不过紧跟着而来的谣传，居然是更大的<a href=\"http://www.mirrorlessrumors.com/hot-rumor-nikon-bought-samsung-nx-mirrorless-tech/\">相机事业群被收购的消息</a>，而且买家即是在无反市场刚好一直缺乏 APS-C 机型的尼康。虽说好像有点令人惊讶，不过其实仔细想想好像也满合理的吧？<br /><br />根据 <a href=\"http://www.techradar.com/news/photography-video-capture/cameras/samsung-quits-uk-camera-market-official-statement-confirms-the-rumors-1310244\">TechRadar</a> 向三星获得的官方说法，该公司的确已经悄悄地在英国拿掉了相机事业群，至于原因则是因为「需求不断地下降」的关系。而另一个更震撼的谣传消息，则是尼康近期已经完成了对三星相机事业群的收购，并且预计在明年 CES 时宣布这个可能将撼动相机产业的重大消息。<br /><br />是说，就现阶段而言，三星貌似还只算是地区性的停售该公司的相机系列产品而已。不过若是搭配上最新的被收购谣传，还有前阵子<a href=\"http://www.43rumors.com/its-official-schneider-changes-his-mind-and-will-not-make-any-mft-lenses/\">施奈德淡出三星在无反方面的镜头研发合作</a>消息，这事情就变得好像有这么一点逻辑可寻了啊！<br /><br /><strong>更新</strong>：<a href=\"http://www.amateurphotographer.co.uk/latest/photo-news/official-statement-samsung-denies-nikon-is-buying-its-nx-camera-technology-66626\">摄影网站 Amateur Photographer</a> 向 Samsung 询问后，发言人表示该篇报道关于 Nikon 收购该公司 NX  相关技术的报道是不正确的。<div style=\"text-align: center;\"><img data-credit=\"Engadget\" data-mep=\"1067457\" src=\"http://o.aolcdn.com/hss/storage/midas/8f84b26d04340c16e36cd0470391ddce/203074697/Samsung_NX1_150305_DSC5338.jpg\" alt=\"\" /></div><br />对照两间厂商的产品线，Samsung 除了拥有自己生产感光元件的实力外，在产品线上也刚好能补足一直以来 Nikon 缺乏的专业 APS-C 无反阵容，甚至 Samsung 无反系列中才刚刚成形的一吋感光元件 NX-M 产品线，好像也可以为 Nikon 这边的无反系列有一些助力。其次，Nikon 将可藉此收购改变以往必须受制于单一感光元件厂而施展不开的状况 -- 毕竟 Canon 本身就有自产感光元件的能力；Sony 那就不用讲了... 所以 ",
+      "title": "三星确认英国相机事业已收摊；被尼康收购传言已甚嚣尘上（更新：官方回应）",
+      "media": {
+        "images": [
+          {
+            "extracted_from_html": null,
+            "original_markup": null,
+            "tags": [],
+            "url": "http://o.aolcdn.com/hss/storage/midas/a35b006003b3bcc7335b75622c426f31/203074695/Samsung_NX1_150305_DSC5421.jpg",
+            "anchor_url": null,
+            "height": null,
+            "credit": "Engadget",
+            "media_medium": "image",
+            "headline": null,
+            "alternate_sizes": [],
+            "provider": "dam",
+            "title": "",
+            "caption": "",
+            "width": null,
+            "provider_asset_id": "203074695"
+          },
+          {
+            "extracted_from_html": null,
+            "original_markup": null,
+            "tags": [],
+            "url": "http://o.aolcdn.com/hss/storage/midas/8f84b26d04340c16e36cd0470391ddce/203074697/Samsung_NX1_150305_DSC5338.jpg",
+            "anchor_url": null,
+            "height": null,
+            "credit": "Engadget",
+            "media_medium": "image",
+            "headline": null,
+            "alternate_sizes": [],
+            "provider": "dam",
+            "title": "",
+            "caption": "",
+            "width": null,
+            "provider_asset_id": "203074697"
+          },
+          {
+            "extracted_from_html": null,
+            "original_markup": null,
+            "tags": [],
+            "url": "http://o.aolcdn.com/hss/storage/midas/18db03f4739a5e7b17917d6bf649996c/203074715/Samsung_NX1_150305_DSC5420.jpg",
+            "anchor_url": null,
+            "height": null,
+            "credit": "Engadget",
+            "media_medium": "image",
+            "headline": null,
+            "alternate_sizes": [],
+            "provider": "dam",
+            "title": "",
+            "caption": "",
+            "width": null,
+            "provider_asset_id": "203074715"
+          },
+          {
+            "extracted_from_html": true,
+            "original_markup": "<a href=\"http://cn.engadget.com/2015/12/03/samsung-exits-uk-camera-market/\"><img alt=\"\" data-credit=\"Engadget\" data-mep=\"1067456\" src=\"http://o.aolcdn.com/hss/storage/midas/a35b006003b3bcc7335b75622c426f31/203074695/Samsung_NX1_150305_DSC5421.jpg\"/></a>",
+            "tags": [],
+            "url": "http://o.aolcdn.com/hss/storage/midas/a35b006003b3bcc7335b75622c426f31/203074695/Samsung_NX1_150305_DSC5421.jpg",
+            "anchor_url": "http://cn.engadget.com/2015/12/03/samsung-exits-uk-camera-market/",
+            "height": null,
+            "credit": "Engadget",
+            "media_medium": "image",
+            "headline": null,
+            "alternate_sizes": [],
+            "provider": null,
+            "title": null,
+            "caption": "",
+            "width": null,
+            "provider_asset_id": null
+          },
+          {
+            "extracted_from_html": true,
+            "original_markup": "<img alt=\"\" data-credit=\"Engadget\" data-mep=\"1067457\" src=\"http://o.aolcdn.com/hss/storage/midas/8f84b26d04340c16e36cd0470391ddce/203074697/Samsung_NX1_150305_DSC5338.jpg\"/>",
+            "tags": [],
+            "url": "http://o.aolcdn.com/hss/storage/midas/8f84b26d04340c16e36cd0470391ddce/203074697/Samsung_NX1_150305_DSC5338.jpg",
+            "anchor_url": "",
+            "height": null,
+            "credit": "Engadget",
+            "media_medium": "image",
+            "headline": null,
+            "alternate_sizes": [],
+            "provider": null,
+            "title": null,
+            "caption": "",
+            "width": null,
+            "provider_asset_id": null
+          },
+          {
+            "extracted_from_html": true,
+            "original_markup": "<img alt=\"\" data-credit=\"Engadget\" data-mep=\"1067458\" src=\"http://o.aolcdn.com/hss/storage/midas/18db03f4739a5e7b17917d6bf649996c/203074715/Samsung_NX1_150305_DSC5420.jpg\"/>",
+            "tags": [],
+            "url": "http://o.aolcdn.com/hss/storage/midas/18db03f4739a5e7b17917d6bf649996c/203074715/Samsung_NX1_150305_DSC5420.jpg",
+            "anchor_url": "",
+            "height": null,
+            "credit": "Engadget",
+            "media_medium": "image",
+            "headline": null,
+            "alternate_sizes": [],
+            "provider": null,
+            "title": null,
+            "caption": "",
+            "width": null,
+            "provider_asset_id": null
+          }
+        ],
+        "slideshows": [],
+        "videos": []
+      },
+      "content": "<a href=\"http://cn.engadget.com/2015/12/03/samsung-exits-uk-camera-market/\"><img data-credit=\"Engadget\" data-mep=\"1067456\" src=\"http://o.aolcdn.com/hss/storage/midas/a35b006003b3bcc7335b75622c426f31/203074695/Samsung_NX1_150305_DSC5421.jpg\" alt=\"\" /></a><br />传闻已久，三星已经收掉英国相机业务的传言现在已获官方证实，不过紧跟着而来的谣传，居然是更大的<a href=\"http://www.mirrorlessrumors.com/hot-rumor-nikon-bought-samsung-nx-mirrorless-tech/\">相机事业群被收购的消息</a>，而且买家即是在无反市场刚好一直缺乏 APS-C 机型的尼康。虽说好像有点令人惊讶，不过其实仔细想想好像也满合理的吧？<br /><br />根据 <a href=\"http://www.techradar.com/news/photography-video-capture/cameras/samsung-quits-uk-camera-market-official-statement-confirms-the-rumors-1310244\">TechRadar</a> 向三星获得的官方说法，该公司的确已经悄悄地在英国拿掉了相机事业群，至于原因则是因为「需求不断地下降」的关系。而另一个更震撼的谣传消息，则是尼康近期已经完成了对三星相机事业群的收购，并且预计在明年 CES 时宣布这个可能将撼动相机产业的重大消息。<br /><br />是说，就现阶段而言，三星貌似还只算是地区性的停售该公司的相机系列产品而已。不过若是搭配上最新的被收购谣传，还有前阵子<a href=\"http://www.43rumors.com/its-official-schneider-changes-his-mind-and-will-not-make-any-mft-lenses/\">施奈德淡出三星在无反方面的镜头研发合作</a>消息，这事情就变得好像有这么一点逻辑可寻了啊！<br /><br /><strong>更新</strong>：<a href=\"http://www.amateurphotographer.co.uk/latest/photo-news/official-statement-samsung-denies-nikon-is-buying-its-nx-camera-technology-66626\">摄影网站 Amateur Photographer</a> 向 Samsung 询问后，发言人表示该篇报道关于 Nikon 收购该公司 NX  相关技术的报道是不正确的。<div style=\"text-align: center;\"><img data-credit=\"Engadget\" data-mep=\"1067457\" src=\"http://o.aolcdn.com/hss/storage/midas/8f84b26d04340c16e36cd0470391ddce/203074697/Samsung_NX1_150305_DSC5338.jpg\" alt=\"\" /></div><br />对照两间厂商的产品线，Samsung 除了拥有自己生产感光元件的实力外，在产品线上也刚好能补足一直以来 Nikon 缺乏的专业 APS-C 无反阵容，甚至 Samsung 无反系列中才刚刚成形的一吋感光元件 NX-M 产品线，好像也可以为 Nikon 这边的无反系列有一些助力。其次，Nikon 将可藉此收购改变以往必须受制于单一感光元件厂而施展不开的状况 -- 毕竟 Canon 本身就有自产感光元件的能力；Sony 那就不用讲了... 所以 Nikon 真的很需要别间厂商的结盟来避免关键技术被控制在少数厂商手上。<br /><br />根据谣传的讲法，Nikon 将会持续与 Samsung 一同开发感光元件，并供货给前者。如果我们单看目前 NX1 的表现，其 BSI 背照式 28MP 高分辨率感光元件，配合上面内嵌的成像范围 90% 内的 205 点相位对焦点，整体而言的确是有攻上专业市场的潜力存在的，只可惜目前看来 Samsung 似乎在推出了最专业之作之后，已没有余力再在这个产品等级上与他厂相争 -- 小编还是忍不住要吐槽，其实就前阵子 <a href=\"http://cn.engadget.com/2015/03/18/samsung-nx1-review/\">NX1</a> 想要冲的专业市场而言，这不是才刚刚起步的领域吗... 现阶段官方说法的「下滑」，究竟是从哪个点滑下来的...<br /><br /> <div style=\"text-align: center;\"><img data-credit=\"Engadget\" data-mep=\"1067458\" src=\"http://o.aolcdn.com/hss/storage/midas/18db03f4739a5e7b17917d6bf649996c/203074715/Samsung_NX1_150305_DSC5420.jpg\" alt=\"\" /></div><br />打趣地说，依照小编认识的业界前辈的说法，其实 NX 系列插队进 Nikon 的 FX、DX 与 CX 之中成为专业级的无反系列，好像也看起来满顺理成章的（笑）。不过若是认真思考，Nikon 假若真的挤出资源吃下了 Samsung 这部分的业务，是否还有余力生产新系列产品将是个很大的问号。反而将其感光元件技术应用在新一代的 DSLR 甚至是 Nikon 1 系列产品上，好像才是比较合理的发展方向？毕竟中端机型如 D300s 与 D7200 的后继机种好像都还一直停滞不前呢，也许真的是该做些什么来展现传统相机大厂的魄力了。\n<a href=\"http://www.techradar.com/news/photography-video-capture/cameras/samsung-quits-uk-camera-market-official-statement-confirms-the-rumors-1310244\" target=\"_blank\">TechRadar</a><!--//-->",
+      "relegence": {
+        "topic": {
+          "heat": 0,
+          "id": 82232810,
+          "document_count": 1,
+          "created": "2015-12-03T08:48:28+00:00"
+        },
+        "duplicate": [
+          {
+            "type": "Total",
+            "original_doc_id": 82062942
+          }
+        ],
+        "categories": [],
+        "tags": []
+      },
+      "provider": null,
+      "license_id": "2",
+      "slideshow_images_count": 0,
+      "store": [],
+      "slideshow_count": 0,
+      "tags": [
+        " gear",
+        "camcorders",
+        " samsung",
+        " gadgetry",
+        "@fullbleed",
+        " cameras",
+        " gadgets"
+      ],
+      "plain_text": "\r\n传闻已久，三星已经收掉英国相机业务的传言现在已获官方证实，不过紧跟着而来的谣传，居然是更大的相机事业群被收购的消息，而且买家即是在无反市场刚好一直缺乏 APS-C 机型的尼康。虽说好像有点令人惊讶，不过其实仔细想想好像也满合理的吧？\r\n\r\n根据 TechRadar 向三星获得的官方说法，该公司的确已经悄悄地在英国拿掉了相机事业群，至于原因则是因为「需求不断地下降」的关系。而另一个更震撼的谣传消息，则是尼康近期已经完成了对三星相机事业群的收购，并且预计在明年 CES 时宣布这个可能将撼动相机产业的重大消息。\r\n\r\n是说，就现阶段而言，三星貌似还只算是地区性的停售该公司的相机系列产品而已。不过若是搭配上最新的被收购谣传，还有前阵子施奈德淡出三星在无反方面的镜头研发合作消息，这事情就变得好像有这么一点逻辑可寻了啊！\r\n\r\n更新：摄影网站 Amateur Photographer 向 Samsung 询问后，发言人表示该篇报道关于 Nikon 收购该公司 NX  相关技术的报道是不正确的。\r\n对照两间厂商的产品线，Samsung 除了拥有自己生产感光元件的实力外，在产品线上也刚好能补足一直以来 Nikon 缺乏的专业 APS-C 无反阵容，甚至 Samsung 无反系列中才刚刚成形的一吋感光元件 NX-M 产品线，好像也可以为 Nikon 这边的无反系列有一些助力。其次，Nikon 将可藉此收购改变以往必须受制于单一感光元件厂而施展不开的状况 -- 毕竟 Canon 本身就有自产感光元件的能力；Sony 那就不用讲了... 所以 Nikon 真的很需要别间厂商的结盟来避免关键技术被控制在少数厂商手上。\r\n\r\n根据谣传的讲法，Nikon 将会持续与 Samsung 一同开发感光元件，并供货给前者。如果我们单看目前 NX1 的表现，其 BSI 背照式 28MP 高分辨率感光元件，配合上面内嵌的成像范围 90% 内的 205 点相位对焦点，整体而言的确是有攻上专业市场的潜力存在的，只可惜目前看来 Samsung 似乎在推出了最专业之作之后，已没有余力再在这个产品等级上与他厂相争 -- 小编还是忍不住要吐槽，其实就前阵子 NX1 想要冲的专业市场而言，这不是才刚刚起步的领域吗... 现阶段官方说法的「下滑」，究竟是从哪个点滑下来的...\r\n\r\n \r\n打趣地说，依照小编认识的业界前辈的说法，其实 NX 系列插队进 Nikon 的 FX、DX 与 CX 之中成为专业级的无反系列，好像也看起来满顺理成章的（笑）。不过若是认真思考，Nikon 假若真的挤出资源吃下了 Samsung 这部分的业务，是否还有余力生产新系列产品将是个很大的问号。反而将其感光元件技术应用在新一代的 DSLR 甚至是 Nikon 1 系列产品上，好像才是比较合理的发展方向？毕竟中端机型如 D300s 与 D7200 的后继机种好像都还一直停滞不前呢，也许真的是该做些什么来展现传统相机大厂的魄力了。\nTechRadar",
+      "link": "http://cn.engadget.com/2015/12/03/samsung-exits-uk-camera-market/",
+      "categories": [
+        "相机"
+      ],
+      "lang": "zh",
+      "video_count": 0,
+      "profane": false,
+      "crawled": "2015-12-03T06:08:41.066608",
+      "author": {
+        "type": "2",
+        "name": "Ross Wang",
+        "id": "4768564"
+      },
+      "source": {
+        "zipcode": null,
+        "publisher_id": "223",
+        "id": "JhH-EO",
+        "groups": [
+          1,
+          4
+        ],
+        "title": "Engadget Simplified Chinese"
+      },
+      "published": "2015-12-03T06:04:00+00:00",
+      "image_count": 6,
+      "_score": 1
+    },
+    {
+      "content_length": 2129,
+      "updated": "2015-12-03T13:40:44+00:00",
+      "update_received": "2015-12-03T13:46:46.947411+00:00",
+      "crawled_ts": 1449150406947411000,
+      "content_hash": "mmh3-107217708521273449280629863673804476666",
+      "guid": "8707524",
+      "id": "Z8hC2U/1449150406947411000",
+      "snippet": "اعترف الرئيس المصري عبدالفتاح السيسي، الخميس 3 ديسمبر/كانون الأول 2015، بوجود تجاوزات من قبل عناصر الشرطة التابعة لوزارة الداخلية، إلا أنه وصفها بـ\"الفردية\"، وذلك في أول رد فعل له على وقائع تعذيب مصريين وقتلهم في أقسام الشرطة.\r\n\r\nجاء ذلك في كلمة متلفزة للسيسي، بثّها التلفزيون المصري الحكومي، بمناسبة لقائه مع قيادات وضباط جهاز الشرطة وطلاب أكاديمية الشرطة (مركز تدريبي شرقي القاهرة)، قبل أكثر من شهر على عيد الشرطة بمصر (25 يناير/كانون الثاني)، وبالتزامن مع دعوات معارضة لإحياء ذكرى ثورة يناير 2011، وانتقادات حقوقية وإعلامية محلية ودولية متصاعدة حول وفاة عدد من المواطنين في مراكز احتجاز تابعة للشرطة.\r\n\r\nوقال السيسي مدافعاً عن جهاز الشرطة في أول تعليق منه على تجاوزات وزارة الداخلية الأخيرة: \"خطأ فرد لا ينفع أن نتهم جهازاً به 300 مقر والتجاوزات التي تتم ونرفضها حصلت في مقرين\".\r\n\r\nوطالب السيسي باستعادة شعار مظاهرات يونيو/حزيران 2013 التي دعمها الجيش وانتهت بالانقلاب على الرئيس الأسبق محمد مرسي، وهي \"الشعب والشرطة والجيش إيد واحدة\"، داعياً إلى المحافظة عليه في ظل ظروف صعبة تعيشها البلاد.\r\n\r\nوأضاف مخاطباً الحضور أن \"محاولات كسر وحدة الوطن لن تنتهي، وعليكم باليقظة والمزيد من التلاحم والتضحية والعطاء\"، مضيفاً \"مصر معلقة في رقابكم وأمن الناس واستقرار الوطن واجبكم\".\r\n\r\nوحذّر المجلس القومي لحقوق الإنسان في مصر (حكومي)، في بيان اطلعت عليه \"الأناضول\"، الأحد الماضي، من أن وقائع وفاة مواطنين داخل مقار الاحتجاز الشرطية تشكل \"ناقوس خطر ينذر بتنامي ظاهرة التعذيب\".\r\n\r\nوفي وقت سابق هذا الأسبوع قالت وزارة الداخلية المصرية إن الوقائع المنسوبة لبعض أفراد الشرطة \"محل تحقيق\"، مؤكدة أنها لن تتهاون مع أي \"تجاوزات فردية\" تقع من بعض رجال الشرطة.\r\n\r\nوكانت منظمة هيومن رايتس مونيتور (حقوقية غير حكومية ومقرها بريطانيا)، قالت السبت الماضي إن \"الشرطة المصرية أقدمت على تعذيب 4 مواطنين بوقائع مختلفة، خلال الـ10 أيام الماضية، أفضت 3 منها إلى موت، وجاءت في الأقصر (جنوب)، والإسماعيلية (شمال شرق)، والقليوبية (دلتا مصر/شمال)، والجيزة (إحدى محافظات القاهرة الكبرى)\".\r\n \r\nوعادة ما تنفي الحكومة المصرية هذه الاتهامات في بيانات صحفية تصدرها وتتحدث عن أن \"قطاع السجون بوزارة الداخلية يتعامل مع جميع المحبوسين، وفقاً",
+      "title": "السيسي يعترف بتجاوزات الشرطة المصرية ويقول إنها أخطاء \"فردية\"",
+      "media": {
+        "images": [
+          {
+            "extracted_from_html": null,
+            "original_markup": "<!--HH--PHOTO--SISI--3738818--HH-->",
+            "tags": [],
+            "url": "http://i.huffpost.com/gen/3738818/original.jpg",
+            "anchor_url": null,
+            "height": 2056,
+            "credit": "ASSOCIATED PRESS",
+            "media_medium": "image",
+            "headline": true,
+            "alternate_sizes": [
+              {
+                "url": "http://i.huffpost.com/gen/3738818/images/n-SISI-medium.jpg",
+                "width": 300,
+                "height": 125,
+                "mime_type": "image/jpeg",
+                "tags": [
+                  "n-medium"
+                ]
+              },
+              {
+                "url": "http://i.huffpost.com/gen/3738818/images/r-SISI-medium.jpg",
+                "width": 300,
+                "height": 125,
+                "mime_type": "image/jpeg",
+                "tags": [
+                  "r-medium"
+                ]
+              }
+            ],
+            "provider": null,
+            "title": null,
+            "caption": "السيسي",
+            "width": 2878,
+            "provider_asset_id": null
+          }
+        ],
+        "slideshows": [],
+        "videos": []
+      },
+      "content": "اعترف الرئيس المصري عبدالفتاح السيسي، الخميس 3 ديسمبر/كانون الأول 2015، بوجود تجاوزات من قبل عناصر الشرطة التابعة لوزارة الداخلية، إلا أنه وصفها بـ\"الفردية\"، وذلك في أول رد فعل له على وقائع تعذيب مصريين وقتلهم في أقسام الشرطة.\r\n\r\nجاء ذلك في كلمة متلفزة للسيسي، بثّها التلفزيون المصري الحكومي، بمناسبة لقائه مع قيادات وضباط جهاز الشرطة وطلاب أكاديمية الشرطة (مركز تدريبي شرقي القاهرة)، قبل أكثر من شهر على عيد الشرطة بمصر (25 يناير/كانون الثاني)، وبالتزامن مع دعوات معارضة لإحياء ذكرى ثورة يناير 2011، وانتقادات حقوقية وإعلامية محلية ودولية متصاعدة حول وفاة عدد من المواطنين في مراكز احتجاز تابعة للشرطة.\r\n\r\nوقال السيسي مدافعاً عن جهاز الشرطة في أول تعليق منه على تجاوزات وزارة الداخلية الأخيرة: \"خطأ فرد لا ينفع أن نتهم جهازاً به 300 مقر والتجاوزات التي تتم ونرفضها حصلت في مقرين\".\r\n\r\nوطالب السيسي باستعادة شعار مظاهرات يونيو/حزيران 2013 التي دعمها الجيش وانتهت بالانقلاب على الرئيس الأسبق محمد مرسي، وهي \"الشعب والشرطة والجيش إيد واحدة\"، داعياً إلى المحافظة عليه في ظل ظروف صعبة تعيشها البلاد.\r\n\r\nوأضاف مخاطباً الحضور أن \"محاولات كسر وحدة الوطن لن تنتهي، وعليكم باليقظة والمزيد من التلاحم والتضحية والعطاء\"، مضيفاً \"مصر معلقة في رقابكم وأمن الناس واستقرار الوطن واجبكم\".\r\n\r\nوحذّر المجلس القومي لحقوق الإنسان في مصر (حكومي)، في بيان اطلعت عليه \"الأناضول\"، الأحد الماضي، من أن وقائع وفاة مواطنين داخل مقار الاحتجاز الشرطية تشكل \"ناقوس خطر ينذر بتنامي ظاهرة التعذيب\".\r\n\r\nوفي وقت سابق هذا الأسبوع قالت وزارة الداخلية المصرية إن الوقائع المنسوبة لبعض أفراد الشرطة \"محل تحقيق\"، مؤكدة أنها لن تتهاون مع أي \"تجاوزات فردية\" تقع من بعض رجال الشرطة.\r\n\r\nوكانت منظمة هيومن رايتس مونيتور (حقوقية غير حكومية ومقرها بريطانيا)، قالت السبت الماضي إن \"الشرطة المصرية أقدمت على تعذيب 4 مواطنين بوقائع مختلفة، خلال الـ10 أيام الماضية، أفضت 3 منها إلى موت، وجاءت في الأقصر (جنوب)، والإسماعيلية (شمال شرق)، والقليوبية (دلتا مصر/شمال)، والجيزة (إحدى محافظات القاهرة الكبرى)\".\r\n \r\nوعادة ما تنفي الحكومة المصرية هذه الاتهامات في بيانات صحفية تصدرها وتتحدث عن أن \"قطاع السجون بوزارة الداخلية يتعامل مع جميع المحبوسين، وفقاً لما تنص عليه قوانين حقوق الإنسان\"، كما ترفض الأجهزة الأمنية بمصر اتهامات معارضين للسلطات المصرية بوجود حالات \"اختفاء قسري\".\r\n\r\n \r\n ",
+      "relegence": {
+        "topic": {
+          "heat": 0,
+          "id": 82234433,
+          "document_count": 1,
+          "created": "2015-12-03T08:52:54+00:00"
+        },
+        "duplicate": [
+          {
+            "type": "None",
+            "original_doc_id": 82234433
+          }
+        ],
+        "categories": [],
+        "tags": []
+      },
+      "provider": null,
+      "license_id": "16",
+      "slideshow_images_count": 0,
+      "store": {
+        "entry_source": "هافينغتون بوست عربي",
+        "entry_mobile_headline": "",
+        "entry_mobile_link": "http://m.huffpost.com/ar/entry/8707524"
+      },
+      "slideshow_count": 0,
+      "tags": [
+        "السيسي",
+        "محمد مرسي",
+        "مصر",
+        "تجاوزات",
+        "تعذيب",
+        "أقسام الشرطة",
+        "أخبار"
+      ],
+      "plain_text": "اعترف الرئيس المصري عبدالفتاح السيسي، الخميس 3 ديسمبر/كانون الأول 2015، بوجود تجاوزات من قبل عناصر الشرطة التابعة لوزارة الداخلية، إلا أنه وصفها بـ\"الفردية\"، وذلك في أول رد فعل له على وقائع تعذيب مصريين وقتلهم في أقسام الشرطة.\r\n\r\nجاء ذلك في كلمة متلفزة للسيسي، بثّها التلفزيون المصري الحكومي، بمناسبة لقائه مع قيادات وضباط جهاز الشرطة وطلاب أكاديمية الشرطة (مركز تدريبي شرقي القاهرة)، قبل أكثر من شهر على عيد الشرطة بمصر (25 يناير/كانون الثاني)، وبالتزامن مع دعوات معارضة لإحياء ذكرى ثورة يناير 2011، وانتقادات حقوقية وإعلامية محلية ودولية متصاعدة حول وفاة عدد من المواطنين في مراكز احتجاز تابعة للشرطة.\r\n\r\nوقال السيسي مدافعاً عن جهاز الشرطة في أول تعليق منه على تجاوزات وزارة الداخلية الأخيرة: \"خطأ فرد لا ينفع أن نتهم جهازاً به 300 مقر والتجاوزات التي تتم ونرفضها حصلت في مقرين\".\r\n\r\nوطالب السيسي باستعادة شعار مظاهرات يونيو/حزيران 2013 التي دعمها الجيش وانتهت بالانقلاب على الرئيس الأسبق محمد مرسي، وهي \"الشعب والشرطة والجيش إيد واحدة\"، داعياً إلى المحافظة عليه في ظل ظروف صعبة تعيشها البلاد.\r\n\r\nوأضاف مخاطباً الحضور أن \"محاولات كسر وحدة الوطن لن تنتهي، وعليكم باليقظة والمزيد من التلاحم والتضحية والعطاء\"، مضيفاً \"مصر معلقة في رقابكم وأمن الناس واستقرار الوطن واجبكم\".\r\n\r\nوحذّر المجلس القومي لحقوق الإنسان في مصر (حكومي)، في بيان اطلعت عليه \"الأناضول\"، الأحد الماضي، من أن وقائع وفاة مواطنين داخل مقار الاحتجاز الشرطية تشكل \"ناقوس خطر ينذر بتنامي ظاهرة التعذيب\".\r\n\r\nوفي وقت سابق هذا الأسبوع قالت وزارة الداخلية المصرية إن الوقائع المنسوبة لبعض أفراد الشرطة \"محل تحقيق\"، مؤكدة أنها لن تتهاون مع أي \"تجاوزات فردية\" تقع من بعض رجال الشرطة.\r\n\r\nوكانت منظمة هيومن رايتس مونيتور (حقوقية غير حكومية ومقرها بريطانيا)، قالت السبت الماضي إن \"الشرطة المصرية أقدمت على تعذيب 4 مواطنين بوقائع مختلفة، خلال الـ10 أيام الماضية، أفضت 3 منها إلى موت، وجاءت في الأقصر (جنوب)، والإسماعيلية (شمال شرق)، والقليوبية (دلتا مصر/شمال)، والجيزة (إحدى محافظات القاهرة الكبرى)\".\r\n \r\nوعادة ما تنفي الحكومة المصرية هذه الاتهامات في بيانات صحفية تصدرها وتتحدث عن أن \"قطاع السجون بوزارة الداخلية يتعامل مع جميع المحبوسين، وفقاً لما تنص عليه قوانين حقوق الإنسان\"، كما ترفض الأجهزة الأمنية بمصر اتهامات معارضين للسلطات المصرية بوجود حالات \"اختفاء قسري\".\r\n\r\n \r\n ",
+      "link": "http://www.huffpostarabi.com/2015/12/03/story_n_8707524.html",
+      "categories": [],
+      "lang": "ar",
+      "video_count": 0,
+      "profane": false,
+      "crawled": "2015-12-03T13:46:46.947411",
+      "author": {
+        "type": "16",
+        "name": "الأناضول",
+        "id": null
+      },
+      "source": {
+        "zipcode": null,
+        "publisher_id": "139",
+        "id": "Z8hC2U",
+        "groups": [
+          1,
+          5,
+          193
+        ],
+        "title": "Arabi"
+      },
+      "published": "2015-12-03T13:36:33+00:00",
+      "image_count": 1,
+      "_score": 1
+    },
+    {
+      "content_length": 595,
+      "updated": "2015-12-03T13:38:53+00:00",
+      "update_received": "2015-12-03T13:46:46.794054+00:00",
+      "crawled_ts": 1449150406794054000,
+      "content_hash": "mmh3-133514682829843105934122129177472670407",
+      "guid": "8707528",
+      "id": "3whNiF/1449150406794054000",
+      "snippet": "2일(현지시간) 영국 일간 인디펜던트에 따르면 무함마드 압델 아지즈 대통령은 지난주말 축구 슈퍼컵 테이라크-제이나팀과 크사르팀간 결승전이 1대1로 비긴 상태에서 지루하게 계속되자 경기 시작 63분이 지났을 즈음 경기를 중단시키고 승부차기를 하도록 지시한 것으로 알려졌다.\r\n\r\n<img alt=\"mauritania\" src=\"http://i.huffpost.com/gen/3738824/thumbs/o-MAURITANIA-570.jpg?7\" />\r\n<center><em>모리타니 대통령.</em></center>\r\n \r\n심판의 돌연한 승부차기 결정은 선수와 팬들 모두 어리둥절하게 만들었고 압델 아지즈 대통령의 지시라는 소문이 나돌면서 분노 여론이 확산하자 모리타니 축구협회는 대통령과는 무관하며 두 팀의 합의로 이뤄진 결정이기 때문에 축구 규정을 위반한 것이 아니라고 변명하고 나섰다.\r\n\r\n모리타니 축구협회 회장은 2011년부터 계속되어온 독립을 축하하기 위한 경기이며 공식 경기가 아니었다고 해명했다고 외신은 전했다.  ",
+      "title": "축구경기가 지루해 중단시키고 승부차기로 넘긴 대통령",
+      "media": {
+        "images": [
+          {
+            "url": "http://i.huffpost.com/gen/3738824/thumbs/o-MAURITANIA-570.jpg?7",
+            "caption": "mauritania",
+            "extracted_from_html": true,
+            "original_markup": "<img alt=\"mauritania\" src=\"http://i.huffpost.com/gen/3738824/thumbs/o-MAURITANIA-570.jpg?7\"/>",
+            "anchor_url": ""
+          },
+          {
+            "extracted_from_html": null,
+            "original_markup": " <!--HH--PHOTO--MAURITANIA--3738824--HH-->",
+            "tags": [],
+            "url": "http://i.huffpost.com/gen/3738824/original.jpg",
+            "anchor_url": null,
+            "height": 384,
+            "credit": "Associated Press",
+            "media_medium": "image",
+            "headline": true,
+            "alternate_sizes": [
+              {
+                "url": "http://i.huffpost.com/gen/3738824/images/n-MAURITANIA-medium.jpg",
+                "width": 300,
+                "height": 125,
+                "mime_type": "image/jpeg",
+                "tags": [
+                  "n-medium"
+                ]
+              },
+              {
+                "url": "http://i.huffpost.com/gen/3738824/images/r-MAURITANIA-medium.jpg",
+                "width": 300,
+                "height": 125,
+                "mime_type": "image/jpeg",
+                "tags": [
+                  "r-medium"
+                ]
+              }
+            ],
+            "provider": null,
+            "title": null,
+            "caption": null,
+            "width": 562,
+            "provider_asset_id": null
+          }
+        ],
+        "slideshows": [],
+        "videos": []
+      },
+      "content": "아프리카 모리타니에서 대통령이 축구 경기를 관람하던 중 경기가 지루하다며 도중에 승부차기로 경기를 끝내도록 한 황당한 일이 벌어졌다.\r\n\r\n2일(현지시간) 영국 일간 인디펜던트에 따르면 무함마드 압델 아지즈 대통령은 지난주말 축구 슈퍼컵 테이라크-제이나팀과 크사르팀간 결승전이 1대1로 비긴 상태에서 지루하게 계속되자 경기 시작 63분이 지났을 즈음 경기를 중단시키고 승부차기를 하도록 지시한 것으로 알려졌다.\r\n\r\n<img alt=\"mauritania\" src=\"http://i.huffpost.com/gen/3738824/thumbs/o-MAURITANIA-570.jpg?7\" />\r\n<center><em>모리타니 대통령.</em></center>\r\n \r\n심판의 돌연한 승부차기 결정은 선수와 팬들 모두 어리둥절하게 만들었고 압델 아지즈 대통령의 지시라는 소문이 나돌면서 분노 여론이 확산하자 모리타니 축구협회는 대통령과는 무관하며 두 팀의 합의로 이뤄진 결정이기 때문에 축구 규정을 위반한 것이 아니라고 변명하고 나섰다.\r\n\r\n모리타니 축구협회 회장은 2011년부터 계속되어온 독립을 축하하기 위한 경기이며 공식 경기가 아니었다고 해명했다고 외신은 전했다. ",
+      "relegence": {
+        "topic": {
+          "heat": 0,
+          "id": 82234481,
+          "document_count": 1,
+          "created": "2015-12-03T08:52:57+00:00"
+        },
+        "duplicate": [
+          {
+            "type": "None",
+            "original_doc_id": 82234481
+          }
+        ],
+        "categories": [],
+        "tags": []
+      },
+      "provider": null,
+      "license_id": "16",
+      "slideshow_images_count": 0,
+      "store": {
+        "entry_source": "연합뉴스",
+        "entry_mobile_headline": "",
+        "entry_mobile_link": "http://m.huffpost.com/kr/entry/8707528"
+      },
+      "slideshow_count": 0,
+      "tags": [
+        "모리타니",
+        "무함마드압델아지즈",
+        "국제",
+        "아프리카",
+        "코미디",
+        "이상한 뉴스"
+      ],
+      "plain_text": "아프리카 모리타니에서 대통령이 축구 경기를 관람하던 중 경기가 지루하다며 도중에 승부차기로 경기를 끝내도록 한 황당한 일이 벌어졌다.\r\n\r\n2일(현지시간) 영국 일간 인디펜던트에 따르면 무함마드 압델 아지즈 대통령은 지난주말 축구 슈퍼컵 테이라크-제이나팀과 크사르팀간 결승전이 1대1로 비긴 상태에서 지루하게 계속되자 경기 시작 63분이 지났을 즈음 경기를 중단시키고 승부차기를 하도록 지시한 것으로 알려졌다.\r\n\r\n\r\n모리타니 대통령.\r\n \r\n심판의 돌연한 승부차기 결정은 선수와 팬들 모두 어리둥절하게 만들었고 압델 아지즈 대통령의 지시라는 소문이 나돌면서 분노 여론이 확산하자 모리타니 축구협회는 대통령과는 무관하며 두 팀의 합의로 이뤄진 결정이기 때문에 축구 규정을 위반한 것이 아니라고 변명하고 나섰다.\r\n\r\n모리타니 축구협회 회장은 2011년부터 계속되어온 독립을 축하하기 위한 경기이며 공식 경기가 아니었다고 해명했다고 외신은 전했다. ",
+      "link": "http://www.huffingtonpost.kr/2015/12/03/story_n_8707528.html",
+      "categories": [],
+      "lang": "ko",
+      "video_count": 0,
+      "profane": false,
+      "crawled": "2015-12-03T13:46:46.794054",
+      "author": {
+        "type": "16",
+        "name": "",
+        "id": null
+      },
+      "source": {
+        "zipcode": null,
+        "publisher_id": "133",
+        "id": "3whNiF",
+        "groups": [
+          1,
+          5,
+          178
+        ],
+        "title": "Huff. Post: Korea - Korea"
+      },
+      "published": "2015-12-03T13:38:39+00:00",
+      "image_count": 2,
+      "_score": 1
+    },
+    {
+      "content_length": 5663,
+      "updated": "2015-12-03T14:06:32+00:00",
+      "update_received": "2015-12-03T14:07:26.888494+00:00",
+      "crawled_ts": 1449151646888494000,
+      "content_hash": "mmh3-117863892198404354046316466525894719613",
+      "guid": "8707472",
+      "id": "mO4U6_/1449151646888494000",
+      "snippet": "<em><p class=\"pull-quote\" style=\"width: 90%; margin: 40px 3%; font-size: 1.5em; text-align: center; color: #000000;\"><strong>Για την παροιμία «τα σκυλιά αλυχτούν, το καραβάνι προχωρά», που ακούστηκε από πρωθυπουργικά χείλη και γράφτηκε σε πρωθυπουργικά τιτιβίσματα.</strong></p></em>\n\n<strong>Η παροιμία θεωρείται από πολλούς αραβική, αλλά αν ρωτήσεις π.χ. Πέρσες θα την κάνουν δική τους</strong>, οι <strong>Ούγγροι</strong> θα θεωρήσουν προσβολή αν τους πεις οτι δεν είναι αρχαία ουγγρική, οι <strong>Τούρκοι</strong> σκίζουν τα ρούχα τους πως είναι τουρκική γιατί στη γλώσσα τους κανει και ρίμα (<em>it ürür kervan yürür</em>), κάθε ηλικιωμένος <em>Ρομά</em> θα σε διαβεβαιώσει οτι είναι τσιγγάνικη κ.ο.κ. Εξαπλώθηκε λοιπόν η χρήση της στους λαούς που ζούσαν νομαδική ζωή κάποια στιγμή στην ιστορία τους (Άραβες, Τουρανικοί λαοί όπως οι Μαγυάροι ή οι Τούρκοι, Ρομά) ή που έκαναν εμπορική χρήση του καραβανιού (όπως οι Ιρανοί - Πέρσες). Με τη βασική αρχή «<em>ίδια βιώματα των λαών, ίδιος λαϊκός πολιτισμός</em>». <strong>Τέτοια παραδείγματα υπάρχουν χιλιάδες.</strong>\n\n<em><p class=\"pull-quote\" style=\"width: 90%; margin: 40px 3%; font-size: 1.5em; text-align: center; color: #000000;\"><strong>psy szczekają, karawana idzie dalej</strong></p></em>\n\n<strong>Θα μπορούσε βεβαια να είναι κι εκτεταμένο δάνειο από την εξάπλωση του αραβικού πολιτισμού και του Ισλάμ στον Μεσαίωνα</strong>. Ή εναλλακτικά, σκέφτομαι, ένα μιμίδιο που διασώθηκε στην πολιτισμική κοίτη του δρόμου του μεταξιού. <strong>Στην Ινδία ας πούμε -- ναι, είναι γνωστή έκφραση</strong>. Αλλά η προσπάθεια να βρεθεί κάτι ανάλογο στην κινεζική παράδοση, εύρημα που θα αποτελούσε έμμεση ένδειξη και θα ολοκλήρωνε την πιθανότητα μιας τέτοιας διεργασίας δεν καρποφόρησε. Φυσικά δεν είμαι --ούτε καν ερασιτέχνης-- σινολόγος ή γνώστης της κινεζικής παράδοσης. Αν κάποιος γνωρίζει κάτι παρεμφερές θα του ήμουν ευγνώμων να το μοιραστεί μαζί μου.\n\n<img alt=\"camel face\" src=\"http://i.huffpost.com/gen/3738720/original.jpg\" />\n\nΗ χρήση της",
+      "title": "Το κουτσό καραβάνι",
+      "media": {
+        "images": [
+          {
+            "url": "http://i.huffpost.com/gen/3738720/original.jpg",
+            "caption": "camel face",
+            "extracted_from_html": true,
+            "original_markup": "<img alt=\"camel face\" src=\"http://i.huffpost.com/gen/3738720/original.jpg\"/>",
+            "anchor_url": ""
+          },
+          {
+            "url": "http://i.huffpost.com/gen/3738748/original.jpg",
+            "caption": "kipling",
+            "extracted_from_html": true,
+            "original_markup": "<img alt=\"kipling\" src=\"http://i.huffpost.com/gen/3738748/original.jpg\"/>",
+            "anchor_url": ""
+          },
+          {
+            "url": "http://i.huffpost.com/gen/3738756/original.jpg",
+            "caption": "truman capote",
+            "extracted_from_html": true,
+            "original_markup": "<img alt=\"truman capote\" src=\"http://i.huffpost.com/gen/3738756/original.jpg\"/>",
+            "anchor_url": ""
+          },
+          {
+            "url": "http://i.huffpost.com/gen/3738772/original.jpg",
+            "caption": "paulo coehlo",
+            "extracted_from_html": true,
+            "original_markup": "<img alt=\"paulo coehlo\" src=\"http://i.huffpost.com/gen/3738772/original.jpg\"/>",
+            "anchor_url": ""
+          },
+          {
+            "extracted_from_html": null,
+            "original_markup": "<!--HH--PHOTO--CARAVAN-DESERT--3738702--HH-->",
+            "tags": [],
+            "url": "http://i.huffpost.com/gen/3738702/original.jpg",
+            "anchor_url": null,
+            "height": 2447,
+            "credit": "Keystone-France via Getty Images",
+            "media_medium": "image",
+            "headline": true,
+            "alternate_sizes": [
+              {
+                "url": "http://i.huffpost.com/gen/3738702/images/n-CARAVAN-DESERT-medium.jpg",
+                "width": 300,
+                "height": 125,
+                "mime_type": "image/jpeg",
+                "tags": [
+                  "n-medium"
+                ]
+              },
+              {
+                "url": "http://i.huffpost.com/gen/3738702/images/r-CARAVAN-DESERT-medium.jpg",
+                "width": 300,
+                "height": 125,
+                "mime_type": "image/jpeg",
+                "tags": [
+                  "r-medium"
+                ]
+              }
+            ],
+            "provider": null,
+            "title": null,
+            "caption": null,
+            "width": 3508,
+            "provider_asset_id": null
+          }
+        ],
+        "slideshows": [],
+        "videos": [
+          {
+            "url": "https://www.youtube.com/watch?v=G8QVhkcfiT8",
+            "extracted_from_html": true,
+            "embed_code": "G8QVhkcfiT8",
+            "type": "youtube",
+            "original_markup": "<iframe allowfullscreen=\"\" frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/G8QVhkcfiT8\" width=\"560\"></iframe>"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=pMUTt5rPo4U",
+            "extracted_from_html": true,
+            "embed_code": "pMUTt5rPo4U",
+            "type": "youtube",
+            "original_markup": "<iframe allowfullscreen=\"\" frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/pMUTt5rPo4U\" width=\"560\"></iframe>"
+          }
+        ]
+      },
+      "content": "<em><p class=\"pull-quote\" style=\"width: 90%; margin: 40px 3%; font-size: 1.5em; text-align: center; color: #000000;\"><strong>Για την παροιμία «τα σκυλιά αλυχτούν, το καραβάνι προχωρά», που ακούστηκε από πρωθυπουργικά χείλη και γράφτηκε σε πρωθυπουργικά τιτιβίσματα.</strong></p></em>\n\n<strong>Η παροιμία θεωρείται από πολλούς αραβική, αλλά αν ρωτήσεις π.χ. Πέρσες θα την κάνουν δική τους</strong>, οι <strong>Ούγγροι</strong> θα θεωρήσουν προσβολή αν τους πεις οτι δεν είναι αρχαία ουγγρική, οι <strong>Τούρκοι</strong> σκίζουν τα ρούχα τους πως είναι τουρκική γιατί στη γλώσσα τους κανει και ρίμα (<em>it ürür kervan yürür</em>), κάθε ηλικιωμένος <em>Ρομά</em> θα σε διαβεβαιώσει οτι είναι τσιγγάνικη κ.ο.κ. Εξαπλώθηκε λοιπόν η χρήση της στους λαούς που ζούσαν νομαδική ζωή κάποια στιγμή στην ιστορία τους (Άραβες, Τουρανικοί λαοί όπως οι Μαγυάροι ή οι Τούρκοι, Ρομά) ή που έκαναν εμπορική χρήση του καραβανιού (όπως οι Ιρανοί - Πέρσες). Με τη βασική αρχή «<em>ίδια βιώματα των λαών, ίδιος λαϊκός πολιτισμός</em>». <strong>Τέτοια παραδείγματα υπάρχουν χιλιάδες.</strong>\n\n<em><p class=\"pull-quote\" style=\"width: 90%; margin: 40px 3%; font-size: 1.5em; text-align: center; color: #000000;\"><strong>psy szczekają, karawana idzie dalej</strong></p></em>\n\n<strong>Θα μπορούσε βεβαια να είναι κι εκτεταμένο δάνειο από την εξάπλωση του αραβικού πολιτισμού και του Ισλάμ στον Μεσαίωνα</strong>. Ή εναλλακτικά, σκέφτομαι, ένα μιμίδιο που διασώθηκε στην πολιτισμική κοίτη του δρόμου του μεταξιού. <strong>Στην Ινδία ας πούμε -- ναι, είναι γνωστή έκφραση</strong>. Αλλά η προσπάθεια να βρεθεί κάτι ανάλογο στην κινεζική παράδοση, εύρημα που θα αποτελούσε έμμεση ένδειξη και θα ολοκλήρωνε την πιθανότητα μιας τέτοιας διεργασίας δεν καρποφόρησε. Φυσικά δεν είμαι --ούτε καν ερασιτέχνης-- σινολόγος ή γνώστης της κινεζικής παράδοσης. Αν κάποιος γνωρίζει κάτι παρεμφερές θα του ήμουν ευγνώμων να το μοιραστεί μαζί μου.\n\n<img alt=\"camel face\" src=\"http://i.huffpost.com/gen/3738720/original.jpg\" />\n\nΗ χρήση της παροιμίας στη Δύση ποτέ δε σταμάτησε αλλά μερικά χτυπητά παραδείγματα πριν την πρωθυπουργική --και λίγους μήνες νωρίτερα υπουργική, από τον ΥΠΕΞ Κοτζιά, και βουλευτική, από την τότε βουλευτή και σήμερα περιφερειάρχη Δούρου-- χρήση έχουν ξεχωριστό ενδιαφερον.\n\n<img alt=\"kipling\" src=\"http://i.huffpost.com/gen/3738748/original.jpg\" />\n\nΣτην λογοτεχνία, πέραν του <strong>Κίπλινγκ</strong> που την είχε βάλει πριν από 120 χρόνια στις σελίδες του <em>Beast And Man In India</em>, υπάρχει το βιβλίο του <strong>Τρούμαν Καπότε</strong> <em>The Dogs Bark</em> (1973), μια ανθολογία ταξιδιωτικών δοκιμίων και ιδιωτικών στιγμών με το χαρακτηριστικό δημοσιογραφικό στυλ του μεγάλου Αμερικάνου στυλίστα. Ο τίτλος βγαίνει από την παροιμία μας, που του την είχε πει ο <strong>Αντρέ Ζιντ</strong> τη δεκαετία του '40 στην πολυπολιτισμική κι υπό διεθνή έλεγχο τότε Ταγγέρη, για να τον βάλει στη θέση του όταν παραπονέθηκε μπροστά του για μιαν άγρια επιθετική εναντίον του κριτική. Το βιβλίο σύμφωνα με τον ίδιο είναι «<em>μορφές κι αναμνήσεις... από μια γραπτή γεωγραφία της ζωής μου</em>» και είναι χαρακτηριστικό της <em>non fiction</em>, μη μυθοπλαστικής, γραφής του, αλλά --όπως όλα τα έργα του μετά το αριστουργηματικό <em>In Cold Blood</em>-- αποσπασματικό κι ανολοκλήρωτο, πανέμορφο αλλά στα όρια του κενόδοξου. Ο ίδιος είχε γίνει πρωταγωνιστής του προσωπικού του μεγάλου <em>non fiction</em> αριστουργήματος, της ίδιας της ζωής του, κι η τέχνη του μπροστά στην πραγματικότητα ωχριούσε.\n\n<img alt=\"truman capote\" src=\"http://i.huffpost.com/gen/3738756/original.jpg\" />\n\nΣτην, ας πούμε, λογοτεχνία είμαστε υποχρεωμένοι να αναφέρουμε και την αναφορά του γνωστού <strong>Πάολο Κοέλιο</strong>, σε συνεντεύξεις, γραπτά και σε ανάρτηση στο λογαριασμό του στο Facebook. Η τελευταία μάλιστα, όπου και στη διαμάχη για την καταγωγή της φράσης ο Βραζιλιάνος Κοέλιο πήρε θέση υπέρ της αραβικής, αναπαράχθηκε όπως σχεδόν κάθε σοφία του από χιλιάδες οπαδούς του παγκοσμίως.\n\n<img alt=\"paulo coehlo\" src=\"http://i.huffpost.com/gen/3738772/original.jpg\" />\n\nΜια ιδιαίτερη περίπτωση είναι κι αυτή ενός άλλου πορτογαλόφωνου που την χρησιμοποίησε, την παροιμία πάντα, για να ξορκίσει όσους τον προγκάρουν προσωπικά κι εξακολουθητικά - και δεν είναι λίγοι. <strong>Ο Ζοζέ Μουρίνιο</strong> στη νίκη της Τσέλσι τον Μάιο ενάντια στην Κρύσταλ Πάλας που του έδωσε και μαθηματικά το πρωτάθλημα της Premier League δήλωσε με τον γνωστό αγαπητό σε ολους υπεροπτικό του τόνο :«<em>Φυσικά και το αξίζαμε. Όσοι λενε πως δεν το αξίζουμε είναι αυτοί που λέμε στην πατρίδα μου σκυλιά που γαβγίζουν ενώ το καραβάνι προχωρά</em>». <strong>Κι έτσι έβαλε και την Πορτογαλία στους διεκδικητές της φράσης</strong>. Που είναι πια περισσότεροι από αυτούς του ελληνικού/τουρκικού/αραβικού/βουλγαρικού/περσικού/αρμένικου/κουρδικού/λιβανέζικου/και λοιπά και λοιπά, καφέ. Ή του παρομοίως διεκδικούμενου μπακλαβά.\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/G8QVhkcfiT8\" frameborder=\"0\" allowfullscreen></iframe>\n\nΕιρήσθω εν παρόδω, άλλη μια ενδιαφέρουσα παροιμιώδης έκφραση της Ανατολής είναι αυτή που στα αραβικά γράφεται این قافله تا به حشر لنگه (συγνώμη αραβόφωνοι για την ανάποδη κι εναλλασσόμενη γραφή), η οποία μεταφράζεται περίπου «<em>αυτό το καραβάνι θα κουτσαίνει μέχρι την Ημέρα της Κρίσεως</em>». Και που σημαίνει εν ολίγοις πως «η κατάσταση δεν παίρνει γιατρειά».\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/pMUTt5rPo4U\" frameborder=\"0\" allowfullscreen></iframe>\n\n<strong>του Γρηγόρη Καραγρηγορίου</strong> \n\n<br>\n\n<em>*Το κείμενο δημοσιεύθηκε αρχικά στο <a href=\"http://dimartblog.com/2015/12/02/lame-caravan/\" target=\"_hplink\">dimartblog.com</a></em> ",
+      "relegence": {
+        "topic": {
+          "heat": 0,
+          "id": 82239481,
+          "document_count": 1,
+          "created": "2015-12-03T09:10:27+00:00"
+        },
+        "duplicate": [
+          {
+            "type": "None",
+            "original_doc_id": 82239481
+          }
+        ],
+        "categories": [],
+        "tags": []
+      },
+      "provider": null,
+      "license_id": "3",
+      "slideshow_images_count": 0,
+      "store": {
+        "entry_mobile_headline": "",
+        "entry_mobile_link": "http://m.huffpost.com/gr/entry/8707472"
+      },
+      "slideshow_count": 0,
+      "tags": [
+        "παροιμία",
+        "ΠΑΙΔΕΙΑ",
+        "καραβάνι",
+        "σκυλιά",
+        "Πέρσες",
+        "Τούρκοι",
+        "Μεσαίωνας",
+        "πολιτισμός",
+        "λογογράφος",
+        "@notmobilesafe"
+      ],
+      "plain_text": "\r\nΓια την παροιμία «τα σκυλιά αλυχτούν, το καραβάνι προχωρά», που ακούστηκε από πρωθυπουργικά χείλη και γράφτηκε σε πρωθυπουργικά τιτιβίσματα.\n\nΗ παροιμία θεωρείται από πολλούς αραβική, αλλά αν ρωτήσεις π.χ. Πέρσες θα την κάνουν δική τους, οι Ούγγροι θα θεωρήσουν προσβολή αν τους πεις οτι δεν είναι αρχαία ουγγρική, οι Τούρκοι σκίζουν τα ρούχα τους πως είναι τουρκική γιατί στη γλώσσα τους κανει και ρίμα (it ürür kervan yürür), κάθε ηλικιωμένος Ρομά θα σε διαβεβαιώσει οτι είναι τσιγγάνικη κ.ο.κ. Εξαπλώθηκε λοιπόν η χρήση της στους λαούς που ζούσαν νομαδική ζωή κάποια στιγμή στην ιστορία τους (Άραβες, Τουρανικοί λαοί όπως οι Μαγυάροι ή οι Τούρκοι, Ρομά) ή που έκαναν εμπορική χρήση του καραβανιού (όπως οι Ιρανοί - Πέρσες). Με τη βασική αρχή «ίδια βιώματα των λαών, ίδιος λαϊκός πολιτισμός». Τέτοια παραδείγματα υπάρχουν χιλιάδες.\n\n\r\npsy szczekają, karawana idzie dalej\n\nΘα μπορούσε βεβαια να είναι κι εκτεταμένο δάνειο από την εξάπλωση του αραβικού πολιτισμού και του Ισλάμ στον Μεσαίωνα. Ή εναλλακτικά, σκέφτομαι, ένα μιμίδιο που διασώθηκε στην πολιτισμική κοίτη του δρόμου του μεταξιού. Στην Ινδία ας πούμε -- ναι, είναι γνωστή έκφραση. Αλλά η προσπάθεια να βρεθεί κάτι ανάλογο στην κινεζική παράδοση, εύρημα που θα αποτελούσε έμμεση ένδειξη και θα ολοκλήρωνε την πιθανότητα μιας τέτοιας διεργασίας δεν καρποφόρησε. Φυσικά δεν είμαι --ούτε καν ερασιτέχνης-- σινολόγος ή γνώστης της κινεζικής παράδοσης. Αν κάποιος γνωρίζει κάτι παρεμφερές θα του ήμουν ευγνώμων να το μοιραστεί μαζί μου.\n\n\n\nΗ χρήση της παροιμίας στη Δύση ποτέ δε σταμάτησε αλλά μερικά χτυπητά παραδείγματα πριν την πρωθυπουργική --και λίγους μήνες νωρίτερα υπουργική, από τον ΥΠΕΞ Κοτζιά, και βουλευτική, από την τότε βουλευτή και σήμερα περιφερειάρχη Δούρου-- χρήση έχουν ξεχωριστό ενδιαφερον.\n\n\n\nΣτην λογοτεχνία, πέραν του Κίπλινγκ που την είχε βάλει πριν από 120 χρόνια στις σελίδες του Beast And Man In India, υπάρχει το βιβλίο του Τρούμαν Καπότε The Dogs Bark (1973), μια ανθολογία ταξιδιωτικών δοκιμίων και ιδιωτικών στιγμών με το χαρακτηριστικό δημοσιογραφικό στυλ του μεγάλου Αμερικάνου στυλίστα. Ο τίτλος βγαίνει από την παροιμία μας, που του την είχε πει ο Αντρέ Ζιντ τη δεκαετία του '40 στην πολυπολιτισμική κι υπό διεθνή έλεγχο τότε Ταγγέρη, για να τον βάλει στη θέση του όταν παραπονέθηκε μπροστά του για μιαν άγρια επιθετική εναντίον του κριτική. Το βιβλίο σύμφωνα με τον ίδιο είναι «μορφές κι αναμνήσεις... από μια γραπτή γεωγραφία της ζωής μου» και είναι χαρακτηριστικό της non fiction, μη μυθοπλαστικής, γραφής του, αλλά --όπως όλα τα έργα του μετά το αριστουργηματικό In Cold Blood-- αποσπασματικό κι ανολοκλήρωτο, πανέμορφο αλλά στα όρια του κενόδοξου. Ο ίδιος είχε γίνει πρωταγωνιστής του προσωπικού του μεγάλου non fiction αριστουργήματος, της ίδιας της ζωής του, κι η τέχνη του μπροστά στην πραγματικότητα ωχριούσε.\n\n\n\nΣτην, ας πούμε, λογοτεχνία είμαστε υποχρεωμένοι να αναφέρουμε και την αναφορά του γνωστού Πάολο Κοέλιο, σε συνεντεύξεις, γραπτά και σε ανάρτηση στο λογαριασμό του στο Facebook. Η τελευταία μάλιστα, όπου και στη διαμάχη για την καταγωγή της φράσης ο Βραζιλιάνος Κοέλιο πήρε θέση υπέρ της αραβικής, αναπαράχθηκε όπως σχεδόν κάθε σοφία του από χιλιάδες οπαδούς του παγκοσμίως.\n\n\n\nΜια ιδιαίτερη περίπτωση είναι κι αυτή ενός άλλου πορτογαλόφωνου που την χρησιμοποίησε, την παροιμία πάντα, για να ξορκίσει όσους τον προγκάρουν προσωπικά κι εξακολουθητικά - και δεν είναι λίγοι. Ο Ζοζέ Μουρίνιο στη νίκη της Τσέλσι τον Μάιο ενάντια στην Κρύσταλ Πάλας που του έδωσε και μαθηματικά το πρωτάθλημα της Premier League δήλωσε με τον γνωστό αγαπητό σε ολους υπεροπτικό του τόνο :«Φυσικά και το αξίζαμε. Όσοι λενε πως δεν το αξίζουμε είναι αυτοί που λέμε στην πατρίδα μου σκυλιά που γαβγίζουν ενώ το καραβάνι προχωρά». Κι έτσι έβαλε και την Πορτογαλία στους διεκδικητές της φράσης. Που είναι πια περισσότεροι από αυτούς του ελληνικού/τουρκικού/αραβικού/βουλγαρικού/περσικού/αρμένικου/κουρδικού/λιβανέζικου/και λοιπά και λοιπά, καφέ. Ή του παρομοίως διεκδικούμενου μπακλαβά.\n\n\n\nΕιρήσθω εν παρόδω, άλλη μια ενδιαφέρουσα παροιμιώδης έκφραση της Ανατολής είναι αυτή που στα αραβικά γράφεται این قافله تا به حشر لنگه (συγνώμη αραβόφωνοι για την ανάποδη κι εναλλασσόμενη γραφή), η οποία μεταφράζεται περίπου «αυτό το καραβάνι θα κουτσαίνει μέχρι την Ημέρα της Κρίσεως». Και που σημαίνει εν ολίγοις πως «η κατάσταση δεν παίρνει γιατρειά».\n\n\n\nτου Γρηγόρη Καραγρηγορίου \n\n\r\n\n\n*Το κείμενο δημοσιεύθηκε αρχικά στο dimartblog.com",
+      "link": "http://www.huffingtonpost.gr/dimartblogcom/-_2833_b_8707472.html",
+      "categories": [],
+      "lang": "el",
+      "video_count": 2,
+      "profane": false,
+      "crawled": "2015-12-03T14:07:26.888494",
+      "author": {
+        "type": "3",
+        "name": "dimartblog.com",
+        "id": null
+      },
+      "source": {
+        "zipcode": null,
+        "publisher_id": "138",
+        "id": "mO4U6_",
+        "groups": [
+          1,
+          5,
+          190
+        ],
+        "title": "Greece"
+      },
+      "published": "2015-12-03T14:06:26+00:00",
+      "image_count": 5,
+      "_score": 1
+    },
+    {
+      "content_length": 2287,
+      "updated": "2015-12-03T06:03:38+00:00",
+      "update_received": "2015-12-03T14:07:56.022714+00:00",
+      "crawled_ts": 1449124130011640000,
+      "content_hash": "mmh3-306827189773047095219437763361715273912",
+      "guid": "1246123",
+      "id": "SGHaqu/1449124130011640000",
+      "snippet": "<p>Facebook is bringing its Instant Article media format to Asia after more than twenty media from eleven countries in the region &#8212; including China, India and Indonesia &#8212; went live on the platform. ",
+      "title": "Facebook Partners With 50 Publishers To Launch Instant Articles In Asia",
+      "media": {
+        "images": [
+          {
+            "extracted_from_html": null,
+            "original_markup": null,
+            "tags": [],
+            "url": "https://tctechcrunch2011.files.wordpress.com/2015/05/instant-articles-ad.png",
+            "anchor_url": null,
+            "height": 713,
+            "credit": "",
+            "media_medium": "image",
+            "headline": null,
+            "alternate_sizes": [
+              {
+                "url": "https://tctechcrunch2011.files.wordpress.com/2015/05/instant-articles-ad.png?w=150",
+                "width": 150,
+                "height": 104
+              },
+              {
+                "url": "https://tctechcrunch2011.files.wordpress.com/2015/05/instant-articles-ad.png?w=300",
+                "width": 300,
+                "height": 209
+              },
+              {
+                "url": "https://tctechcrunch2011.files.wordpress.com/2015/05/instant-articles-ad.png?w=680",
+                "width": 680,
+                "height": 474
+              }
+            ],
+            "provider": "TechCrunch",
+            "title": "Instant Articles Ad",
+            "caption": "National Geographic will run ads inside Instant Articles promoting its paid subscriptions ",
+            "width": 1024,
+            "provider_asset_id": "1157628"
+          }
+        ],
+        "slideshows": [],
+        "videos": []
+      },
+      "content": "<p>Facebook is bringing its Instant Article media format to Asia after more than twenty media from eleven countries in the region &#8212; including China, India and Indonesia &#8212; went live on the platform. A further 30 more media have agreed to begin publishing Instant Articles &#8220;soon,&#8221; <a target=\"_blank\" href=\"https://www.facebook.com/business/news/Facebook-Instant-Articles-rolls-out-across-Asia\">Facebook said</a>.</p>\n<p>The U.S. social network giant said it created Instant Articles to help load news stories and features faster than they do when a user has to leave Facebook and open a web browser. <a href=\"http://techcrunch.com/2015/05/12/facebook-instant-articles/#.c8ubks:cBBZ\">The media format went live in the U.S. first back in May</a>, with a host of initial partners that included the New York Times, BuzzFeed, and National Geographic.</p>\n<p>With the Western launch completed, Facebook has turned its hand to bringing the media format to new markets.</p>\n<p><a target=\"_blank\" href=\"http://www.engadget.com/2015/12/01/facebook-instant-articles-in-latin-america/\">Facebook extended</a> Instant Articles into Latin America earlier this week and, after media <a target=\"_blank\" href=\"http://www.medianama.com/2015/11/223-feeding-the-beast-five-indian-publishers-sign-up-for-facebooks-instant-articles/\">reported its rollout in India</a> last month, expanding into Asia Pacific, where <a href=\"http://techcrunch.com/2015/11/04/facebook-earnings-q3-2015\">Facebook has over 500 million monthly active users</a>, will massively increase the potential reach of the service.</p>\n<p>&#8220;Expanding Instant Articles to Asia is a significant milestone for the product and for each of our early launch partners,&#8221; said Andy Mitchell, who is the director of global media partnerships for Facebook said in a statement. &#8220;Instant Articles has been designed with extensive feedback from publishers, and we&#8217;re excited to bring this collaboration to our publishing partners in Asia to help them distribute fast, interactive articles to their readers in the Facebook app.&#8221;</p>\n<p>Beyond the initial launch press, Facebook said it has plans to add further content partners from more countries in the region, so we can certainly expect to see more.</p>",
+      "relegence": {
+        "topic": {
+          "heat": 1,
+          "id": 81560311,
+          "document_count": 10,
+          "created": "2015-12-02T23:17:18+00:00"
+        },
+        "duplicate": [
+          {
+            "type": "Total",
+            "original_doc_id": 82084828
+          }
+        ],
+        "categories": [
+          {
+            "id": 1000000142,
+            "name": "Finance"
+          },
+          {
+            "id": 1000000144,
+            "name": "Sci/Tech"
+          }
+        ],
+        "tags": [
+          {
+            "hits": [
+              {
+                "field": "Title",
+                "length": 8,
+                "offset": 0
+              },
+              {
+                "field": "Body",
+                "length": 8,
+                "offset": 3
+              },
+              {
+                "field": "Body",
+                "length": 8,
+                "offset": 416
+              },
+              {
+                "field": "Body",
+                "length": 8,
+                "offset": 589
+              },
+              {
+                "field": "Body",
+                "length": 8,
+                "offset": 910
+              },
+              {
+                "field": "Body",
+                "length": 8,
+                "offset": 1096
+              },
+              {
+                "field": "Body",
+                "length": 8,
+                "offset": 1483
+              },
+              {
+                "field": "Body",
+                "length": 8,
+                "offset": 1814
+              },
+              {
+                "field": "Body",
+                "length": 8,
+                "offset": 2150
+              }
+            ],
+            "source_name": "Wikipedia",
+            "name": "Facebook",
+            "in_headline": true,
+            "freebase_mid": "m.0jwq95q",
+            "score": 1,
+            "disambiguator": "Company",
+            "type": "Entity",
+            "id": 4019410
+          },
+          {
+            "hits": [
+              {
+                "field": "Body",
+                "length": 12,
+                "offset": 2089
+              }
+            ],
+            "source_name": "Wikipedia",
+            "name": "Facebook Platform",
+            "in_headline": false,
+            "freebase_mid": "m.09gjxqy",
+            "score": 1,
+            "disambiguator": "Product",
+            "type": "Entity",
+            "id": 4105258
+          },
+          {
+            "hits": [
+              {
+                "field": "Body",
+                "length": 12,
+                "offset": 1394
+              }
+            ],
+            "source_name": "Wikipedia",
+            "name": "Asia-Pacific",
+            "in_headline": false,
+            "freebase_mid": "m.055yrc",
+            "score": 0.8,
+            "disambiguator": "Location",
+            "type": "Entity",
+            "id": 3627603
+          },
+          {
+            "hits": [
+              {
+                "field": "Title",
+                "length": 4,
+                "offset": 67
+              },
+              {
+                "field": "Body",
+                "length": 4,
+                "offset": 60
+              },
+              {
+                "field": "Body",
+                "length": 4,
+                "offset": 1643
+              },
+              {
+                "field": "Body",
+                "length": 4,
+                "offset": 2009
+              }
+            ],
+            "source_name": "Wikipedia",
+            "name": "Asia",
+            "in_headline": true,
+            "freebase_mid": "m.0j0k",
+            "score": 0.8,
+            "disambiguator": "Continent",
+            "type": "Entity",
+            "id": 5417120
+          },
+          {
+            "hits": [
+              {
+                "field": "Body",
+                "length": 5,
+                "offset": 155
+              },
+              {
+                "field": "Body",
+                "length": 5,
+                "offset": 1357
+              }
+            ],
+            "source_name": "Wikipedia",
+            "name": "India",
+            "in_headline": false,
+            "freebase_mid": "m.03rk0",
+            "score": 0.6062,
+            "disambiguator": "Country",
+            "type": "Entity",
+            "id": 3686704
+          },
+          {
+            "hits": [
+              {
+                "field": "Body",
+                "length": 9,
+                "offset": 165
+              }
+            ],
+            "source_name": "Wikipedia",
+            "name": "Indonesia",
+            "in_headline": false,
+            "freebase_mid": "m.03ryn",
+            "score": 0.5619,
+            "disambiguator": "Country",
+            "type": "Entity",
+            "id": 3686923
+          },
+          {
+            "hits": [
+              {
+                "field": "Body",
+                "length": 5,
+                "offset": 148
+              }
+            ],
+            "source_name": "Wikipedia",
+            "name": "China",
+            "in_headline": false,
+            "freebase_mid": "m.076rxwv",
+            "score": 0.5619,
+            "disambiguator": "Country",
+            "type": "Entity",
+            "id": 3862702
+          },
+          {
+            "hits": [
+              {
+                "field": "Body",
+                "length": 19,
+                "offset": 847
+              }
+            ],
+            "source_name": "RTNDB",
+            "name": "National Geographic Society",
+            "in_headline": false,
+            "freebase_mid": "m.05dp2",
+            "score": 0.5442,
+            "disambiguator": "Company",
+            "type": "Entity",
+            "id": 3353603
+          },
+          {
+            "hits": [
+              {
+                "field": "Body",
+                "length": 13,
+                "offset": 1140
+              }
+            ],
+            "source_name": "Wikipedia",
+            "name": "Latin America",
+            "in_headline": false,
+            "freebase_mid": "m.04pnx",
+            "score": 0.5442,
+            "disambiguator": "Region",
+            "type": "Entity",
+            "id": 3688646
+          },
+          {
+            "hits": [
+              {
+                "field": "Body",
+                "length": 8,
+                "offset": 833
+              }
+            ],
+            "source_name": "Crunchbase",
+            "name": "BuzzFeed",
+            "in_headline": false,
+            "freebase_mid": "m.076vlrm",
+            "score": 0.5442,
+            "disambiguator": "Company",
+            "type": "Entity",
+            "id": 4957990
+          },
+          {
+            "hits": [
+              {
+                "field": "Body",
+                "length": 14,
+                "offset": 817
+              }
+            ],
+            "source_name": "Crunchbase",
+            "name": "New York Times",
+            "in_headline": false,
+            "freebase_mid": "m.07k2d",
+            "score": 0.5442,
+            "disambiguator": "Company",
+            "type": "Entity",
+            "id": 4958367
+          },
+          {
+            "name": "Business and Finance",
+            "explanation": "old_rule",
+            "score": 1,
+            "most_granular": true,
+            "disambiguator": "Subject",
+            "type": "Subject",
+            "id": 981284
+          },
+          {
+            "name": "Science and Technology",
+            "explanation": "old_rule",
+            "score": 1,
+            "most_granular": false,
+            "disambiguator": "Subject",
+            "type": "Subject",
+            "id": 982665
+          },
+          {
+            "name": "Social Networking",
+            "explanation": "ontology",
+            "score": 1,
+            "most_granular": true,
+            "disambiguator": null,
+            "type": "Subject",
+            "id": 983034
+          },
+          {
+            "name": "Internet",
+            "explanation": "ontology",
+            "score": 1,
+            "most_granular": false,
+            "disambiguator": null,
+            "type": "Subject",
+            "id": 980524
+          },
+          {
+            "name": "Computers",
+            "explanation": "hierarchy",
+            "score": 1,
+            "most_granular": false,
+            "disambiguator": "Science and Technology",
+            "type": "Subject",
+            "id": 978794
+          },
+          {
+            "name": "Technology",
+            "explanation": "hierarchy",
+            "score": 1,
+            "most_granular": false,
+            "disambiguator": "Science and Technology",
+            "type": "Subject",
+            "id": 983462
+          },
+          {
+            "name": "Information Technology",
+            "explanation": "hierarchy",
+            "score": 1,
+            "most_granular": false,
+            "disambiguator": "Science and Technology",
+            "type": "Subject",
+            "id": 980487
+          }
+        ]
+      },
+      "provider": null,
+      "license_id": "2",
+      "slideshow_images_count": 0,
+      "store": [],
+      "slideshow_count": 0,
+      "tags": [
+        "@post_type_post",
+        "Facebook"
+      ],
+      "plain_text": "\r\nFacebook is bringing its Instant Article media format to Asia after more than twenty media from eleven countries in the region — including China, India and Indonesia — went live on the platform. A further 30 more media have agreed to begin publishing Instant Articles “soon,” Facebook said.\n\r\nThe U.S. social network giant said it created Instant Articles to help load news stories and features faster than they do when a user has to leave Facebook and open a web browser. The media format went live in the U.S. first back in May, with a host of initial partners that included the New York Times, BuzzFeed, and National Geographic.\n\r\nWith the Western launch completed, Facebook has turned its hand to bringing the media format to new markets.\n\r\nFacebook extended Instant Articles into Latin America earlier this week and, after media reported its rollout in India last month, expanding into Asia Pacific, where Facebook has over 500 million monthly active users, will massively increase the potential reach of the service.\n\r\n“Expanding Instant Articles to Asia is a significant milestone for the product and for each of our early launch partners,” said Andy Mitchell, who is the director of global media partnerships for Facebook said in a statement. “Instant Articles has been designed with extensive feedback from publishers, and we’re excited to bring this collaboration to our publishing partners in Asia to help them distribute fast, interactive articles to their readers in the Facebook app.”\n\r\nBeyond the initial launch press, Facebook said it has plans to add further content partners from more countries in the region, so we can certainly expect to see more.",
+      "link": "http://techcrunch.com/2015/12/02/facebook-partners-with-50-publishers-to-launch-instant-articles-in-asia/",
+      "categories": [
+        "Media",
+        "Asia"
+      ],
+      "lang": "en",
+      "video_count": 0,
+      "profane": false,
+      "crawled": "2015-12-03T06:28:50.011640",
+      "author": {
+        "type": "2",
+        "name": "Jon Russell",
+        "id": null
+      },
+      "source": {
+        "zipcode": null,
+        "publisher_id": "techcrunch",
+        "id": "SGHaqu",
+        "groups": [
+          1,
+          4
+        ],
+        "title": "TechCrunch"
+      },
+      "published": "2015-12-02T22:25:06+00:00",
+      "image_count": 1,
+      "_score": 1
+    },
+    {
+      "content_length": 1509,
+      "updated": "2015-12-03T15:13:35+00:00",
+      "update_received": "2015-12-03T15:17:36.797454+00:00",
+      "crawled_ts": 1449155532810045000,
+      "content_hash": "mmh3-338398034613466618150405232291130935128",
+      "guid": "8708126",
+      "id": "8Y10Ju/1449155532810045000",
+      "snippet": "Plus besoin d'aller à New York pour magasiner chez Saks Fifth Avenue. ",
+      "title": "Montréal aura son magasins Saks",
+      "media": {
+        "images": [
+          {
+            "url": "http://big.assets.huffingtonpost.com/FBLOGO_0.png",
+            "extracted_from_html": true,
+            "original_markup": "<a href=\"https://www.facebook.com/HuffPostQuebecStyle\"><img src=\"http://big.assets.huffingtonpost.com/FBLOGO_0.png\"/></a>",
+            "anchor_url": "https://www.facebook.com/HuffPostQuebecStyle"
+          },
+          {
+            "url": "http://big.assets.huffingtonpost.com/TWITTERBIRD.png",
+            "extracted_from_html": true,
+            "original_markup": "<a href=\"https://twitter.com/huffpostqcstyle\"><img src=\"http://big.assets.huffingtonpost.com/TWITTERBIRD.png\"/></a>",
+            "anchor_url": "https://twitter.com/huffpostqcstyle"
+          },
+          {
+            "extracted_from_html": null,
+            "original_markup": "<!--HH--PHOTO--SAKS--3739320--HH-->",
+            "tags": [],
+            "url": "http://i.huffpost.com/gen/3739320/original.jpg",
+            "anchor_url": null,
+            "height": 3395,
+            "credit": "ASSOCIATED PRESS",
+            "media_medium": "image",
+            "headline": true,
+            "alternate_sizes": [
+              {
+                "url": "http://i.huffpost.com/gen/3739320/images/n-SAKS-medium.jpg",
+                "width": 300,
+                "height": 125,
+                "mime_type": "image/jpeg",
+                "tags": [
+                  "n-medium"
+                ]
+              },
+              {
+                "url": "http://i.huffpost.com/gen/3739320/images/r-SAKS-medium.jpg",
+                "width": 300,
+                "height": 125,
+                "mime_type": "image/jpeg",
+                "tags": [
+                  "r-medium"
+                ]
+              }
+            ],
+            "provider": null,
+            "title": null,
+            "caption": null,
+            "width": 4578,
+            "provider_asset_id": null
+          }
+        ],
+        "slideshows": [
+          {
+            "extracted_from_html": null,
+            "embed_code": null,
+            "description": null,
+            "tags": [],
+            "title": "Notre  top 5 des boutiques qui ont ouvert récemment à Montréal",
+            "slides": [
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://i.huffpost.com/gadgets/slideshows/467156/slide_467156_6337596_compressed.jpg",
+                "anchor_url": null,
+                "height": null,
+                "credit": "Courtoisie",
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": null,
+                "title": "<strong><a href=\"http://bestseller.com/BESTSELLER.COM/bestseller-com,en_MT,sc.html\" target=\"_hplink\">Bestseller</a></strong>",
+                "caption": " ",
+                "width": null,
+                "provider_asset_id": null
+              },
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://i.huffpost.com/gadgets/slideshows/467156/slide_467156_6337598_compressed.jpg",
+                "anchor_url": null,
+                "height": null,
+                "credit": "Courtoisie",
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": null,
+                "title": "<strong><a href=\"http://bestseller.com/BESTSELLER.COM/bestseller-com,en_MT,sc.html\" target=\"_hplink\">Bestseller</a></strong>",
+                "caption": " ",
+                "width": null,
+                "provider_asset_id": null
+              },
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://i.huffpost.com/gadgets/slideshows/467156/slide_467156_6337600_compressed.jpg",
+                "anchor_url": null,
+                "height": null,
+                "credit": "Courtoisie",
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": null,
+                "title": "<strong><a href=\"http://bestseller.com/BESTSELLER.COM/bestseller-com,en_MT,sc.html\" target=\"_hplink\">Bestseller</a></strong>",
+                "caption": " ",
+                "width": null,
+                "provider_asset_id": null
+              },
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://i.huffpost.com/gadgets/slideshows/467156/slide_467156_6337602_compressed.jpg",
+                "anchor_url": null,
+                "height": null,
+                "credit": "Courtoisie",
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": null,
+                "title": "<strong><a href=\"http://bestseller.com/BESTSELLER.COM/bestseller-com,en_MT,sc.html\" target=\"_hplink\">Bestseller</a></strong>",
+                "caption": " ",
+                "width": null,
+                "provider_asset_id": null
+              },
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://i.huffpost.com/gadgets/slideshows/467156/slide_467156_6337604_compressed.jpg",
+                "anchor_url": null,
+                "height": null,
+                "credit": "Courtoisie",
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": null,
+                "title": "<strong><a href=\"http://bestseller.com/BESTSELLER.COM/bestseller-com,en_MT,sc.html\" target=\"_hplink\">Bestseller</a></strong>",
+                "caption": " ",
+                "width": null,
+                "provider_asset_id": null
+              },
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://i.huffpost.com/gadgets/slideshows/467156/slide_467156_6337606_compressed.jpg",
+                "anchor_url": null,
+                "height": null,
+                "credit": "Courtoisie",
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": null,
+                "title": "<strong><a href=\"http://bestseller.com/BESTSELLER.COM/bestseller-com,en_MT,sc.html\" target=\"_hplink\">Bestseller</a></strong>",
+                "caption": " ",
+                "width": null,
+                "provider_asset_id": null
+              },
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://i.huffpost.com/gadgets/slideshows/467156/slide_467156_6337626_compressed.jpg",
+                "anchor_url": null,
+                "height": null,
+                "credit": "Courtoisie",
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": null,
+                "title": " ",
+                "caption": "La Canadienne",
+                "width": null,
+                "provider_asset_id": null
+              },
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://i.huffpost.com/gadgets/slideshows/467156/slide_467156_6337628_compressed.jpg",
+                "anchor_url": null,
+                "height": null,
+                "credit": "Courtoisie",
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": null,
+                "title": " ",
+                "caption": "La Canadienne",
+                "width": null,
+                "provider_asset_id": null
+              },
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://i.huffpost.com/gadgets/slideshows/467156/slide_467156_6337630_compressed.jpg",
+                "anchor_url": null,
+                "height": null,
+                "credit": "Courtoisie",
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": null,
+                "title": " ",
+                "caption": "La Canadienne",
+                "width": null,
+                "provider_asset_id": null
+              },
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://i.huffpost.com/gadgets/slideshows/467156/slide_467156_6337632_compressed.jpg",
+                "anchor_url": null,
+                "height": null,
+                "credit": "Courtoisie",
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": null,
+                "title": " ",
+                "caption": "La Canadienne",
+                "width": null,
+                "provider_asset_id": null
+              },
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://i.huffpost.com/gadgets/slideshows/467156/slide_467156_6337634_compressed.jpg",
+                "anchor_url": null,
+                "height": null,
+                "credit": "",
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": null,
+                "title": " ",
+                "caption": "La Canadienne",
+                "width": null,
+                "provider_asset_id": null
+              },
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://i.huffpost.com/gadgets/slideshows/467156/slide_467156_6337672_compressed.jpg",
+                "anchor_url": null,
+                "height": null,
+                "credit": "Courtoisie",
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": null,
+                "title": " ",
+                "caption": "<strong><a href=\"https://www.lintervalleshoes.com/ca/view-all.html\" target=\"_hplink\">L'Intervalle Shoes</a></strong>",
+                "width": null,
+                "provider_asset_id": null
+              },
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://i.huffpost.com/gadgets/slideshows/467156/slide_467156_6337674_compressed.jpg",
+                "anchor_url": null,
+                "height": null,
+                "credit": "Courtoisie",
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": null,
+                "title": " ",
+                "caption": "<strong><a href=\"https://www.lintervalleshoes.com/ca/view-all.html\" target=\"_hplink\">L'Intervalle Shoes</a></strong>",
+                "width": null,
+                "provider_asset_id": null
+              },
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://i.huffpost.com/gadgets/slideshows/467156/slide_467156_6337696_compressed.jpg",
+                "anchor_url": null,
+                "height": null,
+                "credit": "Courtoisie",
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": null,
+                "title": " ",
+                "caption": "<strong><a href=\"http://www.tcstyling.com/?lang=fr\" target=\"_hplink\">Très Chic Styling</a></strong>",
+                "width": null,
+                "provider_asset_id": null
+              },
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://i.huffpost.com/gadgets/slideshows/467156/slide_467156_6337698_compressed.jpg",
+                "anchor_url": null,
+                "height": null,
+                "credit": "Courtoisie",
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": null,
+                "title": " ",
+                "caption": "<strong><a href=\"http://www.tcstyling.com/?lang=fr\" target=\"_hplink\">Très Chic Styling</a></strong>",
+                "width": null,
+                "provider_asset_id": null
+              },
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://i.huffpost.com/gadgets/slideshows/467156/slide_467156_6337700_compressed.jpg",
+                "anchor_url": null,
+                "height": null,
+                "credit": "Courtoisie",
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": null,
+                "title": " ",
+                "caption": "<strong><a href=\"http://www.tcstyling.com/?lang=fr\" target=\"_hplink\">Très Chic Styling</a></strong>",
+                "width": null,
+                "provider_asset_id": null
+              },
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://i.huffpost.com/gadgets/slideshows/467156/slide_467156_6337702_compressed.jpg",
+                "anchor_url": null,
+                "height": null,
+                "credit": "Courtoisie",
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": null,
+                "title": " ",
+                "caption": "<strong><a href=\"http://www.tcstyling.com/?lang=fr\" target=\"_hplink\">Très Chic Styling</a></strong>",
+                "width": null,
+                "provider_asset_id": null
+              },
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://i.huffpost.com/gadgets/slideshows/467156/slide_467156_6337704_compressed.jpg",
+                "anchor_url": null,
+                "height": null,
+                "credit": "Courtoisie",
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": null,
+                "title": " ",
+                "caption": "<strong><a href=\"http://www.tcstyling.com/?lang=fr\" target=\"_hplink\">Très Chic Styling</a></strong>",
+                "width": null,
+                "provider_asset_id": null
+              },
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://i.huffpost.com/gadgets/slideshows/467156/slide_467156_6337706_compressed.jpg",
+                "anchor_url": null,
+                "height": null,
+                "credit": "Courtoisie",
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": null,
+                "title": " ",
+                "caption": "<strong><a href=\"http://www.tcstyling.com/?lang=fr\" target=\"_hplink\">Très Chic Styling</a></strong>",
+                "width": null,
+                "provider_asset_id": null
+              },
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://i.huffpost.com/gadgets/slideshows/467156/slide_467156_6337708_compressed.jpg",
+                "anchor_url": null,
+                "height": null,
+                "credit": "Courtoisie",
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": null,
+                "title": " ",
+                "caption": "<strong><a href=\"http://www.tcstyling.com/?lang=fr\" target=\"_hplink\">Très Chic Styling</a></strong>",
+                "width": null,
+                "provider_asset_id": null
+              },
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://i.huffpost.com/gadgets/slideshows/467156/slide_467156_6337710_compressed.jpg",
+                "anchor_url": null,
+                "height": null,
+                "credit": "Courtoisie",
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": null,
+                "title": " ",
+                "caption": "<strong><a href=\"http://www.tcstyling.com/?lang=fr\" target=\"_hplink\">Très Chic Styling</a></strong>",
+                "width": null,
+                "provider_asset_id": null
+              },
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://i.huffpost.com/gadgets/slideshows/467156/slide_467156_6337712_compressed.jpg",
+                "anchor_url": null,
+                "height": null,
+                "credit": "Courtoisie",
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": null,
+                "title": " ",
+                "caption": "<strong><a href=\"https://www.facebook.com/ruseboutique?__mref=message_bubble\" target=\"_hplink\">Friperie Ruse</a></strong>",
+                "width": null,
+                "provider_asset_id": null
+              },
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://i.huffpost.com/gadgets/slideshows/467156/slide_467156_6337714_compressed.jpg",
+                "anchor_url": null,
+                "height": null,
+                "credit": "Courtoisie",
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": null,
+                "title": " ",
+                "caption": "<strong><a href=\"https://www.facebook.com/ruseboutique?__mref=message_bubble\" target=\"_hplink\">Friperie Ruse</a></strong>",
+                "width": null,
+                "provider_asset_id": null
+              },
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://i.huffpost.com/gadgets/slideshows/467156/slide_467156_6337716_compressed.jpg",
+                "anchor_url": null,
+                "height": null,
+                "credit": "Courtoisie",
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": null,
+                "title": " ",
+                "caption": "<strong><a href=\"https://www.facebook.com/ruseboutique?__mref=message_bubble\" target=\"_hplink\">Friperie Ruse</a></strong>",
+                "width": null,
+                "provider_asset_id": null
+              },
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://i.huffpost.com/gadgets/slideshows/467156/slide_467156_6337718_compressed.jpg",
+                "anchor_url": null,
+                "height": null,
+                "credit": "Courtoisie",
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": null,
+                "title": " ",
+                "caption": "<strong><a href=\"https://www.facebook.com/ruseboutique?__mref=message_bubble\" target=\"_hplink\">Friperie Ruse</a></strong>",
+                "width": null,
+                "provider_asset_id": null
+              },
+              {
+                "extracted_from_html": null,
+                "original_markup": null,
+                "tags": [],
+                "url": "http://i.huffpost.com/gadgets/slideshows/467156/slide_467156_6337720_compressed.jpg",
+                "anchor_url": null,
+                "height": null,
+                "credit": "Courtoisie",
+                "media_medium": "image",
+                "headline": null,
+                "alternate_sizes": [],
+                "provider": null,
+                "title": " ",
+                "caption": "<strong><a href=\"https://www.facebook.com/ruseboutique?__mref=message_bubble\" target=\"_hplink\">Friperie Ruse</a></strong>",
+                "width": null,
+                "provider_asset_id": null
+              }
+            ],
+            "media_medium": "slideshow",
+            "original_markup": "<!--HH--236SLIDEEXPAND--467156--HH-->",
+            "provider": null,
+            "provider_asset_id": null
+          }
+        ],
+        "videos": []
+      },
+      "content": "Plus besoin d’aller à New York pour magasiner chez Saks Fifth Avenue. La bannière s’installera à Montréal et Québec d’ici 2018.\r\n\r\nAlors que le magasin de Québec sera sis à la Place Ste-Foy, celui de Montréal prendra la place de la boutique les Ailes de la mode du centre-ville, qui fermera ses portes d’ici la fin décembre. \r\n\r\nSaks Fifth Avenue OFF 5TH, le pendant abordable de la chaîne de luxe, prévoit aussi l’ouverture d’un magasin au Premium Outlets de Mirabel. \r\n\r\n<a href=\"http://affaires.lapresse.ca/economie/commerce-de-detail/201512/03/01-4927368-saks-debarque-au-centre-eaton.php\" target=\"_hplink\">Selon La Presse</a>, l’ouverture d'un Saks à Montréal sera l’occasion pour le Complexe Les Ailes et le Centre Eaton de fusionner. \r\n\r\nLa Baie d’Hudson avait acquis Saks en 2013. \r\n\r\n<blockquote><strong>» <a href=\"http://quebec.huffingtonpost.ca/newsletter/quebec-style\" target=\"_hplink\">Abonnez-vous à l'infolettre quotidienne du HuffPost Québec Style</a></strong></blockquote>\r\n\r\n<strong><a href=\"https://www.facebook.com/HuffPostQuebecStyle\"><img src=\"http://big.assets.huffingtonpost.com/FBLOGO_0.png\"></a> <a href=\"https://www.facebook.com/HuffPostQuebecStyle\" target=\"_hplink\">Abonnez-vous à HuffPost Québec Style sur Facebook</a><br> <a href=\"https://twitter.com/huffpostqcstyle\"><img src=\"http://big.assets.huffingtonpost.com/TWITTERBIRD.png\"></a> <a href=\"https://twitter.com/huffpostqcstyle\" target=\"_hplink\">Suivez HuffPost Québec Style sur Twitter</a><br class=\"ethanmobile\" /></strong> ",
+      "relegence": {
+        "topic": {
+          "heat": 0,
+          "id": 82257754,
+          "document_count": 1,
+          "created": "2015-12-03T10:17:36+00:00"
+        },
+        "duplicate": [
+          {
+            "type": "Total",
+            "original_doc_id": 82256242
+          }
+        ],
+        "categories": [],
+        "tags": []
+      },
+      "provider": null,
+      "license_id": "2",
+      "slideshow_images_count": 26,
+      "store": {
+        "entry_source": "Le Huffington Post Québec",
+        "entry_mobile_headline": "",
+        "entry_mobile_link": "http://m.huffpost.com/qc/entry/8708126"
+      },
+      "slideshow_count": 1,
+      "tags": [
+        "mode Québec",
+        "commerce de détail",
+        "Québec économie",
+        "économie",
+        "Ville de Montréal",
+        "ville de québec",
+        "Saks Fifth Avenue",
+        "Complexe les ailes",
+        "place ste-foy",
+        "premium outlets mirabel"
+      ],
+      "plain_text": "Plus besoin d’aller à New York pour magasiner chez Saks Fifth Avenue. La bannière s’installera à Montréal et Québec d’ici 2018.\r\n\r\nAlors que le magasin de Québec sera sis à la Place Ste-Foy, celui de Montréal prendra la place de la boutique les Ailes de la mode du centre-ville, qui fermera ses portes d’ici la fin décembre. \r\n\r\nSaks Fifth Avenue OFF 5TH, le pendant abordable de la chaîne de luxe, prévoit aussi l’ouverture d’un magasin au Premium Outlets de Mirabel. \r\n\r\nSelon La Presse, l’ouverture d'un Saks à Montréal sera l’occasion pour le Complexe Les Ailes et le Centre Eaton de fusionner. \r\n\r\nLa Baie d’Hudson avait acquis Saks en 2013. \r\n\r\n» Abonnez-vous à l'infolettre quotidienne du HuffPost Québec Style\r\n\r\n Abonnez-vous à HuffPost Québec Style sur Facebook\r\n  Suivez HuffPost Québec Style sur Twitter\r\n",
+      "link": "http://quebec.huffingtonpost.ca/2015/12/03/montreal-aura-son-magasins-saks_n_8708126.html",
+      "categories": [],
+      "lang": "fr",
+      "video_count": 0,
+      "profane": false,
+      "crawled": "2015-12-03T15:12:12.810045",
+      "author": {
+        "type": "2",
+        "name": "",
+        "id": null
+      },
+      "source": {
+        "zipcode": null,
+        "publisher_id": "142",
+        "id": "8Y10Ju",
+        "groups": [
+          1,
+          5,
+          173
+        ],
+        "title": "Quebec Style"
+      },
+      "published": "2015-12-03T15:10:49+00:00",
+      "image_count": 3,
+      "_score": 1
+    },
+    {
+      "content_length": 5144,
+      "updated": "2015-12-03T15:17:21+00:00",
+      "update_received": "2015-12-03T15:17:36.897667+00:00",
+      "crawled_ts": 1449155856897667000,
+      "content_hash": "mmh3-20782537090886555465041834037352472047",
+      "guid": "8707988",
+      "id": "gwdhMR/1449155856897667000",
+      "snippet": "Torna, fragorosamente nel dibattito politico-economico (ma ci sarebbe anche di meglio di cui discutere) il tema del pagamento di piccolissime somme con le carte di credito. ",
+      "title": "Le guerre sante tra carte di credito, spiccioli e super contante",
+      "media": {
+        "images": [
+          {
+            "extracted_from_html": null,
+            "original_markup": "<!--HH--PHOTO--CONTANTI--3739316--HH-->",
+            "tags": [],
+            "url": "http://i.huffpost.com/gen/3739316/original.jpg",
+            "anchor_url": null,
+            "height": 533,
+            "credit": "Agf",
+            "media_medium": "image",
+            "headline": true,
+            "alternate_sizes": [
+              {
+                "url": "http://i.huffpost.com/gen/3739316/images/n-CONTANTI-medium.jpg",
+                "width": 300,
+                "height": 125,
+                "mime_type": "image/jpeg",
+                "tags": [
+                  "n-medium"
+                ]
+              },
+              {
+                "url": "http://i.huffpost.com/gen/3739316/images/r-CONTANTI-medium.jpg",
+                "width": 300,
+                "height": 125,
+                "mime_type": "image/jpeg",
+                "tags": [
+                  "r-medium"
+                ]
+              }
+            ],
+            "provider": null,
+            "title": null,
+            "caption": null,
+            "width": 799,
+            "provider_asset_id": null
+          }
+        ],
+        "slideshows": [],
+        "videos": []
+      },
+      "content": "Torna, fragorosamente nel dibattito politico-economico (ma ci sarebbe anche di meglio di cui discutere) il tema del pagamento di piccolissime somme con le carte di credito. A schierarsi contro, fieramente, i commercianti: dicono che è una inutile stangata, che complica i calcoli di cassa, che soprattutto costituisce un pesante onere per effetto delle commissioni applicate dalle banche. Un muro di no che trova il suo obiettivo punto di forza nel costo delle commissioni: ogni volta che si passa la carta sotto l'apparecchietto elettronico chiamato Pos il commerciante deve versare circa il due per cento.\n\nQuando si tratta di pagare <a href=\"http://www.iltempo.it/economia/2015/12/02/cappuccino-e-cornetto-si-pagheranno-con-la-carta-di-credito-1.1485241\" target=\"_hplink\">un quotidiano o un caffè</a> con cornetto o anche senza cornetto è evidente che tutta la manovra sembra non avere niente di conveniente e tutto di irritante. Dapprima si doveva accettare il pagamento da 30 euro in su con carta di credito: questa soglia adesso vuol essere cancellata e per i micropagamenti fino a cinque euro la <a href=\"http://www.huffingtonpost.it/marco-plutino/lemendamento-pd-sulluso-del-pos-non-ferma-levasione_b_8695646.html\" target=\"_hplink\">proposta del Pd</a> è di abolire le commissioni. \n\nNon che la variazione abbia sopito le polemiche ma sembra più ragionevole la proposta di ampliare a quasi tutti gli acquisti l'utilizzo delle carte. I vantaggi per l'utente sono risaputi. Poco denaro contante in tasca, facilità di acquisto anche con lo smartphone, rendicontazione delle spese, anche delle piccole spese, attraverso gli estratti conto mensili, termometro della nostra capacità di spendere ed anche di risparmiare. Arriviamo buoni ultimi. Negli Stati Uniti la carta di credito, utilizzata per saldare qualsiasi conto, dal cappuccino alla Ferrari, è di uso talmente comune che il contante viene visto con sospetto, come qualcosa che sgattaiola via dai controlli.\n\nCerto, i grandi fratelli elettronici, negli ultimi tempi, hanno raffreddato gli entusiasmi delle carte di credito. Per ottenere certi, impieghi, per esempio è necessario dare al futuro e probabile datore di lavoro la possibilità di esaminare le nostre spese controllando appunto gli acquisti con la carta. Una intrusione nella sfera della privacy che arriva a punte incredibili: un aspirante camionista perse il posto perché dall'analisi delle sue spese si scoprì che comperava bottiglie di whisky in una quantità incompatibile con il lavoro di driver. Era stato lui stesso, fiducioso e ingenuo, a concedere al suo futuro impresario di ficcare il naso nei suoi conti.\n\nResta il fatto che le tecnologie, via via, semplificano molti gesti della nostra quotidianità e, come diceva Nicolas Negroponte, la tecnologia \"è una tigre: o la cavalchi o ti mangia!\". In qualche caso, per esempio a Bergamo, dove si dà molto da fare il sindaco Giorgio Gori, l'esperimento dei micropagamenti ha avuto un grandissimo successo e ha spinto alcuni negozianti, addirittura, a proporre sconti per i clienti che fanno uso continuato del Pos. Dunque, è anche un problema di cultura. E a questo proposito val la pena di introdurre l'altra questione legata alle carte e al contante. La soglia dei tremila euro portabili e spendibili senza problemi ha convinto il governo Renzi a tenere il punto, fronteggiando critiche non sempre irragionevoli.\n\nLa perplessità o se si vuole la opposizione più aperta è quella di chi sostiene che il contante \"ricco\" produce la tentazione di aumentare il fenomeno del \"nero\" e cancella ogni tracciabilità per acquisti che invece andrebbero seguiti con attenzione dagli occhiuti uffici del Fisco. Ma, su tutto, per ora così come accade in diversi (non in tutti) paesi europei prevale la tesi che il denaro contante non aumenta il rischio di flussi indesiderabili ma, piuttosto, va incontro a una esigenza di agilità monetaria che accompagna la libertà personale di spendere senza dover essere perciò stesso, tenuti sotto osservazione, come se si commettesse un abuso o qualcosa di sospetto. In più vi è il probabile aumento dei consumi che ne deriverebbe. La libertà di un paese deve poter sopportare, ed anzi far tesoro, di entrambe le misure. Abbassando da un lato le grida allo scandalo contro gli spiccioli e dall'altro i sussulti censori contro chi pensa di poter entrare da Hermes, da Gucci, da Armani o da Bulgari e non lasciare traccia sensibile dei propri acquisti. Se i soldi sono puliti possono stare racchiusi in una carta di credito ma anche nel portafoglio.\n\n<blockquote><a href=\"https://www.facebook.com/HuffPostItalia\" target=\"_hplink\">• Segui gli aggiornamenti sulla nostra pagina Facebook</a> \n</br><div class=\"fb-like\" data-href=\"https://www.facebook.com/HuffPostItalia\" data-send=\"true\" data-width=\"570\" data-show-faces=\"false\" data-font=\"arial\"></div>\n\n<a href=\"http://www.huffingtonpost.it\" target=\"_hplink\">• Per essere aggiornato sulle notizie de<em> L'HuffPost</em>, clicca sulla nostra Homepage</a>\n\n<a href=\"http://www.huffingtonpost.it/newsletter/italy\" target=\"_hplink\">• Iscriviti alla newsletter de<em> L'HuffPost</em></a></blockquote> ",
+      "relegence": {
+        "topic": {
+          "heat": 0,
+          "id": 82257760,
+          "document_count": 1,
+          "created": "2015-12-03T10:17:37+00:00"
+        },
+        "duplicate": [
+          {
+            "type": "None",
+            "original_doc_id": 82257760
+          }
+        ],
+        "categories": [],
+        "tags": []
+      },
+      "provider": null,
+      "license_id": "3",
+      "slideshow_images_count": 0,
+      "store": {
+        "entry_mobile_headline": "",
+        "entry_mobile_link": "http://m.huffpost.com/it/entry/8707988"
+      },
+      "slideshow_count": 0,
+      "tags": [
+        "contante",
+        "soldi",
+        "renzi",
+        "partito democratico",
+        "evasione",
+        "italia-economia"
+      ],
+      "plain_text": "Torna, fragorosamente nel dibattito politico-economico (ma ci sarebbe anche di meglio di cui discutere) il tema del pagamento di piccolissime somme con le carte di credito. A schierarsi contro, fieramente, i commercianti: dicono che è una inutile stangata, che complica i calcoli di cassa, che soprattutto costituisce un pesante onere per effetto delle commissioni applicate dalle banche. Un muro di no che trova il suo obiettivo punto di forza nel costo delle commissioni: ogni volta che si passa la carta sotto l'apparecchietto elettronico chiamato Pos il commerciante deve versare circa il due per cento.\n\nQuando si tratta di pagare un quotidiano o un caffè con cornetto o anche senza cornetto è evidente che tutta la manovra sembra non avere niente di conveniente e tutto di irritante. Dapprima si doveva accettare il pagamento da 30 euro in su con carta di credito: questa soglia adesso vuol essere cancellata e per i micropagamenti fino a cinque euro la proposta del Pd è di abolire le commissioni. \n\nNon che la variazione abbia sopito le polemiche ma sembra più ragionevole la proposta di ampliare a quasi tutti gli acquisti l'utilizzo delle carte. I vantaggi per l'utente sono risaputi. Poco denaro contante in tasca, facilità di acquisto anche con lo smartphone, rendicontazione delle spese, anche delle piccole spese, attraverso gli estratti conto mensili, termometro della nostra capacità di spendere ed anche di risparmiare. Arriviamo buoni ultimi. Negli Stati Uniti la carta di credito, utilizzata per saldare qualsiasi conto, dal cappuccino alla Ferrari, è di uso talmente comune che il contante viene visto con sospetto, come qualcosa che sgattaiola via dai controlli.\n\nCerto, i grandi fratelli elettronici, negli ultimi tempi, hanno raffreddato gli entusiasmi delle carte di credito. Per ottenere certi, impieghi, per esempio è necessario dare al futuro e probabile datore di lavoro la possibilità di esaminare le nostre spese controllando appunto gli acquisti con la carta. Una intrusione nella sfera della privacy che arriva a punte incredibili: un aspirante camionista perse il posto perché dall'analisi delle sue spese si scoprì che comperava bottiglie di whisky in una quantità incompatibile con il lavoro di driver. Era stato lui stesso, fiducioso e ingenuo, a concedere al suo futuro impresario di ficcare il naso nei suoi conti.\n\nResta il fatto che le tecnologie, via via, semplificano molti gesti della nostra quotidianità e, come diceva Nicolas Negroponte, la tecnologia \"è una tigre: o la cavalchi o ti mangia!\". In qualche caso, per esempio a Bergamo, dove si dà molto da fare il sindaco Giorgio Gori, l'esperimento dei micropagamenti ha avuto un grandissimo successo e ha spinto alcuni negozianti, addirittura, a proporre sconti per i clienti che fanno uso continuato del Pos. Dunque, è anche un problema di cultura. E a questo proposito val la pena di introdurre l'altra questione legata alle carte e al contante. La soglia dei tremila euro portabili e spendibili senza problemi ha convinto il governo Renzi a tenere il punto, fronteggiando critiche non sempre irragionevoli.\n\nLa perplessità o se si vuole la opposizione più aperta è quella di chi sostiene che il contante \"ricco\" produce la tentazione di aumentare il fenomeno del \"nero\" e cancella ogni tracciabilità per acquisti che invece andrebbero seguiti con attenzione dagli occhiuti uffici del Fisco. Ma, su tutto, per ora così come accade in diversi (non in tutti) paesi europei prevale la tesi che il denaro contante non aumenta il rischio di flussi indesiderabili ma, piuttosto, va incontro a una esigenza di agilità monetaria che accompagna la libertà personale di spendere senza dover essere perciò stesso, tenuti sotto osservazione, come se si commettesse un abuso o qualcosa di sospetto. In più vi è il probabile aumento dei consumi che ne deriverebbe. La libertà di un paese deve poter sopportare, ed anzi far tesoro, di entrambe le misure. Abbassando da un lato le grida allo scandalo contro gli spiccioli e dall'altro i sussulti censori contro chi pensa di poter entrare da Hermes, da Gucci, da Armani o da Bulgari e non lasciare traccia sensibile dei propri acquisti. Se i soldi sono puliti possono stare racchiusi in una carta di credito ma anche nel portafoglio.\n\n• Segui gli aggiornamenti sulla nostra pagina Facebook \n\n\n• Per essere aggiornato sulle notizie de L'HuffPost, clicca sulla nostra Homepage\n\n• Iscriviti alla newsletter de L'HuffPost",
+      "link": "http://www.huffingtonpost.it/nicola-tasco/le-guerre-sante-tra-carte-di-credito-spiccioli-e-super-contante_b_8707988.html",
+      "categories": [],
+      "lang": "it",
+      "video_count": 0,
+      "profane": false,
+      "crawled": "2015-12-03T15:17:36.897667",
+      "author": {
+        "type": "3",
+        "name": "Nicola Tasco",
+        "id": null
+      },
+      "source": {
+        "zipcode": null,
+        "publisher_id": "105",
+        "id": "gwdhMR",
+        "groups": [
+          1,
+          5,
+          176
+        ],
+        "title": "Huff. Post: Italy - Italy"
+      },
+      "published": "2015-12-03T15:17:13+00:00",
+      "image_count": 1,
+      "_score": 1
+    }
+  ]
+}

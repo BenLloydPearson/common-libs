@@ -1,0 +1,1718 @@
+{
+  "message": "OK",
+  "count": 10,
+  "results": [
+    {
+      "_id": 748924672691683328,
+      "avgAccessTime": 1467396653056,
+      "title": "Attackers take hostages at Bangladesh restaurant",
+      "magScore": 220.8000030517578,
+      "onoSources": [
+        "oIOPK0",
+        "3_PT8G",
+        "JOchf-"
+      ],
+      "facebookShares": 461,
+      "facebookLikes": 144,
+      "facebookComments": 118,
+      "twitterRetweets": 0,
+      "linkCount": 263,
+      "numDocs": 281,
+      "topicCreationTime": "2016-07-01T17:02:11.133Z",
+      "lastTopicActivityTime": "2016-07-01T18:58:20.775Z",
+      "heat": 0.53235245,
+      "numSources": 249,
+      "relatedEntity": [
+        {
+          "id": 3448214,
+          "score": 0.5326753854751587,
+          "name": "Bangladesh"
+        },
+        {
+          "id": 3465007,
+          "score": 0.6989048719406128,
+          "name": "Dhaka"
+        }
+      ],
+      "relatedSubject": [
+        {
+          "id": 980522,
+          "score": 0.9836066961288452,
+          "name": "International News"
+        },
+        {
+          "id": 981523,
+          "score": 0.9836066961288452,
+          "name": "News"
+        },
+        {
+          "id": 981525,
+          "score": 0.9836066961288452,
+          "name": "News and Politics"
+        }
+      ],
+      "alphaDocs": [
+        {
+          "snippet": "Police exchanged gunfire with armed attackers Friday at a restaurant in a diplomatic zone of Dhaka, Bangladesh.",
+          "author": null,
+          "guid": "http://www.ksbw.com/national-news/gunmen-battle-police-in-diplomatic-area-of-dhaka-official-says/40314646",
+          "source": "NBC - KSBW - TV 8 - Salinas CA Consumer Watch/Money",
+          "id": "aQWCSd/1467399479225893000",
+          "title": "Gunmen battle police in diplomatic area of Dhaka, official says",
+          "lang": "en",
+          "headline": "Gunmen battle police in diplomatic area of Dhaka, official says",
+          "images": [
+            {
+              "imageUrl": "http://www.ksbw.com/image/view/-/40314834/highRes/2/-/maxh/630/maxw/1200/-/4ufhok/-/Bangladesh-police-jpg.jpg",
+              "imageHeight": 360,
+              "imageWidth": 640
+            },
+            {
+              "imageUrl": "http://www.ksbw.com/image/view/-/40314834/highRes/2/-/maxh/630/maxw/1200/-/4ufhok/-/Bangladesh-police-jpg.jpg",
+              "imageHeight": 360,
+              "imageWidth": 640
+            }
+          ],
+          "injestedDate": null,
+          "url": "http://www.ksbw.com/national-news/gunmen-battle-police-in-diplomatic-area-of-dhaka-official-says/40314646"
+        },
+        {
+          "snippet": "(RNN) – Police are battling as many as eight gunmen who have taken dozens of hostages in an upscale area in a diplomatic zone in Dhaka, Bangladesh’s capital.",
+          "author": "RNN Staff",
+          "guid": "http://www.walb.com/story/32356219/gunmen-take-hostages-in-bangladeshs-diplomatic-area",
+          "source": "WALB-TV - News",
+          "id": "HpYMdk/1467399450421512000",
+          "title": "Gunmen take hostages in Bangladesh's diplomatic area",
+          "lang": "en",
+          "headline": "Gunmen take hostages in Bangladesh's diplomatic area",
+          "images": [
+            {
+              "imageUrl": "http://raycomgroup.images.worldnow.com/images/10898498_G.jpg",
+              "imageHeight": 400,
+              "imageWidth": 700
+            }
+          ],
+          "injestedDate": null,
+          "url": "http://www.walb.com/story/32356219/gunmen-take-hostages-in-bangladeshs-diplomatic-area"
+        },
+        {
+          "snippet": "Armed attackers held as many as 20 hostages at a cafe in a diplomatic zone of Bangladesh's capital Friday.",
+          "author": "Farid Ahmed, Catherine E. Shoichet and Joe Sterling CNN",
+          "guid": "http://www.koco.com/national/gunmen-battle-police-in-diplomatic-area-of-dhaka-official-says/40314646",
+          "source": "ABC - KOCO 5 - Oklahoma City OK Entertainment, Columnists",
+          "id": "g6JI8F/1467399446160031000",
+          "title": "Dhaka shooting: Hostage situation as gunmen battle police",
+          "lang": "en",
+          "headline": "Dhaka shooting: Hostage situation as gunmen battle police",
+          "images": [
+            {
+              "imageUrl": "http://www.koco.com/image/view/-/40316494/highRes/2/-/maxh/630/maxw/1200/-/bn394qz/-/Dhaka-Bangladesh-jpg.jpg",
+              "imageHeight": 360,
+              "imageWidth": 640
+            },
+            {
+              "imageUrl": "http://www.koco.com/image/view/-/40316494/highRes/2/-/maxh/630/maxw/1200/-/bn394qz/-/Dhaka-Bangladesh-jpg.jpg",
+              "imageHeight": 360,
+              "imageWidth": 640
+            }
+          ],
+          "injestedDate": null,
+          "url": "http://www.koco.com/national/gunmen-battle-police-in-diplomatic-area-of-dhaka-official-says/40314646"
+        },
+        {
+          "snippet": "DHAKA, Bangladesh—A group of as many as nine gunmen attacked a restaurant popular with foreigners in a diplomatic zone of the Bangladeshi capital Friday night, taking hostages and exchanging gunfire with security forces, according to a restaurant staff member and local media reports.",
+          "author": null,
+          "guid": "http://www.nasdaq.com/article/attackers-take-hostages-at-bangladesh-restaurant-20160701-00566",
+          "source": "Dow Jones Business News (via NASDAQ) Market Headlines",
+          "id": "YqDIOl/1467399435078287000",
+          "title": "Attackers Take Hostages at Bangladesh Restaurant",
+          "lang": "en",
+          "headline": "Attackers Take Hostages at Bangladesh Restaurant",
+          "images": [],
+          "injestedDate": null,
+          "url": "http://www.nasdaq.com/article/attackers-take-hostages-at-bangladesh-restaurant-20160701-00566"
+        },
+        {
+          "snippet": "A fierce gunbattle broke out tonight between Bangladeshi security forces and unidentifed gunmen who stormed a popular restaurant in Dhaka's high-security Gulshan diplomatic area where several people, including foreigners, have been held hostage.",
+          "author": null,
+          "guid": "http://www.outlookindia.com/newswire/story/gunmen-storm-dhaka-restaurant-take-hostages-one-killed/945338",
+          "source": "Outlook International",
+          "id": "ZtmvNx/1467399424009448000",
+          "title": "Gunmen Storm Dhaka Restaurant, Take Hostages, One Killed",
+          "lang": "en",
+          "headline": "Gunmen Storm Dhaka Restaurant, Take Hostages, One Killed",
+          "images": [],
+          "injestedDate": null,
+          "url": "http://www.outlookindia.com/newswire/story/gunmen-storm-dhaka-restaurant-take-hostages-one-killed/945338"
+        }
+      ]
+    },
+    {
+      "_id": 748266153938698240,
+      "avgAccessTime": 1467389181952,
+      "title": "Triple suicide attack at Istanbul airport kills 41",
+      "magScore": 414,
+      "onoSources": [
+        "Iyze-3",
+        "3_PT8G"
+      ],
+      "facebookShares": 11559,
+      "facebookLikes": 51851,
+      "facebookComments": 11173,
+      "twitterRetweets": 0,
+      "linkCount": 178,
+      "numDocs": 1491,
+      "topicCreationTime": "2016-06-29T21:25:28.276Z",
+      "lastTopicActivityTime": "2016-07-01T18:43:52.363Z",
+      "heat": 0.3799476,
+      "numSources": 141,
+      "relatedEntity": [
+        {
+          "id": 3506146,
+          "score": 0.5582748651504517,
+          "name": "Atatürk International Airport"
+        },
+        {
+          "id": 3710405,
+          "score": 0.5698642730712891,
+          "name": "ISIS"
+        },
+        {
+          "id": 3807748,
+          "score": 0.7836127281188965,
+          "name": "Istanbul"
+        },
+        {
+          "id": 4065680,
+          "score": 0.6260544657707214,
+          "name": "Turkey"
+        }
+      ],
+      "relatedSubject": [
+        {
+          "id": 980522,
+          "score": 0.9893423914909363,
+          "name": "International News"
+        },
+        {
+          "id": 981523,
+          "score": 0.9958376288414001,
+          "name": "News"
+        },
+        {
+          "id": 981525,
+          "score": 0.9958376288414001,
+          "name": "News and Politics"
+        },
+        {
+          "id": 983543,
+          "score": 0.501591682434082,
+          "name": "Terrorism"
+        }
+      ],
+      "alphaDocs": [
+        {
+          "snippet": "Turkey�s state-run news agency reported that police have detained at least 22 people in connection to the terror attack on Ataturk Airport.",
+          "author": null,
+          "guid": "http://www.virtualjerusalem.com/news.php?Itemid=22508",
+          "source": "Virtual Jerusalem Front Page",
+          "id": "L4wxGe/1467398571711684000",
+          "title": "22 Arrested in Connection to Istanbul Airport Bombing",
+          "lang": "en",
+          "headline": "22 Arrested in Connection to Istanbul Airport Bombing",
+          "images": [],
+          "injestedDate": null,
+          "url": "http://www.virtualjerusalem.com/news.php?Itemid=22508"
+        },
+        {
+          "snippet": "ISTANBUL (AP) — The Latest on the bomb and gun attack that killed 44 people at Istanbul's Ataturk Airport (all times local):  A Tunisian town has buried a military doctor killed in this week's attack on Istanbul airport as he tried to extract his son from the grasp of the Islamic State group.",
+          "author": null,
+          "guid": "http://www.idahostatejournal.com/news/business/the-latest-tunisian-town-buries-doctor-killed-in-istanbul/article_c14b9907-cf71-5000-abba-bf546ce2a0c9.html",
+          "source": "Idaho State Journal - Pocatello ID News",
+          "id": "5jMwon/1467398528300590000",
+          "title": "The Latest: Tunisian town buries doctor killed in Istanbul",
+          "lang": "en",
+          "headline": "The Latest: Tunisian town buries doctor killed in Istanbul",
+          "images": [
+            {
+              "imageUrl": "http://bloximages.chicago2.vip.townnews.com/idahostatejournal.com/content/tncms/assets/v3/editorial/8/02/8024c0a2-c8c6-5248-9d80-0af74b271b68/5776afb9adc17.image.jpg?resize=512,360",
+              "imageHeight": 360,
+              "imageWidth": 512
+            }
+          ],
+          "injestedDate": null,
+          "url": "http://www.idahostatejournal.com/news/business/the-latest-tunisian-town-buries-doctor-killed-in-istanbul/article_c14b9907-cf71-5000-abba-bf546ce2a0c9.html"
+        },
+        {
+          "snippet": "Explosions rocked Turkey's largest airport Tuesday night, killing at least three dozen people and wounding scores more in what appeared to be a coordinated terror attack, officials said.",
+          "author": null,
+          "guid": "http://www.nbcconnecticut.com/news/national-international/2-Explosions-Rock-Istanbul-Airport-Official-384735111.html",
+          "source": "NBC Connecticut Locals Only. - West Hartford CT Watertown Search URL",
+          "id": "RC88un/1467398504528220000",
+          "title": "Dozens Killed in Explosions at Istanbul Airport: PM",
+          "lang": "en",
+          "headline": "Dozens Killed in Explosions at Istanbul Airport: PM",
+          "images": [
+            {
+              "imageUrl": "http://media.nbcconnecticut.com/images/1200*675/543494184-turkey-ataturk-airport-attack-.jpg",
+              "imageHeight": 675,
+              "imageWidth": 1200
+            },
+            {
+              "imageUrl": "http://media.nbcbayarea.com/images/ataturk-aiport-locator.jpg",
+              "imageHeight": 368,
+              "imageWidth": 654
+            }
+          ],
+          "injestedDate": null,
+          "url": "http://www.nbcconnecticut.com/news/national-international/2-Explosions-Rock-Istanbul-Airport-Official-384735111.html"
+        },
+        {
+          "snippet": "ISTANBUL (AP) — Attention focused Friday on whether a Chechen extremist known to be a top lieutenant in the Islamic State group was involved in the suicide attacks that killed 44 people at Istanbul's Ataturk Airport.",
+          "author": "DOMINIQUE SOGUEL and SUZAN FRASER",
+          "guid": "http://www.tribdem.com/news/attention-in-istanbul-bombing-focused-on-chechen-extremist/article_8c6cc5e6-9346-56de-9fdf-265e7b897434.html",
+          "source": "Tribune-Democrat - Johnstown PA Ebensburg Search URL",
+          "id": "5Ij6XM/1467398281843336000",
+          "title": "Attention in Istanbul bombing focused on Chechen extremist",
+          "lang": "en",
+          "headline": "Attention in Istanbul bombing focused on Chechen extremist",
+          "images": [
+            {
+              "imageUrl": "http://bloximages.chicago2.vip.townnews.com/tribdem.com/content/tncms/assets/v3/editorial/a/2e/a2ee3f1d-34de-50e7-8897-e5af2615251b/5776a7cd6dfe0.image.jpg?resize=512,351",
+              "imageHeight": 351,
+              "imageWidth": 512
+            }
+          ],
+          "injestedDate": null,
+          "url": "http://www.tribdem.com/news/attention-in-istanbul-bombing-focused-on-chechen-extremist/article_8c6cc5e6-9346-56de-9fdf-265e7b897434.html"
+        },
+        {
+          "snippet": "ISTANBUL (AP) — Attention focused Friday on whether a Chechen extremist known to be a top lieutenant in the Islamic State group was involved in the suicide attacks that killed 44 people at Istanbul's Ataturk Airport.",
+          "author": "KDWN",
+          "guid": "http://kdwn.com/2016/07/01/attention-in-istanbul-bombing-focused-on-chechen-extremist/",
+          "source": "FOX News - KDWN AM 720 - Las Vegas NV Front Page",
+          "id": "1Dpg2r/1467397878521821000",
+          "title": "Attention in Istanbul bombing focused on Chechen extremist",
+          "lang": "en",
+          "headline": "Attention in Istanbul bombing focused on Chechen extremist",
+          "images": [],
+          "injestedDate": null,
+          "url": "http://kdwn.com/2016/07/01/attention-in-istanbul-bombing-focused-on-chechen-extremist/"
+        }
+      ]
+    },
+    {
+      "_id": 748886947132108800,
+      "avgAccessTime": 1467388919808,
+      "title": "Jeremy Lin tweets that he’s heading to the Brooklyn Nets",
+      "magScore": 203.39999389648438,
+      "onoSources": [
+        "qkjDte"
+      ],
+      "facebookShares": 576,
+      "facebookLikes": 3678,
+      "facebookComments": 1067,
+      "twitterRetweets": 0,
+      "linkCount": 251,
+      "numDocs": 262,
+      "topicCreationTime": "2016-07-01T14:32:16.756Z",
+      "lastTopicActivityTime": "2016-07-01T18:39:35.310Z",
+      "heat": 0.37762025,
+      "numSources": 243,
+      "relatedEntity": [
+        {
+          "id": 3019964,
+          "score": 0.5359312295913696,
+          "name": "New York Knicks"
+        },
+        {
+          "id": 3046688,
+          "score": 0.9611866474151611,
+          "name": "Jeremy Lin"
+        },
+        {
+          "id": 3465093,
+          "score": 0.8357911705970764,
+          "name": "Brooklyn Nets"
+        },
+        {
+          "id": 3690358,
+          "score": 0.9621645212173462,
+          "name": "National Basketball Association"
+        }
+      ],
+      "relatedSubject": [
+        {
+          "id": 977977,
+          "score": 0.9640830159187317,
+          "name": "Basketball"
+        },
+        {
+          "id": 983141,
+          "score": 1,
+          "name": "Sports"
+        },
+        {
+          "id": 6380687,
+          "score": 0.9495189189910889,
+          "name": "Sports Celebrities"
+        },
+        {
+          "id": 6380688,
+          "score": 0.9495189189910889,
+          "name": "Asian Sports Celebrities"
+        }
+      ],
+      "alphaDocs": [
+        {
+          "snippet": "NEW YORK (AP) — Jeremy Lin is heading back to New York.",
+          "author": null,
+          "guid": "http://wnct.com/ap/jeremy-lin-tweets-that-hes-heading-to-the-brooklyn-nets/",
+          "source": "WNCT - Sports",
+          "id": "Kik1pN/1467398373937061000",
+          "title": "Jeremy Lin tweets that he’s heading to the Brooklyn Nets",
+          "lang": "en",
+          "headline": "Jeremy Lin tweets that he’s heading to the Brooklyn Nets",
+          "images": [
+            {
+              "imageUrl": "http://1.gravatar.com/blavatar/b2e0af342a4f2f7f3a307dc65779d046?s=200&amp;ts=1467384560",
+              "imageHeight": 200,
+              "imageWidth": 200
+            }
+          ],
+          "injestedDate": null,
+          "url": "http://wnct.com/ap/jeremy-lin-tweets-that-hes-heading-to-the-brooklyn-nets/"
+        },
+        {
+          "snippet": "The Brooklyn Nets are hoping to be \"Linners\" in free agency.",
+          "author": "Brett Bodner",
+          "guid": "http://www.nydailynews.com/sports/basketball/best-linsanity-moments-jeremy-lin-breakout-season-article-1.2696038",
+          "source": "NYDN Rss Article only",
+          "id": "xC86kg/1467397814787272000",
+          "title": "Best 'Linsanity' moments from Jeremy Lin's breakout season",
+          "lang": "en",
+          "headline": "Best 'Linsanity' moments from Jeremy Lin's breakout season",
+          "images": [
+            {
+              "imageUrl": "http://assets.nydailynews.com/polopoly_fs/1.2696034.1467392514!/img/httpImage/image.jpg_gen/derivatives/landscape_1200/heat-hornets-basketball.jpg",
+              "imageHeight": 630,
+              "imageWidth": 1200
+            },
+            {
+              "imageUrl": "http://assets.nydailynews.com/polopoly_fs/1.2696034.1467392514!/img/httpImage/image.jpg_gen/derivatives/article_750/heat-hornets-basketball.jpg",
+              "imageHeight": 551,
+              "imageWidth": 750
+            },
+            {
+              "imageUrl": "http://assets.nydailynews.com/polopoly_fs/1.2696036.1467392516!/img/httpImage/image.jpg_gen/derivatives/article_750/jazz-knicks-basketball.jpg",
+              "imageHeight": 663,
+              "imageWidth": 750
+            },
+            {
+              "imageUrl": "http://assets.nydailynews.com/polopoly_fs/1.2696035.1467392515!/img/httpImage/image.jpg_gen/derivatives/article_750/138532483.jpg",
+              "imageHeight": 500,
+              "imageWidth": 750
+            },
+            {
+              "imageUrl": "http://assets.nydailynews.com/polopoly_fs/1.2696033.1467392514!/img/httpImage/image.jpg_gen/derivatives/article_750/lakers-knicks-basketball.jpg",
+              "imageHeight": 571,
+              "imageWidth": 750
+            }
+          ],
+          "injestedDate": null,
+          "url": "http://www.nydailynews.com/sports/basketball/best-linsanity-moments-jeremy-lin-breakout-season-article-1.2696038"
+        },
+        {
+          "snippet": "Get ready for Linsanity 2.0, the outer borough version.",
+          "author": "Stefan Bondy",
+          "guid": "http://www.nydailynews.com/sports/basketball/nets/linsanity-brooklyn-jeremy-agrees-nets-deal-article-1.2695759",
+          "source": "NYDN Rss Article only",
+          "id": "xC86kg/1467397814775378000",
+          "title": "Linsanity comes to Brooklyn as Jeremy agrees to Nets deal",
+          "lang": "en",
+          "headline": "Linsanity comes to Brooklyn as Jeremy agrees to Nets deal",
+          "images": [
+            {
+              "imageUrl": "http://assets.nydailynews.com/polopoly_fs/1.2548773.1456847936!/img/httpImage/image.jpg_gen/derivatives/landscape_1200/497588718.jpg",
+              "imageHeight": 630,
+              "imageWidth": 1200
+            },
+            {
+              "imageUrl": "http://assets.nydailynews.com/polopoly_fs/1.2548773.1456847936!/img/httpImage/image.jpg_gen/derivatives/article_750/497588718.jpg",
+              "imageHeight": 594,
+              "imageWidth": 750
+            },
+            {
+              "imageUrl": "http://static1.nydailynews.com/polopoly_fs/1.2691636.1467300158!/img/httpImage/image.jpg_gen/derivatives/landscape_635_424/1-lebron-james.jpg",
+              "imageHeight": 424,
+              "imageWidth": 635
+            }
+          ],
+          "injestedDate": null,
+          "url": "http://www.nydailynews.com/sports/basketball/nets/linsanity-brooklyn-jeremy-agrees-nets-deal-article-1.2695759"
+        },
+        {
+          "snippet": "In a deal that gives him a player option on the third year of a three year, $36 million contract, former Knick Jeremy Lin will take the floor of the Barclays Center as a Brooklyn Net in 2016-17.",
+          "author": null,
+          "guid": "http://www.vladtv.com/article/218940/jeremy-lin-comes-back-to-ny-gets-36m-from-brooklyn-nets?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+VladtvVideoList+%28VladTV+Video+List%29",
+          "source": "VladTV.com Video / Blog List",
+          "id": "2wfQLi/1467397709039231000",
+          "title": "Jeremy Lin Comes Back to NY, Gets $36M from Brooklyn Nets",
+          "lang": "en",
+          "headline": "Jeremy Lin Comes Back to NY, Gets $36M from Brooklyn Nets",
+          "images": [
+            {
+              "imageUrl": "http://www.vladtv.com/images/size_fs/video-218940.jpg",
+              "imageHeight": 395,
+              "imageWidth": 706
+            }
+          ],
+          "injestedDate": null,
+          "url": "http://www.vladtv.com/article/218940/jeremy-lin-comes-back-to-ny-gets-36m-from-brooklyn-nets?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+VladtvVideoList+%28VladTV+Video+List%29"
+        },
+        {
+          "snippet": "NEW YORK (AP) — Jeremy Lin is heading back to the city where \"Linsanity\" was born.",
+          "author": null,
+          "guid": "http://www.appeal-democrat.com/sports/national/basketball/jeremy-lin-tweets-that-he-s-heading-to-the-brooklyn/article_8a4d439a-a639-53aa-a980-81fb4868fc7f.html",
+          "source": "Appeal-Democrat - sports,sports/",
+          "id": "-yA-Ew/1467397708943230000",
+          "title": "Jeremy Lin tweets that he's heading to the Brooklyn Nets",
+          "lang": "en",
+          "headline": "Jeremy Lin tweets that he's heading to the Brooklyn Nets",
+          "images": [],
+          "injestedDate": null,
+          "url": "http://www.appeal-democrat.com/sports/national/basketball/jeremy-lin-tweets-that-he-s-heading-to-the-brooklyn/article_8a4d439a-a639-53aa-a980-81fb4868fc7f.html"
+        }
+      ]
+    },
+    {
+      "_id": 748684314924204032,
+      "avgAccessTime": 1467388657664,
+      "title": "COOS HEAD FOOD - Ad from 2016-06-28",
+      "magScore": 226.89999389648438,
+      "onoSources": [
+        "dSbJ6i",
+        "rYsa5h"
+      ],
+      "facebookShares": 13,
+      "facebookLikes": 178,
+      "facebookComments": 19,
+      "twitterRetweets": 0,
+      "linkCount": 227,
+      "numDocs": 815,
+      "topicCreationTime": "2016-07-01T01:07:05.750Z",
+      "lastTopicActivityTime": "2016-07-01T18:58:09.446Z",
+      "heat": 0.3753715,
+      "numSources": 97,
+      "relatedEntity": [],
+      "relatedSubject": [
+        {
+          "id": 981465,
+          "score": 0.9540228843688965,
+          "name": "U.S. News"
+        },
+        {
+          "id": 981523,
+          "score": 0.9540228843688965,
+          "name": "News"
+        },
+        {
+          "id": 981525,
+          "score": 0.9540228843688965,
+          "name": "News and Politics"
+        },
+        {
+          "id": 982665,
+          "score": 0.5725731253623962,
+          "name": "Science and Technology"
+        }
+      ],
+      "alphaDocs": [
+        {
+          "snippet": "Baltimore, MD — Just as predicted, much of Maryland is now under a severe thunderstorm watch until 10 p.m. Friday, says the National Weather Service.",
+          "author": "Deb Belt (Patch Staff)",
+          "guid": "http://patch.com/maryland/edgewater/weather-alert-severe-thunderstorms-likely-across-maryland?utm_source=article-mostrecent&utm_medium=rss&utm_term=outdoors&utm_campaign=recirc&utm_content=aol",
+          "source": "Edgewater-davidsonville Patch",
+          "id": "PKiKZS/1467398926206515000",
+          "title": "Weather Alert: Severe Thunderstorms Likely Across Maryland",
+          "lang": "en",
+          "headline": "Weather Alert: Severe Thunderstorms Likely Across Maryland",
+          "images": [
+            {
+              "imageUrl": "http://cdn20.patch.com/users/714975/20160701/022225/styles/T800x600/public/article_images/storms_0.jpg",
+              "imageHeight": 600,
+              "imageWidth": 800
+            },
+            {
+              "imageUrl": "http://cdn20.patch.com/users/714975/20160701/022225/styles/T800x600/public/article_images/storms_0.jpg",
+              "imageHeight": 600,
+              "imageWidth": 800
+            }
+          ],
+          "injestedDate": null,
+          "url": "http://patch.com/maryland/edgewater/weather-alert-severe-thunderstorms-likely-across-maryland?utm_source=article-mostrecent&utm_medium=rss&utm_term=outdoors&utm_campaign=recirc&utm_content=aol"
+        },
+        {
+          "snippet": "Baltimore, MD — Just as predicted, much of Maryland is now under a severe thunderstorm watch until 10 p.m. Friday, says the National Weather Service.",
+          "author": "Deb Belt (Patch Staff)",
+          "guid": "http://patch.com/maryland/laurel/s/ft2ck/weather-alert-severe-thunderstorms-likely-across-maryland?utm_source=article-mostrecent&utm_medium=rss&utm_term=outdoors&utm_campaign=recirc&utm_content=aol",
+          "source": "Laurel Patch",
+          "id": "GV-t3F/1467398890254399000",
+          "title": "Weather Alert: Severe Thunderstorms Likely Across Maryland",
+          "lang": "en",
+          "headline": "Weather Alert: Severe Thunderstorms Likely Across Maryland",
+          "images": [
+            {
+              "imageUrl": "http://cdn20.patch.com/users/714975/20160701/022225/styles/T800x600/public/article_images/storms_0.jpg",
+              "imageHeight": 600,
+              "imageWidth": 800
+            },
+            {
+              "imageUrl": "http://cdn20.patch.com/users/714975/20160701/022225/styles/T800x600/public/article_images/storms_0.jpg",
+              "imageHeight": 600,
+              "imageWidth": 800
+            }
+          ],
+          "injestedDate": null,
+          "url": "http://patch.com/maryland/laurel/s/ft2ck/weather-alert-severe-thunderstorms-likely-across-maryland?utm_source=article-mostrecent&utm_medium=rss&utm_term=outdoors&utm_campaign=recirc&utm_content=aol"
+        },
+        {
+          "snippet": "Baltimore, MD — Just as predicted, much of Maryland is now under a severe thunderstorm watch until 10 p.m. Friday, says the National Weather Service.",
+          "author": "Deb Belt (Patch Staff)",
+          "guid": "http://patch.com/maryland/timonium/s/ft2ck/weather-alert-severe-thunderstorms-likely-across-maryland?utm_source=article-mostrecent&utm_medium=rss&utm_term=outdoors&utm_campaign=recirc&utm_content=aol",
+          "source": "Lutherville-timonium Patch",
+          "id": "JfpnGG/1467398835618298000",
+          "title": "Weather Alert: Severe Thunderstorms Likely Across Maryland",
+          "lang": "en",
+          "headline": "Weather Alert: Severe Thunderstorms Likely Across Maryland",
+          "images": [
+            {
+              "imageUrl": "http://cdn20.patch.com/users/714975/20160701/022225/styles/T800x600/public/article_images/storms_0.jpg",
+              "imageHeight": 600,
+              "imageWidth": 800
+            },
+            {
+              "imageUrl": "http://cdn20.patch.com/users/714975/20160701/022225/styles/T800x600/public/article_images/storms_0.jpg",
+              "imageHeight": 600,
+              "imageWidth": 800
+            }
+          ],
+          "injestedDate": null,
+          "url": "http://patch.com/maryland/timonium/s/ft2ck/weather-alert-severe-thunderstorms-likely-across-maryland?utm_source=article-mostrecent&utm_medium=rss&utm_term=outdoors&utm_campaign=recirc&utm_content=aol"
+        },
+        {
+          "snippet": "Baltimore, MD — Just as predicted, much of Maryland is now under a severe thunderstorm watch until 10 p.m. Friday, says the National Weather Service.",
+          "author": "Deb Belt (Patch Staff)",
+          "guid": "http://patch.com/maryland/columbia/s/ft2ck/weather-alert-severe-thunderstorms-likely-across-maryland?utm_source=article-mostrecent&utm_medium=rss&utm_term=outdoors&utm_campaign=recirc&utm_content=aol",
+          "source": "Columbia Patch",
+          "id": "PCGcFN/1467398791880305000",
+          "title": "Weather Alert: Severe Thunderstorms Likely Across Maryland",
+          "lang": "en",
+          "headline": "Weather Alert: Severe Thunderstorms Likely Across Maryland",
+          "images": [
+            {
+              "imageUrl": "http://cdn20.patch.com/users/714975/20160701/022225/styles/T800x600/public/article_images/storms_0.jpg",
+              "imageHeight": 600,
+              "imageWidth": 800
+            },
+            {
+              "imageUrl": "http://cdn20.patch.com/users/714975/20160701/022225/styles/T800x600/public/article_images/storms_0.jpg",
+              "imageHeight": 600,
+              "imageWidth": 800
+            }
+          ],
+          "injestedDate": null,
+          "url": "http://patch.com/maryland/columbia/s/ft2ck/weather-alert-severe-thunderstorms-likely-across-maryland?utm_source=article-mostrecent&utm_medium=rss&utm_term=outdoors&utm_campaign=recirc&utm_content=aol"
+        },
+        {
+          "snippet": "Baltimore, MD — Just as predicted, much of Maryland is now under a severe thunderstorm watch until 10 p.m. Friday, says the National Weather Service.",
+          "author": "Deb Belt (Patch Staff)",
+          "guid": "http://patch.com/maryland/takomapark/s/ft2ck/weather-alert-severe-thunderstorms-likely-across-maryland?utm_source=article-mostrecent&utm_medium=rss&utm_term=outdoors&utm_campaign=recirc&utm_content=aol",
+          "source": "Takoma Park Patch",
+          "id": "E5QMkP/1467398780910049000",
+          "title": "Weather Alert: Severe Thunderstorms Likely Across Maryland",
+          "lang": "en",
+          "headline": "Weather Alert: Severe Thunderstorms Likely Across Maryland",
+          "images": [
+            {
+              "imageUrl": "http://cdn20.patch.com/users/714975/20160701/022225/styles/T800x600/public/article_images/storms_0.jpg",
+              "imageHeight": 600,
+              "imageWidth": 800
+            },
+            {
+              "imageUrl": "http://cdn20.patch.com/users/714975/20160701/022225/styles/T800x600/public/article_images/storms_0.jpg",
+              "imageHeight": 600,
+              "imageWidth": 800
+            }
+          ],
+          "injestedDate": null,
+          "url": "http://patch.com/maryland/takomapark/s/ft2ck/weather-alert-severe-thunderstorms-likely-across-maryland?utm_source=article-mostrecent&utm_medium=rss&utm_term=outdoors&utm_campaign=recirc&utm_content=aol"
+        }
+      ]
+    },
+    {
+      "_id": 748609119706333184,
+      "avgAccessTime": 1467387609088,
+      "title": "Tesla driver killed in crash while using car’s ‘Autopilot’",
+      "magScore": 922.7999877929688,
+      "onoSources": [
+        "-eG2M5",
+        "KnPzhI",
+        "3_PT8G",
+        "-rldSp",
+        "SGHaqu",
+        "7mdkz3"
+      ],
+      "facebookShares": 3458,
+      "facebookLikes": 11699,
+      "facebookComments": 3964,
+      "twitterRetweets": 0,
+      "linkCount": 1460,
+      "numDocs": 1662,
+      "topicCreationTime": "2016-06-30T20:08:17.437Z",
+      "lastTopicActivityTime": "2016-07-01T18:57:04.787Z",
+      "heat": 0.36707878,
+      "numSources": 917,
+      "relatedEntity": [
+        {
+          "id": 3891056,
+          "score": 0.698840320110321,
+          "name": "Tesla Motors"
+        },
+        {
+          "id": 4129601,
+          "score": 0.6662512421607971,
+          "name": "Tesla Model S"
+        },
+        {
+          "id": 4967593,
+          "score": 0.5121334791183472,
+          "name": "Model S"
+        }
+      ],
+      "relatedSubject": [
+        {
+          "id": 977884,
+          "score": 0.7989981174468994,
+          "name": "Autos"
+        },
+        {
+          "id": 981523,
+          "score": 0.6265776753425598,
+          "name": "News"
+        },
+        {
+          "id": 981525,
+          "score": 0.6287105083465576,
+          "name": "News and Politics"
+        },
+        {
+          "id": 982665,
+          "score": 0.7942622900009155,
+          "name": "Science and Technology"
+        },
+        {
+          "id": 983689,
+          "score": 0.7989981174468994,
+          "name": "Transportation"
+        },
+        {
+          "id": 5160613,
+          "score": 0.7801992297172546,
+          "name": "Auto Safety"
+        }
+      ],
+      "alphaDocs": [
+        {
+          "snippet": "WASHINGTON (AP) — A driver with a history of speeding who was so enamored of his Tesla Model S sedan that he nicknamed the car \"Tessy\" and praised the safety benefits of its sophisticated \"Autopilot\" system has become the first U.S. fatality in a wreck involving a car in self-driving mode.",
+          "author": null,
+          "guid": "http://www.shorelinemedia.net/ludington_daily_news/news/state/death-sparks-autopilot-car-probe-man-had-speeding-tickets/article_e3e327e9-2f01-5e89-995f-e26233245fe2.html",
+          "source": "Ludington Daily News - Ludington MI Sports",
+          "id": "PdJM3W/1467399478221933000",
+          "title": "Death sparks 'Autopilot' car probe; man had speeding tickets",
+          "lang": "en",
+          "headline": "Death sparks 'Autopilot' car probe; man had speeding tickets",
+          "images": [
+            {
+              "imageUrl": "http://bloximages.chicago2.vip.townnews.com/shorelinemedia.net/content/tncms/assets/v3/editorial/0/21/021b8f74-3d2c-51ab-80cd-99749465477f/5775a9ce408ed.image.jpg?resize=512,341",
+              "imageHeight": 341,
+              "imageWidth": 512
+            }
+          ],
+          "injestedDate": null,
+          "url": "http://www.shorelinemedia.net/ludington_daily_news/news/state/death-sparks-autopilot-car-probe-man-had-speeding-tickets/article_e3e327e9-2f01-5e89-995f-e26233245fe2.html"
+        },
+        {
+          "snippet": "WASHINGTON (AP) — The first person to die in a U.S. crash involving a car in self-driving mode was the tech-savvy 40-year-old owner of a Tesla Model S who nicknamed his car “Tessy” and praised its sophisticated “Autopilot” system.",
+          "author": null,
+          "guid": "http://wnct.com/2016/07/01/tesla-driver-killed-in-crash-while-using-cars-autopilot/",
+          "source": "CBS - Eyewitness News 9 - Greenville NC Movies",
+          "id": "avEZHQ/1467399424254285000",
+          "title": "Tesla driver killed in crash while using car’s ‘Autopilot’",
+          "lang": "en",
+          "headline": "Tesla driver killed in crash while using car’s ‘Autopilot’",
+          "images": [
+            {
+              "imageUrl": "https://mgtvwnct.files.wordpress.com/2015/11/3fb71016281f4934880f6a7067005139s3keypreview.jpg",
+              "imageHeight": 345,
+              "imageWidth": 512
+            },
+            {
+              "imageUrl": "https://mgtvwnct.files.wordpress.com/2015/11/3fb71016281f4934880f6a7067005139s3keypreview.jpg?w=512",
+              "imageHeight": 345,
+              "imageWidth": 512
+            },
+            {
+              "imageUrl": "https://mgtvwnct.files.wordpress.com/2016/06/housing.jpg?w=151&amp;h=85&amp;crop=1",
+              "imageHeight": 100,
+              "imageWidth": 151
+            },
+            {
+              "imageUrl": "https://mgtvwnct.files.wordpress.com/2016/05/across-nc5.jpg?w=151&amp;h=85&amp;crop=1",
+              "imageHeight": 85,
+              "imageWidth": 151
+            },
+            {
+              "imageUrl": "https://mgtvwnct.files.wordpress.com/2016/05/deadly-accident.jpg?w=151&amp;h=85&amp;crop=1",
+              "imageHeight": 85,
+              "imageWidth": 151
+            },
+            {
+              "imageUrl": "https://mgtvwnct.files.wordpress.com/2016/06/wayne-county-missing-person.jpg?w=151&amp;h=85&amp;crop=1",
+              "imageHeight": 240,
+              "imageWidth": 151
+            }
+          ],
+          "injestedDate": null,
+          "url": "http://wnct.com/2016/07/01/tesla-driver-killed-in-crash-while-using-cars-autopilot/"
+        },
+        {
+          "snippet": "WASHINGTON (AP) - The Latest on the first reported death of a motorist using self-driving technology (all times local):  Neighbors of an Ohio man killed while operating a self-driving car say he bought the Tesla Model S within the past year and loved showing it off.",
+          "author": null,
+          "guid": "http://www.wfmj.com/story/32352614/the-latest-friends-remember-man-dead-in-driverless-crash",
+          "source": "NBC - NBC 21 WFMJ - Youngstown OH News",
+          "id": "TKofJJ/1467399358767497000",
+          "title": "The Latest: Friends remember man dead in driverless crash",
+          "lang": "en",
+          "headline": "The Latest: Friends remember man dead in driverless crash",
+          "images": [
+            {
+              "imageUrl": "http://images.worldnow.com/AP/images/10895486_G.jpg",
+              "imageHeight": 341,
+              "imageWidth": 512
+            }
+          ],
+          "injestedDate": null,
+          "url": "http://www.wfmj.com/story/32352614/the-latest-friends-remember-man-dead-in-driverless-crash"
+        },
+        {
+          "snippet": "By Amy Tennery                July 1 (Reuters) - A sleeping driver and a terrified granny are among the many people who appear in popular YouTube videos using the Tesla Autopilot technology - and not always using the system as intended.",
+          "author": null,
+          "guid": "tag:reuters.com,0000:newsml_L1N19N17C",
+          "source": "Reuters - Text",
+          "id": "reutst/1467399287041271000",
+          "title": "Sleeping driver, terrified granny among Tesla Autopilot users on YouTube",
+          "lang": "en",
+          "headline": "Sleeping driver, terrified granny among Tesla Autopilot users on YouTube",
+          "images": [],
+          "injestedDate": null,
+          "url": null
+        },
+        {
+          "snippet": "WASHINGTON (AP) — The first person to die in a U.S. crash involving a car in self-driving mode was the tech-savvy 40-year-old owner of a Tesla Model S who nicknamed his car “Tessy” and praised its sophisticated “Autopilot” system.",
+          "author": null,
+          "guid": "http://wnct.com/2016/07/01/tesla-driver-killed-in-crash-while-using-cars-autopilot/",
+          "source": "WNCT - Sports",
+          "id": "Kik1pN/1467399276282068000",
+          "title": "Tesla driver killed in crash while using car’s ‘Autopilot’",
+          "lang": "en",
+          "headline": "Tesla driver killed in crash while using car’s ‘Autopilot’",
+          "images": [
+            {
+              "imageUrl": "https://mgtvwnct.files.wordpress.com/2015/11/3fb71016281f4934880f6a7067005139s3keypreview.jpg",
+              "imageHeight": 345,
+              "imageWidth": 512
+            },
+            {
+              "imageUrl": "https://mgtvwnct.files.wordpress.com/2015/11/3fb71016281f4934880f6a7067005139s3keypreview.jpg?w=512",
+              "imageHeight": 345,
+              "imageWidth": 512
+            },
+            {
+              "imageUrl": "https://mgtvwnct.files.wordpress.com/2016/06/housing.jpg?w=151&amp;h=85&amp;crop=1",
+              "imageHeight": 100,
+              "imageWidth": 151
+            },
+            {
+              "imageUrl": "https://mgtvwnct.files.wordpress.com/2016/05/across-nc5.jpg?w=151&amp;h=85&amp;crop=1",
+              "imageHeight": 85,
+              "imageWidth": 151
+            },
+            {
+              "imageUrl": "https://mgtvwnct.files.wordpress.com/2016/05/deadly-accident.jpg?w=151&amp;h=85&amp;crop=1",
+              "imageHeight": 85,
+              "imageWidth": 151
+            },
+            {
+              "imageUrl": "https://mgtvwnct.files.wordpress.com/2016/06/wayne-county-missing-person.jpg?w=151&amp;h=85&amp;crop=1",
+              "imageHeight": 240,
+              "imageWidth": 151
+            }
+          ],
+          "injestedDate": null,
+          "url": "http://wnct.com/2016/07/01/tesla-driver-killed-in-crash-while-using-cars-autopilot/"
+        }
+      ]
+    },
+    {
+      "_id": 748768033660923904,
+      "avgAccessTime": 1467385643008,
+      "title": "UK shelves balanced budget goal as Brexit vote roils economy",
+      "magScore": 372.20001220703125,
+      "onoSources": [
+        "oebZir"
+      ],
+      "facebookShares": 3350,
+      "facebookLikes": 5293,
+      "facebookComments": 2788,
+      "twitterRetweets": 0,
+      "linkCount": 503,
+      "numDocs": 879,
+      "topicCreationTime": "2016-07-01T06:39:45.578Z",
+      "lastTopicActivityTime": "2016-07-01T18:40:01.156Z",
+      "heat": 0.3539695,
+      "numSources": 297,
+      "relatedEntity": [
+        {
+          "id": 3580360,
+          "score": 0.7699496746063232,
+          "name": "Michael Gove"
+        },
+        {
+          "id": 4161435,
+          "score": 0.672184944152832,
+          "name": "Boris Johnson"
+        }
+      ],
+      "relatedSubject": [
+        {
+          "id": 980522,
+          "score": 0.9383261203765869,
+          "name": "International News"
+        },
+        {
+          "id": 981523,
+          "score": 0.9515417218208313,
+          "name": "News"
+        },
+        {
+          "id": 981525,
+          "score": 0.9515417218208313,
+          "name": "News and Politics"
+        }
+      ],
+      "alphaDocs": [
+        {
+          "snippet": "LONDON (AP) — Britain's Treasury chief on Friday abandoned the government's long-held goal of balancing the nation's books by 2020, warning that the country's vote to leave the European Union had sent shock waves and instability through the U.K. economy.",
+          "author": "JILL LAWLESS",
+          "guid": "http://columbustelegram.com/news/world/uk-shelves-balanced-budget-goal-as-brexit-vote-roils-economy/article_2debec9f-dfd3-514c-b077-ee4d845c8e69.html",
+          "source": "http://www.columbustelegram.com/search/?f=rss&t=article&c=news*&l=25&s=start_time&sd=desc",
+          "id": "3g7oLQ/1467398400489051000",
+          "title": "UK shelves balanced budget goal as Brexit vote roils economy",
+          "lang": "en",
+          "headline": "UK shelves balanced budget goal as Brexit vote roils economy",
+          "images": [
+            {
+              "imageUrl": "http://bloximages.chicago2.vip.townnews.com/columbustelegram.com/content/tncms/assets/v3/editorial/2/de/2debec9f-dfd3-514c-b077-ee4d845c8e69/5776a3539692e.preview.jpg?resize=512,360",
+              "imageHeight": 360,
+              "imageWidth": 512
+            }
+          ],
+          "injestedDate": null,
+          "url": "http://columbustelegram.com/news/world/uk-shelves-balanced-budget-goal-as-brexit-vote-roils-economy/article_2debec9f-dfd3-514c-b077-ee4d845c8e69.html"
+        },
+        {
+          "snippet": "LONDON (AP) — Justice Secretary Michael Gove argued Friday that he should be Britain's next leader because he is passionately committed to leaving the European Union — but said he would not trigger EU exit talks this year if he becomes prime minister.",
+          "author": null,
+          "guid": "http://www.beloitdailynews.com/news/world/british-pm-hopeful-gove-says-no-eu-exit-talks-this/article_7ef6b329-edb9-5bdd-80bf-1b96c89ad4ca.html",
+          "source": "Beloit Daily News - Beloit WI Business",
+          "id": "ETFBMY/1467397466624847000",
+          "title": "British PM hopeful Gove says no EU exit talks this year",
+          "lang": "en",
+          "headline": "British PM hopeful Gove says no EU exit talks this year",
+          "images": [
+            {
+              "imageUrl": "http://bloximages.chicago2.vip.townnews.com/beloitdailynews.com/content/tncms/assets/v3/editorial/e/0a/e0aa8a84-51e6-51dc-a758-9f3072aa11d9/57765b8109570.image.jpg?resize=512,319",
+              "imageHeight": 319,
+              "imageWidth": 512
+            }
+          ],
+          "injestedDate": null,
+          "url": "http://www.beloitdailynews.com/news/world/british-pm-hopeful-gove-says-no-eu-exit-talks-this/article_7ef6b329-edb9-5bdd-80bf-1b96c89ad4ca.html"
+        },
+        {
+          "snippet": "LONDON (AP) — Political healing after Britain's vote to leave the European Union seemed a distant prospect Friday, as Justice Secretary Michael Gove ramped up his Conservative leadership bid, and a senior colleague called for him to step aside.",
+          "author": null,
+          "guid": "http://www.beloitdailynews.com/news/world/justice-secretary-gove-to-spell-out-post-brexit-plans/article_7ef6b329-edb9-5bdd-80bf-1b96c89ad4ca.html",
+          "source": "Beloit Daily News - Beloit WI Business",
+          "id": "ETFBMY/1467397466542692000",
+          "title": "Justice Secretary Gove to spell out post-Brexit plans",
+          "lang": "en",
+          "headline": "Justice Secretary Gove to spell out post-Brexit plans",
+          "images": [
+            {
+              "imageUrl": "http://bloximages.chicago2.vip.townnews.com/beloitdailynews.com/content/tncms/assets/v3/editorial/c/b5/cb5eb417-9ba5-5297-8141-089a3ac9cd3a/5776320c42f79.image.jpg?resize=512,224",
+              "imageHeight": 224,
+              "imageWidth": 512
+            }
+          ],
+          "injestedDate": null,
+          "url": "http://www.beloitdailynews.com/news/world/justice-secretary-gove-to-spell-out-post-brexit-plans/article_7ef6b329-edb9-5bdd-80bf-1b96c89ad4ca.html"
+        },
+        {
+          "snippet": "LONDON (AP) — Britain's Treasury chief on Friday abandoned the government's long-held goal of balancing the nation's books by 2020, warning that the country's vote to leave the European Union had sent shock waves and instability through the U.K. economy.",
+          "author": "JILL LAWLESS",
+          "guid": "http://trib.com/news/world/uk-shelves-balanced-budget-goal-as-brexit-vote-roils-economy/article_7e7bf878-0137-551c-886b-27b24e5f2abc.html",
+          "source": "Search Results - Casper Star-Tribune Online",
+          "id": "c5C7VI/1467397189217050000",
+          "title": "UK shelves balanced budget goal as Brexit vote roils economy",
+          "lang": "en",
+          "headline": "UK shelves balanced budget goal as Brexit vote roils economy",
+          "images": [
+            {
+              "imageUrl": "http://bloximages.chicago2.vip.townnews.com/trib.com/content/tncms/assets/v3/editorial/7/e7/7e7bf878-0137-551c-886b-27b24e5f2abc/5776a30fb5e08.preview.jpg?crop=512,288,0,35&amp;resize=512,288&amp;order=crop,resize",
+              "imageHeight": 288,
+              "imageWidth": 512
+            }
+          ],
+          "injestedDate": null,
+          "url": "http://trib.com/news/world/uk-shelves-balanced-budget-goal-as-brexit-vote-roils-economy/article_7e7bf878-0137-551c-886b-27b24e5f2abc.html"
+        },
+        {
+          "snippet": "LONDON (AP) — Britain's Treasury chief on Friday abandoned the government's long-held goal of balancing the nation's books by 2020, warning that the country's vote to leave the European Union had sent shock waves and instability through the U.K. economy.",
+          "author": "JILL LAWLESS",
+          "guid": "http://www.winonadailynews.com/news/world/uk-shelves-balanced-budget-goal-as-brexit-vote-roils-economy/article_0ccfa24c-01e8-5293-8ff5-53e8880060b9.html",
+          "source": "Search Results - Winona Daily News",
+          "id": "NZNPa4/1467397010146467000",
+          "title": "UK shelves balanced budget goal as Brexit vote roils economy",
+          "lang": "en",
+          "headline": "UK shelves balanced budget goal as Brexit vote roils economy",
+          "images": [
+            {
+              "imageUrl": "http://bloximages.chicago2.vip.townnews.com/winonadailynews.com/content/tncms/assets/v3/editorial/0/cc/0ccfa24c-01e8-5293-8ff5-53e8880060b9/5776a1a7bad4c.preview.jpg?crop=512,288,0,35&amp;resize=512,288&amp;order=crop,resize",
+              "imageHeight": 288,
+              "imageWidth": 512
+            }
+          ],
+          "injestedDate": null,
+          "url": "http://www.winonadailynews.com/news/world/uk-shelves-balanced-budget-goal-as-brexit-vote-roils-economy/article_0ccfa24c-01e8-5293-8ff5-53e8880060b9.html"
+        }
+      ]
+    },
+    {
+      "_id": 748224278242443264,
+      "avgAccessTime": 1467380269056,
+      "title": "Loretta Lynch to accept DOJ, FBI recommendations on Clinton emails",
+      "magScore": 356.70001220703125,
+      "onoSources": [
+        "KnPzhI",
+        "pXpP1X",
+        "n3GSrD",
+        "3_PT8G"
+      ],
+      "facebookShares": 5238,
+      "facebookLikes": 11399,
+      "facebookComments": 10458,
+      "twitterRetweets": 0,
+      "linkCount": 313,
+      "numDocs": 875,
+      "topicCreationTime": "2016-06-29T18:39:04.114Z",
+      "lastTopicActivityTime": "2016-07-01T18:18:07.189Z",
+      "heat": 0.32839125,
+      "numSources": 245,
+      "relatedEntity": [
+        {
+          "id": 3448200,
+          "score": 0.8895260691642761,
+          "name": "Bill Clinton"
+        },
+        {
+          "id": 3862709,
+          "score": 0.8394773602485657,
+          "name": "Hillary Rodham Clinton"
+        }
+      ],
+      "relatedSubject": [
+        {
+          "id": 981465,
+          "score": 0.9795919060707092,
+          "name": "U.S. News"
+        },
+        {
+          "id": 981523,
+          "score": 0.9795919060707092,
+          "name": "News"
+        },
+        {
+          "id": 981525,
+          "score": 0.9912636280059814,
+          "name": "News and Politics"
+        },
+        {
+          "id": 982065,
+          "score": 0.7226822376251221,
+          "name": "Politics"
+        },
+        {
+          "id": 4944926,
+          "score": 0.5282020568847656,
+          "name": "Democratic Politics"
+        },
+        {
+          "id": 6310529,
+          "score": 0.5742442607879639,
+          "name": "U.S. Politics"
+        },
+        {
+          "id": 6378649,
+          "score": 0.7512605786323547,
+          "name": "Law, Government and Politics"
+        }
+      ],
+      "alphaDocs": [
+        {
+          "snippet": "US attorney general Loretta Lynch spoke on Friday about her regrets regarding the conversation she had with Bill Clinton in Phoenix, Arizona.",
+          "author": "Guardian Staff",
+          "guid": "https://www.theguardian.com/us-news/video/2016/jul/01/lynch-bill-clinton-meeting-regret-video",
+          "source": "US news | The Guardian",
+          "id": "UNJLBL/1467397086909502000",
+          "title": "'I wouldn’t do it again,' says Loretta Lynch after Bill Clinton meeting – video",
+          "lang": "en",
+          "headline": "'I wouldn’t do it again,' says Loretta Lynch after Bill Clinton meeting – video",
+          "images": [
+            {
+              "imageUrl": "https://i.guim.co.uk/img/media/4cccf3726fb508a18543f8be976d232e8f3f915c/0_490_5107_3065/5107.jpg?w=140&q=55&auto=format&usm=12&fit=max&s=66bc86ba4308eb198eb71c32e81e7b0b",
+              "imageHeight": 0,
+              "imageWidth": 140
+            },
+            {
+              "imageUrl": "https://i.guim.co.uk/img/media/4cccf3726fb508a18543f8be976d232e8f3f915c/0_490_5107_3065/5107.jpg?w=460&q=55&auto=format&usm=12&fit=max&s=69349e7036fd1446dcd10a947da680b1",
+              "imageHeight": 0,
+              "imageWidth": 460
+            }
+          ],
+          "injestedDate": null,
+          "url": "https://www.theguardian.com/us-news/video/2016/jul/01/lynch-bill-clinton-meeting-regret-video"
+        },
+        {
+          "snippet": "WASHINGTON (AP) - Attorney General Loretta Lynch acknowledged Friday that her meeting with Bill Clinton while his wife is under federal investigation \"cast a shadow\" on the public's perception of a case playing heavily into the presidential campaign.",
+          "author": "ERIC TUCKER",
+          "guid": "http://www.walb.com/story/32353238/attorney-general-regrets-meeting-with-bill-clinton",
+          "source": "NBC - WALB News 10 - Albany GA Lifestyle, Technology",
+          "id": "o-Z4PQ/1467397010379657000",
+          "title": "Attorney general regrets meeting with Bill Clinton",
+          "lang": "en",
+          "headline": "Attorney general regrets meeting with Bill Clinton",
+          "images": [],
+          "injestedDate": null,
+          "url": "http://www.walb.com/story/32353238/attorney-general-regrets-meeting-with-bill-clinton"
+        },
+        {
+          "snippet": "WASHINGTON (AP) - Attorney General Loretta Lynch acknowledged Friday that her meeting with Bill Clinton while his wife is under federal investigation \"cast a shadow\" on the public's perception of a case playing heavily into the presidential campaign.",
+          "author": "ERIC TUCKER",
+          "guid": "http://www.wistv.com/story/32353238/attorney-general-regrets-meeting-with-bill-clinton",
+          "source": "NBC - WIS 10 - Columbia SC News, Political News",
+          "id": "i6MEGI/1467396942574767000",
+          "title": "Attorney general regrets meeting with Bill Clinton",
+          "lang": "en",
+          "headline": "Attorney general regrets meeting with Bill Clinton",
+          "images": [],
+          "injestedDate": null,
+          "url": "http://www.wistv.com/story/32353238/attorney-general-regrets-meeting-with-bill-clinton"
+        },
+        {
+          "snippet": "Attorney General Loretta Lynch says she \"fully expect(s) to accept\" recommendations from agents and prosecutors in the Clinton email investigation.",
+          "author": null,
+          "guid": "http://abc13.com/politics/loretta-lynch-i-fully-expect-to-accept-recommendations-in-clinton-case/1409574/",
+          "source": "abc13.com RSS Feed",
+          "id": "A-3-kq/1467396728745437000",
+          "title": "Loretta Lynch: \"I fully expect to accept\" recommendations in Clinton case",
+          "lang": "en",
+          "headline": "Loretta Lynch: \"I fully expect to accept\" recommendations in Clinton case",
+          "images": [
+            {
+              "imageUrl": "http://cdn.abclocal.go.com/content/wls/images/cms/automation/images/1403595_1280x720.jpg",
+              "imageHeight": 720,
+              "imageWidth": 1280
+            }
+          ],
+          "injestedDate": null,
+          "url": "http://abc13.com/politics/loretta-lynch-i-fully-expect-to-accept-recommendations-in-clinton-case/1409574/"
+        },
+        {
+          "snippet": "Attorney General Loretta Lynch will accept the \"determinations and findings\" of the FBI and career prosecutors who are investigating Hillary Clinton's use of a private email server while she was secretary of state, a Justice Department official said Friday.",
+          "author": "Pamela Brown and Tal Kopan CNN",
+          "guid": "http://www.kmbc.com/politics/lynch-to-accept-guidance-from-fbi-on-clinton-email-probe/40310210",
+          "source": "ABC - KMBC-TV - Kansas City MO Education",
+          "id": "Cb8ZUQ/1467396717854056000",
+          "title": "Lynch to accept DOJ, FBI recommendations on Clinton emails",
+          "lang": "en",
+          "headline": "Lynch to accept DOJ, FBI recommendations on Clinton emails",
+          "images": [
+            {
+              "imageUrl": "http://www.kmbc.com/image/view/-/32525994/highRes/2/-/maxh/630/maxw/1200/-/iyvnld/-/Lynch-2012-jpg.jpg",
+              "imageHeight": 360,
+              "imageWidth": 640
+            },
+            {
+              "imageUrl": "http://www.kmbc.com/image/view/-/32525994/highRes/2/-/maxh/630/maxw/1200/-/iyvnld/-/Lynch-2012-jpg.jpg",
+              "imageHeight": 360,
+              "imageWidth": 640
+            }
+          ],
+          "injestedDate": null,
+          "url": "http://www.kmbc.com/politics/lynch-to-accept-guidance-from-fbi-on-clinton-email-probe/40310210"
+        }
+      ]
+    },
+    {
+      "_id": 748553838986194944,
+      "avgAccessTime": 1467378040832,
+      "title": "Austria must redo presidential election",
+      "magScore": 228.3000030517578,
+      "onoSources": [
+        "JOchf-"
+      ],
+      "facebookShares": 2198,
+      "facebookLikes": 3527,
+      "facebookComments": 2418,
+      "twitterRetweets": 0,
+      "linkCount": 292,
+      "numDocs": 332,
+      "topicCreationTime": "2016-06-30T16:28:37.413Z",
+      "lastTopicActivityTime": "2016-07-01T18:47:05.347Z",
+      "heat": 0.32053483,
+      "numSources": 237,
+      "relatedEntity": [
+        {
+          "id": 4239108,
+          "score": 0.7746922373771667,
+          "name": "Austria"
+        },
+        {
+          "id": 6417144,
+          "score": 0.59564208984375,
+          "name": "Norbert Hofer"
+        }
+      ],
+      "relatedSubject": [
+        {
+          "id": 979364,
+          "score": 0.5375095009803772,
+          "name": "Elections"
+        },
+        {
+          "id": 980522,
+          "score": 0.9736841917037964,
+          "name": "International News"
+        },
+        {
+          "id": 981523,
+          "score": 0.9736841917037964,
+          "name": "News"
+        },
+        {
+          "id": 981525,
+          "score": 0.9835684299468994,
+          "name": "News and Politics"
+        },
+        {
+          "id": 982065,
+          "score": 0.5897266268730164,
+          "name": "Politics"
+        },
+        {
+          "id": 6378649,
+          "score": 0.6017183661460876,
+          "name": "Law, Government and Politics"
+        }
+      ],
+      "alphaDocs": [
+        {
+          "snippet": "Austria could go from having a left-leaning president-elect to a far-right one in a matter of months, as a court has annulled the results of the country's May election and ordered another one be held.",
+          "author": "Atika Shubert and Angela Dewan CNN",
+          "guid": "http://www.wmur.com/national/austria-must-redo-presidential-election-after-court-ruling/40311942",
+          "source": "Political News",
+          "id": "Hl3wnW/1467398824874464000",
+          "title": "Austria must redo presidential election",
+          "lang": "en",
+          "headline": "Austria must redo presidential election",
+          "images": [
+            {
+              "imageUrl": "http://www.wmur.com/image/view/-/39682718/highRes/2/-/maxh/630/maxw/1200/-/gxk7yt/-/Austria-presidential-election-jpg.jpg",
+              "imageHeight": 360,
+              "imageWidth": 640
+            },
+            {
+              "imageUrl": "http://www.wmur.com/image/view/-/39682718/highRes/2/-/maxh/630/maxw/1200/-/gxk7yt/-/Austria-presidential-election-jpg.jpg",
+              "imageHeight": 360,
+              "imageWidth": 640
+            }
+          ],
+          "injestedDate": null,
+          "url": "http://www.wmur.com/national/austria-must-redo-presidential-election-after-court-ruling/40311942"
+        },
+        {
+          "snippet": "VIENNA (AP) — Austria’s highest court on Friday overturned the results of the country’s presidential election and ordered a rerun, following claims of counting irregularities by the right-wing candidate who narrowly lost.",
+          "author": null,
+          "guid": "http://wnct.com/ap/austria-court-overturns-presidential-elections-calls-rerun/",
+          "source": "WNCT - Sports",
+          "id": "Kik1pN/1467398373851467000",
+          "title": "Austria court overturns presidential elections, calls rerun",
+          "lang": "en",
+          "headline": "Austria court overturns presidential elections, calls rerun",
+          "images": [
+            {
+              "imageUrl": "http://1.gravatar.com/blavatar/b2e0af342a4f2f7f3a307dc65779d046?s=200&amp;ts=1467373469",
+              "imageHeight": 200,
+              "imageWidth": 200
+            }
+          ],
+          "injestedDate": null,
+          "url": "http://wnct.com/ap/austria-court-overturns-presidential-elections-calls-rerun/"
+        },
+        {
+          "snippet": "Austria could go from having a left-leaning president-elect to a far-right one in a matter of months, as a court has annulled the results of the country's May election and ordered another one be held.",
+          "author": "Atika Shubert and Angela Dewan CNN",
+          "guid": "http://www.wcvb.com/national/austria-must-redo-presidential-election-after-court-ruling/40311942",
+          "source": "Political News",
+          "id": "2FFeBR/1467398093865645000",
+          "title": "Austria must redo presidential election",
+          "lang": "en",
+          "headline": "Austria must redo presidential election",
+          "images": [
+            {
+              "imageUrl": "http://www.wcvb.com/image/view/-/39682718/highRes/2/-/maxh/630/maxw/1200/-/gxk7yt/-/Austria-presidential-election-jpg.jpg",
+              "imageHeight": 360,
+              "imageWidth": 640
+            },
+            {
+              "imageUrl": "http://www.wcvb.com/image/view/-/39682718/highRes/2/-/maxh/630/maxw/1200/-/gxk7yt/-/Austria-presidential-election-jpg.jpg",
+              "imageHeight": 360,
+              "imageWidth": 640
+            }
+          ],
+          "injestedDate": null,
+          "url": "http://www.wcvb.com/national/austria-must-redo-presidential-election-after-court-ruling/40311942"
+        },
+        {
+          "snippet": "Austria could go from having a left-leaning president-elect to a far-right one in a matter of months, as a court has annulled the results of the country's May election and ordered another one be held.",
+          "author": "Atika Shubert and Angela Dewan CNN",
+          "guid": "http://www.wgal.com/national/austria-must-redo-presidential-election-after-court-ruling/40311942",
+          "source": "NBC - WGAL 8 - Lancaster PA Politics",
+          "id": "2n2SVZ/1467397970988743000",
+          "title": "Austria must redo presidential election",
+          "lang": "en",
+          "headline": "Austria must redo presidential election",
+          "images": [
+            {
+              "imageUrl": "http://www.wgal.com/image/view/-/39682718/highRes/2/-/maxh/630/maxw/1200/-/gxk7yt/-/Austria-presidential-election-jpg.jpg",
+              "imageHeight": 360,
+              "imageWidth": 640
+            },
+            {
+              "imageUrl": "http://www.wgal.com/image/view/-/39682718/highRes/2/-/maxh/630/maxw/1200/-/gxk7yt/-/Austria-presidential-election-jpg.jpg",
+              "imageHeight": 360,
+              "imageWidth": 640
+            }
+          ],
+          "injestedDate": null,
+          "url": "http://www.wgal.com/national/austria-must-redo-presidential-election-after-court-ruling/40311942"
+        },
+        {
+          "snippet": "Europe's far-right was given a huge boost on Friday as Austria’s highest court quashed a disputed election result.",
+          "author": "Ben Glaze",
+          "guid": "http://www.mirror.co.uk/news/world-news/austrian-far-right-partys-election-8328414",
+          "source": "Mirror Images - Mirror.co.uk",
+          "id": "uEpPyH/1467397814311427000",
+          "title": "Austrian far-right party's election defeat OVERTURNED by top court",
+          "lang": "en",
+          "headline": "Austrian far-right party's election defeat OVERTURNED by top court",
+          "images": [
+            {
+              "imageUrl": "http://i1.mirror.co.uk/incoming/article8328467.ece/ALTERNATES/s1200/PAY-Norbert-Hofer.jpg",
+              "imageHeight": 630,
+              "imageWidth": 1200
+            },
+            {
+              "imageUrl": "http://i2.mirror.co.uk/incoming/article8134519.ece/ALTERNATES/s615b/Austrias-far-right-Freedom-Party-release-a-video.jpg",
+              "imageHeight": 410,
+              "imageWidth": 615
+            },
+            {
+              "imageUrl": "http://brightcove04.o.brightcove.com/4221396001/4221396001_4930383097001_4930358604001-vs.jpg?pubId=4221396001",
+              "imageHeight": 360,
+              "imageWidth": 640
+            }
+          ],
+          "injestedDate": null,
+          "url": "http://www.mirror.co.uk/news/world-news/austrian-far-right-partys-election-8328414"
+        }
+      ]
+    },
+    {
+      "_id": 748662619803250688,
+      "avgAccessTime": 1467377516544,
+      "title": "Portugal leaves it late again to beat Poland on penalties",
+      "magScore": 216.10000610351562,
+      "facebookShares": 333,
+      "facebookLikes": 8746,
+      "facebookComments": 1144,
+      "twitterRetweets": 0,
+      "linkCount": 251,
+      "numDocs": 396,
+      "topicCreationTime": "2016-06-30T23:40:52.975Z",
+      "lastTopicActivityTime": "2016-07-01T18:46:33.436Z",
+      "heat": 0.31884915,
+      "numSources": 217,
+      "relatedEntity": [
+        {
+          "id": 3663171,
+          "score": 0.5908026099205017,
+          "name": "Cristiano Ronaldo"
+        },
+        {
+          "id": 3689619,
+          "score": 0.723006546497345,
+          "name": "Poland"
+        },
+        {
+          "id": 3689651,
+          "score": 0.8988412022590637,
+          "name": "Portugal"
+        },
+        {
+          "id": 4008521,
+          "score": 0.6224537491798401,
+          "name": "UEFA Euro 2016"
+        }
+      ],
+      "relatedSubject": [
+        {
+          "id": 983013,
+          "score": 0.5774038434028625,
+          "name": "Soccer"
+        },
+        {
+          "id": 983141,
+          "score": 0.9784974455833435,
+          "name": "Sports"
+        }
+      ],
+      "alphaDocs": [
+        {
+          "snippet": "MARSEILLE, France (AP) — Portugal likes to leave it late at this European Championship, whether Cristiano Ronaldo is having a good game or not.",
+          "author": "JAMES ELLINGWORTH",
+          "guid": "http://lebanon-express.com/sports/portugal-leaves-it-late-again-to-beat-poland-on-penalties/article_19172fca-4222-58a8-8e08-47cf39641228.html",
+          "source": "Search Results - Lebanon Express",
+          "id": "tcOtdS/1467398793137780000",
+          "title": "Portugal leaves it late again to beat Poland on penalties",
+          "lang": "en",
+          "headline": "Portugal leaves it late again to beat Poland on penalties",
+          "images": [
+            {
+              "imageUrl": "http://bloximages.chicago2.vip.townnews.com/lebanon-express.com/content/tncms/assets/v3/editorial/1/91/19172fca-4222-58a8-8e08-47cf39641228/5775abc4041e4.preview.jpg?crop=512,288,0,24&amp;resize=512,288&amp;order=crop,resize",
+              "imageHeight": 288,
+              "imageWidth": 512
+            }
+          ],
+          "injestedDate": null,
+          "url": "http://lebanon-express.com/sports/portugal-leaves-it-late-again-to-beat-poland-on-penalties/article_19172fca-4222-58a8-8e08-47cf39641228.html"
+        },
+        {
+          "snippet": "A pair of teams that scored just one goal apiece in regulation time during the Euro 2016 round of 16 will meet in the tournament's first quarterfinal matchup Thursday as Poland plays Portugal in Marseille , France.",
+          "author": "OddsShark.com",
+          "guid": "http://bleacherreport.com/articles/2649112-portugal-vs-poland-betting-odds-preview-euro-2016-quarterfinal-prediction",
+          "source": "Bleacher Report - Front Page",
+          "id": "I0a1pd/1467398486068254000",
+          "title": "Portugal vs. Poland Betting Odds Preview, Prediction",
+          "lang": "en",
+          "headline": "Portugal vs. Poland Betting Odds Preview, Prediction",
+          "images": [
+            {
+              "imageUrl": "http://img.bleacherreport.net/img/images/photos/003/608/449/hi-res-4d28af76e78968dbea60f7b938b2b70a_crop_exact.jpg?w=1500&h=1500&q=85",
+              "imageHeight": 1072,
+              "imageWidth": 1500
+            }
+          ],
+          "injestedDate": null,
+          "url": "http://bleacherreport.com/articles/2649112-portugal-vs-poland-betting-odds-preview-euro-2016-quarterfinal-prediction"
+        },
+        {
+          "snippet": "Ricardo Quaresma scored the winning spot-kick for Portugal as they beat Poland 5-3 on penalties following a 1-1 draw after extra-time.",
+          "author": null,
+          "guid": "http://www.teamtalk.com/news/portugal-edge-out-poland-on-penalties-to-reach-final-four",
+          "source": "TEAMtalk | Peterborough Utd",
+          "id": "VvrPT5/1467398374089155000",
+          "title": "Portugal edge out Poland on penalties to reach final four",
+          "lang": "en",
+          "headline": "Portugal edge out Poland on penalties to reach final four",
+          "images": [
+            {
+              "imageUrl": "http://cdn-teamtalk.365.co.za/wp-content/uploads/2016/06/30224633/Renato-Sanches.jpg",
+              "imageHeight": 367,
+              "imageWidth": 700
+            }
+          ],
+          "injestedDate": null,
+          "url": "http://www.teamtalk.com/news/portugal-edge-out-poland-on-penalties-to-reach-final-four"
+        },
+        {
+          "snippet": "MARSEILLE, France (AP) - Portugal likes to leave it late at this European Championship, whether Cristiano Ronaldo is having a good game or not.",
+          "author": "JAMES ELLINGWORTH",
+          "guid": "http://www.14news.com/story/32349893/portugal-leaves-it-late-again-to-beat-poland-on-penalties",
+          "source": "14 News WFIE Evansville - Sports",
+          "id": "DJ93CS/1467396867814960000",
+          "title": "Portugal leaves it late again to beat Poland on penalties",
+          "lang": "en",
+          "headline": "Portugal leaves it late again to beat Poland on penalties",
+          "images": [
+            {
+              "imageUrl": "http://apmobile.images.worldnow.com/images/10891881_G.jpg",
+              "imageHeight": 338,
+              "imageWidth": 512
+            }
+          ],
+          "injestedDate": null,
+          "url": "http://www.14news.com/story/32349893/portugal-leaves-it-late-again-to-beat-poland-on-penalties"
+        },
+        {
+          "snippet": "MARSEILLE, France (AP) - Portugal likes to leave it late at this European Championship, whether Cristiano Ronaldo is having a good game or not.",
+          "author": "JAMES ELLINGWORTH",
+          "guid": "http://www.wdam.com/story/32349893/portugal-leaves-it-late-again-to-beat-poland-on-penalties",
+          "source": "WDAM-TV - Sports",
+          "id": "9UahpV/1467396633222124000",
+          "title": "Portugal leaves it late again to beat Poland on penalties",
+          "lang": "en",
+          "headline": "Portugal leaves it late again to beat Poland on penalties",
+          "images": [
+            {
+              "imageUrl": "http://apmobile.images.worldnow.com/images/10891881_G.jpg",
+              "imageHeight": 338,
+              "imageWidth": 512
+            }
+          ],
+          "injestedDate": null,
+          "url": "http://www.wdam.com/story/32349893/portugal-leaves-it-late-again-to-beat-poland-on-penalties"
+        }
+      ]
+    },
+    {
+      "_id": 748520586401476608,
+      "avgAccessTime": 1467376336896,
+      "title": "Judge blocks Mississippi's 'religious objections' law",
+      "magScore": 421.79998779296875,
+      "onoSources": [
+        "YxDxoZ",
+        "n3GSrD",
+        "3_PT8G"
+      ],
+      "facebookShares": 1758,
+      "facebookLikes": 11914,
+      "facebookComments": 958,
+      "twitterRetweets": 0,
+      "linkCount": 627,
+      "numDocs": 757,
+      "topicCreationTime": "2016-06-30T14:16:29.521Z",
+      "lastTopicActivityTime": "2016-07-01T18:47:05.511Z",
+      "heat": 0.31525186,
+      "numSources": 417,
+      "relatedEntity": [
+        {
+          "id": 4150158,
+          "score": 0.7356962561607361,
+          "name": "Mississippi"
+        }
+      ],
+      "relatedSubject": [
+        {
+          "id": 979901,
+          "score": 0.6006739735603333,
+          "name": "Gay Rights"
+        },
+        {
+          "id": 980869,
+          "score": 0.5257176756858826,
+          "name": "LGBTQ Sexuality"
+        },
+        {
+          "id": 980877,
+          "score": 0.664580762386322,
+          "name": "Lifestyle"
+        },
+        {
+          "id": 981465,
+          "score": 1,
+          "name": "U.S. News"
+        },
+        {
+          "id": 981523,
+          "score": 1,
+          "name": "News"
+        },
+        {
+          "id": 981525,
+          "score": 1,
+          "name": "News and Politics"
+        },
+        {
+          "id": 982065,
+          "score": 0.6859857439994812,
+          "name": "Politics"
+        },
+        {
+          "id": 982397,
+          "score": 0.6176680326461792,
+          "name": "Relationships"
+        },
+        {
+          "id": 6258425,
+          "score": 0.6653557419776917,
+          "name": "Political Issues"
+        },
+        {
+          "id": 6378645,
+          "score": 0.6511586904525757,
+          "name": "Society"
+        },
+        {
+          "id": 6378648,
+          "score": 0.6001250743865967,
+          "name": "Gay Life"
+        },
+        {
+          "id": 6378649,
+          "score": 0.7036211490631104,
+          "name": "Law, Government and Politics"
+        }
+      ],
+      "alphaDocs": [
+        {
+          "snippet": "JACKSON — A federal judge blocked a Mississippi law on religious objections to same-sex marriage moments before it was set to take effect Friday, ruling it unconstitutionally establishes preferred beliefs and creates unequal treatment for gay people.",
+          "author": null,
+          "guid": "http://www.houmatoday.com/article/20160701/WIRE/160709982/1211/news01?Title=Judge-blocks-Mississippi-s-religious-objections-law-",
+          "source": "Houma Today - Houma LA Local News",
+          "id": "NaAnC-/1467398825220711000",
+          "title": "Judge blocks Mississippi's 'religious objections' law",
+          "lang": "en",
+          "headline": "Judge blocks Mississippi's 'religious objections' law",
+          "images": [
+            {
+              "imageUrl": "http://g52-hcweb.newscyclecloud.com/apps/pbcsi.dll/bilde?Site=HC&Date=20160701&Category=WIRE&ArtNo=160709982&Ref=AR&Profile=1211&amp;imageVersion=Teaser",
+              "imageHeight": 3356,
+              "imageWidth": 4863
+            },
+            {
+              "imageUrl": "http://g52-hcweb.newscyclecloud.com/apps/pbcsi.dll/bilde?Site=HC&Date=20160701&Category=WIRE&ArtNo=160709982&Ref=AR&Profile=1211&amp;imageVersion=Teaser",
+              "imageHeight": 3356,
+              "imageWidth": 4863
+            },
+            {
+              "imageUrl": "http://g52-hcweb.newscyclecloud.com/apps/pbcsi.dll/bilde?Site=HC&Date=20160701&Category=WIRE&ArtNo=160709982&Ref=AR&Profile=1211&amp;imageVersion=Main&amp;MaxW=445&border=0",
+              "imageHeight": 3356,
+              "imageWidth": 4863
+            }
+          ],
+          "injestedDate": null,
+          "url": "http://www.houmatoday.com/article/20160701/WIRE/160709982/1211/news01?Title=Judge-blocks-Mississippi-s-religious-objections-law-"
+        },
+        {
+          "snippet": "(AP) — A federal judge blocked a Mississippi law on religious objections to same-sex marriage moments before it was set to take effect Friday, ruling it unconstitutionally establishes preferred beliefs and creates unequal treatment for gay people.",
+          "author": "EMILY WAGSTER PETTUS",
+          "guid": "http://columbustelegram.com/news/national/judge-blocks-mississippi-s-religious-objections-law/article_351a6a19-f46d-533a-baed-7a2ee1a7db92.html",
+          "source": "http://www.columbustelegram.com/search/?f=rss&t=article&c=news*&l=25&s=start_time&sd=desc",
+          "id": "3g7oLQ/1467398400482082000",
+          "title": "Judge blocks Mississippi's 'religious objections' law",
+          "lang": "en",
+          "headline": "Judge blocks Mississippi's 'religious objections' law",
+          "images": [
+            {
+              "imageUrl": "http://bloximages.chicago2.vip.townnews.com/columbustelegram.com/content/tncms/assets/v3/editorial/3/51/351a6a19-f46d-533a-baed-7a2ee1a7db92/5776a52e8a5f2.preview.jpg?resize=512,297",
+              "imageHeight": 297,
+              "imageWidth": 512
+            }
+          ],
+          "injestedDate": null,
+          "url": "http://columbustelegram.com/news/national/judge-blocks-mississippi-s-religious-objections-law/article_351a6a19-f46d-533a-baed-7a2ee1a7db92.html"
+        },
+        {
+          "snippet": "(AP) — The Latest on Mississippi’s religious objections bill (all times local):  Mississippi Gov. Phil Bryant says he’s disappointed by a federal judge’s ruling that blocks a law that would let merchants and government employees cite religious beliefs to deny or delay services to same-sex couples.",
+          "author": null,
+          "guid": "http://wnct.com/ap/the-latest-gov-bryant-disappointed-by-ruling/",
+          "source": "WNCT - Sports",
+          "id": "Kik1pN/1467398373891780000",
+          "title": "The Latest: Gov. Bryant disappointed by ruling",
+          "lang": "en",
+          "headline": "The Latest: Gov. Bryant disappointed by ruling",
+          "images": [
+            {
+              "imageUrl": "http://1.gravatar.com/blavatar/b2e0af342a4f2f7f3a307dc65779d046?s=200&amp;ts=1467380690",
+              "imageHeight": 200,
+              "imageWidth": 200
+            }
+          ],
+          "injestedDate": null,
+          "url": "http://wnct.com/ap/the-latest-gov-bryant-disappointed-by-ruling/"
+        },
+        {
+          "snippet": "A federal judge on Thursday blocked a Mississippi law protecting religious individuals and organizations from punishment for holding traditional sexual mores.",
+          "author": "Bradford Richardson",
+          "guid": "http://www.washingtontimes.com/news/2016/jul/1/federal-court-blocks-mississippi-religious-freedom/?utm_source=RSS_Feed&utm_medium=RSS",
+          "source": "www.washingtontimes.com stories: Culture",
+          "id": "6sRn-R/1467398269014371000",
+          "title": "Federal court blocks Mississippi religious-freedom law",
+          "lang": "en",
+          "headline": "Federal court blocks Mississippi religious-freedom law",
+          "images": [
+            {
+              "imageUrl": "http://media.washtimes.com.s3.amazonaws.com/media/image/2016/07/01/Religious_Objections-Mississippi.JPEG-cbe5a.jpg",
+              "imageHeight": 3356,
+              "imageWidth": 4863
+            }
+          ],
+          "injestedDate": null,
+          "url": "http://www.washingtontimes.com/news/2016/jul/1/federal-court-blocks-mississippi-religious-freedom/?utm_source=RSS_Feed&utm_medium=RSS"
+        },
+        {
+          "snippet": "JACKSON — A federal judge blocked a Mississippi law on religious objections to same-sex marriage moments before it was set to take effect Friday, ruling it unconstitutionally establishes preferred beliefs and creates unequal treatment for gay people.",
+          "author": null,
+          "guid": "http://www.houmatoday.com/article/20160701/WIRE/160709982/1319?Title=Judge-blocks-Mississippi-s-religious-objections-law-",
+          "source": "Houma Today - Houma LA Front Page",
+          "id": "umTzD8/1467397917701500000",
+          "title": "Judge blocks Mississippi's 'religious objections' law",
+          "lang": "en",
+          "headline": "Judge blocks Mississippi's 'religious objections' law",
+          "images": [
+            {
+              "imageUrl": "http://g52-hcweb.newscyclecloud.com/apps/pbcsi.dll/bilde?Site=HC&Date=20160701&Category=WIRE&ArtNo=160709982&Ref=AR&Profile=1319&amp;imageVersion=Teaser",
+              "imageHeight": 3356,
+              "imageWidth": 4863
+            },
+            {
+              "imageUrl": "http://g52-hcweb.newscyclecloud.com/apps/pbcsi.dll/bilde?Site=HC&Date=20160701&Category=WIRE&ArtNo=160709982&Ref=AR&Profile=1319&amp;imageVersion=Teaser",
+              "imageHeight": 3356,
+              "imageWidth": 4863
+            },
+            {
+              "imageUrl": "http://g52-hcweb.newscyclecloud.com/apps/pbcsi.dll/bilde?Site=HC&Date=20160701&Category=WIRE&ArtNo=160709982&Ref=AR&Profile=1319&amp;imageVersion=Main&amp;MaxW=445&border=0",
+              "imageHeight": 3356,
+              "imageWidth": 4863
+            }
+          ],
+          "injestedDate": null,
+          "url": "http://www.houmatoday.com/article/20160701/WIRE/160709982/1319?Title=Judge-blocks-Mississippi-s-religious-objections-law-"
+        }
+      ]
+    }
+  ]
+}

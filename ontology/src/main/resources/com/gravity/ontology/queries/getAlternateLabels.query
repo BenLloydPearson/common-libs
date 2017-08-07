@@ -1,0 +1,1 @@
+select ?topicURI, ?alternateLabel from <http://insights.gravity.com/alternatelabels> where {?topicURI ?y ?alternateLabel}

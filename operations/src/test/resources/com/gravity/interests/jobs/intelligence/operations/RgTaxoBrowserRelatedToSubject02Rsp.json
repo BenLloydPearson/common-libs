@@ -1,0 +1,95 @@
+{
+  "message": "OK",
+  "data": [
+    {
+      "relationshipType": "Broader To",
+      "nodeTypes": [
+        9
+      ],
+      "id": 981525,
+      "name": "News and Politics",
+      "disambig": "Subject"
+    },
+    {
+      "relationshipType": "Broader To",
+      "nodeTypes": [
+        9
+      ],
+      "id": 981465,
+      "name": "U.S. News",
+      "disambig": "News and Politics"
+    },
+    {
+      "relationshipType": "Broader To",
+      "nodeTypes": [
+        9
+      ],
+      "id": 980522,
+      "name": "International News",
+      "disambig": "News and Politics"
+    },
+    {
+      "relationshipType": "Broader To",
+      "nodeTypes": [
+        9
+      ],
+      "id": 978919,
+      "name": "Crime",
+      "disambig": "News and Politics"
+    },
+    {
+      "relationshipType": "Broader To",
+      "nodeTypes": [
+        9
+      ],
+      "id": 978809,
+      "name": "Wars and Conflicts",
+      "disambig": "News and Politics"
+    },
+    {
+      "relationshipType": "Broader To",
+      "nodeTypes": [
+        9
+      ],
+      "id": 4941963,
+      "name": "Disasters",
+      "disambig": "News and Politics"
+    },
+    {
+      "relationshipType": "Broader To",
+      "nodeTypes": [
+        9
+      ],
+      "id": 983981,
+      "name": "Weather",
+      "disambig": "News and Politics"
+    },
+    {
+      "relationshipType": "Broader To",
+      "nodeTypes": [
+        9
+      ],
+      "id": 983543,
+      "name": "Terrorism",
+      "disambig": "News and Politics"
+    },
+    {
+      "relationshipType": "Broader To",
+      "nodeTypes": [
+        9
+      ],
+      "id": 6353689,
+      "name": "Animal Rights",
+      "disambig": "News"
+    },
+    {
+      "relationshipType": "Broader To",
+      "nodeTypes": [
+        9
+      ],
+      "id": 6355863,
+      "name": "Homelessness",
+      "disambig": "News and Politics"
+    }
+  ]
+}

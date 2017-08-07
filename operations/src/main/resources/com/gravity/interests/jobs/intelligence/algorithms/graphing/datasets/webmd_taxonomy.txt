@@ -1,0 +1,241 @@
+WebMD Categories ---> Arthritis ---> Ankylosing Spondylitis ---> Behavior: s_topic : 3634
+WebMD Categories ---> Arthritis ---> Behavior: s_topic : 2945
+WebMD Categories ---> Arthritis ---> Behavior: s_topic : 3634
+WebMD Categories ---> Arthritis ---> Dupuytren's ---> Behavior: s_topic : 3635
+WebMD Categories ---> Arthritis ---> Fibromyalgia ---> Behavior: s_topic : 1673
+WebMD Categories ---> Arthritis ---> Gout ---> Behavior: s_topic : 4279
+WebMD Categories ---> Arthritis ---> Lupus ---> Behavior: s_topic : 1823
+WebMD Categories ---> Arthritis ---> Osteoarthritis ---> Behavior: s_topic : 1681
+WebMD Categories ---> Arthritis ---> Osteoarthritis ---> Behavior: s_topic : 16814
+WebMD Categories ---> Arthritis ---> Psoriatic Arthritis ---> Behavior: s_topic : 4054
+WebMD Categories ---> Arthritis ---> Rheumatoid Arthritis ---> Behavior: s_topic : 1834
+WebMD Categories ---> Beauty ---> Behavior: s_topic : 4209
+WebMD Categories ---> Beauty ---> Body Care ---> Behavior: s_topic : 3612
+WebMD Categories ---> Beauty ---> Cosmetic Procedures ---> Behavior: s_topic : 3613
+WebMD Categories ---> Beauty ---> Face Care ---> Behavior: s_topic : 3615
+WebMD Categories ---> Beauty ---> Hair ---> Behavior: s_topic : 3617
+WebMD Categories ---> Beauty ---> Male Beauty Products ---> Behavior: s_topic : 3618
+WebMD Categories ---> Beauty ---> Nails ---> Behavior: s_topic : 3619
+WebMD Categories ---> Beauty ---> Natural Beauty ---> Behavior: s_topic : 3620
+WebMD Categories ---> Beauty ---> Skin Care ---> Anti-Aging ---> Behavior: s_topic : 3611
+WebMD Categories ---> Beauty ---> Skin Care ---> Behavior: s_topic : 1630
+WebMD Categories ---> Beauty ---> Skin Care ---> Dry Skin ---> Behavior: s_topic : 3614
+WebMD Categories ---> Beauty ---> Skin Care ---> Sun Care ---> Behavior: s_topic : 3621
+WebMD Categories ---> Beauty ---> Sweating ---> Behavior: s_topic : 3622
+WebMD Categories ---> Blood Disorders ---> Anemia ---> Behavior: s_topic : 4269
+WebMD Categories ---> Blood Disorders ---> Behavior: s_topic : 4273
+WebMD Categories ---> Blood Disorders ---> Behavior: s_topic : 4290
+WebMD Categories ---> Bones and Joints ---> Osteoporosis ---> Behavior: s_topic : 1829
+WebMD Categories ---> Brain and Nervous ---> Alzheimer's Disease ---> Behavior: s_topic : 1626
+WebMD Categories ---> Brain and Nervous ---> Autism ---> Behavior: s_topic : 1628
+WebMD Categories ---> Brain and Nervous ---> Behavior: s_topic : 3073
+WebMD Categories ---> Brain and Nervous ---> Behavior: s_topic : 4094
+WebMD Categories ---> Brain and Nervous ---> Chronic Fatigue Syndrome ---> Behavior: s_topic : 1673
+WebMD Categories ---> Brain and Nervous ---> Epilepsy ---> Behavior: s_topic : 1812
+WebMD Categories ---> Brain and Nervous ---> Essential Tremors ---> Behavior: s_topic : 4023
+WebMD Categories ---> Brain and Nervous ---> Multiple Sclerosis ---> Behavior: s_topic : 1827
+WebMD Categories ---> Brain and Nervous ---> Parkinson's Disease  ---> Behavior: s_topic : 1833
+WebMD Categories ---> Cancer ---> Behavior: s_topic : 2946
+WebMD Categories ---> Cancer ---> Bladder Cancer ---> Behavior: s_topic : 1844
+WebMD Categories ---> Cancer ---> Brain Cancer ---> Behavior: s_topic : 2726
+WebMD Categories ---> Cancer ---> Breast Cancer ---> Behavior: s_topic : 1662
+WebMD Categories ---> Cancer ---> Breast Cancer ---> Behavior: s_topic : 3963
+WebMD Categories ---> Cancer ---> Breast Cancer ---> Behavior: s_topic : 3992
+WebMD Categories ---> Cancer ---> Cervical Cancer ---> Behavior: s_topic : 1839
+WebMD Categories ---> Cancer ---> Colorectal Cancer ---> Behavior: s_topic : 1811
+WebMD Categories ---> Cancer ---> Hodgkin's Disease ---> Behavior: s_topic : 1816
+WebMD Categories ---> Cancer ---> Kidney Cancer ---> Behavior: s_topic : 2729
+WebMD Categories ---> Cancer ---> Leukemia ---> Behavior: s_topic : 4290
+WebMD Categories ---> Cancer ---> Lung Cancer ---> Behavior: s_topic : 1822
+WebMD Categories ---> Cancer ---> Melanoma / Skin Cancer ---> Behavior: s_topic : 1824
+WebMD Categories ---> Cancer ---> Non-Hodgkin's Lymphoma ---> Behavior: s_topic : 1828
+WebMD Categories ---> Cancer ---> Oral Cancer ---> Behavior: s_topic : 2730
+WebMD Categories ---> Cancer ---> Ovarian Cancer ---> Behavior: s_topic : 1831
+WebMD Categories ---> Cancer ---> Prostate Cancer ---> Behavior: s_topic : 1688
+WebMD Categories ---> Cardiovascular ---> Heart Health ---> Cholesterol Management ---> Behavior: s_topic : 1809
+WebMD Categories ---> Cardiovascular ---> Heart Health ---> Cholesterol Management ---> Behavior: s_topic : 3639
+WebMD Categories ---> Cardiovascular ---> Heart Health ---> Heart Disease ---> Atrial Fibrillation ---> Behavior: s_topic : 1629
+WebMD Categories ---> Cardiovascular ---> Heart Health ---> Heart Disease ---> Behavior: s_topic : 1675
+WebMD Categories ---> Cardiovascular ---> Heart Health ---> Heart Disease ---> Behavior: s_topic : 3196
+WebMD Categories ---> Cardiovascular ---> Heart Health ---> Heart Disease ---> Behavior: s_topic : 3315
+WebMD Categories ---> Cardiovascular ---> Heart Health ---> Heart Disease ---> Behavior: s_topic : 4044
+WebMD Categories ---> Cardiovascular ---> Heart Health ---> Heart Disease ---> Heart Failure ---> Behavior: s_topic : 4030
+WebMD Categories ---> Cardiovascular ---> Heart Health ---> Hypertension ---> Behavior: s_topic : 1817
+WebMD Categories ---> Cardiovascular ---> Heart Health ---> Metabolic Syndrome ---> Behavior: s_topic : 4301
+WebMD Categories ---> Cardiovascular ---> Heart Health ---> Stroke ---> Behavior: s_topic : 3053
+WebMD Categories ---> Cardiovascular ---> Hemorrhoids ---> Behavior: s_topic : 4281
+WebMD Categories ---> Cardiovascular ---> Hypotension  ---> Behavior: s_topic : 4285
+WebMD Categories ---> Cardiovascular ---> Vascular Disease ---> Behavior: s_topic : 3559
+WebMD Categories ---> Caregiver ---> Behavior: s_topic : 4041
+WebMD Categories ---> Caregiver ---> Palliative Care ---> Behavior: s_topic : 7122
+WebMD Categories ---> Digestive Disorders ---> Appendicitis ---> Behavior: s_topic : 4270
+WebMD Categories ---> Digestive Disorders ---> Behavior: s_topic : 4093
+WebMD Categories ---> Digestive Disorders ---> Behavior: s_topic : 4276
+WebMD Categories ---> Digestive Disorders ---> Celiac Disease ---> Behavior: s_topic : 3555
+WebMD Categories ---> Digestive Disorders ---> Constipation ---> Behavior: s_topic : 3556
+WebMD Categories ---> Digestive Disorders ---> Crohn's Disease ---> Behavior: s_topic : 3557
+WebMD Categories ---> Digestive Disorders ---> Gallstones ---> Behavior: s_topic : 4278
+WebMD Categories ---> Digestive Disorders ---> Heartburn / GERD ---> Behavior: s_topic : 1815
+WebMD Categories ---> Digestive Disorders ---> Heartburn / GERD ---> Behavior: s_topic : 3563
+WebMD Categories ---> Digestive Disorders ---> Hernia ---> Behavior: s_topic : 4282
+WebMD Categories ---> Digestive Disorders ---> Inflammatory Bowel Disease (IBD) ---> Behavior: s_topic : 1820
+WebMD Categories ---> Digestive Disorders ---> Inflammatory Bowel Disease (IBD) ---> Ulcerative Colitis ---> Behavior: s_topic : 3558
+WebMD Categories ---> Digestive Disorders ---> Irritable Bowel Syndrome (IBS) ---> Behavior: s_topic : 3052
+WebMD Categories ---> Digestive Disorders ---> Liver Disease ---> Behavior: s_topic : 4291
+WebMD Categories ---> Ear Disorders ---> Behavior: s_topic : 1830
+WebMD Categories ---> Ear Disorders ---> Vertigo ---> Behavior: s_topic : 6033
+WebMD Categories ---> Endocrine and metabolic Diseases ---> Behavior: s_topic : 4271
+WebMD Categories ---> Endocrine and metabolic Diseases ---> Diabetes ---> Behavior: s_topic : 1667
+WebMD Categories ---> Endocrine and metabolic Diseases ---> Diabetes ---> Behavior: s_topic : 3636
+WebMD Categories ---> Endocrine and metabolic Diseases ---> Diabetes ---> Type 1 Diabetes ---> Behavior: s_topic : 3629
+WebMD Categories ---> Endocrine and metabolic Diseases ---> Diabetes ---> Type 2 Diabetes ---> Behavior: s_topic : 3630
+WebMD Categories ---> Endocrine and metabolic Diseases ---> Hormonal Disorders ---> Behavior: s_topic : 1808
+WebMD Categories ---> Endocrine and metabolic Diseases ---> Hormonal Disorders ---> Behavior: s_topic : 4284
+WebMD Categories ---> Endocrine and metabolic Diseases ---> Hormonal Disorders ---> Endometriosis ---> Behavior: s_topic : 1670
+WebMD Categories ---> Endocrine and metabolic Diseases ---> Hormonal Disorders ---> Low Testerone ---> Behavior: s_topic : 3637
+WebMD Categories ---> Endocrine and metabolic Diseases ---> Hormonal Disorders ---> PMS ---> Behavior: s_topic : 3312
+WebMD Categories ---> Endocrine and metabolic Diseases ---> Hormonal Disorders ---> Uterine Fibroids ---> Behavior: s_topic : 1838
+WebMD Categories ---> Endocrine and metabolic Diseases ---> Menopause ---> Behavior: s_topic : 1825
+WebMD Categories ---> Endocrine and metabolic Diseases ---> Thyroid Disorders ---> Behavior: s_topic : 6031
+WebMD Categories ---> Eye Health ---> Behavior: s_topic : 4051
+WebMD Categories ---> Eye Health ---> Pink Eye / Conjunctivitis ---> Behavior: s_topic : 4294
+WebMD Categories ---> Foot Problems ---> Behavior: s_topic : 4277
+WebMD Categories ---> Health Care Plan/Organizations ---> Behavior: s_topic : 4227
+WebMD Categories ---> Health Care Plan/Organizations ---> Health and Human Services ---> Behavior: s_topic : 4239
+WebMD Categories ---> Health Care Plan/Organizations ---> Health and Human Services ---> Behavior: s_topic : 6041
+WebMD Categories ---> Health Care Plan/Organizations ---> Medical / Legal Insurance ---> Behavior: s_topic : 1691
+WebMD Categories ---> Health Care Plan/Organizations ---> Medical / Legal Insurance ---> Insurance - Medicare ---> Behavior: s_topic : 4241
+WebMD Categories ---> Home Health ---> Behavior: s_topic : 2756
+WebMD Categories ---> Home Health ---> Behavior: s_topic : 4283
+WebMD Categories ---> Infection ---> Behavior: s_topic : 4286
+WebMD Categories ---> Infection ---> Pneumonia ---> Behavior: s_topic : 4295
+WebMD Categories ---> Infectious Diseases ---> Chicken Pox ---> Behavior: s_topic : 4075
+WebMD Categories ---> Infectious Diseases ---> Cold and Flu  ---> Behavior: s_topic : 3638
+WebMD Categories ---> Infectious Diseases ---> Cold and Flu  ---> Behavior: s_topic : 4068
+WebMD Categories ---> Infectious Diseases ---> Cold and Flu  ---> Cold ---> Behavior: s_topic : 4066
+WebMD Categories ---> Infectious Diseases ---> Cold and Flu  ---> Flu ---> Behavior: s_topic : 4067
+WebMD Categories ---> Infectious Diseases ---> Cold and Flu  ---> Flu ---> Swine Flu ---> Behavior: s_topic : 3560
+WebMD Categories ---> Infectious Diseases ---> Cold and Flu  ---> Strep Throat ---> Behavior: s_topic : 4299
+WebMD Categories ---> Infectious Diseases ---> Hepatitis ---> Behavior: s_topic : 2947
+WebMD Categories ---> Infectious Diseases ---> Hepatitis ---> Hep A ---> Behavior: s_topic : 2948
+WebMD Categories ---> Infectious Diseases ---> Hepatitis ---> Hep B ---> Behavior: s_topic : 2949
+WebMD Categories ---> Infectious Diseases ---> Hepatitis ---> Hep C ---> Behavior: s_topic : 1678
+WebMD Categories ---> Injuries ---> Behavior: s_topic : 4287
+WebMD Categories ---> Injuries ---> Behavior: s_topic : 4293
+WebMD Categories ---> Injuries ---> First Aid ---> Behavior: s_topic : 4275
+WebMD Categories ---> Injuries ---> First Aid ---> Behavior: s_topic : 6032
+WebMD Categories ---> Lung and Respiratory Health ---> Allergies ---> Behavior: s_topic : 1625
+WebMD Categories ---> Lung and Respiratory Health ---> Allergies ---> Behavior: s_topic : 3958
+WebMD Categories ---> Lung and Respiratory Health ---> Asthma ---> Behavior: s_topic : 1660
+WebMD Categories ---> Lung and Respiratory Health ---> COPD ---> Behavior: s_topic : 4292
+WebMD Categories ---> Lung and Respiratory Health ---> Smoking Cessation ---> Behavior: s_topic : 1837
+WebMD Categories ---> Medical Tests ---> Behavior: s_topic : 1672
+WebMD Categories ---> Medical Tests ---> Behavior: s_topic : 4118
+WebMD Categories ---> Medical Tests ---> Behavior: s_topic : 4252
+WebMD Categories ---> Medical Tests ---> Behavior: s_topic : 4289
+WebMD Categories ---> Mental Health ---> ADHD / ADD  ---> Behavior: s_topic : 1623
+WebMD Categories ---> Mental Health ---> ADHD / ADD  ---> Behavior: s_topic : 3553
+WebMD Categories ---> Mental Health ---> ADHD / ADD  ---> Behavior: s_topic : 3554
+WebMD Categories ---> Mental Health ---> Anxiety / Panic Disorder ---> Behavior: s_topic : 2951
+WebMD Categories ---> Mental Health ---> Behavior: s_topic : 2950
+WebMD Categories ---> Mental Health ---> Bipolar Disorder ---> Behavior: s_topic : 4249
+WebMD Categories ---> Mental Health ---> Depression ---> Behavior: s_topic : 1663
+WebMD Categories ---> Mental Health ---> Depression ---> Behavior: s_topic : 1664
+WebMD Categories ---> Mental Health ---> Emotional Wellness ---> Behavior: s_topic : 1674
+WebMD Categories ---> Mental Health ---> Schizophrenia ---> Behavior: s_topic : 1835
+WebMD Categories ---> Nutrition and Fitness ---> Behavior: s_topic : 1637
+WebMD Categories ---> Nutrition and Fitness ---> Diet / Weight loss ---> Behavior: s_topic : 1671
+WebMD Categories ---> Nutrition and Fitness ---> Diet / Weight loss ---> Behavior: s_topic : 2731
+WebMD Categories ---> Nutrition and Fitness ---> Diet / Weight loss ---> Behavior: s_topic : 3220
+WebMD Categories ---> Nutrition and Fitness ---> Diet / Weight loss ---> Behavior: s_topic : 3539
+WebMD Categories ---> Nutrition and Fitness ---> Fitness and Exercise ---> Behavior: s_topic : 1676
+WebMD Categories ---> Nutrition and Fitness ---> Food and Recipes ---> Behavior: s_topic : 1636
+WebMD Categories ---> Nutrition and Fitness ---> Food and Recipes ---> Behavior: s_topic : 4176
+WebMD Categories ---> Nutrition and Fitness ---> Food and Recipes ---> Behavior: s_topic : 6066
+WebMD Categories ---> Nutrition and Fitness ---> Food and Recipes ---> Recipes - Drinks and Beverages ---> Behavior: s_topic : 1635
+WebMD Categories ---> Oral Health ---> Behavior: s_topic : 4208
+WebMD Categories ---> Pain Management ---> Abdominal Pain ---> Behavior: s_topic : 4268
+WebMD Categories ---> Pain Management ---> Back Pain ---> Behavior: s_topic : 1661
+WebMD Categories ---> Pain Management ---> Behavior: s_topic : 1832
+WebMD Categories ---> Pain Management ---> Behavior: s_topic : 3199
+WebMD Categories ---> Pain Management ---> Carpal Tunnel Syndrome ---> Behavior: s_topic : 4274
+WebMD Categories ---> Pain Management ---> Chronic Female Pelvic Pain ---> Behavior: s_topic : 1810
+WebMD Categories ---> Pain Management ---> Knee Pain ---> Behavior: s_topic : 1627
+WebMD Categories ---> Pain Management ---> Migraines / Headaches ---> Behavior: s_topic : 1826
+WebMD Categories ---> Pets ---> Behavior: s_topic : 1696
+WebMD Categories ---> Pets ---> Cats ---> Behavior: s_topic : 1698
+WebMD Categories ---> Pets ---> Dogs ---> Behavior: s_topic : 1697
+WebMD Categories ---> Pregnancy & Parenting ---> Behavior: s_topic : 3605
+WebMD Categories ---> Pregnancy & Parenting ---> Parenting ---> Behavior: s_topic : 3545
+WebMD Categories ---> Pregnancy & Parenting ---> Parenting ---> Behavior: s_topic : 3546
+WebMD Categories ---> Pregnancy & Parenting ---> Parenting ---> Behavior: s_topic : 3547
+WebMD Categories ---> Pregnancy & Parenting ---> Parenting ---> Behavior: s_topic : 3548
+WebMD Categories ---> Pregnancy & Parenting ---> Parenting ---> Behavior: s_topic : 3549
+WebMD Categories ---> Pregnancy & Parenting ---> Parenting ---> Behavior: s_topic : 3550
+WebMD Categories ---> Pregnancy & Parenting ---> Parenting ---> Behavior: s_topic : 3551
+WebMD Categories ---> Pregnancy & Parenting ---> Parenting ---> Behavior: s_topic : 3609
+WebMD Categories ---> Pregnancy & Parenting ---> Parenting ---> Behavior: s_topic : 3610
+WebMD Categories ---> Pregnancy & Parenting ---> Parenting ---> Behavior: s_topic : 3624
+WebMD Categories ---> Pregnancy & Parenting ---> Parenting ---> Behavior: s_topic : 3625
+WebMD Categories ---> Pregnancy & Parenting ---> Pregnancy ---> Behavior: s_topic : 3608
+WebMD Categories ---> Pregnancy & Parenting ---> Pregnancy ---> Pregnancy - 1st Trimester ---> Behavior: s_topic : 3541
+WebMD Categories ---> Pregnancy & Parenting ---> Pregnancy ---> Pregnancy - 2nd Trimester ---> Behavior: s_topic : 3542
+WebMD Categories ---> Pregnancy & Parenting ---> Pregnancy ---> Pregnancy - 3rd Trimester ---> Behavior: s_topic : 3543
+WebMD Categories ---> Pregnancy & Parenting ---> Pregnancy ---> Pregnancy - Labor and Delivery ---> Behavior: s_topic : 3544
+WebMD Categories ---> Pregnancy & Parenting ---> Pregnancy ---> Pregnancy - Trying to conceive ---> Behavior: s_topic : 1819
+WebMD Categories ---> Pregnancy & Parenting ---> Pregnancy ---> Pregnancy - Trying to conceive ---> Behavior: s_topic : 3540
+WebMD Categories ---> Pregnancy & Parenting ---> Pregnancy ---> Pregnancy - Trying to conceive ---> Behavior: s_topic : 3607
+WebMD Categories ---> Sensitive topics ---> Abuse topics ---> Addictions and Substance Abuse ---> Behavior: s_topic : 7002
+WebMD Categories ---> Sensitive topics ---> Abuse topics ---> Child Abuse ---> Behavior: s_topic : 7001
+WebMD Categories ---> Sensitive topics ---> Abuse topics ---> Sexual Abuse ---> Behavior: s_topic : 7012
+WebMD Categories ---> Sensitive topics ---> Abuse topics ---> Violence / Domestic Abuse ---> Behavior: s_topic : 7005
+WebMD Categories ---> Sensitive topics ---> Abuse topics ---> Violence / Domestic Abuse ---> Behavior: s_topic : 7015
+WebMD Categories ---> Sensitive topics ---> Behavior: s_topic : 7019
+WebMD Categories ---> Sensitive topics ---> Childhood Genetic Diseases ---> Behavior: s_topic : 7004
+WebMD Categories ---> Sensitive topics ---> Eating Disorders ---> Behavior: s_topic : 7006
+WebMD Categories ---> Sensitive topics ---> Grief and Death ---> Behavior: s_topic : 7007
+WebMD Categories ---> Sensitive topics ---> Pregnancy Sensitive topics ---> Abortion ---> Behavior: s_topic : 7000
+WebMD Categories ---> Sensitive topics ---> Pregnancy Sensitive topics ---> Miscarriage ---> Behavior: s_topic : 7009
+WebMD Categories ---> Sensitive topics ---> Pregnancy Sensitive topics ---> Pregnancy Complications ---> Behavior: s_topic : 7010
+WebMD Categories ---> Sensitive topics ---> Suicide ---> Behavior: s_topic : 7013
+WebMD Categories ---> Sensitive topics ---> Trauma ---> Behavior: s_topic : 4058
+WebMD Categories ---> Sensitive topics ---> Trauma ---> Behavior: s_topic : 7014
+WebMD Categories ---> Sexual Health ---> Reproduction ---> Birth Control ---> Behavior: s_topic : 4272
+WebMD Categories ---> Sexual Health ---> Reproduction ---> Infertility ---> Behavior: s_topic : 1819
+WebMD Categories ---> Sexual Health ---> Sex and Intimate Relationships ---> Behavior: s_topic : 1687
+WebMD Categories ---> Sexual Health ---> Sexual Conditions ---> Behavior: s_topic : 2953
+WebMD Categories ---> Sexual Health ---> Sexual Conditions ---> Erectile Dysfunction ---> Behavior: s_topic : 1818
+WebMD Categories ---> Sexual Health ---> Sexual Conditions ---> STDs ---> Behavior: s_topic : 4298
+WebMD Categories ---> Sexual Health ---> Sexual Conditions ---> STDs ---> Genital Herpes ---> Behavior: s_topic : 1814
+WebMD Categories ---> Sexual Health ---> Sexual Conditions ---> STDs ---> HIV/AIDS ---> Behavior: s_topic : 1624
+WebMD Categories ---> Sexual Health ---> Sexual Conditions ---> STDs ---> HPV/Genital Warts ---> Behavior: s_topic : 1634
+WebMD Categories ---> Skin Problems ---> Acne ---> Behavior: s_topic : 1630
+WebMD Categories ---> Skin Problems ---> Acne ---> Rosacea ---> Behavior: s_topic : 3564
+WebMD Categories ---> Skin Problems ---> Behavior: s_topic : 6067
+WebMD Categories ---> Skin Problems ---> Eczema ---> Behavior: s_topic : 3633
+WebMD Categories ---> Skin Problems ---> Hair Loss ---> Behavior: s_topic : 4280
+WebMD Categories ---> Skin Problems ---> Psoriasis ---> Behavior: s_topic : 4223
+WebMD Categories ---> Skin Problems ---> Shingles ---> Behavior: s_topic : 4296
+WebMD Categories ---> Sleep Disorders ---> Behavior: s_topic : 1836
+WebMD Categories ---> Sleep Disorders ---> Insomnia ---> Behavior: s_topic : 3640
+WebMD Categories ---> Sleep Disorders ---> Restless Leg Syndrome (RLS) ---> Behavior: s_topic : 3561
+WebMD Categories ---> Surgery ---> Behavior: s_topic : 4297
+WebMD Categories ---> Travel ---> Behavior: s_topic : 3565
+WebMD Categories ---> Treatment types ---> Alternative Medicine ---> Behavior: s_topic : 1668
+WebMD Categories ---> Treatment types ---> Drugs and Herbs  ---> Behavior: s_topic : 4046
+WebMD Categories ---> Treatment types ---> Drugs and Herbs  ---> Behavior: s_topic : 4048
+WebMD Categories ---> Treatment types ---> Drugs and Herbs  ---> Behavior: s_topic : 4049
+WebMD Categories ---> Treatment types ---> Drugs and Herbs  ---> Behavior: s_topic : 4052
+WebMD Categories ---> Treatment types ---> Vitamins and Supplements ---> Behavior: s_topic : 1638
+WebMD Categories ---> Urinary Disorders ---> Incontinence / OAB ---> Behavior: s_topic : 1813
+WebMD Categories ---> Urinary Disorders ---> Incontinence / OAB ---> Behavior: s_topic : 3691
+WebMD Categories ---> Urinary Disorders ---> Kidney Disorders ---> Acute Renal Failure (ARF) / Kidney Failure ---> Behavior: s_topic : 1821
+WebMD Categories ---> Urinary Disorders ---> Kidney Disorders ---> Kidney Stones ---> Behavior: s_topic : 4288
+WebMD Categories ---> Urinary Disorders ---> Prostate Enlargement/BPH ---> Behavior: s_topic : 3632
+WebMD Categories ---> Urinary Disorders ---> Urinary Tract Infection ---> Behavior: s_topic : 1632
+WebMD Categories ---> Vaccines ---> Behavior: s_topic : 1633
+WebMD Categories ---> Vaccines ---> Behavior: s_topic : 6034
+WebMD Categories ---> Wellness Centers ---> Behavior: s_topic : 4120
+WebMD Categories ---> Wellness Centers ---> Men's health ---> Behavior: s_topic : 1685
+WebMD Categories ---> Wellness Centers ---> Senior's health ---> Behavior: s_topic : 1738
+WebMD Categories ---> Wellness Centers ---> Women's health ---> Behavior: s_topic : 1689

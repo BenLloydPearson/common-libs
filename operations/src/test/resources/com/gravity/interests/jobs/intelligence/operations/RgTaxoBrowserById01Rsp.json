@@ -1,0 +1,22 @@
+{
+  "message": "OK",
+  "data": [
+    {
+      "nodeTypes": [
+        9
+      ],
+      "id": 981523,
+      "name": "News",
+      "disambig": "News and Politics"
+    },
+    {
+      "freeBaseID": "m.02mjmr",
+      "nodeTypes": [
+        53
+      ],
+      "id": 3646062,
+      "name": "Barack Obama",
+      "disambig": "Politics Person"
+    }
+  ]
+}

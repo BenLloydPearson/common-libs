@@ -1,0 +1,22 @@
+{
+  "message": "OK",
+  "data": [
+    {
+      "nodeTypes": [
+        9
+      ],
+      "id": 981284,
+      "name": "Business and Finance",
+      "disambig": "Subject"
+    },
+    {
+      "freeBaseID": "m.02mjmr",
+      "nodeTypes": [
+        53
+      ],
+      "id": 3646062,
+      "name": "Barack Obama",
+      "disambig": "Politics Person"
+    }
+  ]
+}

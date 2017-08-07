@@ -1,0 +1,14 @@
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+PREFIX skosres: <http://dbpedia.org/resource/Category:>
+PREFIX dbtop: <http://dbpedia.org/resource/>
+PREFIX dbprop: <http://dbpedia.org/property/>
+PREFIX yagoclass: <http://dbpedia.org/class/yago/>
+PREFIX gs: <http://insights.gravity.com/2010/04/universe#>
+PREFIX dbont: <http://dbpedia.org/ontology/>
+select distinct ?classId ?name ?level ?superClass from <http://dbpedia.org/ontology>
+where {
+?classId a owl:Class.
+?classId rdfs:label ?name.
+?classId rdfs:subClassOf owl:Thing OPTION (TRANSITIVE, t_distinct, t_step('step_no') as ?level).
+OPTIONAL{?classId rdfs:subClassOf ?superClass}.
+}

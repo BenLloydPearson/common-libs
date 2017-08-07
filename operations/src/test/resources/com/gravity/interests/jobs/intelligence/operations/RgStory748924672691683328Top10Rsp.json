@@ -1,0 +1,504 @@
+{
+  "id": 748924672691683328,
+  "creationTime": 1467392531131,
+  "lastUpdate": 1467400800177,
+  "avgAccessTime": 1467396653056,
+  "title": "Attackers take hostages at Bangladesh restaurant",
+  "magScore": 252.4,
+  "numTotalDocs": 332,
+  "numOriginalDocs": 80,
+  "facebookShares": 620,
+  "facebookLikes": 306,
+  "facebookComments": 172,
+  "twitterRetweets": 0,
+  "socialDistPercentage": 0.85714287,
+  "relatedTags": [
+    {
+      "id": 980522,
+      "score": 0.9875002,
+      "name": "International News",
+      "type": "SUBJECT"
+    },
+    {
+      "id": 981523,
+      "score": 0.9875002,
+      "name": "News",
+      "type": "SUBJECT"
+    },
+    {
+      "id": 981525,
+      "score": 0.9875002,
+      "name": "News and Politics",
+      "type": "SUBJECT"
+    },
+    {
+      "id": 3448214,
+      "score": 0.5882238,
+      "name": "Bangladesh",
+      "type": "ENTITY"
+    },
+    {
+      "id": 3465007,
+      "score": 0.70925003,
+      "name": "Dhaka",
+      "type": "ENTITY"
+    }
+  ],
+  "articles": [
+    {
+      "source": {
+        "id": "bKcePY",
+        "title": "http://www.telegraph.co.uk/newsfeed/rss/health.xml"
+      },
+      "link": "http://www.telegraph.co.uk/news/2016/07/01/gunmen-attack-restaurant-in-diplomatic-quarter-of-bangladeshi-ca/",
+      "title": "Gunmen attack restaurant in diplomatic quarter of Bangladeshi capital, witnesses say",
+      "id": "bKcePY/1467393190592801000",
+      "guid": "http://www.telegraph.co.uk/news/2016/07/01/gunmen-attack-restaurant-in-diplomatic-quarter-of-bangladeshi-ca/",
+      "snippet": "G unmen have attacked a restaurant in the diplomatic quarter of the Bangladeshi capital Dhaka, according to police and witnesses, with unconfirmed reports that hostages may have been taken.",
+      "updated": "2016-07-01T17:11:50.865000+00:00",
+      "content": "G unmen have attacked a restaurant in the diplomatic quarter of the Bangladeshi capital Dhaka, according to police and witnesses, with unconfirmed reports that hostages may have been taken. \nThe shooting reportedly took place in the affluent suburb of Gulshan, according to the BBC. \n",
+      "provider": null,
+      "license_id": "16",
+      "media": {
+        "images": [
+          {
+            "provider_asset_id": null,
+            "extracted_from_html": null,
+            "caption": null,
+            "title": null,
+            "url": "http://www.telegraph.co.uk/content/dam/news/2016/06/16/Breaking-news-still-xlarge_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg",
+            "tags": [],
+            "anchor_url": null,
+            "media_medium": "image",
+            "alternate_sizes": [],
+            "original_markup": null,
+            "provider": "OpenGraph",
+            "width": 858,
+            "credit": null,
+            "headline": null,
+            "height": 536
+          }
+        ]
+      },
+      "published": "2016-07-01T17:11:50.865000+00:00",
+      "lang": "en",
+      "crawled_ts": 1467393190592801000,
+      "author": {
+        "name": null,
+        "type": null
+      }
+    },
+    {
+      "source": {
+        "id": "sPrtlQ",
+        "title": "AlertNet Middle East"
+      },
+      "link": "http://news.trust.org/item/20160701172450-jpaue",
+      "title": "Gunmen attack restaurant in Dhaka's diplomatic quarter",
+      "id": "sPrtlQ/1467394042996082000",
+      "guid": "http://news.trust.org/item/20160701172450-jpaue",
+      "snippet": "DHAKA, July 1 (Reuters) - Gunmen attacked a restaurant popular with foreigners in the diplomatic quarter of the Bangladeshi capital on Friday and the U.S. State department said there was a hostage situation.",
+      "updated": "2016-07-01T17:25:14.149000+00:00",
+      "content": "DHAKA, July 1 (Reuters) - Gunmen attacked a restaurant popular with foreigners in the diplomatic quarter of the Bangladeshi capital on Friday and the U.S. State department said there was a hostage situation. \nThree policemen were wounded by gunfire that erupted as police surrounded the Holey Artisan restaurant in the upscale Gulshan area of Dhaka, a police officer said. \nHe said there were foreigners inside the restaurant and that police were preparing a plan to enter the premises. \nThe U.S. State Department said on Twitter that there was a hostage situation in the diplomatic enclave of Dhaka. \nSpeaking from his house in the area, a witness said he could hear gunfire and that the situation \"looked quite bad\". \nA series of deadly attacks, mostly using machetes rather than guns, have targeted bloggers, atheists and religious minorities in Bangladesh in recent months. \n",
+      "provider": null,
+      "license_id": "16",
+      "media": [],
+      "published": "2016-07-01T17:25:14.149000+00:00",
+      "lang": "en",
+      "crawled_ts": 1467394042996082000,
+      "author": {
+        "name": "Reuters",
+        "type": null
+      }
+    },
+    {
+      "source": {
+        "id": "nmWzPS",
+        "title": "News - Latest breaking UK news"
+      },
+      "link": "http://www.telegraph.co.uk/news/2016/07/01/gunmen-attack-restaurant-in-diplomatic-quarter-of-bangladeshi-ca/",
+      "title": "Gunmen attack restaurant in diplomatic quarter of Bangladeshi capital, witnesses say",
+      "id": "nmWzPS/1467394030711919000",
+      "guid": "http://www.telegraph.co.uk/news/2016/07/01/gunmen-attack-restaurant-in-diplomatic-quarter-of-bangladeshi-ca/",
+      "snippet": "G unmen have attacked a restaurant in the diplomatic quarter of the Bangladeshi capital Dhaka, according to police and witnesses, with unconfirmed reports that hostages may have been taken.",
+      "updated": "2016-07-01T17:21:33.843000+00:00",
+      "content": "G unmen have attacked a restaurant in the diplomatic quarter of the Bangladeshi capital Dhaka, according to police and witnesses, with unconfirmed reports that hostages may have been taken. \nThe shooting reportedly took place in the affluent suburb of Gulshan, according to the BBC. \n",
+      "provider": null,
+      "license_id": "16",
+      "media": {
+        "images": [
+          {
+            "provider_asset_id": null,
+            "extracted_from_html": null,
+            "caption": null,
+            "title": null,
+            "url": "http://www.telegraph.co.uk/content/dam/news/2016/06/16/Breaking-news-still-xlarge_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg",
+            "tags": [],
+            "anchor_url": null,
+            "media_medium": "image",
+            "alternate_sizes": [],
+            "original_markup": null,
+            "provider": "OpenGraph",
+            "width": 858,
+            "credit": null,
+            "headline": null,
+            "height": 536
+          }
+        ]
+      },
+      "published": "2016-07-01T17:21:33.843000+00:00",
+      "lang": "en",
+      "crawled_ts": 1467394030711919000,
+      "author": {
+        "name": null,
+        "type": null
+      }
+    },
+    {
+      "source": {
+        "id": "_1Yb1C",
+        "title": "World News Headlines - Yahoo News"
+      },
+      "link": "https://www.yahoo.com/news/gunmen-attack-restaurant-dhakas-diplomatic-quarter-police-witness-170306244.html?ref=gs",
+      "title": "Gunmen attack restaurant in Dhaka's diplomatic quarter: police, witness",
+      "id": "_1Yb1C/1467393391888454000",
+      "guid": "https://www.yahoo.com/news/gunmen-attack-restaurant-dhakas-diplomatic-quarter-police-witness-170306244.html?ref=gs",
+      "snippet": "DHAKA (Reuters) - Gunmen attacked a restaurant popular with foreigners in the diplomatic quarter of the Bangladeshi capital on Friday, police and a witness said.",
+      "updated": "2016-07-01T17:10:04.193000+00:00",
+      "content": "DHAKA (Reuters) - Gunmen attacked a restaurant popular with foreigners in the diplomatic quarter of the Bangladeshi capital on Friday, police and a witness said. \nThe witness said from his house in the upscale Gulshan area of Dhaka he could hear gunfire and it \"looked quite bad\". The U.S. Embassy in Dhaka said on its Twitter feed there were \"reports of shooting and hostage situation\". \nBangladesh has seen a series of attacks, mostly using machetes, targeting bloggers, atheists and religious minorities. \n",
+      "provider": null,
+      "license_id": "16",
+      "media": [],
+      "published": "2016-07-01T17:10:04.193000+00:00",
+      "lang": "en",
+      "crawled_ts": 1467393391888454000,
+      "author": {
+        "name": null,
+        "type": null
+      }
+    },
+    {
+      "source": {
+        "id": "gHUPWw",
+        "title": "BBC News - World"
+      },
+      "link": "http://www.bbc.co.uk/news/world-asia-36687616",
+      "title": "Police battle gunmen in Bangladeshi capital Dhaka",
+      "id": "gHUPWw/1467393580603223000",
+      "guid": "http://www.bbc.co.uk/news/world-asia-36687616",
+      "snippet": "A gun battle is taking place between police and unidentified attackers in the diplomatic area of the Bangladeshi capital, Dhaka, officials say.",
+      "updated": "2016-07-01T17:15:07.219000+00:00",
+      "content": "A gun battle is taking place between police and unidentified attackers in the diplomatic area of the Bangladeshi capital, Dhaka, officials say. \nThree people, including two police officers, have been wounded at a cafe in the Gulshan district, police say. \nThe Bangladesh Daily Star reported that several gunmen had entered the Holey Artisan Bakery cafe and opened fire. \nThe US embassy in Dhaka tweeted that there were \"reports of shooting and hostage situation\". \nPolice and security forces have sealed off the area. \nIt is not clear who the attackers are, although a police officer told the BBC that Islamic militants were suspected. \nThe cafe is described as being popular with expatriates, diplomats and middle-class families. \nBBC South Asia editor Jill McGivering says that although high-profile gun attacks are rare in Bangladesh, the latest incident follows a series of murders widely blamed on Islamist extremists. \n",
+      "provider": null,
+      "license_id": "16",
+      "media": {
+        "images": [
+          {
+            "provider_asset_id": null,
+            "extracted_from_html": null,
+            "caption": null,
+            "title": null,
+            "url": "http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/14710/production/_90182738_bangladeshdhaka464.png",
+            "tags": [],
+            "anchor_url": null,
+            "media_medium": "image",
+            "alternate_sizes": [],
+            "original_markup": null,
+            "provider": "OpenGraph",
+            "width": 1024,
+            "credit": null,
+            "headline": null,
+            "height": 576
+          },
+          {
+            "provider_asset_id": null,
+            "extracted_from_html": null,
+            "caption": "Map locator",
+            "title": null,
+            "url": "http://ichef.bbci.co.uk/news/320/cpsprodpb/079D/production/_90194910_bangladeshdhaka464.png",
+            "tags": [],
+            "anchor_url": null,
+            "media_medium": "image",
+            "alternate_sizes": [],
+            "original_markup": null,
+            "provider": "Img",
+            "width": 320,
+            "credit": null,
+            "headline": null,
+            "height": 180
+          }
+        ]
+      },
+      "published": "2016-07-01T17:15:07.219000+00:00",
+      "lang": "en",
+      "crawled_ts": 1467393580603223000,
+      "author": {
+        "name": null,
+        "type": null
+      }
+    },
+    {
+      "source": {
+        "id": "ieQOeR",
+        "title": "Reuters Homepage"
+      },
+      "link": "http://www.reuters.com/article/us-bangladesh-attack-idUSKCN0ZH5HE",
+      "title": "Gunmen attack restaurant in Dhaka's diplomatic quarter: police, witness",
+      "id": "ieQOeR/1467394283642217000",
+      "guid": "http://www.reuters.com/article/us-bangladesh-attack-idUSKCN0ZH5HE",
+      "snippet": "DHAKA Gunmen attacked a restaurant popular with foreigners in the diplomatic quarter of the Bangladeshi capital on Friday, police and a witness said.",
+      "updated": "2016-07-01T17:16:42.036000+00:00",
+      "content": "DHAKA Gunmen attacked a restaurant popular with foreigners in the diplomatic quarter of the Bangladeshi capital on Friday, police and a witness said. \nThe witness said from his house in the upscale Gulshan area of Dhaka he could hear gunfire and it \"looked quite bad\". The U.S. Embassy in Dhaka said on its Twitter feed there were \"reports of shooting and hostage situation\". \nBangladesh has seen a series of attacks, mostly using machetes, targeting bloggers, atheists and religious minorities. \n",
+      "provider": null,
+      "license_id": "16",
+      "media": [],
+      "published": "2016-07-01T17:16:42.036000+00:00",
+      "lang": "en",
+      "crawled_ts": 1467394283642217000,
+      "author": {
+        "name": null,
+        "type": null
+      }
+    },
+    {
+      "source": {
+        "id": "xDTqSw",
+        "title": "The Wire"
+      },
+      "link": "http://www.theatlantic.com/news/archive/2016/07/attack-bangladesh-capital/489815/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+TheAtlanticWire+%28The+Wire%29",
+      "title": "Attackers Target a Bangladesh Restaurant",
+      "id": "xDTqSw/1467394474279325000",
+      "guid": "http://www.theatlantic.com/news/archive/2016/07/attack-bangladesh-capital/489815/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+TheAtlanticWire+%28The+Wire%29",
+      "snippet": "Police and gunmen are exchanging fire at a restaurant in the diplomatic area of Dhaka, Bangladesh’s capital.",
+      "updated": "2016-07-01T17:28:54.147000+00:00",
+      "content": "Police and gunmen are exchanging fire at a restaurant in the diplomatic area of Dhaka, Bangladesh’s capital. \nSeveral hostages are reportedly being held. Although it’s unclear if there are casualties, several media outlets are reporting shootings. The Daily Star reports there are five assailants, who have allegedly thrown bombs. \nSumon Reza, a kitchen staff of Holey Artisan Bakery, who managed to escape said several armed assailants entered the restaurant around 8:45pm and took the chief chef hostage. \n“They blasted several crude bombs causing wide-scale panic among everyone. I managed to flee during this confusion,” he said. \nAfter these reports, the U.S. Embassy in Dhaka tweeted: \nReports of shooting and hostage situation in Gulshan 2, Dhaka. Please shelter in place and monitor news. \n— U.S. Embassy Dhaka (@usembassydhaka) July 1, 2016 \nEarlier Friday, ISIS claimed responsibility for killing a Hindu priest in his temple in southwestern Bangladesh. \nShyamananda Das, the 52-year-old priest, was hacked to death by alleged Islamist extremists while he was gathering flowers that would be offered in prayers. Gopinath Kanjilal, assistant superintendent of police in the Jhenaidah district, told CNN: \n“Three men rode up on one bicycle. They were wearing helmets. They jumped off, attacked the priest, and then rushed away.” \nThis is just the latest in a series of attacks against religious minorities and secularists in the predominantly Muslim, but officially secular, South Asian country. Das is the second Hindu priest killed in that district in the last month. \nBangladeshi authorities continue to deny that ISIS and its sympathizers are operating in the country. \n",
+      "provider": null,
+      "license_id": "16",
+      "media": {
+        "images": [
+          {
+            "provider_asset_id": null,
+            "extracted_from_html": null,
+            "caption": null,
+            "title": null,
+            "url": "https://cdn.theatlantic.com/assets/media/img/mt/2016/07/AP_16183357703511/facebook.jpg?1467392890",
+            "tags": [],
+            "anchor_url": null,
+            "media_medium": "image",
+            "alternate_sizes": [],
+            "original_markup": null,
+            "provider": "Link",
+            "width": 960,
+            "credit": null,
+            "headline": null,
+            "height": 500
+          },
+          {
+            "provider_asset_id": null,
+            "extracted_from_html": null,
+            "caption": null,
+            "title": null,
+            "url": "https://cdn.theatlantic.com/assets/media/img/mt/2016/07/AP_16183357703511/facebook.jpg?1467392890",
+            "tags": [],
+            "anchor_url": null,
+            "media_medium": "image",
+            "alternate_sizes": [],
+            "original_markup": null,
+            "provider": "OpenGraph",
+            "width": 960,
+            "credit": null,
+            "headline": null,
+            "height": 500
+          },
+          {
+            "provider_asset_id": null,
+            "extracted_from_html": null,
+            "caption": "Image ",
+            "title": null,
+            "url": "http://cdn.thewire.com/media/img/mt/2016/07/AP_16183357703511/lead_large.jpg",
+            "tags": [],
+            "anchor_url": null,
+            "media_medium": "image",
+            "alternate_sizes": [],
+            "original_markup": null,
+            "provider": "RssDescription",
+            "width": 615,
+            "credit": null,
+            "headline": null,
+            "height": 410
+          }
+        ]
+      },
+      "published": "2016-07-01T17:28:54.147000+00:00",
+      "lang": "en",
+      "crawled_ts": 1467394474279325000,
+      "author": {
+        "name": "Matt Vasilogambros",
+        "type": null
+      }
+    },
+    {
+      "source": {
+        "id": "0QToUN",
+        "title": "NBC - WESH 2 - Orlando FL Space News"
+      },
+      "link": "http://www.wesh.com/national-news/gunmen-battle-police-in-diplomatic-area-of-dhaka-official-says/40314646",
+      "title": "Gunmen battle police in diplomatic area of Dhaka, official says",
+      "id": "0QToUN/1467394655495207000",
+      "guid": "http://www.wesh.com/national-news/gunmen-battle-police-in-diplomatic-area-of-dhaka-official-says/40314646",
+      "snippet": "Police exchanged gunfire with armed attackers Friday at a restaurant in a diplomatic zone of Dhaka, Bangladesh.",
+      "updated": "2016-07-01T17:32:37.224000+00:00",
+      "content": "Police exchanged gunfire with armed attackers Friday at a restaurant in a diplomatic zone of Dhaka, Bangladesh. \nAssailants were throwing grenades at police, a source at the scene said. \n\"An unknown number of people are trapped,\" Gulshan police station duty officer Sayedur Rahman said. \nA police bomb disposal unit was on standby to go in. \nThe U.S. Embassy in Dhaka warned of the situation on Twitter, advising people to shelter in place and noting that a hostage situation had been reported. \nThe area has been cordoned off, police said. \npolice onteh scene are saying that assailants have thrown grenades at them. we can also that it is a restaurant and that people are trapped inside. we can also report that there is a bomb unit on the scene ready to be activated \n",
+      "provider": null,
+      "license_id": "16",
+      "media": {
+        "images": [
+          {
+            "provider_asset_id": null,
+            "extracted_from_html": null,
+            "caption": null,
+            "title": null,
+            "url": "http://www.wesh.com/image/view/-/40314834/highRes/2/-/maxh/630/maxw/1200/-/4ufhok/-/Bangladesh-police-jpg.jpg",
+            "tags": [],
+            "anchor_url": null,
+            "media_medium": "image",
+            "alternate_sizes": [],
+            "original_markup": null,
+            "provider": "OpenGraph",
+            "width": 640,
+            "credit": null,
+            "headline": null,
+            "height": 360
+          },
+          {
+            "provider_asset_id": null,
+            "extracted_from_html": null,
+            "caption": null,
+            "title": null,
+            "url": "http://www.wesh.com/image/view/-/40314834/highRes/2/-/maxh/630/maxw/1200/-/4ufhok/-/Bangladesh-police-jpg.jpg",
+            "tags": [],
+            "anchor_url": null,
+            "media_medium": "image",
+            "alternate_sizes": [],
+            "original_markup": null,
+            "provider": "Meta",
+            "width": 640,
+            "credit": null,
+            "headline": null,
+            "height": 360
+          }
+        ]
+      },
+      "published": "2016-07-01T17:32:37.224000+00:00",
+      "lang": "en",
+      "crawled_ts": 1467394655495207000,
+      "author": {
+        "name": null,
+        "type": null
+      }
+    },
+    {
+      "source": {
+        "id": "0JfFKl",
+        "title": "FOX - Fox Tri-Cities WEMT - Johnson City TN Sports"
+      },
+      "link": "http://www.wcyb.com/news/gunmen-battle-police-in-diplomatic-area-of-dhaka-official-says/40314646",
+      "title": "Gunmen battle police in diplomatic area of Dhaka, official says",
+      "id": "0JfFKl/1467394655671489000",
+      "guid": "http://www.wcyb.com/news/gunmen-battle-police-in-diplomatic-area-of-dhaka-official-says/40314646",
+      "snippet": "Police exchanged gunfire with armed attackers Friday at a restaurant in a diplomatic zone of Dhaka, Bangladesh.",
+      "updated": "2016-07-01T17:32:25.052000+00:00",
+      "content": "Police exchanged gunfire with armed attackers Friday at a restaurant in a diplomatic zone of Dhaka, Bangladesh. \nAssailants were throwing grenades at police, a source at the scene said. \n\"An unknown number of people are trapped,\" Gulshan police station duty officer Sayedur Rahman said. \nA police bomb disposal unit was on standby to go in. \nThe U.S. Embassy in Dhaka warned of the situation on Twitter, advising people to shelter in place and noting that a hostage situation had been reported. \n",
+      "provider": null,
+      "license_id": "16",
+      "media": {
+        "images": [
+          {
+            "provider_asset_id": null,
+            "extracted_from_html": null,
+            "caption": null,
+            "title": null,
+            "url": "http://www.wcyb.com/image/view/-/40314834/highRes/2/-/maxh/640/maxw/640/-/arkcsr/-/Bangladesh-police-jpg.jpg",
+            "tags": [],
+            "anchor_url": null,
+            "media_medium": "image",
+            "alternate_sizes": [],
+            "original_markup": null,
+            "provider": "OpenGraph",
+            "width": 640,
+            "credit": null,
+            "headline": null,
+            "height": 360
+          },
+          {
+            "provider_asset_id": null,
+            "extracted_from_html": null,
+            "caption": null,
+            "title": null,
+            "url": "http://www.wcyb.com/image/view/-/40314834/highRes/2/-/maxh/640/maxw/640/-/arkcsr/-/Bangladesh-police-jpg.jpg",
+            "tags": [],
+            "anchor_url": null,
+            "media_medium": "image",
+            "alternate_sizes": [],
+            "original_markup": null,
+            "provider": "Meta",
+            "width": 640,
+            "credit": null,
+            "headline": null,
+            "height": 360
+          }
+        ]
+      },
+      "published": "2016-07-01T17:32:25.052000+00:00",
+      "lang": "en",
+      "crawled_ts": 1467394655671489000,
+      "author": {
+        "name": null,
+        "type": null
+      }
+    },
+    {
+      "source": {
+        "id": "MEJ6oO",
+        "title": "The Daily Star of Bangladesh Front page"
+      },
+      "link": "http://www.thedailystar.net/city/gunshots-heard-gulshan-1248877",
+      "title": "Cops, ‘criminals’ trading gunfire in Gulshan",
+      "id": "MEJ6oO/1467393038651093000",
+      "guid": "http://www.thedailystar.net/city/gunshots-heard-gulshan-1248877",
+      "snippet": "Police and suspected criminals are trading gunfire in Gulshan diplomatic zone.",
+      "updated": "2016-07-01T16:58:09.101000+00:00",
+      "content": "Police and suspected criminals are trading gunfire in Gulshan diplomatic zone. Several people including foreign nationals are believed to be trapped in the situation. \nAccording to intelligence gathered by our correspondent at spot, about five assailants entered one Holey Artisan Bakery restaurant on Road 79 and opened gunfire around 9:20pm. \nHuge number of policemen and Rapid Action Battalion (Rab) members cordoned off the restaurant. Assailants were hurling bombs when this report was filed around 10:46pm. \nSeveral people including policemen are believed to have been shot at scene. Televisions were covering the incident live and showed some people shot. \nARMED ASSAILANTS TOOK CHEF HOSTAGE: WITNESS \nSumon Reza, a kitchen staff of Holey Artisan Bakery, who managed to escape said several armed assailants entered the restaurant around 8:45pm and took the chief chef hostage. \n“They blasted several crude bombs causing wide-scale panic among everyone. I managed to flee during this confusion,” he said. \n",
+      "provider": null,
+      "license_id": "16",
+      "media": {
+        "images": [
+          {
+            "provider_asset_id": null,
+            "extracted_from_html": null,
+            "caption": null,
+            "title": null,
+            "url": "http://www.thedailystar.net/sites/default/files/feature/images/gulshan-gunshots-wb.jpg",
+            "tags": [],
+            "anchor_url": null,
+            "media_medium": "image",
+            "alternate_sizes": [],
+            "original_markup": null,
+            "provider": "OpenGraph",
+            "width": 1300,
+            "credit": null,
+            "headline": null,
+            "height": 727
+          }
+        ]
+      },
+      "published": "2016-07-01T16:58:09.101000+00:00",
+      "lang": "en",
+      "crawled_ts": 1467393038651093000,
+      "author": {
+        "name": "es",
+        "type": null
+      }
+    }
+  ]
+}
